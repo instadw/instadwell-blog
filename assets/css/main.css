@@ -1,0 +1,56 @@
+.page-bg-header {
+  padding: 96px 15px !important;
+}
+
+.footer {
+  background: url("/assets/images/footer-bg.jpg") no-repeat center center/cover;
+}
+
+.footer__about ul li {
+  margin-bottom: 22px;
+}
+
+.footer__about ul li {
+  list-style: none;
+  font-size: 16px;
+  color: #777c81;
+  line-height: 28px;
+}
+
+.footer__about .footer__social a {
+  font-size: 16px;
+  color: #777c81;
+  display: inline-block;
+  margin-right: 16px;
+}
+
+.footer__about .footer__social a:last-child {
+  margin-right: 0;
+}
+
+.footer__widget {
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+
+.footer__widget h4 {
+  color: #ffffff;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
+
+.footer__widget ul {
+  width: 46%;
+  float: left;
+}
+
+.footer__widget ul li {
+  list-style: none;
+}
+
+.footer__widget ul li a {
+  font-size: 16px;
+  color: #777c81;
+  line-height: 30px;
+  text-decoration: none;
+}

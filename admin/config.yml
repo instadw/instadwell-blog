@@ -1,0 +1,42 @@
+backend:
+  name: git-gateway
+  branch: main # Replace with your default branch
+
+media_folder: "/assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "_posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Layout", name: "layout", widget: "string", default: "post" }
+      - {
+          label: "permalink",
+          name: "permalink",
+          widget: "string",
+          default: "/:title",
+        }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: "Author name",
+        }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "pages"
+  #   label: "Pages"
+  #   files:
+  #     - name: "about"
+  #       label: "About Page"
+  #       file: "about.md"
+  #       fields:
+  #         - { name: "title", label: "Title", widget: "string" }
+  #         - { name: "body", label: "Body", widget: "markdown" }
