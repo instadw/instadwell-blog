@@ -1,14 +1,8 @@
 # This file tells Netlify how to build your site and deploy your functions.
 
 [build]
-  # The command that Netlify will use to build your site.
-  # This runs jekyll build and then changes to the 'netlify' directory to install npm packages for your functions.
-  command = "jekyll build && cd netlify && npm install"
+  command = "bundle exec jekyll build"
   
   # The directory that contains your built site.
   publish = "_site"
 
-# This section configures the deployment of your serverless functions.
-[functions]
-  # The directory where your serverless functions are located.
-  directory = "netlify/functions"
