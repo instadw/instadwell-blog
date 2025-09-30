@@ -1,3 +1,15 @@
+:root {
+  --bs-pagination-color: #000;
+  --bs-pagination-bg: #fff;
+  --bs-pagination-border-color: #000;
+  --bs-pagination-hover-color: #fff;
+  --bs-pagination-hover-bg: #000;
+  --bs-pagination-hover-border-color: #000;
+  --bs-pagination-active-color: #fff;
+  --bs-pagination-active-bg: #000;
+  --bs-pagination-active-border-color: #000;
+}
+
 .page-bg-header {
   padding: 96px 15px !important;
 }
