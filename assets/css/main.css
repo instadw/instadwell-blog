@@ -2,6 +2,25 @@
   padding: 96px 15px !important;
 }
 
+/* PAGINATION */
+.pagination .page-link {
+  color: #000 !important; /* Black text */
+  border-color: #000 !important; /* Black border */
+}
+
+.pagination .page-link:hover {
+  background-color: #000 !important;
+  color: #fff !important; /* White text on hover */
+}
+
+.pagination .page-item.active .page-link {
+  background-color: #000 !important;
+  border-color: #000 !important;
+  color: #fff !important;
+}
+
+/* FOOTER */
+
 .footer {
   background: url("/assets/images/footer-bg.jpg") no-repeat center center/cover;
 }

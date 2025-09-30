@@ -32,7 +32,7 @@ image: /images/blog.png
 <section class="py-5">
   <div class="container">
     <div class="row g-4">
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
       <div class="col-md-4">
         <a href="{{ post.url }}" class="text-decoration-none text-dark">
           <div
@@ -73,40 +73,43 @@ image: /images/blog.png
       {% endfor %}
     </div>
   </div>
+  <div class="d-flex justify-content-center mt-5">
+    <nav aria-label="Blog Pagination">
+      <ul class="pagination">
+        {% if paginator.previous_page %}
+        <li class="page-item">
+          <a
+            class="page-link"
+            href="{{ paginator.previous_page_path | relative_url }}"
+            aria-label="Previous"
+          >
+            &laquo; Prev
+          </a>
+        </li>
+        {% endif %} {% for page in (1..paginator.total_pages) %}
+        <li class="page-item {% if page == paginator.page %}active{% endif %}">
+          {% if page == 1 %}
+          <a class="page-link" href="{{ '/' | relative_url }}">{{ page }}</a>
+          {% else %}
+          <a
+            class="page-link"
+            href="{{ '/page' | append: page | relative_url }}"
+            >{{ page }}</a
+          >
+          {% endif %}
+        </li>
+        {% endfor %} {% if paginator.next_page %}
+        <li class="page-item">
+          <a
+            class="page-link"
+            href="{{ paginator.next_page_path | relative_url }}"
+            aria-label="Next"
+          >
+            Next &raquo;
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+    </nav>
+  </div>
 </section>
-
-<script>
-  const postsPerPage = 10;
-  const posts = document.querySelectorAll(".blog-post");
-  const pagination = document.getElementById("pagination-controls");
-  const totalPages = Math.ceil(posts.length / postsPerPage);
-
-  let currentPage = 1;
-
-  function showPage(page) {
-    currentPage = page;
-    const start = (page - 1) * postsPerPage;
-    const end = start + postsPerPage;
-
-    posts.forEach((post, index) => {
-      post.style.display = index >= start && index < end ? "flex" : "none";
-    });
-
-    renderPagination();
-  }
-
-  function renderPagination() {
-    pagination.innerHTML = "";
-
-    for (let i = 1; i <= totalPages; i++) {
-      const li = document.createElement("li");
-      li.className = `page-item ${i === currentPage ? "active" : ""}`;
-      li.innerHTML = `<a class="page-link" href="javascript:void(0);">${i}</a>`;
-      li.addEventListener("click", () => showPage(i));
-      pagination.appendChild(li);
-    }
-  }
-
-  // Initialize
-  showPage(1);
-</script>
