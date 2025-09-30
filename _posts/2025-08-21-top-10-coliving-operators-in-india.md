@@ -10,7 +10,6 @@ author: Sanchit
 category: Businesses
 date: 2025-08-21T17:50:00.000+05:30
 ---
-# Top 10 Coliving Operators in India: Your Guide to Community Living
 
 ## About Coliving in India
 
