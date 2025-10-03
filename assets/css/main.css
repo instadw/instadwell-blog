@@ -10,6 +10,12 @@
   --bs-pagination-active-border-color: #000;
 }
 
+p li{
+  font-size: 18px !important;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 20px;
+}
 .page-bg-header {
   padding: 96px 15px !important;
 }
@@ -29,6 +35,57 @@
   background-color: #000 !important;
   border-color: #000 !important;
   color: #fff !important;
+}
+
+/* Monokai-inspired styling for inline code */
+code {
+  background-color: #272822;
+  color: #f8f8f2;
+  padding: 2px 5px;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+  font-size: 0.95em;
+}
+
+/* Monokai-inspired styling for code blocks */
+pre {
+  background-color: #272822;
+  color: #f8f8f2;
+  padding: 16px;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-family: 'Courier New', monospace;
+  line-height: 1.5;
+}
+
+/* Syntax highlighting */
+pre .keyword { color: #f92672; } /* Pink */
+pre .string { color: #e6db74; } /* Yellow */
+pre .comment { color: #75715e; font-style: italic; } /* Grey */
+pre .number { color: #ae81ff; } /* Purple */
+pre .function { color: #a6e22e; } /* Green */
+pre .variable { color: #f8f8f2; } /* White */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+    line-height: 1.3;
 }
 
 /* FOOTER */
