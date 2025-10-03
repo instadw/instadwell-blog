@@ -49,7 +49,7 @@ India’s coliving market has grown rapidly, with operators offering budget host
 | 9      | TruLiv           | 30         | Coliving                    |
 
 
-![Stanza Living](https://drive.google.com/file/d/1U3OkSIZARDyhjpCbT-8FSmecmwkdcXg9/view?usp=drive_link "Stanza Living")
+![Stanza Living](hhttps://drive.google.com/file/d/1U3OkSIZARDyhjpCbT-8FSmecmwkdcXg9/view "Stanza Living")
 
 
 ### Stanza Living
