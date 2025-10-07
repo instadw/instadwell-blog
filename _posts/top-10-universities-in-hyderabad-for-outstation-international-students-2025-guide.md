@@ -1,6 +1,6 @@
 ---
-title: Top 10 Universities in Hyderabad for Outstation & International Students
-  (2025 Guide)
+title: 07-10-2025 Top 10 Universities in Hyderabad for Outstation &
+  International Students (2025 Guide)
 description: Coliving in India is a modern, community-driven form of shared
   living. Residents enjoy private personal spaces alongside shared common areas,
   amenities, meals, housekeeping, and social experiences.
