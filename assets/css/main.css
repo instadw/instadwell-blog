@@ -104,7 +104,7 @@ h1 {
 
 /* HEADER */
 .navbar {
-  background-color: #000;
+  background-color: #000 !important;
 }
 
 /* FOOTER */
