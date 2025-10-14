@@ -3,7 +3,7 @@ title: Top 10 Coliving Operators in India
 description: Coliving in India is a modern, community-driven form of shared
   living. Residents enjoy private personal spaces alongside shared common areas,
   amenities, meals, housekeeping, and social experiences.
-image: /assets/images/front-view-people-meeting-cup-coffee.jpg
+image: /assets/images/top-10-coliving-operators-in-india.webp
 layout: post
 permalink: /:title
 author: Sanchit
