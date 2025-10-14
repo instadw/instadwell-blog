@@ -281,5 +281,5 @@ Choosing between a PG, hostel, and co-living depends on your lifestyle and prior
     
 
  Explore verified **PGs, Hostels, and Co-living spaces** at **[InstaDwell](https://instadwell.com)** —  
-**India’s most **[trusted platform for Student Housing & Co-Living.](https://instadwell.com/about)
+India’s most [trusted platform for Student Housing & Co-Living.](https://instadwell.com/about)
 
