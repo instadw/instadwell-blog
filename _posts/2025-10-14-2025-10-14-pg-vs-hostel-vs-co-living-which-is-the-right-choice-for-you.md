@@ -1,5 +1,5 @@
 ---
-title: "2025-10-14 PG vs Hostel vs Co-living: Which Is the Right Choice for You?"
+title: "PG vs Hostel vs Co-living: Which Is the Right Choice for You?"
 description: "One of the biggest decisions a student or working professional
   makes before starting their journey is choosing the right accommodation. Where
   you live directly impacts your comfort, productivity, safety, and social life.
