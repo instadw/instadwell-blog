@@ -13,8 +13,8 @@ date: 2025-10-18T09:14:00.000+05:30
 
 ## Table of Contents
 
-1. Introduction
-2. The Rising Demand for Student Housing in India
+1. [Introduction](#introduction)
+2. [The Rising Demand for Student Housing in India](#The Rising Demand for Student Housing in India)
 3. Why Affordable Housing Matters for Students
 4. Challenges Students Face in Finding Accommodation
 5. Types of Student Housing Options in India
