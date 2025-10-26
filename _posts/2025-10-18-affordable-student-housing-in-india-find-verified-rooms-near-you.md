@@ -9,8 +9,6 @@ category: Student Accommodation
 date: 2025-10-18T09:14:00.000+05:30
 ---
 
-#  **Affordable Student Housing in India: Find Verified Rooms Near You**
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
