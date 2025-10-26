@@ -29,7 +29,7 @@ date: 2025-10-18T09:14:00.000+05:30
 
 ---
 
-##  **1. Introduction**
+##  **Introduction**
 
 Finding a good place to stay during college life is not just about having a roof over your head — it’s about finding a safe, comfortable, and affordable space that supports your growth and learning journey.
 In India, where millions of students migrate every year for higher studies, the search for **affordable student housing** has become a major challenge.
