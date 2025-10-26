@@ -32,8 +32,8 @@ image: /images/blog.png
 <section class="py-5">
   <div class="container">
     <div class="row g-4">
-      {% for post in paginator.posts %}
-      <div class="col-md-4">
+      {% for post in site.posts %}
+      <div class="col-md-3">
         <a href="{{ post.url }}" class="text-decoration-none text-dark">
           <div
             class="card h-100 shadow-sm border-0 blog-card hover-animate-card"
@@ -73,43 +73,5 @@ image: /images/blog.png
       {% endfor %}
     </div>
   </div>
-  <div class="d-flex justify-content-center mt-5">
-    <nav aria-label="Blog Pagination">
-      <ul class="pagination">
-        {% if paginator.previous_page %}
-        <li class="page-item">
-          <a
-            class="page-link"
-            href="{{ paginator.previous_page_path | relative_url }}"
-            aria-label="Previous"
-          >
-            &laquo; Prev
-          </a>
-        </li>
-        {% endif %} {% for page in (1..paginator.total_pages) %}
-        <li class="page-item {% if page == paginator.page %}active{% endif %}">
-          {% if page == 1 %}
-          <a class="page-link" href="{{ '/' | relative_url }}">{{ page }}</a>
-          {% else %}
-          <a
-            class="page-link"
-            href="{{ '/page' | append: page | relative_url }}"
-            >{{ page }}</a
-          >
-          {% endif %}
-        </li>
-        {% endfor %} {% if paginator.next_page %}
-        <li class="page-item">
-          <a
-            class="page-link"
-            href="{{ paginator.next_page_path | relative_url }}"
-            aria-label="Next"
-          >
-            Next &raquo;
-          </a>
-        </li>
-        {% endif %}
-      </ul>
-    </nav>
-  </div>
+  
 </section>
