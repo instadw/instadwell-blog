@@ -27,27 +27,27 @@ date: 2025-10-25T09:14:00.000+05:30
    2. [Kukatpally / KPHB (student-friendly & affordable)](#kukatpally-kphb)
    3. [Madhapur / Hitech Corridor (for premium yet student options)](#madhapur-hitech-corridor)
    4. [Emerging Zones & Hostels-PGs Around Smaller Campuses](#emerging-zones)
-6. [Step-by-Step Guide to Finding Your Ideal Student PG]((#step-by-step-guide-to-finding-your-ideal-student-pg)
+6. [Step-by-Step Guide to Finding Your Ideal Student PG](#step-by-step-guide-to-finding-your-ideal-student-pg)
 
    1. [Online Search & Shortlisting](#online-search-shortlisting)
    2. [Filters: Budget, Sharing Type, Gender, Food](#filters-budget-sharing-type-gender-food)
    3. [Visit/Inspection & Student-Friendly Checks](#visit-inspection-student-friendly-checks)
    4. [Negotiation, Agreement & Move-In](#negotiation-agreement-move-in)
    5. [Settling In & Monitoring Experience](#settling-in-monitoring-experience)
-7. [Budget Expectations for Student PGs in Hyderabad]((#budget-expectations-for-student-pgs-in-hyderabad)
-8. [Common Mistakes Students Make & How to Avoid Them]((#common-mistakes-students-make-and-how-to-avoid-them)
+7. [Budget Expectations for Student PGs in Hyderabad](#budget-expectations-for-student-pgs-in-hyderabad)
+8. [Common Mistakes Students Make & How to Avoid Them](#common-mistakes-students-make-and-how-to-avoid-them)
 9. [Frequently Asked Questions (10 Q&A)](#frequently-asked-questions)
-10. [Conclusion & Final Call to Action]((#conclusion-final-call-to-action)
+10. [Conclusion & Final Call to Action](#conclusion-final-call-to-action)
 
 ---
 
-##  **Introduction **
+## **Introduction **
 
 Moving to Hyderabad as a student often means juggling tuition fees, living expenses and finding accommodation that is comfortable, safe, and affordable. For many students, opting for a paying–guest (PG) space near campus is a smart choice — you get the proximity, the peer community, and often amenities bundled in. This article dives deep into how you can find **affordable student PGs near campuses in Hyderabad**, what to prioritise, how to budget, and how to avoid pitfalls. It is written in a human-first style (so not just dry bullet lists) and will help you make an informed decision. The keyword you are targeting — „add key workds here“ — will be integrated naturally throughout.
 
 ---
 
-##  **Why Affordable PGs Near Campuses Matter**
+## **Why Affordable PGs Near Campuses Matter**
 
 When you’re a student, especially in a city like Hyderabad, choosing accommodation isn’t just about a roof over your head. It impacts your academic performance, your social life, your budget and your safety. Here’s why finding affordable PGs near campuses is important:
 
