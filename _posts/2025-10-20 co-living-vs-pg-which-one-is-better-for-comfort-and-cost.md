@@ -276,7 +276,7 @@ But if you prioritize comfort, convenience, flexibility, and community, then Co-
 
 Platforms like InstaDwell are revolutionizing how students and professionals find trusted accommodation — helping you live smarter, safer, and stress-free.
 
-Because in the end, a good home isn’t just where you sleep — it’s where you belong. 💚
+Because in the end, a good home isn’t just where you sleep — it’s where you belong. 
 
 InstaDwell – Verified Homes. Global Trust.
 Visit instadwell.com
