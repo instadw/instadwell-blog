@@ -19,7 +19,7 @@ Did you know? For every six students enrolling in higher education in India, the
 
 With so many choices like **Paying Guest (PG)** accommodations, **hostels**, and **modern co-living spaces**, it can be confusing to decide what fits you best. Each has its own pros, cons, and lifestyle benefits.
 
-In this guide, powered by **InstaDwell** – _India’s **[trusted platform for verified student housing & co-livin](https://instadwell.com/about)**g_, we’ll break down the differences to help you make the right choice.
+In this guide, powered by **InstaDwell** – _India’s **[trusted platform for verified student housing & co-living](https://instadwell.com/about)**, we’ll break down the differences to help you make the right choice.
 
 
 ##  What is Co-living?
