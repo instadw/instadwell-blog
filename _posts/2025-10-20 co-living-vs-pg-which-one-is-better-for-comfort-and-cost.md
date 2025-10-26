@@ -94,7 +94,7 @@ Less privacy in shared spaces
 Limited customization (pre-furnished setup)
 
 ## Understanding PG (Paying Guest Accommodation)
-## What Is a PG?
+## What Is a PG? 
 
 A PG (Paying Guest) accommodation allows you to rent a part of someone’s home or property, usually with shared access to basic facilities like bathrooms, kitchens, and dining areas. PGs are popular among students and entry-level professionals due to their affordability and accessibility.
 
