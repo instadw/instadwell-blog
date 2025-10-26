@@ -28,7 +28,7 @@ date: 2025-10-22T09:14:00.000+05:30
    2. Kukatpally / KPHB
    3. Banjara Hills / Madhapur
    4. Emerging Areas & Affordable Alternatives
-6. [Step-by-Step Checklist: How to Shortlist & Finalise a PG]((#step-by-step‐checklist-how-to-shortlist-and-finalise-a-pg)
+6. [Step-by-Step Checklist: How to Shortlist & Finalise a PG](#step-by-step‐checklist-how-to-shortlist-and-finalise-a-pg)
 
    1. Online Research & Filters
    2. Short-listing Based on Criteria
