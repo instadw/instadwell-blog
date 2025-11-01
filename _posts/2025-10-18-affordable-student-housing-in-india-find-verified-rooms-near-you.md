@@ -263,6 +263,6 @@ A: We offers verified, transparent, and affordable options with support to ensur
 
 ## Find Your Perfect Student Home Today!
 
-Don’t waste time worrying about fake listings or last-minute surprises, start your student journey with confidence.\
+Don’t waste time worrying about fake listings or last-minute surprises, start your student journey with confidence.
 
 Ready to begin your search? Find your perfect student home with [InstaDwell](https://instadwell.com/) — verified, affordable, and just right for your student journey.
