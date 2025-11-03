@@ -11,7 +11,7 @@ author: Sanchit
 category: Student Accommodation
 date: 2025-10-07T08:30:00.000+05:30
 ---
-Hyderabad, the “City of Pearls,” has emerged as one of India’s leading educational hubs. With its thriving IT sector, strong cultural roots, and world-class academic infrastructure, the city is home to some of the top universities in India that attract both Indian and international students.\
+Hyderabad, the “City of Pearls,” has emerged as one of India’s leading educational hubs. With its thriving IT sector, strong cultural roots, and world-class academic infrastructure, the city is home to some of the top universities in India that attract both Indian and international students.
 
 Whether you’re pursuing engineering, management, or liberal arts, Hyderabad offers world-class institutions tailored to diverse academic interests.
 
