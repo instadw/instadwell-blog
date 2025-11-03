@@ -52,8 +52,8 @@ Moving to Hyderabad as a student often means juggling tuition fees, living expen
 When you’re a student, especially in a city like Hyderabad, choosing accommodation isn’t just about a roof over your head. It impacts your academic performance, your social life, your budget and your safety. Here’s why finding affordable PGs near campuses is important:
 
 * **Commute reduction**: If your PG is close to your institute, you save time, energy and travel cost. Late night commute is reduced.
-* **Budget friendliness**: Student life means limited funds — so “affordable” is crucial. A good PG near campus helps you allocate more of your budget to studies, food and experiences.
-* **Peer community**: Being near campus means you’ll likely live among fellow students — promotes study groups, social life, comfort.
+* **Budget friendliness**: Student life means limited funds, so “affordable” is crucial. A good PG near campus helps you allocate more of your budget to studies, food and experiences.
+* **Peer community**: Being near campus means you’ll likely live among fellow students, promotes study groups, social life, comfort.
 * **Access to campus facilities**: If you are near your college/university, you can attend extra-classes, labs, library hours, and clubs without much hassle.
 * **Safety and convenience**: PGs near campuses tend to be in areas developed for student accommodation — better amenities, good transport, safer neighbourhoods.
 
@@ -75,8 +75,6 @@ With this understanding, you can approach your search more strategically.
 ---
 
 ##  **Key Factors for Choosing an Affordable Student PG**
-
-Here are the criteria you should evaluate — think of them as your checklist.
 
 ### 4.1 Proximity to Campus & Transport
 
@@ -180,7 +178,7 @@ When you’re satisfied with a PG:
 
 * Confirm rent inclusions: meals, WiFi, electricity, laundry. Get a written breakdown.
 * Check deposit, notice period (especially important for student internships/exams).
-* Sign a simple agreement — you and PG owner should both have copies.
+* Sign a simple agreement you and PG owner should both have copies.
 * Ask for a receipt of deposit/payment.
 * On move-in day: take photos of your room condition (walls, bed, fixtures) so you aren’t charged later for pre-existing issues.
 
