@@ -47,7 +47,7 @@ With the keyword **“add key workds here”** (which you can replace with your 
 When you choose a PG (paying guest) accommodation near your university, you are investing in more than just convenience. Here are some compelling reasons why it matters:
 
 * **Reduced commute & more time for studies**: Living close to campus means less time spent travelling and more time for classes, library, rest or revision.
-* **Balanced lifestyle**: A PG that is safe and supportive can help you maintain a healthy routine — food, sleep, and study.
+* **Balanced lifestyle**: A PG that is safe and supportive can help you maintain a healthy routine food, sleep, and study.
 * **Better focus & environment**: When you’re surrounded by other students in a PG, you often get motivated, quieter hours, and peer support.
 * **Budget-friendly**: Staying further away may reduce rent, but long commutes cost time and energy—they may not be worthwhile.
 * **Safety and peace of mind**: Especially for first-time movers to Bangalore, a well-managed PG near your institution gives parents and students confidence.
