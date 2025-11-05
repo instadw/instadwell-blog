@@ -6,7 +6,7 @@ image: /assets/images/best-pgs-spaces-near-top-universities-in-bangalore.webp
 layout: post
 permalink: /:title
 author: Sanchit
-category: Businesses
+category: Business
 date: 2025-10-29T09:14:00.000+05:30
 ---
 ## **Table of Contents**
