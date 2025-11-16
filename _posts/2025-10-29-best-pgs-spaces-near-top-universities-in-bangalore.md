@@ -14,17 +14,17 @@ date: 2025-10-29T09:14:00.000+05:30
 2. [Why Choosing the Right PG Near a University Matters](#why-choosing-the-right-pg-near-a-university-matters)
 3. [Key Factors to Consider When Selecting a PG](#key-factors-to-consider-when-selecting-a-pg)
 
-   Location & Proximity to University
-   Safety, Amenities & Maintenance
-   Budget & Inclusive Costing
-   Community and Study Environment
-   Accessibility & Connectivity
+    [Location & Proximity to University](location-and-proximity-to-university)
+    [Safety, Amenities & Maintenance](safety-amenities-and-maintenance)
+    [Budget & Inclusive Costing](budget-and-inclusive-costing)
+    [Community and Study Environment](community-and-study-environment)
+    [Accessibility & Connectivity](accessibility-and-connectivity)
 4. [Top Localities in Bangalore for Student PGs](#top-localities-in-bangalore-for-student-pgs)
 
-   South Bangalore: Koramangala, BTM Layout
-   Southeast / IT-corridor: HSR Layout, Bannerghatta Road
-   North/West & Campus-centric: Nagarbhavi, SG Palya
-   Budget-friendly zones: Yelahanka & outskirts
+    [South Bangalore: Koramangala, BTM Layout](south-bangalore-koramangala-btm-layout)
+    [Southeast / IT-corridor: HSR Layout, Bannerghatta Road](southeast-it-corridor-hsr-layout-bannerghatta-road)
+    [North/West & Campus-centric: Nagarbhavi, SG Palya](northwest-and-campus-centric-nagarbhavi-sg-palya)
+    [Budget-friendly zones: Yelahanka & outskirts](budget-friendly-zones-yelahanka-and-outskirts)
 5. [What Makes a PG “Best” Near University?](#what-makes-a-pg-best-near-university)
 6. [Sample PG Providers & Good Options](#sample-pg-providers-&-good-options)
 7. [Tips for Booking Your PG: Do’s & Don’ts](#tips-for-booking-your-pg-dos-and-donts)
