@@ -1,9 +1,7 @@
 ---
 title: Top 10 Universities in Hyderabad for Outstation & International Students
   (2025 Guide)
-description: Coliving in India is a modern, community-driven form of shared
-  living. Residents enjoy private personal spaces alongside shared common areas,
-  amenities, meals, housekeeping, and social experiences.
+description: Before we explore the top colleges in the region, let’s understand what makes the city such a hotspot for higher education.
 image: /assets/images/top-10-universities-in-hyderabad-for-outstation-and-international-students-2025-guide.webp
 layout: post
 permalink: /:title
