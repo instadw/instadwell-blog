@@ -86,38 +86,38 @@ Several trends are driving this surge:
 
 ## **Top Localities for PGs & Co-Living Spaces in Hyderabad**
 
-### [Hitec City](https://instadwell.com/search?lat=17.4434646&lng=78.3771953&location=HITEC%20City,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
+# [Hitec City](https://instadwell.com/search?lat=17.4434646&lng=78.3771953&location=HITEC%20City,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
 
 * **Why popular:** Heart of Hyderabad’s IT industry.
 * **Who it suits:** Tech professionals at MNCs or startups.
 * **Average rent:** ₹10,000–₹18,000 depending on facilities.
 * **Bonus:** Great nightlife, cafes, and proximity to offices.
 
-## [Madhapur](https://instadwell.com/search?lat=17.4485835&lng=78.39080349999999&location=Madhapur,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
+# [Madhapur](https://instadwell.com/search?lat=17.4485835&lng=78.39080349999999&location=Madhapur,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
 
 * Buzzing with startups and co-working hubs.
 * Excellent metro connectivity.
 * Best suited for **young professionals & interns**.
 
-### [Gachibowli](https://instadwell.com/search?lat=17.4400802&lng=78.3489168&location=Gachibowli,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) & Financial District
+# [Gachibowli](https://instadwell.com/search?lat=17.4400802&lng=78.3489168&location=Gachibowli,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) & Financial District
 
 * Houses Microsoft, Amazon, Deloitte, and several GCCs.
 * Offers a mix of budget and premium PGs.
 * Rents range ₹8,000–₹20,000+.
 
-### [Jubilee Hills](https://instadwell.com/search?lat=17.4325894&lng=78.4070691&location=Jubilee%20Hills,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) & [Banjara Hills](https://instadwell.com/search?lat=17.416889&lng=78.43867&location=Banjara%20Hills,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
+# [Jubilee Hills](https://instadwell.com/search?lat=17.4325894&lng=78.4070691&location=Jubilee%20Hills,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) & [Banjara Hills](https://instadwell.com/search?lat=17.416889&lng=78.43867&location=Banjara%20Hills,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
 
 * Upscale, scenic, and lifestyle-rich.
 * Great for senior executives or premium co-living seekers.
 * Expect ₹15,000–₹30,000/month.
 
-### [Kondapur](https://instadwell.com/search?lat=17.4700319&lng=78.3534174&location=Kondapur,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) & [Kokapet](https://instadwell.com/search?lat=17.3967663&lng=78.33477239999999&location=Kokapet,%20Hyderabad,%20Telangana%20500075,%20India&city=Hyderabad&country=India)
+# [Kondapur](https://instadwell.com/search?lat=17.4700319&lng=78.3534174&location=Kondapur,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) & [Kokapet](https://instadwell.com/search?lat=17.3967663&lng=78.33477239999999&location=Kokapet,%20Hyderabad,%20Telangana%20500075,%20India&city=Hyderabad&country=India)
 
 * Emerging hubs near Hitec City.
 * Balanced between affordability and access.
 * Ideal for both **students & young professionals**.
 
-### [Kukatpally](https://instadwell.com/search?lat=17.4875418&lng=78.3953462&location=Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) & [Nanakramguda](https://instadwell.com/search?lat=17.4179875&lng=78.3687708&location=Khajaguda%20-%20Nanakramguda%20Rd,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
+# [Kukatpally](https://instadwell.com/search?lat=17.4875418&lng=78.3953462&location=Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) & [Nanakramguda](https://instadwell.com/search?lat=17.4179875&lng=78.3687708&location=Khajaguda%20-%20Nanakramguda%20Rd,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
 
 * Kukatpally: Student-friendly, near JNTU.
 * Nanakramguda: Close to the Financial District with new PG developments.
