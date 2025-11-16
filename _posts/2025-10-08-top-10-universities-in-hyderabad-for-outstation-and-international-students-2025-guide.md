@@ -28,7 +28,7 @@ Established in 1974, HCU is a premier research university known for its programs
 Notable Courses: MSc, MA, MBA, MTech, PhD\
 Placements Summary: HCU students have access to internships and job placements in top MNCs and startups, with an average CTC of ₹6–10 LPA and placement rates around 80–85%.  
 
-**[Explore nearby stays around University of Hyderabad]** (https://instadwell.com/search?lat=17.4567369&lng=78.32638759999999&location=UNIVERSITY%20OF%20HYDERABAD,%20Hyderabad,%20Telangana%20500046,%20India&city=Hyderabad&country=India)
+[Explore nearby stays around University of Hyderabad](https://instadwell.com/search?lat=17.4567369&lng=78.32638759999999&location=UNIVERSITY%20OF%20HYDERABAD,%20Hyderabad,%20Telangana%20500046,%20India&city=Hyderabad&country=India)
 
 ### Indian School of Business (ISB), Gachibowli
 
