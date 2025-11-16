@@ -1,7 +1,7 @@
 ---
-title: Hyderabad PG and Co Living: Your Ultimate Student Stay Guide
-description: Find the best student accommodation in Hyderabad, PGs, co living spaces and affordable housing close to top colleges with secure and verified options.
-image: /assets/images/hyderabad-pg-co-living-and-student-accommodation-the-ultimate-guide.webp
+title: "Hyderabad PG and Co Living: Your Ultimate Student Stay Guide"
+description: "Find the best student accommodation in Hyderabad, PGs, co living spaces and affordable housing close to top colleges with secure and verified options."
+image: "/assets/images/hyderabad-pg-co-living-and-student-accommodation-the-ultimate-guide.webp"
 layout: post
 permalink: /:title
 author: Sanchit
