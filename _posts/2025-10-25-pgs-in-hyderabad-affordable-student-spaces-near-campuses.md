@@ -194,7 +194,7 @@ After moving in:
 
 ---
 
-##  **Budget Expectations for Student PGs in [Hyderabad](https://instadwell.com/search?country=india&lat=17.4065&lng=78.4772&location=hyderabad)(**
+####  **Budget Expectations for Student PGs in [Hyderabad](https://instadwell.com/search?country=india&lat=17.4065&lng=78.4772&location=hyderabad)**
 
 Here’s a realistic guide to what you might expect:
 
