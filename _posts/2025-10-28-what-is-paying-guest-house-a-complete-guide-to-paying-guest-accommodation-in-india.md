@@ -72,7 +72,7 @@ Premium co-living PGs may also offer gyms, game zones, or study lounges.
 
 ## Why PG Accommodations Are Growing in Popularity
 
-The PG culture is booming not just in metro cities like Bangalore, Pune, Hyderabad, and Delhi.
+The PG culture is booming not just in metro cities like [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru), [Pune](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune), [Hyderabad](https://instadwell.com/search?country=india&lat=17.4065&lng=78.4772&location=hyderabad), and [Delhi](https://instadwell.com/search?country=india&lat=28.7041&lng=77.1025&location=delhi).
 
 Here’s why:
 
