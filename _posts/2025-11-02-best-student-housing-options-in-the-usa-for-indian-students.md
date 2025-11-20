@@ -51,23 +51,23 @@ Trusted student housing platforms help students avoid scams, find verified listi
 
 Co-living has become extremely popular among Indian and international students in the U.S. because it is affordable, social, and practical. Unlike traditional apartment rentals, co-living spaces offer shared or private rooms with common kitchens and lounges. This makes it ideal for newcomers.
 
-## Cost Savings
+#### Cost Savings
 
 Co-living reduces rent significantly by splitting utility, WiFi, and maintenance costs.
 
-## Community Feeling
+#### Community Feeling
 
 Indian students prefer staying in groups for cultural comfort and support.
 
-## Fully Furnished Spaces
+#### Fully Furnished Spaces
 
 Most co-living options include furniture, internet, kitchenware, and even housekeeping.
 
-## Easy Move-In
+#### Easy Move-In
 
 Students save time and money because everything is already set up.
 
-## Flexible Lease Terms
+#### Flexible Lease Terms
 
 Unlike private rentals that require 12-month contracts, co-living offers 3–6 month options.
 
@@ -268,55 +268,19 @@ Here are some budget-friendly neighborhoods for students:
 
 ----------
 
-# **Cost Breakdown – Average Rent for Students in the USA**
+Here is your **Cost Breakdown – Average Rent for Students in the USA** converted into a clean **table format**:
 
-City
+---
 
-Shared Room
+## **Cost Breakdown – Average Rent for Students in the USA**
 
-Private Room
-
-Studio
-
-New York
-
-$700–$1200
-
-$1200–$2000
-
-$2000–2800
-
-Boston
-
-$600–1100
-
-$1100–1700
-
-$1700–2300
-
-Chicago
-
-$500–900
-
-$900–1500
-
-$1500+
-
-Texas Cities
-
-$400–700
-
-$700–1100
-
-$1100+
-
-California
-
-$600–1000
-
-$1200–1800
-
-$1800–2600
+| **City**         | **Shared Room** | **Private Room** | **Studio** |
+| ---------------- | --------------- | ---------------- | ---------- |
+| **New York**     | $700–$1200      | $1200–$2000      | $2000–2800 |
+| **Boston**       | $600–1100       | $1100–1700       | $1700–2300 |
+| **Chicago**      | $500–900        | $900–1500        | $1500+     |
+| **Texas Cities** | $400–700        | $700–1100        | $1100+     |
+| **California**   | $600–1000       | $1200–1800       | $1800–2600 |
 
 ----------
 
