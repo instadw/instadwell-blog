@@ -388,5 +388,5 @@ Start at least 2–3 months before arriving in the U.S.
 
 # **Final Thoughts**
 
-Choosing the right student housing determines your comfort, budget, safety, and overall study experience. With the help of a **[trusted platform for student housing co-living](https://instadwell.com/about),Indian students can avoid scams, save money, and find a living space that feels like home.
+Choosing the right student housing determines your comfort, budget, safety, and overall study experience. With the help of a [trusted platform for student housing co-living](https://instadwell.com/about),Indian students can avoid scams, save money, and find a living space that feels like home.
 
