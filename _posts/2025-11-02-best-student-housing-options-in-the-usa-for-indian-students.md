@@ -1,7 +1,7 @@
 ---
-title: "Best Student Housing Options in the USA for Indian Students"
-description: "Explore top student housing options in the USA for Indian students, including safe dorms, budget apartments, and tips for affordable living in 2025 now!"
-image: "/assets/images/best-student-housing-options-in-the-usa-for-indian-students.webp"
+title: Best Student Housing Options in the USA for Indian Students
+description: Explore top student housing options in the USA for Indian students, including safe dorms, budget apartments, and tips for affordable living in 2025 now!
+image: /assets/images/best-student-housing-options-in-the-usa-for-indian-students.webp
 layout: post
 permalink: /:title
 author: Sanchit
