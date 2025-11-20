@@ -131,24 +131,24 @@ Some articles on Bangalore PGs emphasise connectivity as major advantage.
 
 Here are neighbourhoods in Bangalore that are especially favourable for students looking for PGs near top universities.
 
-### South Bangalore: Koramangala, BTM Layout
+##### [South Bangalore](https://instadwell.com/search?lat=12.9333767&lng=77.5963271&location=Bangalore%20South,%20Bengaluru,%20Karnataka&city=Bengaluru&country=India): [Koramangala](https://instadwell.com/search?lat=12.9352403&lng=77.624532&location=Koramangala,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India), [BTM Layout](https://instadwell.com/search?lat=12.9165757&lng=77.6101163&location=BTM%20Layout,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India)
 
-**Koramangala**: A vibrant student-friendly area, surrounded by cafes, libraries, and major colleges. One of the top picks for PGs. 
+**[Koramangala](https://instadwell.com/search?lat=12.9352403&lng=77.624532&location=Koramangala,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India)**: A vibrant student-friendly area, surrounded by cafes, libraries, and major colleges. One of the top picks for PGs. 
 **BTM Layout**: Affordable relative to ultra-premium zones, good access to institutions. Example: PGs near Christ University, Dayananda Sagar etc. 
 
-### Southeast / IT-Corridor: HSR Layout, Bannerghatta Road
+##### Southeast / IT-Corridor: [HSR Layout](https://instadwell.com/search?lat=12.9121181&lng=77.6445548&location=HSR%20Layout,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India), [Bannerghatta Road](https://instadwell.com/search?lat=12.9383653&lng=77.6019576&location=Bannerghatta%20Rd,%20Dairy%20Colony,%20Adugodi,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India)
 
 **HSR Layout**: Residential yet near big campuses, tech parks. Good for students who might also work part-time.
 
 **Bannerghatta Road**: Another hub with good PG availability and nearby educational institutions.
 
-### North/West & Campus-Centric: Nagarbhavi, SG Palya
+##### North/West & Campus-Centric: [Nagarbhavi](https://instadwell.com/search?lat=12.9719321&lng=77.512749&location=Naagarabhaavi,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India), [SG Palya](https://instadwell.com/search?lat=12.9309175&lng=77.6097156&location=S.G.%20Palya,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India)
 
 **Nagarbhavi**: Close to Bangalore University and other colleges; a good bet for students. 
 
 **SG Palya (Suddaguntepalya)**: Known paying-guests corridor for students attending campus near Hosur Road. 
 
-### Budget-Friendly Zones: Yelahanka & Outskirts
+##### Budget-Friendly Zones: [Yelahanka](https://instadwell.com/search?lat=13.1154662&lng=77.6069977&location=Yelahanka,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India) & Outskirts
 
 **Yelahanka**: Rising area, more affordable, still reasonably connected; good for students on tighter budget.
 
@@ -156,7 +156,7 @@ Here are neighbourhoods in Bangalore that are especially favourable for students
 
 ## **What Makes a PG “Best” Near University?**
 
-To call a PG among the *best* – especially in search contexts like “best PG near university Bangalore” – you want a convergence of factors. Here are a few criteria:
+To call a PG among the *best* – especially in search contexts like “best PG near university [Bangalore](https://instadwell.com/search?lat=12.9628669&lng=77.57750899999999&location=Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India)” – you want a convergence of factors. Here are a few criteria:
 
 * **Walking distance or ≤10-15 min commute** to university or major bus/metro stop
 * **Clean, well-maintained rooms**, responsive management
