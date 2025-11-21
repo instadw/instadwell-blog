@@ -266,10 +266,6 @@ Here are some budget-friendly neighborhoods for students:
 -   **Michigan:** [Ann Arbor](https://instadwell.com/search?lat=42.2808256&lng=-83.7430378&location=Ann%20Arbor,%20MI,%20USA&city=Ann%20Arbor&country=United%20States), East Lansing
     
 
-----------
-
-Here is your **Cost Breakdown – Average Rent for Students in the USA** converted into a clean **table format**:
-
 ---
 
 ## **Cost Breakdown – Average Rent for Students in the USA**
