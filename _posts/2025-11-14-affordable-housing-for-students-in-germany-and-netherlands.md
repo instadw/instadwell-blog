@@ -234,15 +234,15 @@ These cities have lower living costs, better housing availability, and large stu
 
 Follow these steps:
 
-#### **1. Start Early**
+##### **1. Start Early**
 
 Begin searching *at least 3–6 months* before the semester.
 
-#### **2. Apply to Dormitories Immediately**
+##### **2. Apply to Dormitories Immediately**
 
 Most dorms allocate rooms in batches; early applications get priority.
 
-#### **3. Use Verified Housing Websites**
+##### **3. Use Verified Housing Websites**
 
 Germany:
 
@@ -274,27 +274,27 @@ Many students find accommodation through:
 
 #### **7. Documents Required for Renting**
 
-#### **1. Passport or ID**
+##### **1. Passport or ID**
 
 For identification.
 
-#### **2. Admission Letter**
+##### **2. Admission Letter**
 
 Required for student dorms.
 
-#### **3. Proof of Financial Capacity**
+##### **3. Proof of Financial Capacity**
 
 In Germany, this may be your blocked account.
 
-#### **4. SCHUFA Report (Germany Only)**
+##### **4. SCHUFA Report (Germany Only)**
 
 Credit check for private rentals.
 
-#### **5. Guarantee Form**
+##### **5. Guarantee Form**
 
 Some landlords require a guarantor.
 
-#### **6. Contract or Offer Letter**
+##### **6. Contract or Offer Letter**
 
 Always ensure it is signed.
 
@@ -302,23 +302,23 @@ Always ensure it is signed.
 
 #### **8. Red Flags & Scams to Avoid**
 
-#### **1. Landlord refusing video calls**
+##### **1. Landlord refusing video calls**
 
 Likely fraudulent.
 
-#### **2. Deals that sound “too cheap”**
+##### **2. Deals that sound “too cheap”**
 
 A dorm-like price for a private room in Amsterdam is suspicious.
 
-#### **3. Asking for full payment before contract**
+##### **3. Asking for full payment before contract**
 
 Never transfer money before signing.
 
-#### **4. Fake websites & cloned listings**
+##### **4. Fake websites & cloned listings**
 
 Cross-check phone numbers, email domains, and addresses.
 
-#### **5. No deposit receipt**
+##### **5. No deposit receipt**
 
 Always get a written acknowledgment.
 
@@ -326,27 +326,27 @@ Always get a written acknowledgment.
 
 #### **9. Tips to Reduce Living & Housing Costs**
 
-#### **1. Live slightly outside the city center**
+##### **1. Live slightly outside the city center**
 
 Prices drop by 20–40%.
 
-#### **2. Share rooms temporarily**
+##### **2. Share rooms temporarily**
 
 Affordable for new arrivals.
 
-#### **3. Opt for student dorms**
+##### **3. Opt for student dorms**
 
 Worth the waiting time.
 
-#### **4. Cook your meals**
+##### **4. Cook your meals**
 
 Saves €150–€250 monthly.
 
-#### **5. Use second-hand furniture**
+##### **5. Use second-hand furniture**
 
 Popular platforms: eBay Kleinanzeigen, Marktplaats.
 
-#### **6. Bicycle instead of public transport**
+##### **6. Bicycle instead of public transport**
 
 Common in both countries; saves €60–€120 monthly.
 
@@ -364,15 +364,15 @@ Both countries provide world-class education, and with the right approach, your 
 
 #### **11. FAQs (10)**
 
-#### **1. Why is student housing so expensive in the Netherlands?**
+##### **1. Why is student housing so expensive in the Netherlands?**
 
 Because of severe shortages, high demand, and slow construction of new housing units.
 
-#### **2. How early should I apply for student housing in Germany?**
+##### **2. How early should I apply for student housing in Germany?**
 
 Apply at least 3–6 months before your semester.
 
-#### **3. Is WG accommodation safe for international students?**
+##### **3. Is WG accommodation safe for international students?**
 
 Yes, as long as you choose verified listings and meet the roommates beforehand.
 
@@ -380,27 +380,27 @@ Yes, as long as you choose verified listings and meet the roommates beforehand.
 
 Absolutely. They are the most affordable option in both countries.
 
-#### **5. What is the average cost of living for students in Germany?**
+##### **5. What is the average cost of living for students in Germany?**
 
 €800–€1,100 per month depending on the city.
 
-#### **6. What is the average cost of living for students in Netherlands?**
+##### **6. What is the average cost of living for students in Netherlands?**
 
 €1,000–€1,500 per month.
 
-#### **7. Can I work part-time to pay my rent?**
+##### **7. Can I work part-time to pay my rent?**
 
 Yes. Both countries allow part-time work, but restrictions apply.
 
-#### **8. Is it hard to find accommodation after arriving?**
+##### **8. Is it hard to find accommodation after arriving?**
 
 Yes. Many students struggle for weeks. Pre-booking is strongly recommended.
 
-#### **9. Are deposits refundable?**
+##### **9. Are deposits refundable?**
 
 Yes, if you maintain the room and follow contract terms.
 
-#### **10. What is the safest way to avoid scams?**
+##### **10. What is the safest way to avoid scams?**
 
 Use official student housing websites and never pay without a signed contract.
 
