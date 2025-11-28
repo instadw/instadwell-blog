@@ -54,7 +54,7 @@ Co-living has become a mainstream option for students around the world, and Cana
 
 ---
 
-### Why co-living is growing among Indian students in Canada
+### Why co-living is growing among Indian students in Canada 
 
 Co-living’s rise is driven by several forces that matter especially to international students:
 
