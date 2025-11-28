@@ -1,7 +1,7 @@
 ---
-title:  Best Co-Living Spaces in Canada for Indian Students
-description: Top co-living spaces in Canada for Indian students, affordable, community-focused housing near universities for study and social life.
-image: /assets/images/best-co-living-spaces-in-canada-for-indian-students.webp
+title: "Best Co-Living Spaces in Canada for Indian Students"
+description: "Top co-living spaces in Canada for Indian students, affordable, community-focused housing near universities for study and social life."
+image: "/assets/images/best-co-living-spaces-in-canada-for-indian-students.webp"
 layout: post
 permalink: /:title
 author: Sanchit
