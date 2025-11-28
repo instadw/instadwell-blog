@@ -50,7 +50,7 @@ date: 2025-11-25T09:14:00.000+05:30
 
 ### Introduction
 
-Co-living has become a mainstream option for students around the world, and Canadian cities now offer a rich ecosystem of professionally run co-living residences, managed shared houses, and student-focused coliving startups. For Indian students arriving in Canada — often navigating a new culture, climate, and cost-of-living — co-living presents a practical, social, and often cost-effective housing choice.
+Co-living has become a mainstream option for students around the world, and Canadian cities now offer a rich ecosystem of professionally run co-living residences, managed shared houses, and student-focused coliving startups. For Indian students arriving in Canada, often navigating a new culture, climate, and cost-of-living co-living presents a practical, social, and often cost-effective housing choice.
 
 ---
 
@@ -62,7 +62,7 @@ Co-living’s rise is driven by several forces that matter especially to interna
 * **Furnished, move-in-ready spaces:** Short-term, furnished rooms eliminate the need for furniture purchases and long removal logistics.
 * **Predictable costs:** Many co-living providers bundle utilities, internet, and sometimes cleaning into a single monthly fee—valuable when budgeting from abroad.
 * **Flexible leases:** Many operators offer month-to-month or semester-aligned leases that fit academic calendars better than traditional one-year leases.
-* **Support services:** Some co-living companies provide student orientation, roommate matching, job-board access, and local events—useful for international students adapting fast.
+* **Support services:** Some co-living companies provide student orientation, roommate matching, job-board access, and local events, useful for international students adapting fast.
 
 For Indian students who often balance part-time work, academic demands, and family expectations, co-living reduces friction at the start of their Canadian experience.
 
@@ -72,7 +72,7 @@ For Indian students who often balance part-time work, academic demands, and fami
 
 Before deciding, it helps to clarify terminology:
 
-* **University residences**: Managed by universities. Often cheapest for first-year students but limited in supply and sometimes less flexible.
+* **University residences**: Managed by universities. Often cheapest for first year students but limited in supply and sometimes less flexible.
 * **Private student residences**: Purpose-built buildings with student-focused amenities and usually annual leases.
 * **Co-living**: Shared units (studios, private rooms) in professionally managed buildings or houses, designed to encourage community; often shorter leases and more inclusive pricing.
 * **Shared flats (flatshares/WGs)**: Independently rented apartments where students find roommates themselves through listings; less professionally managed.
@@ -213,7 +213,7 @@ If you’re applying from India, gather digital copies of ID, admission letter, 
 ### Moving in, settling down, and making the most of co-living
 
 * **Introduce yourself and set house norms early.** Clear rules around guests, shared kitchen use, and cleaning reduce conflicts.
-* **Attend community events.** Co-living operators often organize meetups — great for networking and sharing tips about jobs and academics.
+* **Attend community events.** Co-living operators often organize meetups great for networking and sharing tips about jobs and academics.
 * **Find local Indian grocery stores and community centers.** These reduce homesickness and help with favorite foods.
 * **Register with your university’s international student office.** They often mediate housing disputes or recommend legal aid if tenancy issues arise.
 * **Budget for a transition period.** First months may include deposits, transit cards, and initial course material costs.
@@ -244,32 +244,42 @@ Use this guide as a blueprint: research neighborhoods, compare complete monthly 
 ### Frequently Asked Questions)
 
 **1. Are co-living spaces safe for Indian students arriving alone?**
+
 Yes—many co-living operators prioritize security with key fobs, CCTV, and on-call staff. Verify safety features before signing and read past resident reviews.
 
 **2. How much does co-living typically cost in Canada for students?**
+
 Expect CAD 700–1,600 per month depending on city, location, room type, and amenities. Always check the “all-in” price.
 
 **3. Can I book a co-living room before arriving in Canada?**
+
 Yes. Most operators accept online applications, but avoid sending large sums before signing a verified contract.
 
 **4. Are co-living leases flexible for semester-based study?**
+
 Many providers offer semester or month-to-month leases. Confirm minimum stay requirements and notice periods.
 
 **5. Do co-living spaces help with roommate matching?**
+
 Many do. They often use questionnaires to match students by lifestyle, study habits, and preferences.
 
 **6. Are utilities and internet included in co-living rents?**
+
 Often yes, but always confirm what is included to avoid surprise bills.
 
 **7. Can international students cook vegetarian/Indian meals in co-living kitchens?**
+
 Generally yes, but check kitchen rules and shared kitchen etiquette. Some communities even host cultural cooking nights.
 
 **8. How do co-living spaces handle maintenance and repairs?**
+
 Professional operators typically have on-site or on-call maintenance teams. For smaller shared houses, landlords may coordinate repairs; ensure response times are in the contract.
 
 **9. What paperwork is required to rent a co-living room from abroad?**
+
 Passport, admission letter, visa or proof of application, references (if requested), and sometimes a deposit or Guarantor details. Keep digital copies ready.
 
 **10. How do I avoid scams when booking co-living in Canada?**
+
 Use university referrals, recognized operators, video tours, and verified payment methods. Beware of unusually low prices or pressure to pay immediately without paperwork.
 
