@@ -11,17 +11,20 @@ date: 2025-11-28T09:14:00.000+05:30
 
 ## **Table of Contents**
 
-1. Introduction
-2. Why the F-1 Visa Interview Matters
-3. Top 20 USA Student Visa Interview Questions and Answers
+1. [Introduction](introduction)
+2. [Why the F-1 Visa Interview Matters](why-the-f-1-visa-interview-matters)
+3. [Top 20 USA Student Visa Interview Questions and Answers](top-20-usa-student-visa-interview-questions-and-answers)
 
-   * Academic-Related Questions
-   * Financial-Related Questions
-   * Personal & Intent-Based Questions
-4. Expert Tips to Succeed in Your F-1 Visa Interview
-5. Common Mistakes Students Make (and How to Avoid Them)
-6. Final Thoughts
-7. FAQs (10)
+   Academic-Related Questions
+   
+   Financial-Related Questions
+   
+   Personal & Intent-Based Questions
+   
+4. [Expert Tips to Succeed in Your F-1 Visa Interview](expert-tips-to-succeed-in-your-f-1-visa-interview)
+5. [Common Mistakes Students Make (and How to Avoid Them)](common-mistakes-students-make-and-how-to-avoid-them)
+6. [Final Thoughts](final-thoughts)
+7. [FAQs](faqs)
 
 ---
 
