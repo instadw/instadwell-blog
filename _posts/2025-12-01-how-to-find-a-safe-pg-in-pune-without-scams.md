@@ -13,11 +13,11 @@ Moving to Pune offers an exciting mix of student life and booming IT opportuniti
 
 In this guide, we strip away the marketing fluff to reveal the real cost of living in Pune, the neighborhoods that actually match your lifestyle, and how to avoid the notorious "fake agreement" scams. Whether you are a student looking for coliving in [Pune](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune) or a professional seeking a private room, here is everything you need to know before you pack your bags.
 
-## The Dark Side of Pune Rentals: 3 Scams to Watch Out For
+#### The Dark Side of Pune Rentals: 3 Scams to Watch Out For
 
 Before you hand over cash, you need to know what you are up against. Community discussions and recent tenant reports highlight three major risks in the unorganized market.
 
-### 1. The "Fake Agreement" & Deposit Trap
+##### 1. The "Fake Agreement" & Deposit Trap
 
 A common nightmare involves brokers providing "soft copy" agreements that have no legal standing.
 
@@ -25,7 +25,7 @@ Real World Case: A tenant recently reported being handed a simple Word document 
 
 The Fix: Always insist on a registered or notarized rent agreement before transferring the full security deposit.
 
-### 2. The "Hidden Cost" Ambush (Financial & Lifestyle)
+##### 2. The "Hidden Cost" Ambush (Financial & Lifestyle)
 
 When a deal looks too good to be true, you are likely paying a hidden "cost" either in unexpected bills or a loss of basic comfort.
 
@@ -34,18 +34,18 @@ When a deal looks too good to be true, you are likely paying a hidden "cost" eit
 -   The Lifestyle Cost (The Power Cut Reality): Distinct from money, you often "pay" with your productivity. In areas like Kharadi, power cuts can last from 1 AM to 5 AM. Unverified PGs often lack backup, meaning your fan, AC, and Wi-Fi die while you are trying to sleep or work. A "cheap" room becomes very expensive when you cannot get your work done.
     
 
-### 3. The "No Bachelors" Last-Minute Shock
+##### 3. The "No Bachelors" Last-Minute Shock
 
 Unverified brokers often take a token amount, promising that a society allows bachelors. On moving day, the Society Management stops you at the gate.
 
 Tenant Insight: One user shared that after paying brokerage, the society guard refused entry, stating a strict "Family Only" rule that the agent conveniently "forgot" to mention.
 
 
-## Neighborhood Guide: Where Should You Live?
+#### Neighborhood Guide: Where Should You Live?
 
 Choosing the right paying guest in Pune depends entirely on your commute and lifestyle. Here is the breakdown of Pune’s top micro-markets.
 
-### For IT Professionals & Techies
+##### For IT Professionals & Techies
 
 -   [Hinjewadi](https://instadwell.com/search?lat=18.5912716&lng=73.73890899999999&location=Hinjawadi,%20Pune,%20Pimpri-Chinchwad,%20Maharashtra,%20India&city=Pune&country=India) / Wakad: The heart of Pune’s IT sector. This is ideal if you want a short commute to the major tech parks. Rents are competitive due to high supply.
     
@@ -54,7 +54,7 @@ Choosing the right paying guest in Pune depends entirely on your commute and lif
 -   [Kharadi](https://instadwell.com/search?lat=18.5539311&lng=73.9476257&location=Kharadi,%20Pune,%20Maharashtra,%20India&city=Pune&country=India): A massive IT hub, but proceed with caution regarding infrastructure, ensure your chosen co-living space has 100% Power Backup.
     
 
-### For Students & Creatives
+#### For Students & Creatives
 
 -   **Viman Nagar:** The student hub. Close to major design and management colleges and the airport. The crowd is young, and the vibe is social.
     
@@ -70,7 +70,7 @@ Choosing the right paying guest in Pune depends entirely on your commute and lif
 
 Tip: Budget listings often exclude food + utilities. Premium listings usually bundle everything.
 
-## The Amenities You Actually Need (Vs. Fluff)
+#### The Amenities You Actually Need (Vs. Fluff)
 
 When touring a property, ignore the "gaming zone" for a moment and check these critical amenities first:
 
@@ -81,15 +81,15 @@ When touring a property, ignore the "gaming zone" for a moment and check these c
 3.  **Professional Housekeeping:** "Self-cleaning" rarely works in shared spaces. Look for managed properties with daily or alternate-day housekeeping schedules.
     
 
-## How InstaDwell Fixes the Broken Process
+#### How InstaDwell Fixes the Broken Process
 
 We built InstaDwell to solve the trust deficit in the Pune rental market. We are not a brokerage firm; we are a discovery platform for verified co-living excellence.
 
-### 1. We Only List "Tech-First" Operators
+#### 1. We Only List "Tech-First" Operators
 
 We don't list random landlords. We currently partner exclusively with established, institutional-backed operators who have standardized processes, dedicated support teams, and legal accountability. This minimizes the risk of deposit theft and "fake agreements."
 
-### 2. Zero Brokerage, Direct Connection
+#### 2. Zero Brokerage, Direct Connection
 
 We hate hidden fees as much as you do.
 
@@ -100,16 +100,16 @@ We hate hidden fees as much as you do.
 -   Book: You complete the transaction with them directly. No middleman taking a cut.
     
 
-### 3. Transparent Visuals
+#### 3. Transparent Visuals
 
 The photos you see on InstaDwell come directly from the operators, ensuring you get a clear view of the amenities before you schedule a visit.
 
 
-## Frequently Asked Questions
+#### Frequently Asked Questions
 
 Here are the most common concerns Pune renters have, answered with insights from real tenant experiences.
 
-### General Questions
+##### General Questions
 
 **Q: Are there luxurious PG options near colleges like SIT?**
 
@@ -138,7 +138,7 @@ Tenant feedback is mixed. Some users complain that PG food quality declines over
 The golden rule from seasoned Pune renters is: "Don't pay any deposit before visiting." Scammers often pressure you to pay online to "block" a room. Always verify the property in person and sign a legal agreement first.
 
 
-## Conclusion: Start Your Search Safely
+#### Conclusion: Start Your Search Safely
 
 Finding a home shouldn't be a gamble. By sticking to verified operators and legitimate agreements, you can enjoy Pune’s vibrant culture without the rental horror stories.
 
