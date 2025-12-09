@@ -43,7 +43,7 @@ For most newcomers, PGs are simply **more affordable to move into.**
 
 Choosing the right area can save hours of daily commute.
 
-##  **For IT Professionals (OMR, Porur & Velachery)**
+###  **For IT Professionals (OMR, Porur & Velachery)**
 
 * **[Sholinganallur](https://instadwell.com/search?lat=12.9009877&lng=80.2279301&location=Sholinganallur,%20Chennai,%20Tamil%20Nadu,%20India&city=Chennai&country=India) & [OMR](https://instadwell.com/search?lat=12.941451&lng=80.236414&location=Old,%203-170,%202nd%20St,%20Mettukuppam,%20Chennai,%20Tamil%20Nadu%20600097,%20India&city=Chennai&country=India)** : Best for those working in TCS, Wipro, Cognizant, Infosys, etc.
 * **[Perungudi](https://instadwell.com/search?lat=12.9653652&lng=80.2461057&location=Perungudi,%20Chennai,%20Tamil%20Nadu,%20India&city=Chennai&country=India)** : Balanced choice between IT hubs and the main city.
@@ -55,7 +55,7 @@ If you live in Velachery, the **MRTS railway** is a game changer, fast, cheap, a
 
 ---
 
-##  **For Students (Adyar, Anna Nagar, Tambaram)**
+###  **For Students (Adyar, Anna Nagar, Tambaram)**
 
 * **[Adyar](https://instadwell.com/search?lat=13.0011774&lng=80.2564957&location=Adyar,%20Chennai,%20Tamil%20Nadu,%20India&city=Chennai&country=India):** Ideal for IIT Madras and Anna University students. Safe, green, and walkable.
 * **[Anna Nagar](https://instadwell.com/search?lat=13.0849557&lng=80.2101342&location=Anna%20Nagar,%20Chennai,%20Tamil%20Nadu,%20India&city=Chennai&country=India):** Premium, well-planned area with great connectivity.
