@@ -15,7 +15,7 @@ This guide breaks down the **real cost of living in Chennai**, the **best neighb
 
 ---
 
-#### Cost of Living: What Should You Really Expect to Pay?
+## Cost of Living: What Should You Really Expect to Pay?
 
 Chennai is more affordable compared to Mumbai or Bangalore, but prices vary depending on area and amenities.
 
