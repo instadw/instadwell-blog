@@ -51,7 +51,7 @@ It’s designed for students, digital nomads, and young professionals who value 
 
 Example: Platforms like [InstaDwell](https://instadwell.com/), Stanza Living, and YourSpace offer co-living spaces where you can move in with just your luggage everything else is taken care of.
 
-## Key Features of Co-Living
+### Key Features of Co-Living
 
 Fully Furnished Rooms: Ready-to-move-in setups with beds, furniture, and appliances.
 
@@ -63,7 +63,7 @@ Community Living: Common lounges, game zones, and networking events.
 
 Tech-Enabled Management: Apps for rent payment, maintenance, and meal scheduling.
 
-## Types of Co-Living Spaces
+### Types of Co-Living Spaces
 
 Shared Co-Living: Multiple people in one room or flat.
 
@@ -71,7 +71,7 @@ Private Co-Living: Individual rooms with shared amenities.
 
 Premium Co-Living: Includes gyms, cafeterias, entertainment lounges, and even coworking setups.
 
-## Pros of Co-Living
+### Pros of Co-Living
 
 Community-driven lifestyle
 
@@ -83,7 +83,7 @@ Ideal for newcomers to the city
 
 Flexible contracts and transparent pricing
 
-## Cons of Co-Living
+### Cons of Co-Living
 
 Higher rent compared to PGs
 
@@ -92,11 +92,11 @@ Less privacy in shared spaces
 Limited customization (pre-furnished setup)
 
 ## **Understanding PG (Paying Guest Accommodation)**
-## What Is a PG? 
+### What Is a PG? 
 
 A PG (Paying Guest) accommodation allows you to rent a part of someone’s home or property, usually with shared access to basic facilities like bathrooms, kitchens, and dining areas. PGs are popular among students and entry-level professionals due to their affordability and accessibility.
 
-## Key Features of PGs
+### Key Features of PGs
 
 Rent includes stay and sometimes meals.
 
@@ -106,7 +106,7 @@ Typically gender-specific (Boys PGs or Girls PGs).
 
 Located near educational or IT hubs.
 
-## Pros of PGs
+### Pros of PGs
 
 Budget-friendly and accessible
 
@@ -116,7 +116,7 @@ Ideal for short stays
 
 Widespread availability across all cities
 
-## Cons of PGs
+### Cons of PGs
 
 Strict rules (timings, visitors, etc.)
 
@@ -145,20 +145,20 @@ Booking Method	Offline, manual	Online through verified platforms like InstaDwell
 
 Comfort plays a crucial role in determining your quality of life especially when you’re far from home.
 
-## Co-Living Comfort
+### Co-Living Comfort
 
 Co-Living spaces are designed to provide hotel-like convenience. You get ergonomic furniture, 24/7 maintenance, air-conditioned rooms, and even recreational zones.
 
 They also create a sense of belonging, thanks to shared activities, fitness programs, and movie nights. For many young professionals, this social environment reduces loneliness and promotes mental well-being.
 
-## PG Comfort
+### PG Comfort
 
 PG accommodations vary drastically from basic setups to semi-furnished rooms. Comfort depends heavily on the landlord. You might get simple furniture and meals, but cleaning, repairs, and hygiene often remain inconsistent.
 
 While PGs work for short-term stays, they’re rarely ideal for long-term comfort or community experiences.
 
 ## **Cost Comparison: Co-Living vs PG**
-## PG Costs
+### PG Costs
 
 PGs are cheaper because they offer limited facilities. The rent usually includes food and lodging, but utilities like Wi-Fi, laundry, or maintenance may come as extra charges.
 
@@ -166,7 +166,7 @@ Average Cost Range: ₹5,000 – ₹10,000/month
 
 However, many PGs require deposits and have strict refund policies, adding to hidden expenses.
 
-## Co-Living Costs
+### Co-Living Costs
 
 Co-Living spaces charge higher rents but cover almost everything  from furniture and Wi-Fi to housekeeping and community access. You pay once, and all your basic needs are covered.
 
@@ -174,7 +174,7 @@ Average Cost Range: ₹8,000 – ₹15,000/month
 
 Considering the facilities, co-living spaces offer better value for money, especially for longer stays.
 
-## Cost vs Comfort Summary
+### Cost vs Comfort Summary
 Aspect	PG	Co-Living
 Rent	Lower	Higher
 Hidden Costs	Common (utilities, deposits)	Rare (all-inclusive)
@@ -212,7 +212,7 @@ However, before renting a PG, ensure you verify the property and landlord to avo
 
 In today’s digital age, finding the right accommodation shouldn’t feel like guesswork. Platforms like InstaDwell bridge the gap between comfort and trust by offering verified listings of PGs, hostels, and co-living spaces across major cities.
 
-## Why InstaDwell?
+### Why InstaDwell?
 
 Verified photos and authentic property details.
 
