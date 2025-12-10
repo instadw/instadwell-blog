@@ -42,7 +42,7 @@ date: 2025-11-21T09:14:00.000+05:30
 
 ----------
 
-### **Introduction**
+## **Introduction**
 
 Studying abroad is exciting, but finding accommodation in a foreign country can be challenging. Every country has different rules, pricing systems, safety standards, and expectations. Without the right knowledge, students can face issues like scams, high costs, or unsafe housing.
 
@@ -50,7 +50,7 @@ This guide explains **10 important things every student must know before renting
 
 ----------
 
-### **Understanding Local Rental Laws**
+## **Understanding Local Rental Laws**
 
 Rental laws guide the relationship between tenants and landlords. They protect both sides and help prevent conflicts.
 
@@ -82,11 +82,11 @@ Each country has its own rules, so research carefully.
 
 ----------
 
-### **Researching Neighbourhoods**
+## **Researching Neighbourhoods**
 
 Your neighbourhood affects daily comfort, study habits, and safety.
 
-##### What to Check
+### What to Check
 
 -   Distance to university
     
@@ -99,7 +99,7 @@ Your neighbourhood affects daily comfort, study habits, and safety.
 -   Public transport
     
 
-##### Useful Tools
+### Useful Tools
 
 -   Google Maps
     
@@ -114,11 +114,11 @@ A good neighbourhood makes your study abroad experience enjoyable.
 
 ----------
 
-### **Calculating Total Living Costs**
+## **Calculating Total Living Costs**
 
 Rent is only one part of your expenses. Many students forget the hidden costs.
 
-##### Extra Costs to Consider
+### Extra Costs to Consider
 
 -   Utility bills
     
@@ -135,17 +135,17 @@ Rent is only one part of your expenses. Many students forget the hidden costs.
 -   Emergency expenses
     
 
-##### Monthly Budgeting
+### Monthly Budgeting
 
 Plan your monthly budget before choosing your accommodation to avoid financial stress.
 
 ----------
 
-### **Choosing the Right Accommodation Type**
+## **Choosing the Right Accommodation Type**
 
 Students can choose from different types of housing.
 
-##### Common Options
+### Common Options
 
 -   Student dormitories
     
@@ -158,7 +158,7 @@ Students can choose from different types of housing.
 -   Homestays
     
 
-##### How to Choose
+### How to Choose
 
 -   **Dorms:** Affordable, social
     
@@ -173,11 +173,11 @@ Pick what matches your lifestyle, comfort, and budget.
 
 ----------
 
-### **Understanding Your Rental Agreement**
+## **Understanding Your Rental Agreement**
 
 A rental contract is legally binding. Read every line carefully.
 
-##### Important Contract Sections
+### Important Contract Sections
 
 -   Rent amount
     
@@ -198,11 +198,11 @@ Do not sign anything you don’t understand.
 
 ----------
 
-##### **Knowing Rights & Responsibilities**
+## **Knowing Rights & Responsibilities**
 
 Students must know both their rights and responsibilities.
 
-##### Common Tenant Rights
+### Common Tenant Rights
 
 -   Privacy
     
@@ -213,7 +213,7 @@ Students must know both their rights and responsibilities.
 -   Timely repairs
     
 
-##### Tenant Responsibilities
+### Tenant Responsibilities
 
 -   Pay rent on time
     
@@ -228,11 +228,11 @@ This ensures a healthy landlord-tenant relationship.
 
 ----------
 
-##### **Avoiding Rental Scams Abroad**
+## **Avoiding Rental Scams Abroad**
 
 Scammers often target international students.
 
-##### Warning Signs
+### Warning Signs
 
 -   Landlord refuses video tour
     
@@ -249,11 +249,11 @@ Always use trusted student housing websites.
 
 ----------
 
-##### **Safety & Accessibility**
+## **Safety & Accessibility**
 
 Your safety should always come first.
 
-##### Safety Checklist
+### Safety Checklist
 
 -   Secure entry
     
@@ -270,11 +270,11 @@ Accessibility also matters for daily convenience.
 
 ----------
 
-### **Public Transport & Commute**
+## **Public Transport & Commute**
 
 Your location affects your time, money, and routine.
 
-##### Things to Consider
+### Things to Consider
 
 -   Distance to university
     
@@ -291,11 +291,11 @@ A shorter commute makes student life easier.
 
 ----------
 
-### **Required Documents**
+## **Required Documents**
 
 Landlords usually ask for:
 
-##### Common Documents
+### Common Documents
 
 -   Passport
     
@@ -314,7 +314,7 @@ Preparing these early helps you secure housing faster.
 
 ----------
 
-### **Final Checklist Before Signing**
+## **Final Checklist Before Signing**
 
 Review everything carefully before finalizing your accommodation:
 
@@ -339,13 +339,13 @@ This prevents future problems.
 
 ----------
 
-### **Conclusion**
+## **Conclusion**
 
 Renting abroad becomes simple and stress-free when you understand rental laws, inspect neighbourhoods, budget correctly, avoid scams, and stay aware of your rights. The right accommodation supports your academic success, safety, and overall well-being.
 
 ----------
 
-### **FAQs**
+## **FAQs**
 
 **1. When should students start searching for accommodation abroad?**  
 2–4 months before arrival.
