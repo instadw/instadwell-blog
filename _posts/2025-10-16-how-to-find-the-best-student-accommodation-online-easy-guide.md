@@ -161,20 +161,20 @@ Let’s break down how to search, shortlist, and finalize your ideal student hou
 
 - - -
 
-### **Start Your Search Early**
+## **Start Your Search Early**
 
 Start looking at least **2–3 months before** your semester begins. Early searches give you access to the best deals, locations, and room options before they get booked.
 
 - - -
 
-### **Set a Realistic Budget**
+## **Set a Realistic Budget**
 
 Decide how much you can afford monthly. Include rent, food, transportation, and utilities.
 **Pro Tip:** Always keep a 10–15% buffer for unexpected expenses like maintenance or electricity.
 
 - - -
 
-### **Choose the Right Location**
+## **Choose the Right Location**
 
 Location is everything!
 Look for areas that are:
@@ -185,7 +185,7 @@ Look for areas that are:
 
 - - -
 
-### **Use Trusted Platforms like InstaDwell**
+## **Use Trusted Platforms like InstaDwell**
 
 Avoid random social media groups or unverified sites.
 Use reliable, verified housing platforms like **InstaDwell**, which offer:
@@ -197,7 +197,7 @@ Use reliable, verified housing platforms like **InstaDwell**, which offer:
 
 - - -
 
-### **Verify Safety and Security**
+## **Verify Safety and Security**
 
 Before booking, check for:
 
@@ -210,7 +210,7 @@ Safety should never be compromised, especially for female students and internati
 
 - - -
 
-### **Check Amenities and Facilities**
+## **Check Amenities and Facilities**
 
 Ensure rent includes:
 
@@ -224,14 +224,14 @@ This prevents future misunderstandings or extra charges.
 
 - - -
 
-### **Read Genuine Reviews and Ratings**
+## **Read Genuine Reviews and Ratings**
 
 Reviews are your best guide to understanding the reality behind the listing.
 Look for feedback on cleanliness, landlord behavior, noise levels, and repair response times.
 
 - - -
 
-### **Understand the Lease Terms Clearly**
+## **Understand the Lease Terms Clearly**
 
 Read the rental agreement thoroughly before signing.
 Clarify:
@@ -243,7 +243,7 @@ Clarify:
 
 - - -
 
-### **Compare and Shortlist Options**
+## **Compare and Shortlist Options**
 
 Don’t book the first place you find. Compare at least 3–5 properties based on:
 
@@ -254,7 +254,7 @@ Don’t book the first place you find. Compare at least 3–5 properties based o
 
 - - -
 
-### **Schedule a Virtual or Physical Visit**
+## **Schedule a Virtual or Physical Visit**
 
 Always request a **video tour** if you can’t visit in person.
 This helps verify that the property matches its online photos and description.
