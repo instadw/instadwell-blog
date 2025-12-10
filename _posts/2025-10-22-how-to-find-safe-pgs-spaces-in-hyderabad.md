@@ -134,7 +134,7 @@ Let’s break down the major criteria you should check and why each matters. The
 
 Here are recommended areas in Hyderabad that are popular and (relatively) safe and convenient for PGs, especially for professionals/students.
 
-##### [Gachibowli](https://instadwell.com/search?lat=17.4400802&lng=78.3489168&location=Gachibowli,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [HiTech City](https://instadwell.com/search?lat=17.4434646&lng=78.3771953&location=HITEC%20City,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
+### [Gachibowli](https://instadwell.com/search?lat=17.4400802&lng=78.3489168&location=Gachibowli,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [HiTech City](https://instadwell.com/search?lat=17.4434646&lng=78.3771953&location=HITEC%20City,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
  
 
 This cluster (Gachibowli, Indira Nagar, Gowlidoddy, Kondapur) is a major hub for IT companies, thus many PGs have sprung up with amenities tailored for working professionals.
@@ -144,7 +144,7 @@ This cluster (Gachibowli, Indira Nagar, Gowlidoddy, Kondapur) is a major hub for
   Pros: Excellent connectivity to corporate campuses, good selection, newer PGs aimed at professionals.
   Cons: Slightly higher rent; might be crowded; still need to check individual PG safety.
 
-##### [Kukatpally](https://instadwell.com/search?lat=17.4875418&lng=78.3953462&location=Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [KPHB](https://instadwell.com/search?lat=17.4833526&lng=78.3870668&location=Kukatpally%20Housing%20Board%20Colony,%20Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
+### [Kukatpally](https://instadwell.com/search?lat=17.4875418&lng=78.3953462&location=Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [KPHB](https://instadwell.com/search?lat=17.4833526&lng=78.3870668&location=Kukatpally%20Housing%20Board%20Colony,%20Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
 
 
 Kukatpally and KPHB offer more affordable options compared to prime IT hubs; still well connected.
@@ -153,7 +153,7 @@ Kukatpally and KPHB offer more affordable options compared to prime IT hubs; sti
   Pros: More budget-friendly; large student population.
   Cons: Some PGs older; you may face older infrastructure; commute to certain workplaces might be longer.
 
-##### [Banjara Hills](https://instadwell.com/search?lat=17.416889&lng=78.43867&location=Banjara%20Hills,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [Madhapur](https://instadwell.com/search?lat=17.4485835&lng=78.39080349999999&location=Madhapur,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) 
+### [Banjara Hills](https://instadwell.com/search?lat=17.416889&lng=78.43867&location=Banjara%20Hills,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [Madhapur](https://instadwell.com/search?lat=17.4485835&lng=78.39080349999999&location=Madhapur,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) 
 
 
 
