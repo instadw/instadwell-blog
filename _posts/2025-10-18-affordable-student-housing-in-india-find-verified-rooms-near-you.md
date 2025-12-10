@@ -162,19 +162,19 @@ Always insist on a rental agreement to protect your rights.
 
 Known for universities like Osmania and JNTU, Hyderabad offers budget-friendly PGs starting at ₹6,000 per month.
 
-##### [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru)
+### [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru)
 
 The tech capital provides affordable co-living options near educational hubs like Koramangala and Whitefield.
 
-##### [Pune](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune)
+### [Pune](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune)
 
 With its vibrant student culture, Pune has hostels and PGs ranging from ₹7,000–₹12,000 per month.
 
-##### [Chennai](https://instadwell.com/search?lat=13.0843007&lng=80.2704622&location=Chennai,%20Tamil%20Nadu,%20India&city=Chennai&country=India)
+### [Chennai](https://instadwell.com/search?lat=13.0843007&lng=80.2704622&location=Chennai,%20Tamil%20Nadu,%20India&city=Chennai&country=India)
 
 Chennai’s student-friendly neighborhoods like Velachery and Tambaram offer both PG and shared apartments.
 
-##### [Delhi](https://instadwell.com/search?lat=28.7040592&lng=77.10249019999999&location=Delhi,%20India&country=India) 
+### [Delhi](https://instadwell.com/search?lat=28.7040592&lng=77.10249019999999&location=Delhi,%20India&country=India) 
 
 From Noida to Gurgaon, you can find student accommodations close to metro stations and universities.
 
