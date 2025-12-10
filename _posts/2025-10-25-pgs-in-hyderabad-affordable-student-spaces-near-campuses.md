@@ -114,21 +114,21 @@ With this understanding, you can approach your search more strategically.
 
 Here are some of the top localities in Hyderabad for affordable student PGs near campuses, with pros and cons.
 
-#### [Gachibowli](https://instadwell.com/search?lat=17.4400802&lng=78.3489168&location=Gachibowli,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [HiTech City](https://instadwell.com/search?lat=17.4434646&lng=78.3771953&location=HITEC%20City,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
+### [Gachibowli](https://instadwell.com/search?lat=17.4400802&lng=78.3489168&location=Gachibowli,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [HiTech City](https://instadwell.com/search?lat=17.4434646&lng=78.3771953&location=HITEC%20City,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
 
 This area is a major hub with many IT companies, expensive residential zones and many students/training institutes nearby.
 **Pros**: Excellent connectivity, many PGs tailored for working professionals and students. Some listings show PGs under Rs 10,000 in this area. 
 **Cons**: You’ll pay more here than older suburbs; budget PGs may be limited.
 **Tip**: Look a little off the main high-rent corridors to find student-friendly deals.
 
-#### [Kukatpally](https://instadwell.com/search?lat=17.4875418&lng=78.3953462&location=Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [KPHB](https://instadwell.com/search?lat=17.4833526&lng=78.3870668&location=Kukatpally%20Housing%20Board%20Colony,%20Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
+### [Kukatpally](https://instadwell.com/search?lat=17.4875418&lng=78.3953462&location=Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) / [KPHB](https://instadwell.com/search?lat=17.4833526&lng=78.3870668&location=Kukatpally%20Housing%20Board%20Colony,%20Kukatpally,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
 
 A classic student-friendly suburb with many PGs catering to budget budgets.
 **Pros**: Relatively lower rents compared to premium zones; many colleges and training centres in/around. One listing indicates budget starts under ₹8,000. 
 **Cons**: Some PGs may be older buildings; amenities might be fewer.
 **Tip**: Check commute time to your specific campus.
 
-#### [Madhapur](https://instadwell.com/search?lat=17.4485835&lng=78.39080349999999&location=Madhapur,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) 
+### [Madhapur](https://instadwell.com/search?lat=17.4485835&lng=78.39080349999999&location=Madhapur,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India) 
 
 Again, good for students especially in commerce/training institutes because of the infrastructure and connectivity.
 **Pros**: Good mix of PGs with modern amenities. Top PG lists mention “feel like home” PGs in Kondapur/Madhapur. 
@@ -194,7 +194,7 @@ After moving in:
 
 ---
 
-####  **Budget Expectations for Student PGs in [Hyderabad](https://instadwell.com/search?country=india&lat=17.4065&lng=78.4772&location=hyderabad)**
+##  **Budget Expectations for Student PGs in [Hyderabad](https://instadwell.com/search?country=india&lat=17.4065&lng=78.4772&location=hyderabad)**
 
 Here’s a realistic guide to what you might expect:
 
