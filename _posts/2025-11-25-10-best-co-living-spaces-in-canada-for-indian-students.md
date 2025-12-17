@@ -58,11 +58,11 @@ Co-living has become a mainstream option for students around the world, and Cana
 
 Co-living’s rise is driven by several forces that matter especially to international students:
 
-* **Immediate community:** Newcomers often need instant social networks. Co-living clusters students with roommates and shared spaces, making friendship and support-building easier.
+* **Immediate community:** Newcomers often need instant social networks. Co-living clusters students with roommates and shared spaces, making friendship and support, building easier.
 * **Furnished, move-in-ready spaces:** Short-term, furnished rooms eliminate the need for furniture purchases and long removal logistics.
-* **Predictable costs:** Many co-living providers bundle utilities, internet, and sometimes cleaning into a single monthly fee—valuable when budgeting from abroad.
-* **Flexible leases:** Many operators offer month-to-month or semester-aligned leases that fit academic calendars better than traditional one-year leases.
-* **Support services:** Some co-living companies provide student orientation, roommate matching, job-board access, and local events, useful for international students adapting fast.
+* **Predictable costs:** Many co-living providers bundle utilities, internet, and sometimes cleaning into a single monthly fee, valuable when budgeting from abroad.
+* **Flexible leases:** Many operators offer month-to-month or semester, aligned leases that fit academic calendars better than traditional one-year leases.
+* **Support services:** Some co-living companies provide student orientation, roommate matching, job, board access, and local events, useful for international students adapting fast.
 
 For Indian students who often balance part-time work, academic demands, and family expectations, co-living reduces friction at the start of their Canadian experience.
 
@@ -83,12 +83,12 @@ Co-living sits between private residences and flatshares: more structure and ser
 
 ## Benefits of co-living for Indian students
 
-1. **Social integration** — Immediate roommate networks reduce homesickness and make it easier to ask questions about local life, part-time work, and campus resources.
-2. **Cost predictability** — Utilities, cleaning, and Wi-Fi often included, allowing better monthly planning.
-3. **Turnkey living** — Furnished units with kitchens, linens, and basic utensils save time and money on setup.
-4. **Location choices** — Many co-living spaces are purposefully located near transit corridors or university hubs.
-5. **Built-in safety** — Professional operators often provide secure access, CCTV, and on-call support.
-6. **Cultural sensitivity** — Operators targeting international students may host cultural events, provide vegetarian kitchen options, or enable roommate matching with fellow Indians.
+1. **Social integration** : Immediate roommate networks reduce homesickness and make it easier to ask questions about local life, part-time work, and campus resources.
+2. **Cost predictability** : Utilities, cleaning, and Wi-Fi often included, allowing better monthly planning.
+3. **Turnkey living** : Furnished units with kitchens, linens, and basic utensils save time and money on setup.
+4. **Location choices** : Many co-living spaces are purposefully located near transit corridors or university hubs.
+5. **Built-in safety** : Professional operators often provide secure access, CCTV, and on-call support.
+6. **Cultural sensitivity** : Operators targeting international students may host cultural events, provide vegetarian kitchen options, or enable roommate matching with fellow Indians.
 
 These features often make co-living a superior short-to-medium-term choice for students arriving from India.
 
@@ -154,7 +154,7 @@ Below are notable co-living options across major Canadian cities popular among I
 A lower-cost alternative with a lively student scene (McGill, Concordia, UQAM).
 
 * **Shared houses and co-living collectives** in Plateau, Mile End, and Cote-des-Neiges.
-  [Montreal](https://instadwell.com/search?lat=45.5018869&lng=-73.56739189999999&location=Montreal,%20QC,%20Canada&city=Montreal&country=Canada) culture is student-friendly; bilingualism is a plus but many operators cater to English-speaking students.
+  [Montreal](https://instadwell.com/search?lat=45.5018869&lng=-73.56739189999999&location=Montreal,%20QC,%20Canada&city=Montreal&country=Canada) culture is student-friendly; bilingualism is a plus but many operators cater to English, speaking students.
 
 **Tip**: Check language of the neighbourhood and whether French proficiency is expected.
 
@@ -175,19 +175,19 @@ Cities like Kingston (Queen’s), Waterloo, and London (Western University) have
 
 Here are three practical scenarios to illustrate budgets and choices.
 
-### Scenario A — Toronto, centrally located co-living (student residence)
+### Scenario A : Toronto, centrally located co-living (student residence)
 
 * Monthly all-in rent: CAD 1,250–1,600
 * Includes utilities, internet, common area cleaning, gym, study spaces.
 * Trade-offs: Higher rent for prime location and services; roommate rules, less privacy.
 
-### Scenario B — Vancouver, shared house 30–40 min commute
+### Scenario B : Vancouver, shared house 30–40 min commute
 
 * Monthly all-in rent: CAD 900–1,200
 * Lower rent, but longer commute and possible extra transit costs.
 * Trade-offs: More private rooms and larger apartments, but added commute time.
 
-### Scenario C — Montreal, converted student house (shared)
+### Scenario C : Montreal, converted student house (shared)
 
 * Monthly all-in rent: CAD 700–1,000
 * Affordable, culturally vibrant, but leases may be less flexible and properties older.
@@ -245,7 +245,7 @@ Use this guide as a blueprint: research neighborhoods, compare complete monthly 
 
 **1. Are co-living spaces safe for Indian students arriving alone?**
 
-Yes—many co-living operators prioritize security with key fobs, CCTV, and on-call staff. Verify safety features before signing and read past resident reviews.
+Yes, many co-living operators prioritize security with key fobs, CCTV, and on-call staff. Verify safety features before signing and read past resident reviews.
 
 **2. How much does co-living typically cost in Canada for students?**
 
