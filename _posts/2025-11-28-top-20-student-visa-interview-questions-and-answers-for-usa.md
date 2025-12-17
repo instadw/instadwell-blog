@@ -251,7 +251,7 @@ Yes, they may verify financial documents to ensure you can afford your education
 
 **4. What if I have a gap year?**
 
-Gaps are acceptable if you explain them logically—employment, training, or personal reasons.
+Gaps are acceptable if you explain them logically, employment, training, or personal reasons.
 
 **5. Can I bring parents to the interview?**
 
