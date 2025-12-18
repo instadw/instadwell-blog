@@ -86,7 +86,7 @@ You can't eat at Broadway every day. Here is where HSR residents actually eat on
 
 (Distances calculated from NIFT Campus, Sector 1)
 | Spot Name (Click for Map)                                                                      | Best For           | Avg. Cost | Distance from NIFT | Insider Pro Tip                                                                                           |
-
+| ---------------------------------------------------------------------------------------------- | ------------------ | --------- | ------------------ | --------------------------------------------------------------------------------------------------------- |
 | [UCV (Beside NIFT)](https://maps.google.com/?q=UCV+HSR+Layout+Bengaluru)                       | North Indian Thali | ₹150      | 2 min walk         | The “Student Thali” here is the best value meal in Sector 1. Go before 1 PM to avoid the NIFT lunch rush. |
 | [Matsya Darshini](https://maps.google.com/?q=Mathsya+Darshini+HSR+Layout+Bengaluru)            | Seafood / Fish Fry | ₹200      | 5 min walk         | Located right opposite the bus depot. Try the Anjal Fry—fresh, spicy, and wallet-friendly.                |
 | [HSR Military Hotel](https://maps.google.com/?q=HSR+Military+Hotel+HSR+Layout+Bengaluru)       | Nati Style Non-Veg | ₹250      | 10 min drive       | Don’t expect ambiance, expect flavor. Their woodfire-cooked Mutton Pulav is legendary.                    |
