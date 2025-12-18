@@ -89,8 +89,7 @@ Koramangala has fine dining, but you can't eat truffle pasta every day. Here is 
 | [Aladin Shawarma](https://maps.app.goo.gl/cUJyWWxFVuRZN4AH7)      | Arabian           | ₹200                 | 5 min walk              | Ask for an open shawarma for more protein and fewer carbs.                          |
 | [Amritsari Kulcha Hut](https://maps.app.goo.gl/btJbeqbnsUJH92hk9)| North Indian      | ₹250                 | 12 min walk             | The Chur Chur Kulcha is buttery, crushed, and far better than standard aloo kulcha. |
 |[Kannur Food Point](https://maps.app.goo.gl/4eZQunaDMazbhaeH7)    | Kerala            | ₹250                 | 8 min walk              | Roast Beef or Chicken with Parotta is legendary—reach before 1 PM.                  |
-| [Abees Mess](https://maps.app.goo.gl/245StmzRgXw8NFaSA)
-        | Kerala / Budget   | ₹150                 | 6 min walk              | Fish curry meals are cheap, filling, and taste like home food.                      |
+| [Abees Mess](https://maps.app.goo.gl/245StmzRgXw8NFaSA)          | Kerala / Budget   | ₹150                 | 6 min walk              | Fish curry meals are cheap, filling, and taste like home food.                      |
 
 ----------
 
