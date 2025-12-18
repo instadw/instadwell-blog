@@ -85,6 +85,8 @@ HSR is home to massive co-working hubs. Living nearby saves you the auto fare.
 You can't eat at Broadway every day. Here is where HSR residents actually eat on a budget.
 
 (Distances calculated from NIFT Campus, Sector 1)
+
+
 | Spot Name (Click for Map)                                                                      | Best For           | Avg. Cost | Distance from NIFT | Insider Pro Tip                                                                                           |
 | ---------------------------------------------------------------------------------------------- | ------------------ | --------- | ------------------ | --------------------------------------------------------------------------------------------------------- |
 | [UCV (Beside NIFT)](https://maps.google.com/?q=UCV+HSR+Layout+Bengaluru)                       | North Indian Thali | ₹150      | 2 min walk         | The “Student Thali” here is the best value meal in Sector 1. Go before 1 PM to avoid the NIFT lunch rush. |
