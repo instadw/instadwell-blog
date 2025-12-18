@@ -89,6 +89,7 @@ Bengaluru is famous for the "10-Month Advance" rule, where landlords demand near
 | Shared PG Bed     | ₹7,000 – ₹10,000           | ₹10,000 – ₹15,000           | 1–2 months’ rent      |
 | Private Room (PG) | ₹12,000 – ₹16,000          | ₹18,000 – ₹30,000           | 1–2 months’ rent      |
 | 1 BHK Flat        | ₹14,000+                   | ₹22,000+                    | 6–10 months’ rent     |
+
 While a flat might look cheaper on monthly rent, the upfront capital (often exceeding ₹1.5 Lakhs) makes it inaccessible for many freshers.
 
 ----------
