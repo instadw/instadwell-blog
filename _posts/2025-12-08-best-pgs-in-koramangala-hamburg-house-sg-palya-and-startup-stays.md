@@ -13,7 +13,7 @@ Koramangala isn't just a neighborhood; it is a lifestyle. Whether you are a [Chr
 
 But finding a PG in Koramangala is tricky. The "Sony World Signal" traffic can turn a 10-minute commute into 40 minutes, and some "luxury" PGs have curfews strictly than a school hostel.
 
-In this guide, we break down the best blocks to live in, the budget food spots in SG Palya, and why specific properties like [Hamburg House Koramangala] are trending.
+In this guide, we break down the best blocks to live in, the budget food spots in SG Palya, and why specific properties like [Hamburg House](https://instadwell.com/properties/2566-hamburg-house) Koramangala are trending.
 
 Explore Verified PGs in [Koramangala](https://instadwell.com/search?lat=12.9352403&lng=77.624532&location=Koramangala,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India) on [InstaDwell](https://instadwell.com/)
 
