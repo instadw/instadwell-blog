@@ -91,7 +91,7 @@ Avoid unorganized PGs if you're not used to pure South Indian food, as rice-base
 
 ---
 
-##  PG vs Hostel — What’s Better?
+##  PG vs Hostel What’s Better?
 
 | Feature    | Hostel        | PG                    |
 | ---------- | ------------- | --------------------- |
