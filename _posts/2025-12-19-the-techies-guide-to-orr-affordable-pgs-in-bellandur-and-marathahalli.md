@@ -13,7 +13,7 @@ If you work on the Outer Ring Road (ORR), your life revolves around one thing: T
 
 That is why the golden rule here isn't just "live near work", it is "live where the commute doesn't kill you."
 
-Whether you are a fresher joining Wipro or a senior dev at RMZ EcoWorld, this guide breaks down the two biggest residential hubs on the ORR: the budget-friendly Marathahalli and the premium-residential Bellandur.
+Whether you are a fresher joining Wipro or a senior dev at RMZ EcoWorld, this guide breaks down the two biggest residential hubs on the ORR: the budget-friendly Marathahalli and the premium, residential Bellandur.
 
 Compare PGs in [Bellandur](https://instadwell.com/search?lat=12.9304278&lng=77.678404&location=Bellandur,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India) & [Marathahalli](https://instadwell.com/search?lat=12.956924&lng=77.701127&location=Marathahalli,%20Bengaluru,%20Karnataka%20560037,%20India&city=Bengaluru&country=India)on [InstaDwell](https://instadwell.com/)
 
