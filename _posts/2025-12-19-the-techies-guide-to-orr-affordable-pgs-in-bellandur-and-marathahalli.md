@@ -75,23 +75,23 @@ You can't eat cafeteria food forever. Here is the local survival guide for weeke
 -   Must Try: [Meghana Foods](https://maps.google.com/?q=Meghana+Foods+Sarjapur+Road+Bangalore) (The Biryani here is legendary) or [Madurai Idly Shop](https://maps.google.com/?q=Madurai+Idly+Shop+Bellandur+Gate+Bangalore) for budget South Indian tiffins.
     
 
--   Bellandur: Upscale dining options are popping up, but for daily eats, the street food near [Venkateshwara Swamy Temple](https://maps.google.com/?q=Chinnappanahalli+Lake+Marathahalli+Bangalore) is a local secret for cheap, tasty meals.
+-   Bellandur: Upscale dining options are popping up, but for daily eats, the street food near [Venkateshwara Swamy Temple](https://maps.google.com/?q=Venkateshwara+Swamy+Temple+Bellandur+Bangalore) is a local secret for cheap, tasty meals.
     
 
 ### Weekend Hangouts
 
 Since Central Mall is undergoing changes, locals have shifted their hangout spots:
 
--   Shopping & Movies: Most residents head to [Nexus Whitefield](https://maps.google.com/?q=Venkateshwara+Swamy+Temple+Bellandur+Bangalore) or [Phoenix Marketcity](https://maps.google.com/?q=Nexus+Whitefield+Bangalore) (a short drive away) for the best brands and IMAX.
+-   Shopping & Movies: Most residents head to [Nexus Whitefield](https://maps.google.com/?q=Nexus+Whitefield+Bangalore) or [Phoenix Marketcity](https://maps.google.com/?q=Phoenix+Marketcity+Bangalore) (a short drive away) for the best brands and IMAX.
     
 -   Nature Escapes:
     
 
--   [Agara Lake](https://maps.google.com/?q=Phoenix+Marketcity+Bangalore): Great for morning jogs and sunset walks.
+-   [Agara Lake](https://maps.google.com/?q=Agara+Lake+Bangalore): Great for morning jogs and sunset walks.
     
--   [Saalu Kere Mini Forest](https://maps.google.com/?q=Agara+Lake+Bangalore): A quiet, green spot near Bellandur to escape the concrete jungle.
+-   [Saalu Kere Mini Forest](https://maps.google.com/?q=Savala+Kere+Northern+Entrance+Bellandur+Bangalore): A quiet, green spot near Bellandur to escape the concrete jungle.
     
--   [Chinnappanahalli Lake](https://maps.google.com/?q=Savala+Kere+Northern+Entrance+Bellandur+Bangalore): A cleaner, quieter alternative for evening walks near Marathahalli.
+-   [Chinnappanahalli Lake](https://www.google.com/maps?q=Chinnappanahalli+Lake+Marathahalli+Bangalore): A cleaner, quieter alternative for evening walks near Marathahalli.
     
 
 ----------
