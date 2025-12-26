@@ -58,7 +58,7 @@ Hamburg House has become almost synonymous with student housing in Koramangala. 
 -   Want a smaller, quieter building with personalized food? We have that too.
     
 
-Check Availability at [Hamburg House](https://instadwell.com/search?lat=53.6041493&lng=10.0232384&location=Mexikoring%2033,%2022297%20Hamburg,%20Germany&city=Hamburg&country=Germany) & Alternatives
+Check Availability at [Hamburg House](https://instadwell.com/properties/2566-hamburg-house) & Alternatives
 
 ----------
 
@@ -88,7 +88,7 @@ Koramangala has fine dining, but you can't eat truffle pasta every day. Here is 
 [Magic Wok](https://maps.app.goo.gl/HuLQAXbMGFNwHVCEA)          | Chinese / Tibetan | ₹300                 | 7 min walk              | Skip basic noodles, order the Thukpa for a comforting, rainy-day meal.               |
 | [Aladin Shawarma](https://maps.app.goo.gl/cUJyWWxFVuRZN4AH7)      | Arabian           | ₹200                 | 5 min walk              | Ask for an open shawarma for more protein and fewer carbs.                          |
 | [Amritsari Kulcha Hut](https://maps.app.goo.gl/btJbeqbnsUJH92hk9)| North Indian      | ₹250                 | 12 min walk             | The Chur Chur Kulcha is buttery, crushed, and far better than standard aloo kulcha. |
-|[Kannur Food Point](https://maps.app.goo.gl/4eZQunaDMazbhaeH7)    | Kerala            | ₹250                 | 8 min walk              | Roast Beef or Chicken with Parotta is legendary, reach before 1 PM.                  |
+|[Kannur Food Point](https://maps.app.goo.gl/4eZQunaDMazbhaeH7)    | Kerala            | ₹250                 | 8 min walk              | Chicken with Parotta is legendary, reach before 1 PM.                  |
 | [Abees Mess](https://maps.app.goo.gl/245StmzRgXw8NFaSA)          | Kerala / Budget   | ₹150                 | 6 min walk              | Fish curry meals are cheap, filling, and taste like home food.                      |
 
 ----------
