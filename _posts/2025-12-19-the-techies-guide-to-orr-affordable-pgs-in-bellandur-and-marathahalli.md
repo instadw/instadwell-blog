@@ -84,7 +84,7 @@ Since Central Mall is undergoing changes, locals have shifted their hangout spot
 
 -   Shopping & Movies: Most residents head to [Nexus Whitefield](https://maps.google.com/?q=Nexus+Whitefield+Bangalore) or [Phoenix Marketcity](https://maps.google.com/?q=Phoenix+Marketcity+Bangalore) (a short drive away) for the best brands and IMAX.
     
--   Nature Escapes:
+   **Nature Escapes:**
     
 
 -   [Agara Lake](https://maps.google.com/?q=Agara+Lake+Bangalore): Great for morning jogs and sunset walks.
