@@ -30,7 +30,7 @@ When we strip out the school data and compare "apples to apples" (University stu
     src="../images/hidden-decline-indian-university-migration.webp"
     alt="Hidden decline in Indian university migration statistics for 2024 and 2025"
     style="max-width:100%; height:auto;"
-    loading="lazy"
+    loading="fast"
   >
   <p style="font-size:14px; color:#666;">
     Source: Ministry of External Affairs, India (2024–2025)
