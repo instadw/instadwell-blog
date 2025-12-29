@@ -13,7 +13,7 @@ If you have read the headlines this month, you have likely seen a staggering fig
 
 But if you are a university stakeholder, a student housing provider, or an investor, you might be wondering: “If numbers are up 40%, why are university applications to the UK and Canada flatlining?”
 
-At InstaDwell, we combined official Ministry of External Affairs (MEA) data with our own "Social Sentiment Analysis" of recent discussions on Reddit communities like r/Indians_StudyAbroad and r/UniUK.
+At [InstaDwell](https://instadwell.com/), we combined official Ministry of External Affairs (MEA) data with our own "Social Sentiment Analysis" of recent discussions on Reddit communities like r/Indians_StudyAbroad and r/UniUK.
 
 The reality? The "boom" is a statistical illusion. The "University Recession" is real.
 
@@ -81,7 +81,7 @@ For the first time, we modeled the "Economic Reality" of a student living in maj
 | Toronto | CAD 1,400+                 | ~CAD 1,300                            | ~108%                     | Unsustainable         |
 
 
-The Insight: In London and Toronto, a student cannot survive on part-time work alone; they require significant parental support. In Germany, the math still (barely) works. This economic hard-stop is the primary driver of the migration shift we are seeing in the MEA data.
+**The Insight:** In [London](https://instadwell.com/search?lat=51.5072178&lng=-0.1275862&location=London%2C%20UK&city=London&country=United%20Kingdom) and [Toronto](https://instadwell.com/search?lat=43.653226&lng=-79.3831843&location=Toronto%2C%20ON%2C%20Canada&city=Toronto&country=Canada), a student cannot survive on part-time work alone; they require significant parental support. In Germany, the math still (barely) works. This economic hard-stop is the primary driver of the migration shift we are seeing in the MEA data.
 
 ----------
 
@@ -140,9 +140,9 @@ The 2025 student migration story isn't about "record growth." It is about correc
 
 As the Anglosphere tightens its borders and raises its rents, the flow of Indian talent is finding new paths. The next wave of growth will not come from traditional hubs, but from "Value Destinations" like Germany and the resilient "Medical Belt."
 
-----------
 
--   Data Sources:  Ministry of External Affairs (India) Reports 2024 & 2025; Reddit Community Analysis (r/Indians_StudyAbroad, r/UniUK - Dec 2025); InstaDwell Market Rent Index Q4 2025.
+
+
 
 
 
