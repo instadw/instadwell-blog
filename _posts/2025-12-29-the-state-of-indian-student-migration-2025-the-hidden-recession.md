@@ -25,15 +25,17 @@ The massive growth in the headline number comes from a change in government repo
 
 When we strip out the school data and compare "apples to apples" (University students only), the trend reverses entirely.
 
-<div style="text-align:center; margin: 30px 0;">
+<div style="text-align:center; margin:30px 0;">
   <img 
-    src="images/hidden-decline-indian-university-migration.webp" 
-    alt="Hidden decline in Indian university migration statistics for 2024 and 2025" 
-    style="max-width:100%; height:auto; border-radius:8px;"
+    src="./images/hidden-decline-indian-university-migration.webp"
+    alt="Hidden decline in Indian university migration statistics for 2024 and 2025"
+    style="max-width:100%; height:auto;"
+    loading="lazy"
   >
-  <p style="font-size:14px; color:#666; margin-top:8px;">
+  <p style="font-size:14px; color:#666;">
     Source: Ministry of External Affairs, India (2024–2025)
   </p>
 </div>
+
 
 
