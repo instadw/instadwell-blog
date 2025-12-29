@@ -13,8 +13,6 @@ If you have read the headlines this month, you have likely seen a staggering fig
 
 But if you are a university stakeholder, a student housing provider, or an investor, you might be wondering: “If numbers are up 40%, why are university applications to the UK and Canada flatlining?”
 
-At [InstaDwell](https://instadwell.com/), we combined official Ministry of External Affairs (MEA) data with our own "Social Sentiment Analysis" of recent discussions on Reddit communities like r/Indians_StudyAbroad and r/UniUK.
-
 The reality? The "boom" is a statistical illusion. The "University Recession" is real.
 
 ----------
