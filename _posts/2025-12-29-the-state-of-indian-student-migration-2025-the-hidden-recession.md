@@ -27,16 +27,16 @@ When we strip out the school data and compare "apples to apples" (University stu
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="../images/hidden-decline-indian-university-migration.webp"
+    src="/images/hidden-decline-indian-university-migration.webp"
     alt="Hidden decline in Indian university migration statistics for 2024 and 2025"
     style="max-width:100%; height:auto;"
-    loading="fast"
+    loading="lazy"
   >
   <p style="font-size:14px; color:#666;">
     Source: Ministry of External Affairs, India (2024–2025)
   </p>
 </div>
-
+https://username.github.io/repo/images/hidden-decline-indian-university-migration.webp
 
 (While total numbers are up, university-level enrollments have actually dropped by ~6%.)
 
@@ -92,16 +92,16 @@ The data also reveals a massive geographic split that distorts the global number
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="../images/hidden-decline-indian-university-migration.webp"
+    src="/images/hidden-decline-indian-university-migration.webp"
     alt="Hidden decline in Indian university migration statistics for 2024 and 2025"
     style="max-width:100%; height:auto;"
-    loading="fast"
+    loading="lazy"
   >
   <p style="font-size:14px; color:#666;">
     Source: Ministry of External Affairs, India (2024–2025)
   </p>
 </div>
-
+https://username.github.io/repo/images/hidden-decline-indian-university-migration.webp
 
 (The UAE is a family market. The USA is a university market. Don't confuse the two.)
 
