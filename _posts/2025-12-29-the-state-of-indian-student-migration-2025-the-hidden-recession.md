@@ -91,16 +91,15 @@ The data also reveals a massive geographic split that distorts the global number
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/images/hidden-decline-indian-university-migration.webp"
-    alt="Hidden decline in Indian university migration statistics for 2024 and 2025"
-    style="max-width:100%; height:auto;"
+    src="assets/images/school-vs-university-indian-students.webp"
+    alt="School vs University: Share of Indian students in UAE and USA"
     loading="lazy"
+    style="max-width:100%; height:auto;"
   >
   <p style="font-size:14px; color:#666;">
-    Source: Ministry of External Affairs, India (2024–2025)
+    Source: Ministry of External Affairs, India (2025) · Visualization by InstaDwell
   </p>
 </div>
-https://username.github.io/repo/images/hidden-decline-indian-university-migration.webp
 
 (The UAE is a family market. The USA is a university market. Don't confuse the two.)
 
@@ -119,16 +118,15 @@ With the "Big 4" destinations becoming expensive or restrictive, Indian medical 
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="../images/hidden-decline-indian-university-migration.webp"
-    alt="Hidden decline in Indian university migration statistics for 2024 and 2025"
+    src="assets/images/medical-belt-indian-mbbs-destinations.webp"
+    alt="The Medical Belt: Where Indian students go abroad to study medicine (MBBS)"
+    loading="lazy"
     style="max-width:100%; height:auto;"
-    loading="fast"
   >
   <p style="font-size:14px; color:#666;">
-    Source: Ministry of External Affairs, India (2024–2025)
+    Source: Ministry of External Affairs, India (2025) · Medical student concentrations · Visualization by InstaDwell
   </p>
 </div>
-
 
 (Central Asia and Russia remain the primary hubs for budget medical education.)
 
