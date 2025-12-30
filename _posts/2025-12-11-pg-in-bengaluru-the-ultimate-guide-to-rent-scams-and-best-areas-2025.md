@@ -57,7 +57,7 @@ In Bengaluru, distance is measured in minutes, not kilometers. The golden rule i
     
 -   Ideal For: Folks working in startups who want a vibrant nightlife and don't mind paying a premium.
     
--   Rent Check: High. A single room in a PG in Koramangala can cost ₹15,000–₹25,000.
+-   Rent Check: High. A single room in a PG in [Koramangala](https://blog.instadwell.com/best-pgs-in-koramangala-hamburg-house-sg-palya-and-startup-stays) can cost ₹15,000–₹25,000.
     
 
 ### 2. The Tech Corridors: Electronic City & Whitefield
@@ -143,7 +143,7 @@ Yes. Since a huge chunk of Bengaluru's tech workforce is from North India, almos
 
 **Q: What is the best area for a fresher in IT?**
 
-If your office is in [Bellandur](https://blog.instadwell.com/the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli) or Marathahalli, look for PGs in nearby pockets like Green Glen Layout or Munnekollal to save money while staying close to work. If you are in Electronic City, stay inside Phase 1 to avoid the toll gate traffic.
+If your office is in [Bellandur](https://blog.instadwell.com/the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli) or [Marathahalli](https://blog.instadwell.com/the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli), look for PGs in nearby pockets like Green Glen Layout or Munnekollal to save money while staying close to work. If you are in Electronic City, stay inside Phase 1 to avoid the toll gate traffic.
 
 **Q: Is the water in Bengaluru PGs safe to drink?**
 
