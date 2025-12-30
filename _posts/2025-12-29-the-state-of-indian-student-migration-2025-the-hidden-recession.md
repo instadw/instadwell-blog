@@ -25,7 +25,7 @@ When we strip out the school data and compare "apples to apples" (University stu
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/assets/images/hidden-decline-indian-university-migration.webp"
+    src="/assets/images/the-hidden-decline-indian-university-migration.webp"
     alt="Hidden decline in Indian university migration statistics for 2024 and 2025"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -89,7 +89,7 @@ The data also reveals a massive geographic split that distorts the global number
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="assets/images/school-vs-university-indian-students.webp"
+    src="assets/images/school-vs-university-a-table-of-two-student-markets.webp"
     alt="School vs University: Share of Indian students in UAE and USA"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -116,7 +116,7 @@ With the "Big 4" destinations becoming expensive or restrictive, Indian medical 
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="assets/images/medical-belt-indian-mbbs-destinations.webp"
+    src="assets/images/the medical belt where indian studentds go to study medicine.webp"
     alt="The Medical Belt: Where Indian students go abroad to study medicine (MBBS)"
     loading="lazy"
     style="max-width:100%; height:auto;"
