@@ -143,7 +143,7 @@ Yes. Since a huge chunk of Bengaluru's tech workforce is from North India, almos
 
 **Q: What is the best area for a fresher in IT?**
 
-If your office is in Bellandur or Marathahalli, look for PGs in nearby pockets like Green Glen Layout or Munnekollal to save money while staying close to work. If you are in Electronic City, stay inside Phase 1 to avoid the toll gate traffic.
+If your office is in [Bellandur](https://blog.instadwell.com/the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli) or Marathahalli, look for PGs in nearby pockets like Green Glen Layout or Munnekollal to save money while staying close to work. If you are in Electronic City, stay inside Phase 1 to avoid the toll gate traffic.
 
 **Q: Is the water in Bengaluru PGs safe to drink?**
 
