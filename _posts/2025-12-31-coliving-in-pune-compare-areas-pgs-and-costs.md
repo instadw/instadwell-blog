@@ -62,13 +62,13 @@ The prices below reflect managed / branded coliving spaces, not local PGs.
 
 | Area        | Average Monthly Cost |
 | ----------- | -------------------- |
-| Viman Nagar | ₹8,000 – ₹16,000     |
-| Hinjewadi   | ₹7,000 – ₹13,000     |
-| Wakad       | ₹7,000 – ₹12,000     |
-| Baner       | ₹9,000 – ₹15,000     |
-| Kharadi     | ₹8,000 – ₹14,000     |
-| Hadapsar    | ₹7,000 – ₹12,000     |
-| Magarpatta  | ₹8,000 – ₹14,000     |
+| [Viman Nagar](https://instadwell.com/search?lat=18.5678553&lng=73.9143637&location=Viman%20Nagar%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India) | ₹8,000 – ₹16,000     |
+| [Hinjewadi](https://instadwell.com/search?lat=18.5912716&lng=73.73890899999999&location=Hinjawadi%2C%20Pune%2C%20Pimpri-Chinchwad%2C%20Maharashtra%2C%20India&city=Pune&country=India)   | ₹7,000 – ₹13,000     |
+| [Wakad](https://instadwell.com/search?lat=18.5869809&lng=73.7591762&location=Wakad%20Brg%2C%20Patil%20Nagar%2C%20Balewadi%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India)       | ₹7,000 – ₹12,000     |
+| [Baner](https://instadwell.com/search?lat=18.5642452&lng=73.7768511&location=Baner%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India)       | ₹9,000 – ₹15,000     |
+| [Kharadi]( https://instadwell.com/search?lat=18.5539311&lng=73.9476257&location=Kharadi%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India_    | ₹8,000 – ₹14,000     |
+| [Hadapsar](https://instadwell.com/search?lat=18.508934&lng=73.92591019999999&location=Hadapsar%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India)    | ₹7,000 – ₹12,000     |
+| [Magarpatta](https://instadwell.com/search?lat=18.5158057&lng=73.9271644&location=Magarpatta%2C%20Hadapsar%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India)  | ₹8,000 – ₹14,000     |
 
 Shared rooms start cheaper. Private rooms, AC, and premium locations push prices upward.
 
@@ -300,5 +300,5 @@ When chosen wisely, coliving offers:
 
 It may not be the cheapest option, but for many, it’s the smoothest way to start life in Pune.
 
-Search Verified Coliving Spaces in Pune
+[Search Verified Coliving Spaces in Pune](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune)
 
