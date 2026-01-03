@@ -38,7 +38,7 @@ Ideal for professionals working in Hinjewadi, Kharadi, Magarpatta, and Baner. St
 
 ### Startups & Entrepreneurs
 
-Flexible stays, furnished spaces, and shorter notice periods make coliving attractive for founders, freelancers, and early-stage startup teams.
+Flexible stays, furnished spaces, and shorter notice periods make coliving attractive for founders, freelancers, and early stage startup teams.
 
 ----------
 
@@ -164,7 +164,7 @@ If affordability + convenience matter, these areas stand out:
 
 Most coliving spaces offer:
 
--   Wi-Fi (speed & limits vary — always test)
+-   Wi-Fi (speed & limits vary always test)
     
 -   Meals (convenient, not gourmet)
     
@@ -247,7 +247,7 @@ Residents often complain about:
 -   Strict rules and curfews
     
 
-These issues are less frequent in managed coliving, but they still exist—due diligence matters.
+These issues are less frequent in managed coliving, but they still exist, due diligence matters.
 
 ----------
 
@@ -285,7 +285,7 @@ Unlike local PGs, branded coliving spaces often have a 3–6 month lock-in perio
 
 ## Is Coliving in Pune Worth It?
 
-For most students, professionals, and first-time movers — yes.
+For most students, professionals, and first-time movers yes.
 
 When chosen wisely, coliving offers:
 
