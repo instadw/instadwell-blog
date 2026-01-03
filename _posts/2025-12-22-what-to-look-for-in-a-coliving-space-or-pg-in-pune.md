@@ -131,7 +131,7 @@ Always see the exact room you’ll be staying in.
 
 ## 6. Real Problems You Should Know Before Moving to a PG or Coliving in Pune
 
-Water & Electricity Issues
+**Water & Electricity Issues**
 
 -   Many societies depend on tanker water, even when “corporation water” is promised
     
@@ -142,7 +142,7 @@ Water & Electricity Issues
 -   Power cuts still occur in some outskirts despite claims of backup (especially during peak summer)
     
 
-Hygiene & Pest Problems
+**Hygiene & Pest Problems**
 
 -   Bed bugs are common in older PGs with frequent tenant turnover
     
@@ -151,7 +151,7 @@ Hygiene & Pest Problems
 -   Washrooms may look clean during visits but degrade quickly
     
 
-Distance vs Reality
+**Distance vs Reality**
 
 -   “10 minutes from Hinjewadi” can actually mean 45 minutes during peak hours
     
@@ -160,7 +160,7 @@ Distance vs Reality
 -   Pune's traffic can turn a “10-minute distance” into a 45-minute commute. Choose your location wisely.
     
 
-Agreement Gaps
+**Agreement Gaps**
 
 -   Rules change after moving in
     
@@ -177,7 +177,7 @@ Knowing these problems upfront helps you ask better questions before booking.
 
 Hygiene issues rarely show up in listing photos, but they matter long-term.
 
-Check during a visit:
+**Check during a visit:**
 
 -   Washroom cleanliness
     
@@ -218,7 +218,7 @@ Flexibility matters more than luxury.
 
 9. How InstaDwell Fits Into This Process  
 
-InstaDwell is a student and coliving accommodation discovery platform, not a broker or leasing agent. We exist to help you find organized, professional housing options in a market flooded with unorganized PGs.
+InstaDwell is a student and [coliving accommodation](https://blog.instadwell.com/how-to-find-the-best-student-accommodation-online-easy-guide) discovery platform, not a broker or leasing agent. We exist to help you find organized, professional housing options in a market flooded with unorganized PGs.
 
 **What InstaDwell Helps With:**
 
