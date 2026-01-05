@@ -34,13 +34,13 @@ Before you search for "best PG near me," you must know your zone. Electronic Cit
 | **Best For**      | Social butterflies & Infosys employees                                                | People who want silence & work at Tech Mahindra                                       |
 
 
-**Pro Tip:** Most "luxury" coliving spaces in Electronic City are clustered in Phase 1 near Neeladri Road.
+**Pro Tip:** Most "luxury" [coliving spaces](https://blog.instadwell.com/what-to-look-for-in-a-coliving-space-or-pg-in-pune) in Electronic City are clustered in Phase 1 near Neeladri Road.
 
 ----------
 
 ## High Demand Areas & "Ghost Listings"
 
-If you have been searching online, you might have looked for viral properties like "Stanza Living Lisbon House" or "HelloWorld Infinity."
+If you have been searching online, you might have looked for viral properties like "Stanza Living Lisbon House" or "[HelloWorld Infinity.](https://instadwell.com/properties/3178-helloworld)"
 
 **The Reality Check:**
 
@@ -81,7 +81,7 @@ If you choose Phase 1, your life will revolve around Neeladri Road. Make no mist
 
 ----------
 
-## 🕵️ Insider Hacks: Surviving Electronic City
+## Insider Hacks: Surviving Electronic City
 
 Beyond the rent, here are the logistical details that will define your daily life.
 
