@@ -30,9 +30,8 @@ If you’re primarily looking for low-cost options, also read our detailed guide
 
 ----------
 
-### [IT Professionals](https://blog.instadwell.com/best-pgs-in-hinjewadi-for-it-professionals)
-
-Ideal for professionals working in Hinjewadi, Kharadi, Magarpatta, and Baner. Staying close to tech parks reduces commute time, fuel costs, and daily fatigue.
+### IT Professionals
+Ideal for professionals working in [Hinjewadi](https://blog.instadwell.com/best-pgs-in-hinjewadi-for-it-professionals), [Kharadi,](https://instadwell.com/search?lat=18.5539311&lng=73.9476257&location=Kharadi%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India) Magarpatta, and [Baner](https://instadwell.com/search?lat=18.5642452&lng=73.7768511&location=Baner%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India). Staying close to tech parks reduces commute time, fuel costs, and daily fatigue.
 
 ----------
 
@@ -70,7 +69,7 @@ The prices below reflect managed / branded coliving spaces, not local PGs.
 | [Hadapsar](https://instadwell.com/search?lat=18.508934&lng=73.9259102&location=Hadapsar%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India)                                   | ₹7,000 – ₹12,000     |
 | [Magarpatta](https://instadwell.com/search?lat=18.5158057&lng=73.9271644&location=Magarpatta%2C%20Hadapsar%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India)                | ₹8,000 – ₹14,000     |
 
-Shared rooms start cheaper. Private rooms, AC, and premium locations push prices upward.
+[Shared rooms]((https://blog.instadwell.com/sharing-rooms-in-pune-affordable-student-pgs)) start cheaper. Private rooms, AC, and premium locations push prices upward.
 
 ----------
 
@@ -206,7 +205,7 @@ For a deeper breakdown of safety red flags, refer to our First-Time Mover’s Gu
 
 ## Food Reality: Convenience vs Control
 
-Most coliving spaces provide meals, but there’s a trade-off.
+Most [Coliving Space](https://blog.instadwell.com/what-to-look-for-in-a-coliving-space-or-pg-in-pune) provide meals, but there’s a trade-off.
 
 ### The “Menu Fatigue” Reality
 
@@ -230,7 +229,7 @@ In small PGs, you might convince the owner to adjust meals. In branded coliving,
 
 ----------
 
-## Common Problems in PGs & [Shared Rooms](https://blog.instadwell.com/sharing-rooms-in-pune-affordable-student-pgs)
+## Common Problems in PGs & Shared Rooms
 
 (Why People Shift to Coliving)
 
@@ -263,20 +262,21 @@ Living close to work or college can save 2–4 hours daily, improving health, pr
 
 Pune offers PMPML buses, BRT routes, and an expanding metro network.
 
-Important Note:  
+**Important Note:**  
 The Aqua Line Metro connects Vanaz (Kothrud) to Viman Nagar (Ramwadi), but Hinjewadi (Phase 1–3) remains dependent on road transport.
 
 Traffic during peak hours remains a major factor in housing decisions.
 
 ----------
 
-## Final Tips Before Choosing a [Coliving Space](https://blog.instadwell.com/what-to-look-for-in-a-coliving-space-or-pg-in-pune)
+## Final Tips Before Choosing a Coliving Space
 
 ✔ Visit the property in person  
 ✔ Talk to existing residents  
 ✔ Check agreement terms carefully  
 ✔ Confirm deposit refund rules  
 ✔ Compare at least 2–3 options
+
 ✔ Check the Lock-in Period 
 Unlike local PGs, branded coliving spaces often have a 3–6 month lock-in period, with penalty clauses for early exit.
 
