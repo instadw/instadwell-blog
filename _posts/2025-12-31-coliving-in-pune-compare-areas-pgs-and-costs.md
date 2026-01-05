@@ -276,8 +276,8 @@ Traffic during peak hours remains a major factor in housing decisions.
 ✔ Check agreement terms carefully  
 ✔ Confirm deposit refund rules  
 ✔ Compare at least 2–3 options
-✔ Check the Lock-in Period 
-Unlike local PGs, branded coliving spaces often have a 3–6 month lock-in period, with penalty clauses for early exit.
+
+Check the Lock-in Period Unlike local PGs, branded coliving spaces often have a 3–6 month lock-in period, with penalty clauses for early exit.
 
 ----------
 
