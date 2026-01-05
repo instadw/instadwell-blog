@@ -15,7 +15,7 @@ Finding the right PG in [Hinjewadi](https://instadwell.com/search?lat=18.5912716
 
 Between fake listings, water shortages, power cuts, overcrowded rooms, and misleading photos, many people regret their first accommodation choice.
 
-This guide focuses only on verified, branded PGs and coliving spaces that are discoverable on platforms like InstaDwell, helping you shortlist safely and realistically.
+This guide focuses only on verified, branded PGs and coliving spaces that are discoverable on platforms like [InstaDwell](https://instadwell.com/), helping you shortlist safely and realistically.
 
 ----------
 
@@ -199,7 +199,7 @@ Branded coliving operators usually have long-term water contracts, reducing dail
 ### Power Cuts
 
 Multi-hour power cuts are common.  
-✔ Always confirm 24/7 DG backup — don’t accept “inverter” as a substitute.
+✔ Always confirm 24/7 DG backup don’t accept “inverter” as a substitute.
 
 ----------
 
@@ -263,7 +263,7 @@ Most IT professionals start with coliving, then move to flats later.
 
 ## Hinjewadi vs Wakad / Baner / Balewadi
 
-Many professionals choose to live outside Hinjewadi.
+Many professionals choose to live outside [Hinjewadi](https://instadwell.com/search?lat=18.5912716&lng=73.73890899999999&location=Hinjawadi%2C%20Pune%2C%20Pimpri-Chinchwad%2C%20Maharashtra%2C%20India&city=Pune&country=India).
 
 Wakad / Baner / Balewadi offer:
 
@@ -274,7 +274,7 @@ Wakad / Baner / Balewadi offer:
 -   Better social life
     
 
-Note: Living in Wakad offers better lifestyle, but be prepared for the Bhumkar Chowk traffic bottleneck, which can add 20–30 minutes to your commute during peak hours.
+Note: Living in Wakad offers better lifestyle, but be prepared for the [Bhumkar Chowk](https://www.google.com/maps/search/Bhumkar+Chowk/@18.6058398,73.7534511,16z?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D) traffic bottleneck, which can add 20–30 minutes to your commute during peak hours.
 
 If walkable distance to office matters, Hinjewadi Phase 1 still makes sense.
 
@@ -284,7 +284,7 @@ If walkable distance to office matters, Hinjewadi Phase 1 still makes sense.
 
 **Future Alert:** 
 
-The upcoming Metro Line 3 will connect Hinjewadi directly to Shivajinagar, but until it becomes operational (expected 2025–26), road transport is your only option.
+The upcoming Metro Line 3 will connect Hinjewadi directly to [Shivajinagar](https://www.google.com/maps/place/Shivajinagar,+Pune,+Maharashtra/@18.5330121,73.7684764,13z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c0791d785177:0x20d86a81ca743dc8!8m2!3d18.530263!4d73.8498588!16s%2Fg%2F11g6wd1w69?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D), but until it becomes operational (expected 2025–26), road transport is your only option.
 
 Plan housing assuming current traffic conditions, not future promises.
 
