@@ -6,7 +6,7 @@ layout: post
 permalink: /:title
 author: Sanchit
 category: Student
-date: date: 2026-01-13 09:14:00 +0530
+date:  2026-01-13 09:14:00 +0530
 ---
 
 The NITI Aayog’s recent report, ["Internationalisation of Higher Education in India"](https://niti.gov.in/sites/default/files/2025-12/Internationalisation_of_Higher_Education_in_India_Report.pdf), paints a bold vision for 2047: India as a global "Vishwa Guru," hosting over 11 Lakh (1.1 million) international students. It is an ambitious blueprint designed to reverse the staggering capital flight caused by Indian students migrating abroad.
