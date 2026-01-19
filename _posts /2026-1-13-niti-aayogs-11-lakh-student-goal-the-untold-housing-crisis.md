@@ -1,5 +1,5 @@
 ---
-title: " NITI Aayog's 11 Lakh Student Goal The Untold Housing Crisis "
+title: " NITI Aayogs 11 Lakh Student Goal The Untold Housing Crisis "
 description: " India targets 11 lakh foreign students by 2047 but lacks beds. We analyze the NITI Aayog report, the $70B drain, and the PBSA housing opportunity."
 image: "/assets/images/niti-aayogs-11-lakh-student-goal-the-untold-housing-crisis.webp"
 layout: post
