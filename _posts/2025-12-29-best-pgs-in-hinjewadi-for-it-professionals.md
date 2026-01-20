@@ -48,7 +48,7 @@ That’s why choosing the right phase and operator matters more than choosing th
 
 **Best for:** Wipro, Infosys, Cognizant, Accenture employees
 
-### 1. Zolo Braavos / Zolo Firefly
+### 1. [Zolo Braavos](https://instadwell.com/properties/2456-zolo-braavos) / [Zolo Firefly](
 
 Best for: Freshers & professionals who like community living
 
