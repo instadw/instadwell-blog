@@ -114,7 +114,7 @@ This is a student-heavy area, so the amenities cater to a younger crowd. Here is
 | Amenity              | What to Expect in Sector 46                                                                                              |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Food & Meals**     | Tiffin services dominate. Unlike premium PGs with in-house chefs, most students depend on local tiffins (~₹3,000/month). |
-| **Gyms & Fitness**   | Multiple gyms available (including Cult), but they get overcrowded—avoid the 7 PM rush.                                  |
+| **Gyms & Fitness**   | Multiple gyms available (including Cult), but they get overcrowded avoid the 7 PM rush.                                  |
 | **Electricity Bill** | Prepaid meters are common. Budget an extra **₹1,500–₹2,000** for AC usage during summer.                                 |
 | **Internet**         | Generally strong fiber connectivity (Airtel/Jio) due to the student-heavy population.                                    |
 | **Water Supply**     | Mostly reliable, but confirm tanker dependency during peak summer months.                                                |
