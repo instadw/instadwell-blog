@@ -1,6 +1,6 @@
 ---
 title: "Sector 46 & HUDA City Centre The Commuter’s Goldmine (2026 Guide)"
-description: "  Moving to Gurgaon on a budget? Discover why Sector 46 is the "Goldmine" near HUDA City Centre. Get real rent rates, commute hacks & Sector 38 comparisons."
+description: " Moving to Gurgaon on a budget? Discover why Sector 46 is the Goldmine near HUDA City Centre. Get real rent rates, commute hacks & Sector 38 comparisons."
 image: "/assets/images/sector-46-and-huda-city-centre-the-commuters-goldmine-2026-guide.webp"
 layout: post
 permalink: /:title
