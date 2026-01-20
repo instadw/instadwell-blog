@@ -113,13 +113,13 @@ Can unmarried couples live together in PGs?
 ## The Final Verdict: Where Should You Live?
 
 **Screenshot this:** Your quick decision matrix.
+
 | If you are…                 | You should live in…                     | Why?                                                                         |
 | --------------------------- | --------------------------------------- | ---------------------------------------------------------------------------- |
 | **A DU Student**            | **North Delhi (GTB Nagar)**             | Walkable to campus, strong student vibes, and affordable food                |
 | **Working in Cyber City**   | **Gurgaon (DLF Phase 4 / Sector 25)**   | Walk to work and completely avoid daily traffic jams                         |
 | **Budget-Conscious Techie** | **Noida (Sector 62 / 70s)**             | Get amenities like a swimming pool & gym for the price of a small Delhi room |
 | **Culture Vulture**         | **South Delhi (Saket / Malviya Nagar)** | Best crowd and cafés; just verify parking availability beforehand            |
-
 
 ### Conclusion
 
