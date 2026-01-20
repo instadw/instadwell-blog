@@ -52,6 +52,7 @@ Here is the secret brokers won't tell you: You don't need to live inside the exp
 ----------
 
 ##  DLF Phase 4 vs. Sector 27: The Price of "Posh"
+
 | Feature                      | **DLF Phase 4 (The Brand)**  | **Sector 27/28 (The Hack)**  |
 | ---------------------------- | ---------------------------- | ---------------------------- |
 | **Walking Time to Galleria** | 1–5 mins                     | 10–15 mins                   |
