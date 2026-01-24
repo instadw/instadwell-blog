@@ -10,7 +10,7 @@ date: 2026-1-19T09:14:00.000+05:30
 ---
 
 
-If you have secured a seat in [SRCC](https://www.srcc.edu/), [Hindu], [Hansraj](https://www.hansrajcollege.ac.in/), Kirori Mal, or [Miranda House](https://www.mirandahouse.ac.in/), congratulations. You have won the academic lottery.
+If you have secured a seat in [SRCC](https://www.srcc.edu/), Hindu, [Hansraj](https://www.hansrajcollege.ac.in/), Kirori Mal, or [Miranda House](https://www.mirandahouse.ac.in/), congratulations. You have won the academic lottery.
 
 Now comes the harder part: Finding a North Campus PG that doesn't bankrupt you or melt you in the Delhi heat.
 
