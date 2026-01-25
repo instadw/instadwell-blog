@@ -37,12 +37,12 @@ image: /images/blog.png
       {% assign all_posts = pinned_posts | concat: regular_posts %}
       {% for post in all_posts %}
       <div class="col-md-3">
-        <a href="{{ post.url }}" class="text-decoration-none text-dark">
+        <a href="{{ site.url }}{{ post.url }}" class="text-decoration-none text-dark">
           <div
             class="card h-100 shadow-sm border-0 blog-card hover-animate-card"
           >
             <img
-              src="{{ post.image }}"
+              src="{{ site.url }}{{ post.image }}"
               class="card-img-top"
               alt="{{ post.title }}"
               style="object-fit: cover"
