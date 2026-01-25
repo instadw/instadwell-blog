@@ -13,6 +13,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 gem "jekyll-paginate"
+gem "jekyll-sitemap"
 
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
