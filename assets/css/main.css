@@ -105,7 +105,7 @@ h1 {
 /* FOOTER */
 
 .footer {
-  background: url("/assets/images/footer-bg.jpg") no-repeat center center/cover;
+  background: url("{{ site.url }}/assets/images/footer-bg.jpg") no-repeat center center/cover;
 }
 
 .footer__about ul li {
