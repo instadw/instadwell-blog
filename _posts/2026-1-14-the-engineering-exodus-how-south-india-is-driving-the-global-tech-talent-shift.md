@@ -24,7 +24,7 @@ According to [Ministry of External Affairs data](https://www.mea.gov.in/), the t
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/assets/images/the-exodus-map-which-indian-states-are-emptying-out.webp"
+    src="{{ site.url }}/assets/images/the-exodus-map-which-indian-states-are-emptying-out.webp"
     alt="The Exodus Map showing Indian states with highest outbound students and regional brain drain patterns"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -44,7 +44,7 @@ When we look at what these students are studying, the connection to the "Souther
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/assets/images/what-indian-students-study-abroad.webp"
+    src="{{ site.url }}/assets/images/what-indian-students-study-abroad.webp"
     alt="What Indian students study abroad by academic stream showing dominance of engineering and STEM fields"
     loading="lazy"
     style="max-width:100%; height:auto;"

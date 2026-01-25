@@ -25,7 +25,7 @@ When we strip out the school data and compare "apples to apples" (University stu
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/assets/images/the-hidden-decline-in-indian-university-migration.webp"
+    src="{{ site.url }}/assets/images/the-hidden-decline-in-indian-university-migration.webp"
     alt="Hidden decline in Indian university migration statistics for 2024 and 2025"
     loading="lazy"
     style="max-width:100%; height:auto;"

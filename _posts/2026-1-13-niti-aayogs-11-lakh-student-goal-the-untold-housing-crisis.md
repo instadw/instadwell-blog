@@ -21,7 +21,7 @@ Currently, the math is overwhelmingly against us. For every one international st
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/assets/images/india-student-mobility-gap.webp"
+    src="{{ site.url }}/assets/images/india-student-mobility-gap.webp"
     alt="India’s student mobility gap showing outgoing Indian students vs incoming foreign students"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -42,7 +42,7 @@ The report explicitly identifies the barriers preventing this inflow. It is not 
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/assets/images/why-global-students-skip-india-the-5-systemic-hurdles.webp"
+    src="{{ site.url }}/assets/images/why-global-students-skip-india-the-5-systemic-hurdles.webp"
     alt="Why global students skip India showing five systemic hurdles including visa, curriculum, housing, culture, and jobs"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -63,7 +63,7 @@ To put that number in perspective, look at the gap between what we spend vs. wha
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/assets/images/the-great-indian-capital-flight.webp"
+    src="{{ site.url }}/assets/images/the-great-indian-capital-flight.webp"
     alt="The Great Indian Capital Flight showing Indian students spending $70 billion abroad versus India’s higher education budget of $7 billion"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -83,7 +83,7 @@ To move from our current ~47,000 international students to the targeted 11 Lakh,
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/assets/images/ambition-vs-reality-india-international-student-capacity.webp"
+    src="{{ site.url }}/assets/images/ambition-vs-reality-india-international-student-capacity.webp"
     alt="Ambition vs reality showing India’s international student capacity gap between current levels and NITI Aayog 2047 target"
     loading="lazy"
     style="max-width:100%; height:auto;"
