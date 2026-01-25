@@ -1,76 +1,284 @@
-<footer class="footer py-5">
-  <div class="container">
-    <div class="footer__content">
-      <div class="row">
-        <div class="col-lg-3 col-md-6 col-sm-6">
-          <div class="footer__about">
-            <div class="footer__logo">
-              <img
-                src="{{ site.url }}/assets/images/instadwell-logo.png"
-                height="70px"
-                alt="instadwell"
-              />
-              <p class="px-2 text-white">
-                Discover verified coliving and student accommodation across the
-                globe
-              </p>
-            </div>
-          </div>
-        </div>
+<style>
+	.footer {
+		padding: 60px 0 30px;
+		/*  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); */
+		background: #181818;
+		position: relative;
+	}
 
-        <div class="offset-lg-1 col-md-5 col-sm-6">
-          <div class="footer__widget">
-            <ul>
-              <li><a href="/">Home</a></li>
-              <li>
-                <a href="https://instadwell.com/about" target="_blank"
-                  >About Us</a
-                >
-              </li>
-              <li>
-                <a href="https://instadwell.com/contact" target="_blank"
-                  >Contact Us</a
-                >
-              </li>
-            </ul>
-            <ul>
-              <li><h5 class="mb-3 text-white">Social Media Links:</h5></li>
-              <li>
-                <a
-                  href="https://www.instagram.com/instadwell_official/"
-                  target="_blank"
-                  style="color: #4d525c"
-                  ><i class="fa-brands fa-instagram fa-lg icon"></i
-                ></a>
-                <a
-                  href="https://www.linkedin.com/company/instadwell-coliving-and-student-accommodations/"
-                  target="_blank"
-                  style="color: #4d525c; padding-left: 5px"
-                  ><i class="fa-brands fa-linkedin fa-lg icon"></i
-                ></a>
-                <a
-                  href="https://www.facebook.com/share/1ChtB5KjJa/"
-                  target="_blank"
-                  style="color: #4d525c; padding-left: 5px"
-                  ><i class="fa-brands fa-facebook fa-lg icon"></i
-                ></a>
-                <a
-                  href="https://x.com/InstaDwell12"
-                  target="_blank"
-                  style="color: #4d525c; padding-left: 5px"
-                  ><i class="fa-brands fa-twitter fa-lg icon"></i
-                ></a>
-                <a
-                  href="https://www.youtube.com/@InstaDwell"
-                  target="_blank"
-                  style="color: #4d525c; padding-left: 5px"
-                  ><i class="fa-brands fa-youtube fa-lg icon"></i
-                ></a>
-              </li>
-            </ul>
-          </div>
+	.footer::before {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		height: 2px;
+		background: linear-gradient(90deg, transparent, #E9AD28, transparent);
+	}
+
+	.footer__logo img {
+		filter: brightness(1.1);
+		transition: transform 0.3s ease;
+	}
+
+	.footer__logo img:hover {
+		transform: scale(1.05);
+	}
+
+	.footer__tagline {
+		color: #b0b3b8;
+		font-size: 15px;
+		line-height: 1.6;
+		margin: 15px 0 25px;
+	}
+
+	.footer__company-links {
+		list-style: none;
+		padding: 0;
+		margin: 0 0 30px;
+	}
+
+	.footer__company-links li {
+		margin-bottom: 12px;
+	}
+
+	.footer__company-links li a {
+		color: #b0b3b8;
+		text-decoration: none;
+		font-size: 15px;
+		transition: all 0.3s ease;
+		display: inline-flex;
+		align-items: center;
+		gap: 8px;
+	}
+
+	.footer__company-links li a:hover {
+		color: #E9AD28;
+		padding-left: 8px;
+	}
+
+	.footer__company-links li a::before {
+		content: '→';
+		opacity: 0;
+		transition: opacity 0.3s ease;
+	}
+
+	.footer__company-links li a:hover::before {
+		opacity: 1;
+	}
+
+	.footer__social-links {
+		display: flex;
+		gap: 15px;
+		flex-wrap: wrap;
+		margin-top: 20px;
+	}
+
+	.footer__social-links a {
+		width: 40px;
+		height: 40px;
+		border-radius: 50%;
+		background: rgba(233, 173, 40, 0.1);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		color: #E9AD28;
+		font-size: 18px;
+		transition: all 0.3s ease;
+		text-decoration: none;
+	}
+
+	.footer__social-links a:hover {
+		background: #E9AD28;
+		color: #1a1a2e;
+		transform: translateY(-3px);
+		box-shadow: 0 5px 15px rgba(233, 173, 40, 0.3);
+	}
+
+	.footer__divider {
+		border-top: 1px solid rgba(255, 255, 255, 0.1);
+		margin: 40px 0 30px;
+	}
+
+	.footer__cities-section h3 {
+		color: #ffffff;
+		font-size: 24px;
+		font-weight: 600;
+		margin-bottom: 30px;
+		text-align: center;
+		position: relative;
+		padding-bottom: 15px;
+	}
+
+	.footer__cities-section h3::after {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 50%;
+		transform: translateX(-50%);
+		width: 80px;
+		height: 3px;
+		background: linear-gradient(90deg, transparent, #E9AD28, transparent);
+	}
+
+	.footer__country-block {
+		margin-bottom: 35px;
+	}
+
+	.footer__country-title {
+		color: #E9AD28;
+		font-size: 16px;
+		font-weight: 600;
+		margin-bottom: 15px;
+		text-transform: uppercase;
+		letter-spacing: 0.5px;
+		display: flex;
+		align-items: center;
+		gap: 8px;
+	}
+
+	.footer__country-title::before {
+		content: '📍';
+		font-size: 14px;
+	}
+
+	.footer__city-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+		gap: 8px 15px;
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+
+	.footer__city-grid li a {
+		color: #b0b3b8;
+		text-decoration: none;
+		font-size: 13px;
+		transition: all 0.3s ease;
+		display: block;
+		padding: 4px 0;
+		position: relative;
+	}
+
+	.footer__city-grid li a::after {
+		content: '';
+		position: absolute;
+		bottom: 2px;
+		left: 0;
+		width: 0;
+		height: 1px;
+		background: #E9AD28;
+		transition: width 0.3s ease;
+	}
+
+	.footer__city-grid li a:hover {
+		color: #E9AD28;
+		padding-left: 5px;
+	}
+
+	.footer__city-grid li a:hover::after {
+		width: 100%;
+	}
+
+	.footer__copyright {
+		border-top: 1px solid rgba(255, 255, 255, 0.1);
+		padding: 20px 0;
+		margin-top: 40px;
+		text-align: center;
+	}
+
+	.footer__copyright p {
+		color: #777C81;
+		margin: 0;
+		font-size: 14px;
+	}
+
+	.footer__copyright a {
+		color: #E9AD28;
+		text-decoration: none;
+	}
+
+	.footer__copyright a:hover {
+		text-decoration: underline;
+	}
+
+	@media (max-width: 768px) {
+		.footer__city-grid {
+			grid-template-columns: repeat(2, 1fr);
+			gap: 6px 10px;
+		}
+
+		.footer__cities-section h3 {
+			font-size: 20px;
+		}
+
+		.footer__country-block {
+			margin-bottom: 25px;
+		}
+	}
+</style>
+
+
+<!-- Footer Section Begin -->
+<footer class="footer">
+  <div class="container">
+    <!-- Company Info Section -->
+    <div class="row mb-4">
+      <div class="col-lg-6 col-md-6 mb-4">
+        <div class="footer__logo">
+          <img src="{{ site.url }}{{ '/assets/images/instadwell-logo.png'}}" height="70px" alt="InstaDwell" loading="lazy">
         </div>
+        <p class="footer__tagline">Discover verified coliving and student accommodation across the globe. Your trusted partner in finding the perfect home away from home.</p>
+				<div class="footer__social-links">
+          <a href="https://www.instagram.com/instadwell_official/" target="_blank" aria-label="Instagram">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a href="https://www.linkedin.com/company/instadwell-coliving-and-student-accommodations/" target="_blank" aria-label="LinkedIn">
+            <i class="fa-brands fa-linkedin"></i>
+          </a>
+          <a href="https://www.facebook.com/share/1ChtB5KjJa/" target="_blank" aria-label="Facebook">
+            <i class="fa-brands fa-facebook"></i>
+          </a>
+          <a href="https://x.com/InstaDwell12" target="_blank" aria-label="Twitter">
+            <i class="fa-brands fa-twitter"></i>
+          </a>
+          <a href="https://www.youtube.com/@InstaDwell" target="_blank" aria-label="YouTube">
+            <i class="fa-brands fa-youtube"></i>
+          </a>
+        </div>
+			</div>
+
+			<div class="col-lg-6 col-md-6 mb-4">
+        <ul class="footer__company-links">
+					<h4 class="footer__country-title">Company</h4>
+          <li><a href="https://instadwell.com/">Home</a></li>
+          <li><a href="https://instadwell.com/about">About Us</a></li>
+          <li><a href="https://instadwell.com/blog">Blog</a></li>
+          <li><a href="https://instadwell.com/contact">Contact Us</a></li>
+        </ul>
+
+        
       </div>
+
+    </div>
+
+   
+
+    <!-- Copyright -->
+    <div class="footer__copyright">
+      <p>&copy; {{ site.time | date: '%Y' }} InstaDwell. All rights reserved.</p>
     </div>
   </div>
 </footer>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YP9JFVED9E"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-YP9JFVED9E');
+</script>
+
+
