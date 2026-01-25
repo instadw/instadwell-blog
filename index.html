@@ -6,8 +6,128 @@ canonical_url: "https://blog.instadwell.com/"
 image: /images/blog.png
 ---
 
-<section class="py-5 bg-dark text-white">
-  <header class="page-bg-header text-center">
+<style>
+  .blog-hero {
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  }
+
+  .blog-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      radial-gradient(circle at 20% 80%, rgba(233, 173, 40, 0.15) 0%, transparent 50%),
+      radial-gradient(circle at 80% 20%, rgba(233, 173, 40, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 40% 40%, rgba(255, 255, 255, 0.05) 0%, transparent 30%);
+    animation: pulseGlow 8s ease-in-out infinite;
+  }
+
+  .blog-hero::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: 
+      linear-gradient(rgba(233, 173, 40, 0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(233, 173, 40, 0.03) 1px, transparent 1px);
+    background-size: 50px 50px;
+    animation: gridMove 20s linear infinite;
+  }
+
+  @keyframes pulseGlow {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+  }
+
+  @keyframes gridMove {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(50px, 50px); }
+  }
+
+  .floating-shapes {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    pointer-events: none;
+  }
+
+  .floating-shapes span {
+    position: absolute;
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: rgba(233, 173, 40, 0.1);
+    animation: floatUp 15s linear infinite;
+    border-radius: 50%;
+  }
+
+  .floating-shapes span:nth-child(1) { left: 10%; width: 80px; height: 80px; animation-delay: 0s; animation-duration: 20s; }
+  .floating-shapes span:nth-child(2) { left: 20%; width: 20px; height: 20px; animation-delay: 2s; animation-duration: 12s; }
+  .floating-shapes span:nth-child(3) { left: 35%; width: 40px; height: 40px; animation-delay: 4s; animation-duration: 18s; }
+  .floating-shapes span:nth-child(4) { left: 50%; width: 60px; height: 60px; animation-delay: 0s; animation-duration: 15s; }
+  .floating-shapes span:nth-child(5) { left: 65%; width: 30px; height: 30px; animation-delay: 3s; animation-duration: 14s; }
+  .floating-shapes span:nth-child(6) { left: 80%; width: 50px; height: 50px; animation-delay: 6s; animation-duration: 22s; }
+  .floating-shapes span:nth-child(7) { left: 90%; width: 25px; height: 25px; animation-delay: 8s; animation-duration: 16s; }
+
+  @keyframes floatUp {
+    0% { transform: translateY(100vh) rotate(0deg); opacity: 0; }
+    10% { opacity: 0.3; }
+    90% { opacity: 0.3; }
+    100% { transform: translateY(-100vh) rotate(720deg); opacity: 0; }
+  }
+
+  .blog-hero-content {
+    position: relative;
+    z-index: 1;
+  }
+
+  .blog-hero h1 {
+    text-shadow: 2px 2px 20px rgba(0, 0, 0, 0.3);
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+
+  .blog-hero .form-control {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(233, 173, 40, 0.3);
+    color: #fff;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+  }
+
+  .blog-hero .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .blog-hero .form-control:focus {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: #E9AD28;
+    box-shadow: 0 0 20px rgba(233, 173, 40, 0.3);
+    outline: none;
+  }
+</style>
+
+<section class="py-5 text-white blog-hero">
+  <div class="floating-shapes">
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+  <header class="page-bg-header text-center blog-hero-content">
     <h1>InstaDwell Blog</h1>
     <div class="row mb-4">
       <div class="col-md-4 mx-auto p-4">
@@ -29,6 +149,7 @@ image: /images/blog.png
     </div>
   </header>
 </section>
+
 <section class="py-5">
   <div class="container">
     <div class="row g-4">
