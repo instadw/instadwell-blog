@@ -356,6 +356,16 @@ pinned: true
         }
 
     </style>
+
+    <script>
+	// Redirect from blog.instadwell.com to instadwell.com/blog
+	(function() {
+		if (window.location.hostname === 'blog.instadwell.com') {
+			var newUrl = 'https://instadwell.com/blog' + window.location.pathname + window.location.search + window.location.hash;
+			window.location.replace(newUrl);
+		}
+	})();
+</script>
 </head>
 <body>
 
