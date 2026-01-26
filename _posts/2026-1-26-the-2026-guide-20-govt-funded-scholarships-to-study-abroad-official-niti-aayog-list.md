@@ -12,9 +12,9 @@ date: 2026-1-26T09:14:00.000+05:30
 
 Every year, thousands of Indian students study abroad without taking a single education loan.
 
-While studying abroad is often framed as a luxury, for many top talents, it is fully funded by the state. This list is based on the Government of India’s official 2026 report titled “Internationalisation of Higher Education in India” published by NITI Aayog, making this one of the most authoritative scholarship resources available online.
+While studying abroad is often framed as a luxury, for many top talents, it is fully funded by the state. This list is based on the Government of India’s official 2026 report titled “Internationalisation of Higher Education in India” published by [NITI Aayog](https://instadwell.com/blog/niti-aayogs-11-lakh-student-goal-the-untold-housing-crisis), making this one of the most authoritative scholarship resources available online.
 
-This guide reflects patterns from thousands of student housing searches on InstaDwell, where we see students pairing these funding options with affordable living solutions daily. We have decoded the official government data into a student-friendly guide, organized by category, so you can apply directly.
+This guide reflects patterns from thousands of student housing searches on InstaDwell, where we see students pairing these funding options with [affordable](https://instadwell.com/blog/affordable-student-accommodation-in-pune) living solutions daily. We have decoded the official government data into a student-friendly guide, organized by category, so you can apply directly.
 
 ----------
 
@@ -30,7 +30,7 @@ Applications for these are handled directly by the Ministry of Education (India)
     
 -   Benefits:  Fully Funded (Tuition + Living Allowances)
     
--    Apply Here: [Ministry of Education Portal](https://www.education.gov.in/scholarships)
+  **Apply Here:** [Ministry of Education Portal](https://www.education.gov.in/scholarships)
     
 
 ### 🇬🇧 Commonwealth Master’s Scholarship (UK)
@@ -43,7 +43,7 @@ Applications for these are handled directly by the Ministry of Education (India)
     
 -    Apply Here: [CSCUK Official Site](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/)
     
--   Planning for the UK? Check out our guide to [Student accommodation in the UK](https://www.google.com/search?q=https://instadwell.com/uk).
+-   Planning for the UK? Check out our guide to Student accommodation in the UK
     
 
 ### 🇹🇭 Chulabhorn Graduate Institute (Thailand)
@@ -51,8 +51,8 @@ Applications for these are handled directly by the Ministry of Education (India)
 -    Who is it for? Postgraduate Students (Bio-sciences, Env. Toxicology)
     
 -    Benefits: Tuition, Accommodation, Airfare, Visa Fees
-    
--    Apply Here: [CGI Admissions](https://www.google.com/search?q=https://www.cgi.ac.th/admissions/scholarships)
+
+   **Apply Here:** [CGI Admissions](https://www.cgi.ac.th/admissions/scholarships)
     
 
 ----------
@@ -67,7 +67,7 @@ The Ministry shares these, but the respective country selects you.
     
 -    Benefits:  ¥117,000/month (~₹69k) + Airfare + Tuition
     
--    Apply Here: [Embassy of Japan in India](https://www.google.com/search?q=https://www.in.emb-japan.go.jp/itpr_en/Education_Scholarships.html)
+**Apply Here:** [Embassy of Japan in India](https://www.in.emb-japan.go.jp/Education/japanese_government_scholarships.html)
     
 
 ### 🇬🇧 British Council Women in STEM (UK)
@@ -76,7 +76,7 @@ The Ministry shares these, but the respective country selects you.
     
 -    Benefits:  100% Full Funding (Tuition, Stipend, Visa, Travel)
     
--    Apply Here: [British Council India](https://www.google.com/search?q=https://www.britishcouncil.in/study-uk/scholarships/women-in-stem)
+**Apply Here:** [British Council India](https://www.britishcouncil.in/study-uk/scholarships/women-in-stem)
     
 
  Pro Tip: Already shortlisted a country? InstaDwell helps you find verified student housing near top universities to match your budget.
@@ -93,7 +93,7 @@ The Ministry shares these, but the respective country selects you.
     
 -    Benefits:  $15,400/year (Maintenance) + Tuition + Airfare + Visa
     
--    Apply Here: [NOS Portal (Ministry of Social Justice)](https://nosmsje.gov.in/)
+**Apply Here:** [NOS Portal (Ministry of Social Justice)](https://nosmsje.gov.in/)
     
 
 ###  Overseas Visiting Doctoral Fellowship (DST)
@@ -102,7 +102,7 @@ The Ministry shares these, but the respective country selects you.
     
 -    Benefits:  ₹1.7 Lakh/month equivalent + Contingency
     
--    Apply Here: [SERB Online](https://www.google.com/search?q=https://www.serbonline.in/SERB/OVDF)
+**Apply Here:** [SERB Online](https://serb.gov.in/)
     
 
 ----------
@@ -117,7 +117,7 @@ Jointly funded by India and a partner nation.
     
 -   Benefits: J-1 Visa, Round-trip Airfare, Tuition, Living Costs
     
--   Apply Here: [USIEF Official](https://www.google.com/search?q=https://www.usief.org.in/Fellowships/Fellowships-for-Indian-Citizens.aspx)
+**Apply Here:** [USIEF Official](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/)
     
 
 ### 🇫🇷 Raman-Charpak Fellowship (France)
@@ -126,7 +126,7 @@ Jointly funded by India and a partner nation.
     
 -   Benefits:  €1,500/month (~₹1.5 Lakh)
     
--   Apply Here: [CEFIPRA](https://www.google.com/search?q=http://www.cefipra.org/Raman_Charpak.aspx)
+**Apply Here:** [CEFIPRA](https://www.cefipra.org/PgmMF.aspx?p=RC)
     
 
 ----------
