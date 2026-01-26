@@ -272,6 +272,16 @@
   </div>
 </footer>
 
+<script>
+	// Redirect from blog.instadwell.com to instadwell.com/blog
+	(function() {
+		if (window.location.hostname === 'blog.instadwell.com') {
+			var newUrl = 'https://instadwell.com/blog' + window.location.pathname + window.location.search + window.location.hash;
+			window.location.replace(newUrl);
+		}
+	})();
+</script>
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YP9JFVED9E"></script>
 <script>
 	window.dataLayer = window.dataLayer || [];
