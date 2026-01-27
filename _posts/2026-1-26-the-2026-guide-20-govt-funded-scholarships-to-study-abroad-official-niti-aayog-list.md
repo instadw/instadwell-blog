@@ -79,7 +79,7 @@ The Ministry shares these, but the respective country selects you.
 **Apply Here:** [British Council India](https://www.britishcouncil.in/study-uk/scholarships/women-in-stem)
     
 
- Pro Tip: Already shortlisted a country? InstaDwell helps you find verified student housing near top universities to match your budget.
+**Pro Tip:** Already shortlisted a country? [InstaDwell](https://instadwell.com/) helps you find [verified](https://instadwell.com/blog/affordable-student-housing-in-india-find-verified-rooms-near-you) student housing near top universities to match your budget.
 
 ----------
 
@@ -137,10 +137,9 @@ Jointly funded by India and a partner nation.
 
 -   Purpose: Academic exchange, research training & career development in the EU.
     
--   Where to Apply: [Erasmus+ Portal](https://erasmus-plus.ec.europa.eu/)
+-  **Where to Apply:** [Erasmus+ Portal](https://erasmus-plus.ec.europa.eu/)
     
--   Targeting Europe? Browse our latest verified listings for [Student housing in Germany](https://www.google.com/search?q=https://instadwell.com/germany) and France.
-    
+-   Targeting Europe? Browse our latest verified listings for Student housing in Germany ([Berlin](https://instadwell.com/search?country=germany&lat=52.52&lng=13.405&location=berlin) [Cologne](https://instadwell.com/search?country=germany&lat=50.9375&lng=6.9603&location=cologne) [Dusseldorf](https://instadwell.com/search?country=germany&lat=51.23858&lng=6.80142&location=dusseldorf) [Frankfurt](https://instadwell.com/search?country=germany&lat=50.1109&lng=8.6821&location=frankfurt) [Hamburg](https://instadwell.com/search?country=germany&lat=53.5488&lng=9.9872&location=hamburg) [Leipzig](https://instadwell.com/search?country=germany&lat=51.34067&lng=12.37735&location=leipzig) [Munich Stuttgart])(https://instadwell.com/search?country=germany&lat=48.1351&lng=11.582&location=munich) and France ( [Bidart](https://instadwell.com/search?country=france&lat=43.43911&lng=-1.59018&location=bidart)  [Bordeaux](https://instadwell.com/search?country=france&lat=44.84081&lng=-0.574&location=bordeaux) [Marseille](https://instadwell.com/search?country=france&lat=43.30072&lng=5.37789&location=marseille) [Paris](https://instadwell.com/search?country=france&lat=48.90351&lng=2.30613&location=paris) [Turin](https://instadwell.com/search?country=france&lat=45.0528&lng=7.67952&location=turin))
 
 ----------
 
@@ -181,7 +180,7 @@ Yes, but you usually cannot accept more than one government-funded scholarship a
 
 When should I book student housing?
 
-We recommend booking accommodation 3-4 months before your course starts, or as soon as your visa is confirmed. Use our [Study abroad housing checklist](https://www.google.com/search?q=https://blog.instadwell.com/checklist) to ensure you don't miss any critical steps.
+We recommend booking accommodation 3-4 months before your course starts, or as soon as your visa is confirmed. Use our Study abroad housing checklist to ensure you don't miss any critical steps.
 
 ----------
 
@@ -189,4 +188,4 @@ We recommend booking accommodation 3-4 months before your course starts, or as s
 
 This scholarship list is compiled directly from the Government of India’s official 2026 NITI Aayog report on the internationalisation of higher education (Tables 4.4 - 4.9). We have supplemented this data with links to official ministry and embassy portals to ensure you have the most current application access.
 
-Note: Scholarship amounts are approximate based on 2026 report data and currency conversion rates.
+**Note:** Scholarship amounts are approximate based on 2026 report data and currency conversion rates.
