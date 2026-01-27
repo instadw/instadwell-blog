@@ -43,16 +43,13 @@ Applications for these are handled directly by the Ministry of Education (India)
     
 -    Apply Here: [CSCUK Official Site](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/)
     
--   Planning for the UK? Check out our guide to Student accommodation in the UK
-    
-
 ### Chulabhorn Graduate Institute (Thailand)
 
 -    Who is it for? Postgraduate Students (Bio-sciences, Env. Toxicology)
     
 -    Benefits: Tuition, Accommodation, Airfare, Visa Fees
 
-   **Apply Here:** [CGI Admissions](https://www.cgi.ac.th/admissions/scholarships)
+   **Apply Here:** [CGI Admissions](https://www.cgi.ac.th/admissions/cgi-scholarship-international/)
     
 
 ----------
@@ -76,7 +73,7 @@ The Ministry shares these, but the respective country selects you.
     
 -    Benefits:  100% Full Funding (Tuition, Stipend, Visa, Travel)
     
-**Apply Here:** [British Council India](https://www.britishcouncil.in/study-uk/scholarships/women-in-stem)
+**Apply Here:** [British Council India](https://www.britishcouncil.in/study-uk/scholarships/womeninstem-scholarships)
     
 
 **Pro Tip:** Already shortlisted a country? [InstaDwell](https://instadwell.com/) helps you find [verified](https://instadwell.com/blog/affordable-student-housing-in-india-find-verified-rooms-near-you) student housing near top universities to match your budget.
@@ -139,7 +136,7 @@ Jointly funded by India and a partner nation.
     
 -  **Where to Apply:** [Erasmus+ Portal](https://erasmus-plus.ec.europa.eu/)
     
--   Targeting Europe? Browse our latest verified listings for Student housing in Germany ([Berlin](https://instadwell.com/search?country=germany&lat=52.52&lng=13.405&location=berlin) , [Cologne](https://instadwell.com/search?country=germany&lat=50.9375&lng=6.9603&location=cologne), [Dusseldorf](https://instadwell.com/search?country=germany&lat=51.23858&lng=6.80142&location=dusseldorf), [Frankfurt](https://instadwell.com/search?country=germany&lat=50.1109&lng=8.6821&location=frankfurt), [Hamburg](https://instadwell.com/search?country=germany&lat=53.5488&lng=9.9872&location=hamburg), [Leipzig](https://instadwell.com/search?country=germany&lat=51.34067&lng=12.37735&location=leipzig), [Munich Stuttgart](https://instadwell.com/search?country=germany&lat=48.1351&lng=11.582&location=munich)) and France ( [Bidart](https://instadwell.com/search?country=france&lat=43.43911&lng=-1.59018&location=bidart), [Bordeaux](https://instadwell.com/search?country=france&lat=44.84081&lng=-0.574&location=bordeaux), [Marseille](https://instadwell.com/search?country=france&lat=43.30072&lng=5.37789&location=marseille), [Paris](https://instadwell.com/search?country=france&lat=48.90351&lng=2.30613&location=paris), [Turin](https://instadwell.com/search?country=france&lat=45.0528&lng=7.67952&location=turin))
+-   Targeting Europe? Browse our latest verified listings for Student housing in Germany ([Berlin](https://instadwell.com/search?country=germany&lat=52.52&lng=13.405&location=berlin) , [Cologne](https://instadwell.com/search?country=germany&lat=50.9375&lng=6.9603&location=cologne), [Dusseldorf](https://instadwell.com/search?country=germany&lat=51.23858&lng=6.80142&location=dusseldorf), [Frankfurt](https://instadwell.com/search?country=germany&lat=50.1109&lng=8.6821&location=frankfurt), [Hamburg](https://instadwell.com/search?country=germany&lat=53.5488&lng=9.9872&location=hamburg), [Leipzig](https://instadwell.com/search?country=germany&lat=51.34067&lng=12.37735&location=leipzig), [Munich](https://instadwell.com/search?country=germany&lat=48.1351&lng=11.582&location=munich), [Stuttgart](https://instadwell.com/search?country=germany&lat=48.77474&lng=9.15592&location=stuttgart)) and France ( [Bidart](https://instadwell.com/search?country=france&lat=43.43911&lng=-1.59018&location=bidart), [Bordeaux](https://instadwell.com/search?country=france&lat=44.84081&lng=-0.574&location=bordeaux), [Marseille](https://instadwell.com/search?country=france&lat=43.30072&lng=5.37789&location=marseille), [Paris](https://instadwell.com/search?country=france&lat=48.90351&lng=2.30613&location=paris), [Turin](https://instadwell.com/search?country=france&lat=45.0528&lng=7.67952&location=turin))
 
 ----------
 
@@ -149,8 +146,8 @@ Schemes designed to bring Indian-origin talent back to Indian labs.
 
 | Fellowship Name      | Agency | Funding / Benefits                    | Apply Link  |
 | -------------------- | ------ | ------------------------------------- | ----------- |
-| VAIBHAV Fellowship   | DST    | ₹4 Lakh per month (short-term)        | DST.gov.in  |
-| Ramanujan Fellowship | DST    | ₹1.35 Lakh per month + research grant | SERB Online |
+| VAIBHAV Fellowship   | DST    | ₹4 Lakh per month (short-term)        | [DST.gov.in](https://dst.gov.in/)  |
+| Ramanujan Fellowship | DST    | ₹1.35 Lakh per month + research grant | [SERB Online](https://serb.gov.in/) |
 
 ----------
 
