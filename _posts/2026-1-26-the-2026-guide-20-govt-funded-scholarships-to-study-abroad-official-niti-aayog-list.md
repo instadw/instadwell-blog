@@ -22,7 +22,7 @@ This guide reflects patterns from thousands of student housing searches on Insta
 
 Applications for these are handled directly by the Ministry of Education (India).
 
-### 🇳🇿 Commonwealth Scholarship (New Zealand)
+### Commonwealth Scholarship (New Zealand)
 
 -    Who is it for? PG & PhD Students
     
@@ -33,7 +33,7 @@ Applications for these are handled directly by the Ministry of Education (India)
   **Apply Here:** [Ministry of Education Portal](https://www.education.gov.in/scholarships)
     
 
-### 🇬🇧 Commonwealth Master’s Scholarship (UK)
+### Commonwealth Master’s Scholarship (UK)
 
 -    Who is it for? Postgraduate Students
     
@@ -46,7 +46,7 @@ Applications for these are handled directly by the Ministry of Education (India)
 -   Planning for the UK? Check out our guide to Student accommodation in the UK
     
 
-### 🇹🇭 Chulabhorn Graduate Institute (Thailand)
+### Chulabhorn Graduate Institute (Thailand)
 
 -    Who is it for? Postgraduate Students (Bio-sciences, Env. Toxicology)
     
@@ -61,7 +61,7 @@ Applications for these are handled directly by the Ministry of Education (India)
 
 The Ministry shares these, but the respective country selects you.
 
-### 🇯🇵 MEXT Scholarships (Japan)
+###  MEXT Scholarships (Japan)
 
 -    Who is it for? UG, PG, & PhD
     
@@ -70,7 +70,7 @@ The Ministry shares these, but the respective country selects you.
 **Apply Here:** [Embassy of Japan in India](https://www.in.emb-japan.go.jp/Education/japanese_government_scholarships.html)
     
 
-### 🇬🇧 British Council Women in STEM (UK)
+###  British Council Women in STEM (UK)
 
 -    Who is it for? Women (Postgraduate)
     
@@ -87,7 +87,7 @@ The Ministry shares these, but the respective country selects you.
 
 100% funded by the Indian Government to support specific communities.
 
-### 🇮🇳 National Overseas Scholarship (NOS)
+###  National Overseas Scholarship (NOS)
 
 -    Who is it for? SC, ST, OBC, Minorities, Landless Ag. Laborers
     
@@ -111,7 +111,7 @@ The Ministry shares these, but the respective country selects you.
 
 Jointly funded by India and a partner nation.
 
-### 🇺🇸 Fulbright-Nehru Fellowships (USA)
+### Fulbright-Nehru Fellowships (USA)
 
 -   Who is it for? PG Students, Scholars, Professionals
     
@@ -120,7 +120,7 @@ Jointly funded by India and a partner nation.
 **Apply Here:** [USIEF Official](https://www.usief.org.in/fulbright-fellowships/fellowships-for-indian-citizen/)
     
 
-### 🇫🇷 Raman-Charpak Fellowship (France)
+###  Raman-Charpak Fellowship (France)
 
 -    Who is it for? PhD Students
     
@@ -133,7 +133,7 @@ Jointly funded by India and a partner nation.
 
 ## Category 5: The "Global Consortium" (Europe & Beyond)
 
-### 🇪🇺 Erasmus+ & Marie Skłodowska-Curie Actions
+### Erasmus+ & Marie Skłodowska-Curie Actions
 
 -   Purpose: Academic exchange, research training & career development in the EU.
     
@@ -166,19 +166,19 @@ Once your scholarship is secured, InstaDwell helps you find verified student acc
 
 ## Frequently Asked Questions (FAQ)
 
-Do these scholarships include accommodation?
+**Do these scholarships include accommodation?**
 
 Most "Fully Funded" scholarships (like Commonwealth and MEXT) provide a monthly stipend or allowance intended to cover housing costs. However, you must usually book the accommodation yourself.
 
-When should I apply?
+**When should I apply?**
 
 Most government scholarship cycles run between September and January for the following academic year.
 
-Can I apply for multiple scholarships?
+**Can I apply for multiple scholarships?**
 
 Yes, but you usually cannot accept more than one government-funded scholarship at the same time. Always check the specific terms of the donor agency.
 
-When should I book student housing?
+**When should I book student housing?**
 
 We recommend booking accommodation 3-4 months before your course starts, or as soon as your visa is confirmed. Use our Study abroad housing checklist to ensure you don't miss any critical steps.
 
