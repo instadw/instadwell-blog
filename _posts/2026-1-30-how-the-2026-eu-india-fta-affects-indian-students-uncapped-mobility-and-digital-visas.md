@@ -78,19 +78,19 @@ The EU has launched a pilot "Legal Gateway Office" in New Delhi. This one-stop h
 
 ### FAQs: Your Questions Answered
 
-Is EU-India mobility uncapped for Indian students?
+**Is EU-India mobility uncapped for Indian students?**
 
 Yes, in terms of total numbers. There is no maximum "quota" for Indian students. However, you must still pass the individual visa interview and meet financial requirements.
 
-How much proof of funds is required to study in Europe?
+**How much proof of funds is required to study in Europe?**
 
 For 2026, most EU member states require between €11,000 and €15,000 per year in a blocked account or via a notarized financial guarantee.
 
-Is the 3-year post-study work guaranteed in all EU countries?
+**Is the 3-year post-study work guaranteed in all EU countries?**
 
 It is the official target of the 2026 Mobility Pact, but implementation varies by country. Currently, Germany and France are the most aligned with this 3-year goal.
 
-Where do Indian students live in Europe?
+**Where do Indian students live in Europe?**
 
 Most congregate in major hubs like [Berlin](https://instadwell.com/best-pgs-and-co-living-spaces-in-berlin), [Paris](https://instadwell.com/best-pgs-and-co-living-spaces-in-paris), [Amsterdam](https://instadwell.com/best-pgs-and-co-living-spaces-in-amsterdam), [Milan](https://instadwell.com/best-pgs-and-co-living-spaces-in-milan), and [Barcelona](https://www.google.com/search?q=https://instadwell.com/best-pgs-and-co-living-spaces-in-barcelona). Due to high demand, it is vital to secure accommodation at least 3 months before landing.
 
