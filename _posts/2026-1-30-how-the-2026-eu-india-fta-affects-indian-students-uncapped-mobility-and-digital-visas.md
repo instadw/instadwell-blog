@@ -42,24 +42,23 @@ Uncapped does not mean unregulated. While the EU won't place a "hard cap" on the
 
 ## 2. The Death of the Passport Sticker (Schengen Digitalization)
 
-A major part of the 2026 roadmap is the full digitalization of the EU student visa for Indians.
+A major part of the 2026 roadmap is the continued digitalization of the EU visa process for Indian students.
 
--   No More Stickers: The traditional paper visa sticker is being replaced by a cryptographically signed 2D barcode. This barcode is stored in a central EU database and can be carried on your phone.
-    
--   Biometric Passports: To benefit from the faster 30-day processing commitment, students are now strongly encouraged to use Biometric (E-passports).
-    
--   No More Entry Stamps: Under the new Entry/Exit System (EES), manual passport stamping has ended. Your entry and exit are now recorded via facial scans and fingerprints at the gate.
-    
+-   Move Toward Digital Visas: The EU is transitioning toward electronic visas and online applications, reducing reliance on paper documents and in-person visits. However, physical visa formats and national procedures still apply in many cases.
 
+-   Biometric Passports: Students are encouraged to use biometric (e-passports), as these integrate more smoothly with the EU’s automated border systems.
+    
+-   Digital Border Controls: Under the new Entry/Exit System (EES), manual passport stamping is being phased out. Entry and exit will be recorded digitally using facial recognition and fingerprints at automated border gates.
+    
 ----------
 
 ## 3. A Standardized Path for Post-Study Work
 
-Finding a post-study work visa in Europe as an Indian student is becoming more predictable.
+Post-study work options in Europe for Indian students are becoming more predictable.
 
--   The Target: The agreement sets a 3-year work permit goal for Master’s and PhD graduates.
-    
--   The "Job Seeker" Baseline: You are generally guaranteed a 9–12 month window to find employment that matches your qualifications.
+- The Framework Goal: The agreement encourages Member States to offer up to 3-year post-study work permits for Master’s and PhD graduates, where national laws allow.
+
+- The Baseline: Most countries provide a 9–12 month job-seeker residence window after graduation to find qualifying employment.
     
 
 **Housing Tip:** Planning to study in Europe under the new mobility pact? Start your search on [InstaDwell](https://instadwell.com/) early to avoid the 2026 housing crunch.
