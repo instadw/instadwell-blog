@@ -194,37 +194,11 @@ For most long-term renters, flats become the obvious choice once real costs are 
 
 Commuting is manageable only if expectations are realistic.
 
-Destination
-
-Bike
-
-Office Cab
-
-Public Transport
-
-Madhapur
-
-15–20 min
-
-20–30 min
-
-40–60 min
-
-Hitech City
-
-10–15 min
-
-15–25 min
-
-30–50 min
-
-Gachibowli
-
-20–25 min
-
-25–35 min
-
-50–70 min
+| Destination    | Bike      | Office Cab | Public Transport |
+| -------------- | --------- | ---------- | ---------------- |
+| **Madhapur**   | 15–20 min | 20–30 min  | 40–60 min        |
+| **HITEC City** | 10–15 min | 15–25 min  | 30–50 min        |
+| **Gachibowli** | 20–25 min | 25–35 min  | 50–70 min        |
 
 Verdict:  
 If you don’t own a bike or have an office cab, daily commuting from Kondapur will test your patience.
