@@ -1,5 +1,5 @@
 ---
-title: " How the 2026 EU-India FTA Affects Indian Students Uncapped Mobility & Digital Visas "
+title: " How the 2026 EU-India FTA Affects Indian Students: Uncapped Mobility & Digital Visas "
 description: " Planning to study in Europe in 2026? Learn how the EU-India FTA changes visas, stay-back rights, and digital processing for Indian students. "
 image: "/assets/images/how-the-2026-eu-india-fta-affects-indian-students-uncapped-mobility-and-digital-visas.webp"
 layout: post
@@ -62,7 +62,7 @@ Finding a post-study work visa in Europe as an Indian student is becoming more p
 -   The "Job Seeker" Baseline: You are generally guaranteed a 9–12 month window to find employment that matches your qualifications.
     
 
-**Housing Tip:** Planning to study in Europe under the new mobility pact? Start your search on [InstaDwell](https://www.google.com/search?q=https://instadwell.com/best-pgs-and-co-living-spaces-in-europe) early to avoid the 2026 housing crunch.
+**Housing Tip:** Planning to study in Europe under the new mobility pact? Start your search on [InstaDwell](https://instadwell.com/) early to avoid the 2026 housing crunch.
 
 ----------
 
@@ -106,4 +106,4 @@ Most congregate in major hubs like [Berlin](https://instadwell.com/best-pgs-and-
 -   Last Updated: January 29, 2026.
     
 
-**Secure Your Move:** Once your visa is approved, housing becomes your biggest challenge. [InstaDwell](https://www.google.com/search?q=https://instadwell.com/best-pgs-and-co-living-spaces-in-europe) helps you secure verified student accommodation in [Berlin](https://instadwell.com/best-pgs-and-co-living-spaces-in-berlin), [Paris](https://instadwell.com/best-pgs-and-co-living-spaces-in-paris), or across our platform before you land.
+**Secure Your Move:** Once your visa is approved, housing becomes your biggest challenge. [InstaDwell](https://instadwell.com/) helps you secure verified student accommodation in [Berlin](https://instadwell.com/best-pgs-and-co-living-spaces-in-berlin), [Paris](https://instadwell.com/best-pgs-and-co-living-spaces-in-paris), or across our platform before you land.
