@@ -1,7 +1,7 @@
 ---
-title: "North Campus PG Guide Hudson Lane vs. Vijay Nagar vs. GTB Nagar"
-description: " Moving to DU? Compare North Campus PG rents in Hudson Lane vs. Vijay Nagar. Find the best PG near SRCC, Hindu, and Hansraj College with zero brokerage."
-image: "/assets/images/north-campus-pg-guide-hudson-lane-vs-vijay-nagar-vs-gtb-nagar.webp"
+title: " Top 10 Co-living Spaces in North Campus & GTB Nagar Living Guide 2026 "
+description: " Secured a seat in DU? Compare the Top 10 Co-living Spaces in Hudson Lane & Vijay Nagar. Read our guide on the best student zones near SRCC and Hindu College."
+image: "/assets/images/top-10-co-living-spaces-in-north-campus-and-gtb-nagar-living-guide-2026.webp"
 layout: post
 permalink: /:title
 author: Sanchit
@@ -9,7 +9,35 @@ category: Student
 date: 2026-1-19T09:14:00.000+05:30
 ---
 
+North Campus is the academic heart of India. If you have secured a seat in SRCC, Hindu, or Hansraj, you need a home that matches your hustle, whether that’s the cafe vibes of Hudson Lane or the student-packed lanes of Vijay Nagar.
 
+-   Average Rent: ₹8,000 - ₹20,000
+    
+-   Best Feature: The "Campus Vibe" where every second building is a cafe, library, or student hangout.
+    
+
+----------
+
+###  The Quick List: Recommended Stays in North Campus
+
+Verified properties with the highest ratings in Feb 2026.
+
+| **Property Name**                                                                       | **Best For**   | **Key Highlights**  | **Avg. Rent** |
+| --------------------------------------------------------------------------------------- | -------------- | ------------------- | ------------- |
+| [Stanza Living San Diego House](https://instadwell.com/properties/2759-san-diego-house) | Premium Living | Hudson Lane vibe    | ₹18,000+      |
+| [Stanza Living Penzance House](https://instadwell.com/properties/2753-penzance-house)   | Girls Only     | Safe & managed      | ₹14,500       |
+| [Stanza Living Ventura House](https://instadwell.com/properties/2762-ventura-house)     | Boys Hub       | Active crowd        | ₹15,000       |
+| [Stanza Living Stockton House](https://instadwell.com/properties/2758-stockton-house)   | Comfort        | Reliable amenities  | ₹16,000       |
+| [Stanza Living Weymouth House](https://instadwell.com/properties/2761-weymouth-house)   | Proximity      | Walk to college     | ₹17,000       |
+| [Stanza Living Bukhara House](https://instadwell.com/properties/2769-bukhara-house)     | Luxury         | Top-tier facilities | ₹19,000       |
+| [Stanza Living Nuremberg House](https://instadwell.com/properties/2768-nuremberg-house) | Value          | Great amenities     | ₹15,500       |
+| [Stanza Living Boston House](https://instadwell.com/properties/2743-boston-house)       | Social Vibe    | Community events    | ₹16,500       |
+| [Stanza Living Romford House](https://instadwell.com/properties/2757-romford-house)     | Standard PG    | Hassle-free stay    | ₹14,000       |
+| [Stanza Living Kiel House](https://instadwell.com/properties/2750-kiel-house)           | Quiet Zone     | Focus-friendly      | ₹13,500       |
+
+Want to see more options? [Search all listings in North Campus](https://instadwell.com/search?lat=28.6958957&lng=77.2058555&location=Hudson%20Ln%2C%20GTB%20Nagar%2C%20Delhi%2C%20110033%2C%20India&city=Delhi&country=India)
+
+## North Campus PG Guide Hudson Lane vs. Vijay Nagar vs. GTB Nagar
 If you have secured a seat in [SRCC](https://www.srcc.edu/), Hindu, [Hansraj](https://www.hansrajcollege.ac.in/), Kirori Mal, or [Miranda House](https://www.mirandahouse.ac.in/), congratulations. You have won the academic lottery.
 
 Now comes the harder part: Finding a North Campus PG that doesn't bankrupt you or melt you in the Delhi heat.
