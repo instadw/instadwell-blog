@@ -1,6 +1,6 @@
 ---
 title: " Top 10 Co-living Spaces in Kondapur & Living Guide: Cheaper Than Madhapur 2026 "
-description: " Moving to Hyderabad? Compare the Top 10 Co-living Spaces in Kondapur. Discover why it's the Smart Middle Ground" between Gachibowli and Madhapur for rents."
+description: " Moving to Hyderabad? Compare the Top 10 Co-living Spaces in Kondapur Discover why it's the Smart Middle Ground" between Gachibowli and Madhapur for rents."
 image: "/assets/images/top-10-co-living-spaces-in-kondapur-and-living-guide-cheaper-than-madhapur-2026.webp"
 layout: post
 permalink: /:title
