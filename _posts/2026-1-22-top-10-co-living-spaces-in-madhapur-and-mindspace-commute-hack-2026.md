@@ -1,6 +1,6 @@
 ---
 title: " Top 10 Co-living Spaces in Madhapur & Mindspace Commute Hack 2026 "
-description: " Working at Mindspace? Compare the Top 10 Co-living Spaces in Madhapur. Discover the "Walk-to-Work" commute hack to save money and skip the traffic."
+description: " Working at Mindspace? Compare the Top 10 Co-living Spaces in Madhapur. Discover the Walk-to-Work commute hack to save money and skip the traffic."
 image: "/assets/images/top-10-co-living-spaces-in-madhapur-and-mindspace-commute-hack-2026.webp"
 layout: post
 permalink: /:title
