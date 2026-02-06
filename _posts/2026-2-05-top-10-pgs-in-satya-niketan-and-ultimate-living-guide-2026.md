@@ -1,7 +1,7 @@
 ---
 title: " Top 10 PGs in Satya Niketan & Ultimate Living Guide 2026  "
 description: "  Moving to South Campus? Compare Satya Niketan PG rents vs. Anand Niketan. Find the best PG near Venky College and Motilal with zero brokerage. "
-image: "/assets/images/south-campus-student-hub-the-ultimate-satya-niketan-survival-guide.webp"
+image: "/assets/images/top-10-pgs-in-satya-niketan-and-ultimate-living-guide-2026.webp"
 layout: post
 permalink: /:title
 author: Sanchit
