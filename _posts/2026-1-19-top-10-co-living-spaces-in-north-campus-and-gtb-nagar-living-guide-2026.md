@@ -46,7 +46,7 @@ North Campus isn't just one area; it’s a collection of distinct "micro-cities.
 
 -   Hudson Lane: The "[South Delhi](https://instadwell.com/search?lat=28.4929198&lng=77.1847921&location=South%20Delhi%2C%20New%20Delhi%2C%20Delhi%2C%20India&city=New%20Delhi&country=India)" of North Campus (Cafes, Parties, Expensive).
     
--   Vijay Nagar: The "Budget Student" Hub (Narrow lanes, [affordable](https://blog.instadwell.com/affordable-student-accommodation-in-pune), walkable).
+-   Vijay Nagar: The "Budget Student" Hub (Narrow lanes, [affordable](https://instadwell.com/blog/affordable-housing-for-students-in-germany-and-netherlands), walkable).
     
 -   GTB Nagar: The "Connector" (Metro access, busy, coaching centers).
     
