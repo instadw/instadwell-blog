@@ -6,7 +6,7 @@ layout: post
 permalink: /:title
 author: Sanchit
 category: Student
-date: 2025-12-31T09:14:00.000+05:30
+date: 2026-1-02T09:14:00.000+05:30
 ---
 
 Pune is a city of micro-markets. Rent in Koregaon Park can rival Mumbai, while just 5km away in Wadgaon Sheri, it drops by half. Whether you are a student prioritizing campus proximity or an IT professional chasing the shortest commute to Hinjewadi, knowing your "zone" is the key to saving money.
