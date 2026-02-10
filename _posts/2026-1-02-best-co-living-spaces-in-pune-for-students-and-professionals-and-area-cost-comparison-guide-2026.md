@@ -106,7 +106,7 @@ The prices below reflect managed / branded coliving spaces, not local PGs.
 | [Hadapsar](https://instadwell.com/search?lat=18.508934&lng=73.9259102&location=Hadapsar%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India)                                   | ₹7,000 – ₹12,000     |
 | [Magarpatta](https://instadwell.com/search?lat=18.5158057&lng=73.9271644&location=Magarpatta%2C%20Hadapsar%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India)                | ₹8,000 – ₹14,000     |
 
-[Shared rooms]((https://blog.instadwell.com/sharing-rooms-in-pune-affordable-student-pgs)) start cheaper. Private rooms, AC, and premium locations push prices upward.
+[Shared rooms]((https://instadwell.com/blog/top-10-affordable-student-pgs-and-sharing-rooms-in-pune)) start cheaper. Private rooms, AC, and premium locations push prices upward.
 
 ----------
 
@@ -242,7 +242,7 @@ For a deeper breakdown of safety red flags, refer to our First-Time Mover’s Gu
 
 ## Food Reality: Convenience vs Control
 
-Most [Coliving Space](https://blog.instadwell.com/what-to-look-for-in-a-coliving-space-or-pg-in-pune) provide meals, but there’s a trade-off.
+Most [Coliving Space](https://instadwell.com/blog/top-10-co-living-spaces-in-pune-and-what-to-look-for) provide meals, but there’s a trade-off.
 
 ### The “Menu Fatigue” Reality
 
