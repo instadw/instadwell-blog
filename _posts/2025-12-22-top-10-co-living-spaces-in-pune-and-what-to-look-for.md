@@ -34,9 +34,9 @@ Verified premium properties ranked by location and amenities.
 | [Cosenza House](https://instadwell.com/properties/2909-cosenza-house)       | Shivaji Nagar     | ₹16,699+           | Central Access        | Affordable premium living         |
 | [Boulder House](https://instadwell.com/properties/2916-boulder-house)       | Shivaji Nagar     | ₹16,499+           | Budget Premium        | Great value for location          |
 
-## Want to see more options? [Click Here to Search All Pune Listings](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune&page=1)
+Want to see more options? [Click Here to Search All Pune Listings](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune&page=1)
 
-## What to Look for in a Coliving Space or PG in Pune
+### What to Look for in a Coliving Space or PG in Pune
 Pune consistently ranks among India’s most preferred cities for students and working professionals, thanks to its IT corridors, reputed universities, and fast-growing startup ecosystem. As any local will tell you, this constant migration has created a booming, but often confusing, PG and coliving market.
 
 If you’re moving to [Pune](https://en.wikipedia.org/wiki/Pune) for the first time, choosing the wrong accommodation can cost you money, comfort, health, and peace of mind. This guide is built using real renter experiences, local market patterns, and platform-level insights to help you make a smarter decision.
