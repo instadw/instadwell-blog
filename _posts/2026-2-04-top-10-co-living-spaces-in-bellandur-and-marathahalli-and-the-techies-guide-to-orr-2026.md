@@ -6,7 +6,7 @@ layout: post
 permalink: /:title
 author: Sanchit
 category: Accommodation
-date: 2025-12-19T09:14:00.000+05:30
+date: 2026-2-04T09:14:00.000+05:30
 ---
 
 Bellandur and Marathahalli are the lifelines of Bangalore's IT corridor. Whether you work at RMZ Ecospace, Prestige Tech Park, or Embassy Tech Village, living here is the only way to beat the legendary ORR traffic.
