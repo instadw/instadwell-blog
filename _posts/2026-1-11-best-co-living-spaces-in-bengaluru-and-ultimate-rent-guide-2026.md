@@ -6,7 +6,7 @@ layout: post
 permalink: /:title
 author: Sanchit
 category: Accommodation
-date: 2025-12-11T09:14:00.000+05:30
+date: 2026-1-11T09:14:00.000+05:30
 ---
 
 Bengaluru's rental market is notorious for high deposits and "interview-based" selections, but the co-living sector tells a different story. While a private flat in Koramangala can cost ₹40,000+, you can find fully managed, furnished studios in the same area for ₹25,000, or budget student stays in Soladevanahalli for as low as ₹6,500.
