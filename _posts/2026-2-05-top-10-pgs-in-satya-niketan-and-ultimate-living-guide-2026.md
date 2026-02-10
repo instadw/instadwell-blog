@@ -38,7 +38,7 @@ Verified properties with the highest student ratings in Feb 2026.
 Want to see more options? [Search all listings in Satya Niketan](https://instadwell.com/search?lat=28.5875609&lng=77.1690067&location=Satya%20Niketan%2C%20Moti%20Bagh%2C%20New%20Delhi%2C%20Delhi%20110021%2C%20India&city=New%20Delhi&country=India)
 
 ## South Campus Student Hub: The Ultimate Satya Niketan Survival Guide
-If [North Campus](https://instadwell.com/blog/north-campus-pg-guide-hudson-lane-vs-vijay-nagar-vs-gtb-nagar) is about "Politics and Protests," South Campus is about "Chill Vibes and Cafes."
+If [North Campus](https://instadwell.com/blog/top-10-co-living-spaces-in-north-campus-and-gtb-nagar-living-guide-2026) is about "Politics and Protests," South Campus is about "Chill Vibes and Cafes."
 
 Home to heavyweights like Sri Venkateswara (Venky), Motilal Nehru, ARSD, and Maitreyi, the South Campus ecosystem revolves around one legendary location: Satya Niketan.
 
