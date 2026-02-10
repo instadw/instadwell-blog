@@ -34,9 +34,9 @@ Verified properties ranked by affordability, location, and amenities.
 | [Zolo Zen Elite](https://instadwell.com/properties/3513-zolo-zen-elite)           | Kharadi          | ₹7,760+            | Kharadi IT Park          | Premium security & comfort          |
 | [Zolo Townhouse](https://instadwell.com/properties/2455-zolo-townhouse)           | Balewadi         | ₹8,925+            | Premium Stay             | Near High Street & tech parks       |
 
-## Want to see more options? [Click Here to Search All Pune Listings](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune&page=1)
+Want to see more options? [Click Here to Search All Pune Listings](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune&page=1)
 
-## Sharing Rooms in Pune Affordable Student PGs
+### Sharing Rooms in Pune Affordable Student PGs
 Finding a safe and [affordable sharing room in Pune](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune) as a student can be confusing. Rents change by area, food quality varies widely, and scams are common, especially for first-time movers.
 
 This guide breaks down real student costs, best localities, sharing options, food choices, and safety tips, based on student experiences and verified housing data from InstaDwell.
