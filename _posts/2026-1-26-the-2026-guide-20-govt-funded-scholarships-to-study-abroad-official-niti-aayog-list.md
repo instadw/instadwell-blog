@@ -14,7 +14,7 @@ Every year, thousands of Indian students study abroad without taking a single ed
 
 While studying abroad is often framed as a luxury, for many top talents, it is fully funded by the state. This list is based on the Government of India’s official 2026 report titled “Internationalisation of Higher Education in India” published by [NITI Aayog](https://instadwell.com/blog/niti-aayogs-11-lakh-student-goal-the-untold-housing-crisis), making this one of the most authoritative scholarship resources available online.
 
-This guide reflects patterns from thousands of student housing searches on InstaDwell, where we see students pairing these funding options with [affordable](https://instadwell.com/blog/affordable-student-accommodation-in-pune) living solutions daily. We have decoded the official government data into a student-friendly guide, organized by category, so you can apply directly.
+This guide reflects patterns from thousands of student housing searches on InstaDwell, where we see students pairing these funding options with [affordable](https://instadwell.com/blog/top-10-co-living-spaces-in-pune-and-affordable-student-accommodation-guide-2026) living solutions daily. We have decoded the official government data into a student-friendly guide, organized by category, so you can apply directly.
 
 ----------
 
