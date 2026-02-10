@@ -253,11 +253,11 @@ Money matters more than lifestyle judgments.
 
 ## Food, Nightlife & Social Life
 
-Nightlife is limited compared to [Madhapur](https://instadwell.com/blog/the-hostel-in-madhapur-the-mindspace-commute-hack-to-pgs-and-co-living-near-hitec-city).
+Nightlife is limited compared to [Madhapur](https://instadwell.com/blog/top-10-co-living-spaces-in-madhapur-and-mindspace-commute-hack-2026).
 
 Food options are decent but scattered.
 
-Unlike Gachibowli’s centralized [DLF](https://instadwell.com/blog/living-in-dlf-phase-4-and-cyber-city-the-walk-to-work-guide-2026) food hub, Kondapur doesn’t have a single food street. While areas near Sharath City Mall (AMB Cinemas) and RTO Road eateries offer decent choices, most residents rely heavily on Swiggy and Zomato unless they live nearby.
+Unlike Gachibowli’s centralized [DLF](https://instadwell.com/blog/top-10-co-living-spaces-in-dlf-phase-4-and-cyber-city-walk-to-work-guide-2026) food hub, Kondapur doesn’t have a single food street. While areas near Sharath City Mall (AMB Cinemas) and RTO Road eateries offer decent choices, most residents rely heavily on Swiggy and Zomato unless they live nearby.
 
 Social life mostly happens inside societies, not on the streets.
 
