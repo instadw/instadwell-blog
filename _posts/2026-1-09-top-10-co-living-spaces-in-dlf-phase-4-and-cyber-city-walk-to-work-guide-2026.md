@@ -4,6 +4,9 @@ description: " Work in Cyber City? Compare the Top 10 Co-living Spaces in DLF Ph
 image: "/assets/images/top-10-co-living-spaces-in-dlf-phase-4-and-cyber-city-walk-to-work-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:
+  - /living-in-dlf-phase-4-and-cyber-city-the-walk-to-work-guide-2026
+  - /living-in-dlf-phase-4-and-cyber-city-the-walk-to-work-guide-2026/
 author: Sanchit
 category: Student
 date: 2026-1-09T09:14:00.000+05:30
