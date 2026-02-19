@@ -4,6 +4,9 @@ description: " Moving to Bangalore? Compare Top 10 Co-living Spaces in Koramanga
 image: "/assets/images/top-10-co-living-spaces-in-koramangala-and-sg-palya-living-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /best-pgs-in-koramangala-hamburg-house-sg-palya-and-startup-stays
+- /best-pgs-in-koramangala-hamburg-house-sg-palya-and-startup-stays/
 author: Sanchit
 category: Accommodation
 date: 2025-12-08T09:14:00.000+05:30
