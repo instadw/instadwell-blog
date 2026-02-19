@@ -1,7 +1,7 @@
 ---
 title: "PG vs Hostel vs Co living: Which Option Fits You Best"
 description: "Explore the differences between PG, hostel, and co living accommodation. Weigh cost, comfort, privacy, and community to pick what fits you best."
-image: /assets/images/pg-vs-hostel-vs-co-living-which-is-the-right-choice-for-you.webp
+image: /assets/images/pg-vs-hostel-vs-co-living-which-option-fits-you-best.webp
 layout: post
 permalink: /:title
 redirect_from:  
