@@ -4,6 +4,9 @@ description: "Work on ORR? Compare Top 10 Co-living Spaces in Bellandur & Marath
 image: "/assets/images/top-10-co-living-spaces-in-bellandur-and-marathahalli-and-the-techies-guide-to-orr-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli
+- /the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli/
 author: Sanchit
 category: Accommodation
 date: 2026-2-04T09:14:00.000+05:30
