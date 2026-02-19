@@ -4,6 +4,9 @@ description: " Moving to Bangalore? Compare Top 10 Co-living Spaces in Electroni
 image: "/assets/images/top-10-co-living-spaces-in-electronic-city-and-ultimate-living-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /living-in-electronic-city-the-ultimate-guide-to-pgs-and-coliving
+- /living-in-electronic-city-the-ultimate-guide-to-pgs-and-coliving/
 author: Sanchit
 category: Student
 date: 2026-1-05T09:14:00.000+05:30
