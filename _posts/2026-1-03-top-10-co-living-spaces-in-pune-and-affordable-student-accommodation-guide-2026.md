@@ -4,6 +4,9 @@ description: " Moving to Pune? Compare the Top 10 Cheapest Co-living Spaces in A
 image: "/assets/images/top-10-co-living-spaces-in-pune-and-affordable-student-accommodation-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /affordable-student-accommodation-in-pune
+- /affordable-student-accommodation-in-pune/
 author: Sanchit
 category: Student
 date: 2026-1-03T09:14:00.000+05:30
