@@ -4,6 +4,9 @@ description: " Compare the Top 10 Premium Co-living spaces in Viman Nagar, Kothr
 image: "/assets/images/top-10-co-living-spaces-in-pune-and-what-to-look-for.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /what-to-look-for-in-a-coliving-space-or-pg-in-pune
+- /what-to-look-for-in-a-coliving-space-or-pg-in-pune/
 author: Sanchit
 category: Student
 date: 2025-12-22T09:14:00.000+05:30
