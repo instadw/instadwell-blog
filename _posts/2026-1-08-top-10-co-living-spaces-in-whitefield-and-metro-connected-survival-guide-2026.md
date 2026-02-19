@@ -4,6 +4,9 @@ description: " Moving to Bangalore? Compare Top 10 Co-living Spaces in Whitefiel
 image: "/assets/images/top-10-co-living-spaces-in-whitefield-and-metro-connected-survival-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /living-in-whitefield-the-metro-connected-survival-guide
+- /living-in-whitefield-the-metro-connected-survival-guide/
 author: Sanchit
 category: Student
 date: 2026-1-08T09:14:00.000+05:30
