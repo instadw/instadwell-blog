@@ -4,6 +4,9 @@ description: " Moving to Pune? Compare Top 10 Co-living Spaces for Students & IT
 image: "/assets/images/best-co-living-spaces-in-pune-for-students-and-professionals-and-area-cost-comparison-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /coliving-in-pune-compare-areas-pgs-and-costs
+- /coliving-in-pune-compare-areas-pgs-and-costs/
 author: Sanchit
 category: Student
 date: 2026-1-02T09:14:00.000+05:30
