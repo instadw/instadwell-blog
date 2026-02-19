@@ -4,6 +4,9 @@ description: "Moving to Bangalore? Compare Top 10 Co-living Spaces in HSR Layout
 image: "/assets/images/top-10-co-living-spaces-in-hsr-layout-and-startup-hub-living-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /living-in-hsr-layout-studios-private-rooms-and-startup-hubs
+- /living-in-hsr-layout-studios-private-rooms-and-startup-hubs/
 author: Sanchit
 category: Accommodation
 date: 2026-2-01T09:14:00.000+05:30
