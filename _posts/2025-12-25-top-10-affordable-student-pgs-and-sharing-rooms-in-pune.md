@@ -4,6 +4,9 @@ description: "Looking for affordable PGs in Pune? Compare the Top 10 Sharing Roo
 image: "/assets/images/top-10-affordable-student-pgs-and-sharing-rooms-in-pune.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /sharing-rooms-in-pune-affordable-student-pgs
+- /sharing-rooms-in-pune-affordable-student-pgs/
 author: Sanchit
 category: Student
 date: 2025-12-25T09:14:00.000+05:30
