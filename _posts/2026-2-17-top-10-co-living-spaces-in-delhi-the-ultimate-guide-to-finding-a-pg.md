@@ -70,6 +70,7 @@ Browse Verified PGs in Delhi – Zero Brokerage
 ##  The Delhi Rent Map: What Does it Actually Cost?
 
 Newcomers often have unrealistic expectations. Let’s set the benchmark. Here is what a Standard Single Room (or premium twin sharing) actually costs in 2026.
+
 | Zone            | Key Areas                            | Starting Rent      | Vibe                                      |
 | --------------- | ------------------------------------ | ------------------ | ----------------------------------------- |
 | North Delhi     | GTB Nagar, Mukherjee Nagar           | ₹10,000 – ₹13,000  | Student heavy, academic, walkable.        |
@@ -77,6 +78,7 @@ Newcomers often have unrealistic expectations. Let’s set the benchmark. Here i
 | East Delhi      | Laxmi Nagar, Mayur Vihar             | ₹6,000 – ₹10,000   | Crowded, affordable, CA/UPSC hub.         |
 | West Delhi      | Patel Nagar, Rajouri Garden          | ₹8,000 – ₹12,000   | Residential, family-oriented, great food. |
 | Affordable Hubs | Uttam Nagar, Johri Farm              | ₹5,000 – ₹8,000    | Cheapest, but often congested/unsafe.     |
+
 
 
 Reality Check: If a broker offers you a "Fully Furnished AC PG" in South Delhi for ₹6,000, run. It is a scam.
