@@ -1,6 +1,6 @@
 ---
 title: " The Ahmedabad Student Survival Guide: Navrangpura & Gota/Nirma    "
-description: "   Skip the "Rice Trap" and hidden bills. Compare top 0-brokerage PGs in Navrangpura & Gota/Nirma area. Verified student housing for HL, GU, and Nirma."
+description: "  Skip the Rice Trap and hidden bills. Compare top 0-brokerage PGs in Navrangpura & Gota/Nirma area Verified student housing for HL, GU, and Nirma."
 image: "/assets/images/the-ahmedabad-student-survival-guide-navrangpura-and-gotanirma.webp"
 layout: post
 permalink: /:title
