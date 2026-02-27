@@ -1,7 +1,7 @@
 ---
-title: "Top 10 Coliving Operators in India"
-description: "Discover the top 10 co living operators in India. leading brands offering verified and community driven flexible living spaces across major cities."
-image: /assets/images/top-10-coliving-operators-in-india.webp
+title: " Top 10 Co-living Companies in India 2026: Alternatives to Stanza Living "
+description: "Compare India's top 10 co-living companies - Stanza Living, Zolo, Colive & more. Updated prices, locations & honest reviews for 2026."
+image: /assets/images/top-10-co-living-companies-in-india-2026-alternatives-to-stanza-living.webp
 layout: post
 permalink: /:title
 author: Sanchit
