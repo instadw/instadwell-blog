@@ -6,7 +6,7 @@ layout: post
 permalink: /:title
 author: Sanchit
 category: Businesses
-date: 2025-08-21T17:50:00.000+05:30
+date: 2026-02-27T17:50:00.000+05:30
 ---
 
 ## About Coliving in India
