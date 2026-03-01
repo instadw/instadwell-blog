@@ -7,6 +7,27 @@ permalink: /:title
 author: Sanchit
 category: Students
 date: 2025-11-28T09:14:00.000+05:30
+faq:
+  - question: "How long does an F-1 visa interview last?"
+    answer: "Most interviews last 2–5 minutes, but preparation is essential."
+  - question: "What documents should I carry?"
+    answer: "I-20, passport, DS-160 confirmation, financial documents, academic transcripts, admission letter, and photographs."
+  - question: "Do visa officers check bank balances?"
+    answer: "Yes, they may verify financial documents to ensure you can afford your education."
+  - question: "What if I have a gap year?"
+    answer: "Gaps are acceptable if you explain them logically, employment, training, or personal reasons."
+  - question: "Can I bring parents to the interview?"
+    answer: "No, students must attend the interview alone."
+  - question: "Will low academic scores affect my visa?"
+    answer: "Not always. Strong justification, financial stability, and clarity of purpose help."
+  - question: "Is English proficiency essential?"
+    answer: "Yes. You must communicate confidently in English."
+  - question: "Can I change my major later?"
+    answer: "Yes, but explain your current choice clearly during the interview."
+  - question: "Does having relatives in the USA reduce my chances?"
+    answer: "No, as long as your intent to return home is clear."
+  - question: "What is the most important thing visa officers look for?"
+    answer: "A genuine student with clear academic intent, financial stability, and strong home-country ties."
 ---
 
 ## **Table of Contents**

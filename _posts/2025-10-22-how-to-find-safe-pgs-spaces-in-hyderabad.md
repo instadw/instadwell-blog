@@ -7,6 +7,27 @@ permalink: /:title
 author: Sanchit
 category: Businesses
 date: 2025-10-22T09:14:00.000+05:30
+faq:
+  - question: "What is the typical deposit for a PG in Hyderabad?"
+    answer: "The deposit can vary – often 1 to 3 months' rent. Some PGs may ask for more depending on sharing type, furnishing, or if food is included. Always clarify the refund policy in your agreement."
+  - question: "How can I verify the safety of a PG for female tenants?"
+    answer: "Look for key safety features: 24/7 guarded entrance, CCTV cameras, separate floors or sections for women, secure visitor entry controls, well-lit common areas, and positive feedback from current female tenants."
+  - question: "Does food inclusion mean the PG is more expensive?"
+    answer: "Yes, PGs that include meals (3 meals/day) tend to cost more. But it may save you time and effort. If meals are included, try tasting them or checking hygiene before committing."
+  - question: "Can I avoid brokerage when renting a PG in Hyderabad?"
+    answer: "Yes. Many platforms and managed PG chains offer no-brokerage options. Use listing sites, join local groups, or walk the neighbourhood to find direct landlord options."
+  - question: "What amenities are must-haves for a safe PG?"
+    answer: "At minimum: reliable WiFi, power backup, secure entry/lift, functioning plumbing and water supply, decent housekeeping and cleanliness, proper locks on doors and windows."
+  - question: "Is unisex PG safe or should I prefer single-gender PG?"
+    answer: "Both can be safe if managed properly. Unisex PGs often have separate floors/blocks for men and women, dedicated common spaces, and stricter visitor policies. The key is management and security."
+  - question: "What should I check in the lease/agreement?"
+    answer: "Include: rent amount and what's included; deposit and refund terms; sharing type; food details; notice period; guest policy; electricity/water billing; maintenance charges; duration of stay; and house rules."
+  - question: "How much should I budget for electricity and other utilities?"
+    answer: "It varies. Electricity bills can be high due to old ACs and commercial rates in PGs. Try to ask past tenants for typical bills in that PG. Also clarify if the PG charges separately or includes it in rent."
+  - question: "How important is commute when choosing a PG in Hyderabad?"
+    answer: "Very important. Shorter commute means safer travel (less late travel), more time for rest, and less stress. Choose a PG that balances cost and commute to your workplace or college."
+  - question: "What should I do if problems arise after moving in?"
+    answer: "First, address them with management in writing (email/WhatsApp) so there's a record. If unresolved, refer to the lease agreement terms. If serious (safety, health issues), consider moving out in the notice period if allowed."
 ---
 
 ## Table of Contents

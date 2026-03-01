@@ -7,6 +7,15 @@ permalink: /:title
 author: Sanchit
 category: Students
 date: 2025-12-05T09:14:00.000+05:30
+faq:
+  - question: "Do PGs allow unmarried couples?"
+    answer: "Mostly no. A few premium co-living spaces may, but they are rare."
+  - question: "Do PGs offer North Indian food?"
+    answer: "Yes, especially near Velachery, OMR, and Porur."
+  - question: "What's the lock-in period?"
+    answer: "Usually 1–3 months (much shorter than rental flats)."
+  - question: "Is Chennai safe for women?"
+    answer: "Yes, especially areas like Adyar, Besant Nagar, and OMR. Just ensure CCTV and biometric access."
 ---
 
 Moving to **[Chennai](https://instadwell.com/search?country=india&lat=13.0843&lng=80.2705&location=chennai)** offers incredible career growth and top-tier education, but finding a **safe and reliable Paying Guest (PG)** can feel overwhelming. Between adjusting to the humid weather, navigating the traffic, and dealing with the infamous **"10-month advance" rental culture**, choosing the wrong room can cost you comfort and peace of mind.

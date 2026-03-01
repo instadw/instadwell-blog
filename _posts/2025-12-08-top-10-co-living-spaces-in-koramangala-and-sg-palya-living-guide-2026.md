@@ -10,6 +10,13 @@ redirect_from:
 author: Sanchit
 category: Accommodation
 date: 2025-12-08T09:14:00.000+05:30
+faq:
+  - question: "Is it safe for women to live in Koramangala 5th Block?"
+    answer: "Generally, yes. Major roads like 80ft Road are well-lit and busy until late. However, residential cross-streets can get dark. We recommend using Uber/Ola if returning post-11 PM, rather than walking the last mile alone."
+  - question: "What is the rent for a single room in Koramangala?"
+    answer: "Koramangala is premium. Expect to pay ₹11,000+ for a shared bed and ₹20,000+ for a private single room in decent blocks. SG Palya options are cheaper (₹8,000–₹12,000) but older."
+  - question: "Does Stanza Living Koramangala have a lock-in period?"
+    answer: "Yes, most institutional PGs like Stanza (Hamburg House) have a lock-in period (usually 3-6 months). Breaking it often means forfeiting your deposit. Check the terms on InstaDwell before booking."
 ---
 
 Koramangala is Bangalore's original startup hub, while its neighbor SG Palya is the student heartbeat of the city (thanks to Christ University). Whether you are here to build the next unicorn or survive your trimesters, living here means great food, vibrant nightlife, and zero commute.

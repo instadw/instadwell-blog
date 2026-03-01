@@ -10,6 +10,13 @@ redirect_from:
 author: Sanchit
 category: Accommodation
 date: 2026-2-04T09:14:00.000+05:30
+faq:
+  - question: "Is there a metro station in Bellandur?"
+    answer: "Not yet. The ORR Metro line is under construction (causing the traffic!). Until it opens, living close to your office in layouts like Munnekollal or Green Glen is your best \"Metro alternative.\""
+  - question: "Which area is safer for women?"
+    answer: "Green Glen Layout (Bellandur) is generally considered safer and more family-oriented with well-lit streets compared to the denser lanes of Munnekollal."
+  - question: "Can I skip the traffic on a bike?"
+    answer: "Yes, many locals use the \"Yemalur Shortcut\" to bypass the main ORR traffic when heading towards Old Airport Road, though it can get tricky during rains."
 ---
 
 Bellandur and Marathahalli are the lifelines of Bangalore's IT corridor. Whether you work at RMZ Ecospace, Prestige Tech Park, or Embassy Tech Village, living here is the only way to beat the legendary ORR traffic.

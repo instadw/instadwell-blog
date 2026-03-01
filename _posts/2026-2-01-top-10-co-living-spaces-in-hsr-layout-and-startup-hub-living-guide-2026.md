@@ -10,6 +10,13 @@ redirect_from:
 author: Sanchit
 category: Accommodation
 date: 2026-2-01T09:14:00.000+05:30
+faq:
+  - question: "Do PGs in HSR Layout allow couples?"
+    answer: "Honestly, most standard PGs do not. However, some specific Co-living operators listed on our platform may have gender-neutral buildings. We recommend checking the specific house rules of each operator before booking."
+  - question: "Is HSR Layout safe for women?"
+    answer: "Yes, HSR is one of the safest neighborhoods in Bengaluru with wide, well-lit roads and active police patrolling (Hoysala). Sectors 1 and 2 are particularly safe for students returning from NIFT."
+  - question: "Does HSR have water problems?"
+    answer: "Like most of Bengaluru, HSR relies partially on tankers. However, the professional operators listed on InstaDwell typically have commercial water contracts to ensure 24/7 supply, shielding you from the shortage."
 ---
 
 HSR Layout is Bangalore's startup capital. With wide roads, parks in every sector, and the best cafes like Third Wave and Blue Tokai, it is the most livable neighborhood for techies and founders.

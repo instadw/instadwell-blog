@@ -7,6 +7,27 @@ permalink: /:title
 author: Sanchit
 category: Student Accommodation
 date: 2025-10-25T09:14:00.000+05:30
+faq:
+  - question: "How far from my college should the PG be?"
+    answer: "Ideally within 10-15 minutes by public transport or two-wheeler. If commute exceeds 30 minutes, you'll often spend more time and money than you saved on rent."
+  - question: "Is it cheaper to choose triple sharing over double?"
+    answer: "Yes — triple sharing usually costs less because cost is divided among more people. But it means less privacy and could affect study time due to more roommates. Choose based on your comfort."
+  - question: "Should meals be included in the PG?"
+    answer: "It depends. Meals-included can simplify budgeting and save you time. But if the food quality or menu doesn't suit you, you might prefer a PG without meals and cook/order. Always check meal quality."
+  - question: "What documents are required when booking a PG in Hyderabad?"
+    answer: "Usually: Aadhar card or ID proof, passport-size photograph, college enrolment proof (for students), sometimes parent's consent."
+  - question: "How much deposit should I expect?"
+    answer: "Typically 1 to 3 months' rent, though this varies. Confirm deposit refund conditions upfront."
+  - question: "Are electricity and WiFi always included?"
+    answer: "Not always. Some PGs include them in rent; others charge separately. One student noted electricity bills were unexpectedly high because of old ACs."
+  - question: "Can I get a single occupancy room as a student?"
+    answer: "Yes, in many PGs. But cost will be significantly higher. For students on a budget, sharing is more cost-effective."
+  - question: "How can I verify the safety of a PG?"
+    answer: "Visit at night to check lighting, talk to current residents, check for CCTV and guard, ensure student-friendly environment (quiet hours, study area). If you're female, check for secure entry and female-only wing."
+  - question: "What happens if I need to leave mid-term (e.g., internship ends)?"
+    answer: "Check the agreement's notice period, any lock-in clause, and refund of deposit. Student PGs often offer shorter term stays, but clarify before signing."
+  - question: "How do I find affordable PGs near lesser-known campuses?"
+    answer: "For smaller or newer institutes located a bit away from main hubs, consider suburbs emerging outside the main IT corridor. These may offer student PGs at lower rates but check transport and amenities carefully."
 ---
 
 ## **Table of Contents**

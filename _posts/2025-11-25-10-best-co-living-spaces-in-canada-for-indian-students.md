@@ -7,6 +7,27 @@ permalink: /:title
 author: Sanchit
 category: Accommodation
 date: 2025-11-25T09:14:00.000+05:30
+faq:
+  - question: "Are co-living spaces safe for Indian students arriving alone?"
+    answer: "Yes, many co-living operators prioritize security with key fobs, CCTV, and on-call staff. Verify safety features before signing and read past resident reviews."
+  - question: "How much does co-living typically cost in Canada for students?"
+    answer: "Expect CAD 700–1,600 per month depending on city, location, room type, and amenities. Always check the all-in price."
+  - question: "Can I book a co-living room before arriving in Canada?"
+    answer: "Yes. Most operators accept online applications, but avoid sending large sums before signing a verified contract."
+  - question: "Are co-living leases flexible for semester-based study?"
+    answer: "Many providers offer semester or month-to-month leases. Confirm minimum stay requirements and notice periods."
+  - question: "Do co-living spaces help with roommate matching?"
+    answer: "Many do. They often use questionnaires to match students by lifestyle, study habits, and preferences."
+  - question: "Are utilities and internet included in co-living rents?"
+    answer: "Often yes, but always confirm what is included to avoid surprise bills."
+  - question: "Can international students cook vegetarian/Indian meals in co-living kitchens?"
+    answer: "Generally yes, but check kitchen rules and shared kitchen etiquette. Some communities even host cultural cooking nights."
+  - question: "How do co-living spaces handle maintenance and repairs?"
+    answer: "Professional operators typically have on-site or on-call maintenance teams. For smaller shared houses, landlords may coordinate repairs; ensure response times are in the contract."
+  - question: "What paperwork is required to rent a co-living room from abroad?"
+    answer: "Passport, admission letter, visa or proof of application, references (if requested), and sometimes a deposit or guarantor details. Keep digital copies ready."
+  - question: "How do I avoid scams when booking co-living in Canada?"
+    answer: "Use university referrals, recognized operators, video tours, and verified payment methods. Beware of unusually low prices or pressure to pay immediately without paperwork."
 ---
 
 ## Table of Contents

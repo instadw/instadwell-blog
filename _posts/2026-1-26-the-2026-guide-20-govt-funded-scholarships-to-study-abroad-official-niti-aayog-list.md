@@ -7,6 +7,15 @@ permalink: /:title
 author: Sanchit
 category: Student
 date: 2026-1-26T09:14:00.000+05:30
+faq:
+  - question: "Do these scholarships include accommodation?"
+    answer: "Most Fully Funded scholarships (like Commonwealth and MEXT) provide a monthly stipend or allowance intended to cover housing costs. However, you must usually book the accommodation yourself."
+  - question: "When should I apply?"
+    answer: "Most government scholarship cycles run between September and January for the following academic year."
+  - question: "Can I apply for multiple scholarships?"
+    answer: "Yes, but you usually cannot accept more than one government-funded scholarship at the same time. Always check the specific terms of the donor agency."
+  - question: "When should I book student housing?"
+    answer: "We recommend booking accommodation 3-4 months before your course starts, or as soon as your visa is confirmed."
 ---
 
 

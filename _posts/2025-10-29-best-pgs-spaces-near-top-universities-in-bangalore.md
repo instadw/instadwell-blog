@@ -7,6 +7,27 @@ permalink: /:title
 author: Sanchit
 category: Business
 date: 2025-10-29T09:14:00.000+05:30
+faq:
+  - question: "What is the average cost of a PG room near a university in Bangalore?"
+    answer: "Costs vary by sharing type and location. In mid-zones you might find 2-3 sharing rooms around ₹8,000-₹12,000/month inclusive of meals and WiFi. Premium locations or single rooms with AC may cost more."
+  - question: "How important is proximity to university when selecting a PG?"
+    answer: "Very important. The time you save on commute can be used for study or rest, decreasing stress. Also accessibility for classes, library, and group study matters."
+  - question: "What amenities should I look for in a student PG?"
+    answer: "Key amenities include: secure entry, CCTV/biometric access; good WiFi; daily cleaning; comfortable study desk and chair; meals included or kitchen access; power backup; laundry; communal spaces; quiet environment for studying."
+  - question: "Should I prefer a branded PG provider or independent PG?"
+    answer: "Both have pros and cons. Branded PGs often provide standardised service, clearer contracts, more amenities but may cost a little more. Independent PGs may give more flexibility or lower cost but you'll have to check maintenance and management quality."
+  - question: "What are red flags to watch out for when booking a PG?"
+    answer: "Red flags include: unrealistic photos, hidden clauses in contract, high deposit with vague refund policy, unwillingness to show actual room, lack of maintenance, or testimonies of deposit non-return."
+  - question: "Can I negotiate PG rent or sharing terms?"
+    answer: "Yes, many PGs allow flexibility on sharing norms, meal plan variations, and lock-in period. Especially if you are moving early or have a special situation like an internship or short-stay, you can negotiate."
+  - question: "Are PGs near universities cheaper than those near IT hubs?"
+    answer: "Not always. PGs in central university areas may command a premium for proximity. However areas further away but well-connected might offer better value."
+  - question: "How long is the typical lease/lock-in period for student PG?"
+    answer: "Usually 6-12 months, but some PGs offer shorter stays (3-6 months) especially for interns or students. Always check and ask upfront; shorter stays may have a higher per-month cost."
+  - question: "What about food and dietary preferences in PGs?"
+    answer: "Many PGs include meals (breakfast and dinner, sometimes lunch). If you have dietary restrictions (veg, non-veg, Jain, vegan), check the menu in advance. Also ask about food timing and quality."
+  - question: "What happens if I face issues during my stay (maintenance, dispute, deposit)?"
+    answer: "Your PG should have clear management staff to address issues and a defined process for complaints and deposit refund. Before signing, read the contract for deposit refund terms and exit policy."
 ---
 ## **Table of Contents**
 

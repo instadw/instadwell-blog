@@ -7,6 +7,13 @@ permalink: /:title
 author: Sanchit
 category: Student
 date: 2026-2-05T09:14:00.000+05:30
+faq:
+  - question: "Is Satya Niketan safe for girls?"
+    answer: "Yes, primarily because it is student-heavy and active. However, internal lanes can be narrow and poorly lit at night. We recommend sticking to PGs near the main market road or opting for managed buildings like Stanza Living which have security guards and biometrics."
+  - question: "What is the cheapest PG near Venky?"
+    answer: "You can find non-AC rooms deep inside Satya Niketan for as low as ₹6,000/month. For decent amenities (AC + Wifi), expect to pay around ₹8,000 - ₹12,000 in double sharing."
+  - question: "Is Anand Niketan better than Satya Niketan?"
+    answer: "Anand Niketan is cleaner, quieter, and greener, but significantly more expensive (rents start at ₹18k+). Satya Niketan is congested but offers the true \"campus vibe\" and student-friendly food prices."
 ---
 
 Satya Niketan is the heartbeat of Delhi University's South Campus. If you are a student at Sri Venkateswara (Venky), ARSD, or Motilal Nehru College, this is where you want to be.
