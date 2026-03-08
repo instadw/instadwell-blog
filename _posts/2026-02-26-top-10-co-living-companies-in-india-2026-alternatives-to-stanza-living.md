@@ -34,9 +34,9 @@ These early operators offered essential amenities, meals, and shared spaces, gra
 
 India’s coliving market has grown rapidly, with operators offering budget hostels, luxury apartments, and tech-enabled homes. Top operators differentiate themselves through pricing, flexibility, amenities, and community engagement. Students, professionals, and digital nomads increasingly prefer coliving over traditional PGs or hostels for the convenience and enriched living experience.
 
-## Top 10 Coliving Operators in India (2025)
+## Top 10 Coliving Operators in India (2026)
 
-🏆 Top 10 Coliving & Hostel Operators in India (2025, by Property Count, incl. Franchise)
+🏆 Top 10 Coliving & Hostel Operators in India (2026, by Property Count, incl. Franchise)
 
 | Rank    | Operator      | Properties | Segment                      |
 | ------- | ------------- | ---------- | ---------------------------- |
