@@ -69,7 +69,7 @@ In 2026, navigating the Prahlad Nagar-Satellite belt is about smart transit. The
 | Commute From       | Time to Prahlad Nagar | Primary Mode             | Best For                       |
 | ------------------ | --------------------- | ------------------------ | ------------------------------ |
 | **Thaltej / Bodakdev** | 7–10 mins             | SG Highway / Shared cabs | IT & Sales professionals       |
-| **Vastrapur **         | 8–12 mins             | Inner Ring Road          | Consultants & Analysts         |
+| **Vastrapur**         | 8–12 mins             | Inner Ring Road          | Consultants & Analysts         |
 | **Satellite**          | ~5 mins               | Walking / Auto           | Early-career IT professionals  |
 | **Makarba**            | ~10 mins              | Corporate shuttles       | Budget-conscious professionals |
 
