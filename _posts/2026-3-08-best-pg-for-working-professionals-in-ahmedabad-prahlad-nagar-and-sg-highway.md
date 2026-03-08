@@ -12,7 +12,7 @@ date: 2026-3-08T09:14:00.000+05:30
 
 ### Quick Snapshot for Working Professionals: Prahlad Nagar (2026)
 
--   Average Rent (Prahlad Nagar/Satellite): ₹14,000 – ₹18,000 (Shared) | ₹25,000+ (Private)
+-   Average Rent (Prahlad Nagar/Satellite): ₹14,000 – ₹18,000 (Shared) , ₹25,000+ (Private)
     
 -   Key Proximity: Corporate Road, Titanium Heights, Pinnacle Business Park.
     
@@ -71,7 +71,6 @@ In 2026, navigating the Prahlad Nagar-Satellite belt is about smart transit. The
 | Vastrapur          | 8–12 mins             | Inner Ring Road          | Consultants & Analysts         |
 | Satellite          | ~5 mins               | Walking / Auto           | Early-career IT professionals  |
 | Makarba            | ~10 mins              | Corporate shuttles       | Budget-conscious professionals |
-
 
 **Pro Tip:** If your office is near Prahlad Nagar Garden, look for stays in Satellite or Vejalpur. These pockets offer a quieter residential feel while keeping your commute under 10 minutes.
 
