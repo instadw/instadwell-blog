@@ -65,6 +65,7 @@ Since Prahlad Nagar is a high-density corporate hub, these neighboring propertie
 ### The 2026 Commute: Prahlad Nagar & The Corporate Corridor
 
 In 2026, navigating the Prahlad Nagar-Satellite belt is about smart transit. The Ahmedabad Metro Phase 2 extension has eased the pressure, but the SG Highway remains the primary artery.
+
 | Commute From       | Time to Prahlad Nagar | Primary Mode             | Best For                       |
 | ------------------ | --------------------- | ------------------------ | ------------------------------ |
 | Thaltej / Bodakdev | 7–10 mins             | SG Highway / Shared cabs | IT & Sales professionals       |
