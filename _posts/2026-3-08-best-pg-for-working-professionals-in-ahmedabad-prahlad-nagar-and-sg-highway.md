@@ -51,7 +51,7 @@ A working professional's PG in this district is an "Executive Suite" experience.
 
 Since Prahlad Nagar is a high-density corporate hub, these neighboring properties in Thaltej, Bodakdev, and Vastrapur offer the most efficient commute.
 
-  ### Property Options Near Prahlad Nagar
+### Property Options Near Prahlad Nagar
 
 | Property Name                                                                   | Proximity to Prahlad Nagar | Best Professional Perk                              | Starting Price  |
 | ------------------------------------------------------------------------------- | -------------------------- | --------------------------------------------------- | --------------- |
