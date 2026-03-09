@@ -130,5 +130,5 @@ A: Depends on your priority. For commute: Satellite or Vejalpur (under 5 minutes
 -   Best for Productivity: Thaltej (specifically [Evanston House](https://instadwell.com/properties/2987-evanston-house) for high-speed Wi-Fi).
     
 
-[Explore 0-Brokerage Professional PGs in Ahmedabad & Book a Visit](https://instadwell.com/search?lat=23.0120338&lng=72.51075399999999&location=Prahlad%20Nagar%2C%20Ahmedabad%2C%20Gujarat%20380015%2C%20India&city=Ahmedabad&country=India)  
+[Explore 0-Brokerage Professional PGs in Ahmedabad](https://instadwell.com/search?lat=23.0120338&lng=72.51075399999999&location=Prahlad%20Nagar%2C%20Ahmedabad%2C%20Gujarat%20380015%2C%20India&city=Ahmedabad&country=India)  
 
