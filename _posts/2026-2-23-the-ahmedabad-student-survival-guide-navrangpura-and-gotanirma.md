@@ -17,11 +17,11 @@ New to Ahmedabad entirely? Start with our [Ultimate Guide to Co-living & PGs in 
 
 Before choosing your base, here is the hard data for your monthly budget:
 
--   Avg. Rent Navrangpura:  ₹12,500 – ₹16,000 (Premium organized co-living) | ₹7,500+ (Local unorganized PGs).
+-   Avg. Rent Navrangpura:  ₹12,500 – ₹16,000 (Premium organized co-living), ₹7,500+ (Local unorganized PGs).
     
--   Avg. Rent Gota:  ₹10,000 – ₹13,500 (Organized hubs) | ₹6,500+ (Local shared flats).
+-   Avg. Rent Gota:  ₹10,000 – ₹13,500 (Organized hubs), ₹6,500+ (Local shared flats).
     
--   Electricity Rate Gap: Residential rates average ₹4.50 – ₹5.20/unit. "PG Trap" commercial rates often skyrocket to ₹11 – ₹12/unit—a 130% markup that can add ₹3,000+ to your monthly bill.
+-   Electricity Rate Gap: Residential rates average ₹4.50 – ₹5.20/unit. "PG Trap" commercial rates often skyrocket to ₹11 – ₹12/unit - a 130% markup that can add ₹3,000+ to your monthly bill.
     
 
 ### Top Student Residences: Price & Feature Comparison
@@ -53,7 +53,7 @@ Students often ask: "Should I go for the vibe of the city center or the space of
     
 -   Ideal for: Students at HL, St. Xavier's, and Gujarat University.
 
-Female students at Gujarat University should also check our dedicated [Best PGs in Ahmedabad for Females guide](/blog/best-pgs-in-ahmedabad-for-females-2026-safety-and-lifestyle-guide) — Annapolis House in Navrangpura is specifically rated for safety and campus proximity.
+Female students at Gujarat University should also check our dedicated [Best PGs in Ahmedabad for Females guide](/blog/best-pgs-in-ahmedabad-for-females-2026-safety-and-lifestyle-guide) - Annapolis House in Navrangpura is specifically rated for safety and campus proximity.
     
 
 #### Gota/Nirma Area: The "Modern" Frontier
