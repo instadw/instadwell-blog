@@ -15,7 +15,9 @@ Moving to [Ahmedabad](https://instadwell.com/search?lat=23.022505&lng=72.5713621
 This guide serves as your Topic Hub for everything related to co-living in Ahmedabad, moving beyond basic listings to provide real, on-ground insights for students and working professionals.
 
 If you're a student, jump to our [Ahmedabad Student Survival Guide for Navrangpura & Gota/Nirma](/blog/the-ahmedabad-student-survival-guide-navrangpura-and-gotanirma). 
+
 Working in the corporate belt? See our [PG guide for Working Professionals in Prahlad Nagar & SG Highway](/blog/best-pg-for-working-professionals-in-ahmedabad-prahlad-nagar-and-sg-highway). 
+
 Women looking for safe stays can go directly to our [Best PGs in Ahmedabad for Females guide](/blog/best-pgs-in-ahmedabad-for-females-2026-safety-and-lifestyle-guide).
 
 | Property Name                                                                                                                | Best Feature                                       | Price (Starts From) |
@@ -53,7 +55,9 @@ Finding a paying guest in Ahmedabad now requires a "Metro-first" strategy. As of
 | GIFT City     | Finance/MNC Pros       | ₹15k – ₹20k     | Metro (Purple Line) | Global Standards      |
 
 > 📌 **Students:** Read our in-depth breakdown → [Navrangpura vs. Gota: The Student Survival Guide](/blog/the-ahmedabad-student-survival-guide-navrangpura-and-gotanirma)
+
 > 📌 **Working Professionals:** See PG options by commute time → [Prahlad Nagar & SG Highway Professional PG Guide](/blog/best-pg-for-working-professionals-in-ahmedabad-prahlad-nagar-and-sg-highway)
+
 > 📌 **Women:** Safety-first picks → [Best PGs in Ahmedabad for Females](/blog/best-pgs-in-ahmedabad-for-females-2026-safety-and-lifestyle-guide)
 
 
