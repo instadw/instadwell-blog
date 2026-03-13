@@ -14,7 +14,9 @@ Moving to [Ahmedabad](https://instadwell.com/search?lat=23.022505&lng=72.5713621
 
 This guide serves as your Topic Hub for everything related to co-living in Ahmedabad, moving beyond basic listings to provide real, on-ground insights for students and working professionals.
 
-If you're a student, jump to our [Ahmedabad Student Survival Guide for Navrangpura & Gota/Nirma](/blog/the-ahmedabad-student-survival-guide-navrangpura-and-gotanirma). Working in the corporate belt? See our [PG guide for Working Professionals in Prahlad Nagar & SG Highway](/blog/best-pg-for-working-professionals-in-ahmedabad-prahlad-nagar-and-sg-highway). Women looking for safe stays can go directly to our [Best PGs in Ahmedabad for Females guide](/blog/best-pgs-in-ahmedabad-for-females-2026-safety-and-lifestyle-guide).
+If you're a student, jump to our [Ahmedabad Student Survival Guide for Navrangpura & Gota/Nirma](/blog/the-ahmedabad-student-survival-guide-navrangpura-and-gotanirma). 
+Working in the corporate belt? See our [PG guide for Working Professionals in Prahlad Nagar & SG Highway](/blog/best-pg-for-working-professionals-in-ahmedabad-prahlad-nagar-and-sg-highway). 
+Women looking for safe stays can go directly to our [Best PGs in Ahmedabad for Females guide](/blog/best-pgs-in-ahmedabad-for-females-2026-safety-and-lifestyle-guide).
 
 | Property Name                                                                                                                | Best Feature                                       | Price (Starts From) |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------- |
