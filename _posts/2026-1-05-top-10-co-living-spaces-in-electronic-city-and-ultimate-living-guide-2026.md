@@ -91,7 +91,7 @@ These properties are famous for a reason, but they are often Sold Out.
 
 ## The "Neeladri Road" Lifestyle (Phase 1)
 
-If you choose Phase 1, your life will revolve around Neeladri Road. Make no mistake: Neeladri Road is the heart of Phase 1. It is the "[Indiranagar](https://instadwell.com/search?lat=12.9783692&lng=77.6408356&location=Indiranagar%2C%20Bengaluru%2C%20Karnataka%2C%20India&city=Bengaluru&country=India) of E-City"—a 2km stretch packed with food, gyms, and hangouts.(Click the names for location)
+If you choose Phase 1, your life will revolve around Neeladri Road. Make no mistake: Neeladri Road is the heart of Phase 1. It is the "[Indiranagar](https://instadwell.com/search?lat=12.9783692&lng=77.6408356&location=Indiranagar%2C%20Bengaluru%2C%20Karnataka%2C%20India&city=Bengaluru&country=India) of E-City"-a 2km stretch packed with food, gyms, and hangouts.(Click the names for location)
 
 ###  Where to Eat: Curated Local Favorites
 
