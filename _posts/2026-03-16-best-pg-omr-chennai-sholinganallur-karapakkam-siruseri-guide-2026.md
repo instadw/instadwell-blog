@@ -6,7 +6,7 @@ layout: post
 permalink: /:title
 author: Sanchit
 category: Student Accommodation
-date: 2025-10-08T08:30:00.000+05:30
+date: 2026-03-16T08:30:00.000+05:30
 faq:
   - question: "What is the average rent for a PG with food OMR Chennai?"
     answer: "In 2026, shared rooms start as low as ₹3,964, with all-inclusive managed stays typically ranging between ₹8,000 and ₹14,000."
