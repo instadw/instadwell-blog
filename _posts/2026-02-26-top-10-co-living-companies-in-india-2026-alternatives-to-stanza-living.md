@@ -20,13 +20,13 @@ Today, many brands are recognized as the offering global-standard community livi
 
 ## The Start of Coliving in India
 
-The concept of coliving in India began around 2015–2016, driven by the need to provide hassle-free, fully-furnished accommodation for students and young professionals moving to tier-1 and tier-2 cities.
+The concept of coliving in India began around 2015-2016, driven by the need to provide hassle-free, fully-furnished accommodation for students and young professionals moving to tier-1 and tier-2 cities.
 
 Some of the first companies to enter the market included:
 
-* **Zostel (2013–2014)** – Initially focused on backpacker hostels, laying the groundwork for community-driven accommodations.
-* **Stanza Living (2017)** – Targeted student housing with fully-furnished, serviced residences in major urban centers.
-* **Zolo (2015–2016)** – Focused on tech-enabled coliving and flexible stays for young professionals.
+* **Zostel (2013-2014)** - Initially focused on backpacker hostels, laying the groundwork for community-driven accommodations.
+* **Stanza Living (2017)** - Targeted student housing with fully-furnished, serviced residences in major urban centers.
+* **Zolo (2015-2016)** - Focused on tech-enabled coliving and flexible stays for young professionals.
 
 These early operators offered essential amenities, meals, and shared spaces, gradually introducing technology-driven booking, app-based management, flexible contracts, and community events. Their innovations helped reduce the typical hassles of urban renting and fostered a strong sense of community, setting the stage for the rapid growth of India’s coliving market.
 
@@ -47,7 +47,7 @@ India’s coliving market has grown rapidly, with operators offering budget host
 | 5       | HelloWorld    | 150+       | Coliving / Student Housing   |
 | 6       | Housr         | 65         | Coliving                     |
 | 7       | Settl         | 60+        | Coliving                     |
-| 8       | The Hosteller | 55–60      | Hostel                       |
+| 8       | The Hosteller | 55-60      | Hostel                       |
 | 9       | goSTOPS       | 34         | Hostel                       |
 | 10      | TruLiv        | 30         | Coliving                     |
 
@@ -57,7 +57,7 @@ India’s coliving market has grown rapidly, with operators offering budget host
 * 450+ properties across 15+ cities
 * Fully-furnished residences for students and young professionals
 * Meals, housekeeping, high-speed internet, and app-based community support included
-* **Average rent:** ₹7,000–10,000 per month
+* **Average rent:** ₹7,000-10,000 per month
 * Focus on hassle-free, community-driven urban living
 
 ### Zolo
@@ -75,7 +75,7 @@ India’s coliving market has grown rapidly, with operators offering budget host
 * 150+ hostels across India (managed + franchise)
 * Budget-friendly, safe, and eco-conscious hostels
 * Social spaces, curated trips, and travel experiences for backpackers
-* **Average nightly price:** INR 1500 – 4700 depending on location and season
+* **Average nightly price:** INR 1500 - 4700 depending on location and season
 * Focused on cultural exchange and building a global traveler community
 
 ### Colive
@@ -119,10 +119,10 @@ India’s coliving market has grown rapidly, with operators offering budget host
 ### The Hosteller
 
 * **Largest presence:** [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru), 
-* 55–60 hostels across India
+* 55-60 hostels across India
 * Affordable accommodations with creative activities and social spaces
 * Curated trips and remote work-friendly environments
-* **Average nightly price:** INR 2200 – 4200 depending on location and season
+* **Average nightly price:** INR 2200 - 4200 depending on location and season
 * Focused on young travelers and backpackers
 
 ### goSTOPS
@@ -131,7 +131,7 @@ India’s coliving market has grown rapidly, with operators offering budget host
 * 34 hostels across India
 * Targeted at Gen Z travelers, dorms and communal spaces
 * Events, digital amenities, and workation solutions
-* **Average nightly price:** INR 1500 – 4700 depending on location and season
+* **Average nightly price:** INR 1500 - 4700 depending on location and season
 * Focused on affordable, social, and flexible experiences
 
 ### TruLiv
@@ -147,14 +147,14 @@ India’s coliving market has grown rapidly, with operators offering budget host
 
 | Operator      | Properties | Largest Base City | Average Rent (₹) | Segment                      |
 | ------------- | ---------- | ----------------- | ---------------- | ---------------------------- |
-| Stanza Living | 450+       | Bengaluru         | 7,000–10,000     | Coliving / Student Housing   |
+| Stanza Living | 450+       | Bengaluru         | 7,000-10,000     | Coliving / Student Housing   |
 | Zolo          | 450+       | Bengaluru         | 8,000+           | Coliving                     |
 | Zostel        | 150+       | North India       | Varies           | Hostel (Managed + Franchise) |
 | Colive        | 150        | Bengaluru         | 8,000+           | Coliving                     |
 | HelloWorld    | 150+       | Bengaluru         | 11,000+          | Coliving / Student Housing   |
 | Housr         | 65         | Bengaluru         | 12,000+          | Coliving                     |
 | Settl         | 60+        | Bengaluru         | 10,000+          | Coliving                     |
-| The Hosteller | 55–60      | Bengaluru         | Varies           | Hostel                       |
+| The Hosteller | 55-60      | Bengaluru         | Varies           | Hostel                       |
 | goSTOPS       | 34         | Goa               | Varies           | Hostel                       |
 | TruLiv        | 30         | Chennai           | 9,000+           | Coliving                     |
 
@@ -176,7 +176,7 @@ Which are the  [Best PGs & Co-Living Spaces in Hyderabad ](https://instadwell.co
     Bengaluru, Pune, Chennai, Hyderabad, Delhi NCR, Coimbatore, Indore, Vadodara.
 * **Is HelloWorld good for students?**
     Yes, it offers all-inclusive hostels, flexible deposits, meals, and community engagement.
-* **Which is better — Stanza Living or Zolo?**
+* **Which is better - Stanza Living or Zolo?**
     Stanza for scale and community, Zolo for budget and flexibility.
 * **How many hostels does Zostel have in India?**
     150+ managed and franchise locations.
@@ -185,12 +185,12 @@ Which are the  [Best PGs & Co-Living Spaces in Hyderabad ](https://instadwell.co
 * **Which coliving operators are affordable in India?**
     Zolo, TruLiv, goSTOPS, The Hosteller, Zostel.
 * **What is the average rent in coliving spaces in India?**
-    Approx. ₹8,000–25,000/month depending on city, amenities, and room type.
+    Approx. ₹8,000-25,000/month depending on city, amenities, and room type.
 * **Do coliving operators provide food and amenities?**
     Yes, most top operators include meals, housekeeping, Wi-Fi, and community spaces.
-* **Stanza Living vs Zolo — which one should I choose?**
+* **Stanza Living vs Zolo - which one should I choose?**
     Stanza for scale and community, Zolo for budget and flexibility.
-* **Hostel vs PG vs Coliving — which is better for students?**
+* **Hostel vs PG vs Coliving - which is better for students?**
     Coliving offers the best balance of privacy, amenities, meals, and community.
 * **Which coliving operator has the most properties?**
     Stanza Living and Zolo (450+ properties each).
@@ -198,10 +198,10 @@ Which are the  [Best PGs & Co-Living Spaces in Hyderabad ](https://instadwell.co
     Likely Stanza Living, given their largest property count and multiple city presence.
 * **What are the pros and cons of top coliving operators?**
 
-  * **Stanza Living/Zolo:** Pros – Large network, community, fully-furnished, tech-enabled; Cons – Slightly higher rent in premium areas.
-  * **HelloWorld:** Pros – All-inclusive, flexible, vibrant community; Cons – Rent slightly higher than budget coliving.
-  * **Zostel/goSTOPS/Hosteller:** Pros – Affordable, social, travel-friendly; Cons – Limited privacy, dorm-style rooms.
-  * **Colive/Settl/Housr/TruLiv:** Pros – Modern, tech-enabled, private rooms, community; Cons – Smaller network compared to Stanza/Zolo.
+  * **Stanza Living/Zolo:** Pros - Large network, community, fully-furnished, tech-enabled; Cons - Slightly higher rent in premium areas.
+  * **HelloWorld:** Pros - All-inclusive, flexible, vibrant community; Cons - Rent slightly higher than budget coliving.
+  * **Zostel/goSTOPS/Hosteller:** Pros - Affordable, social, travel-friendly; Cons - Limited privacy, dorm-style rooms.
+  * **Colive/Settl/Housr/TruLiv:** Pros - Modern, tech-enabled, private rooms, community; Cons - Smaller network compared to Stanza/Zolo.
 
 ## Conclusion
 
