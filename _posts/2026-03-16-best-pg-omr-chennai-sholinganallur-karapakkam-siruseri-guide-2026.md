@@ -61,9 +61,9 @@ The Old Mahabalipuram Road (OMR), officially known as the Rajiv Gandhi IT Expres
 
 | Hub | Best For | Connectivity | Vibe |
 | :--- | :--- | :--- | :--- |
-| **Karapakkam** | Budget Pros | pg near tecci park karapakkam | High density of local messes |
-| **Sholinganallur** | Tech Employees | pg near elcot sez sholinganallur | Active hub; connects OMR to ECR |
-| **Siruseri** | High-end Pros | pg near sipcot siruseri | Quiet, residential, and upscale |
+| **Karapakkam** | Budget Pros | Near tecci park karapakkam | High density of local messes |
+| **Sholinganallur** | Tech Employees | Near elcot sez sholinganallur | Active hub; connects OMR to ECR |
+| **Siruseri** | High-end Pros | Near sipcot siruseri | Quiet, residential, and upscale |
 
 ----------
 
@@ -93,7 +93,7 @@ The Old Mahabalipuram Road (OMR), officially known as the Rajiv Gandhi IT Expres
 ## Frequently Asked Questions (OMR Edition)
 
 **Q: What is the average rent for a PG with food OMR Chennai?**
-A: In 2026, shared rooms start as low as ₹3,964, with all-inclusive managed stays typically ranging between ₹8,000 and ₹14,000.
+A: In 2026, shared rooms start as low as ₹5,000, with all-inclusive managed stays typically ranging between ₹8,000 and ₹14,000.
 
 **Q: Are there specific ladies pg in omr chennai near IT parks?**
 A: Yes. Most managed operators offer gender-segregated wings or buildings with 24/7 security near major hubs like Sholinganallur.
