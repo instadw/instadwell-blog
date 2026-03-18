@@ -98,6 +98,7 @@ India’s coliving market has grown rapidly, with operators offering budget host
 | 10      | TruLiv        | 30         | Coliving                     |
 | 11      | Settl         | 23         | Coliving                     |
 
+
 ### Stanza Living
 
 * **Largest presence:** [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru),  (102+ properties)
@@ -210,6 +211,7 @@ India’s coliving market has grown rapidly, with operators offering budget host
 | **App Experience** | Utility-focused (Rent & Tickets) | Feature-rich (Community, Meals, Services) |
 | **Best for** | Budget-conscious individuals | Those prioritizing consistency & quality |
 
+
 ## Summary Table
 
 | Operator      | Properties | Largest Base City | Average Rent (₹) | Segment                      |
@@ -226,9 +228,11 @@ India’s coliving market has grown rapidly, with operators offering budget host
 | TruLiv        | 30         | Chennai           | 9,000+           | Coliving                     |
 | Settl         | 23         | Bengaluru         | 10,000+          | Coliving                     |
 
+
 ## Tech-Enabled Co-living in India - What It Actually Means
 
 In 2026, **"tech-enabled"** co-living has moved beyond just having a website. For a modern resident, it translates to a frictionless living experience. This includes **biometric or QR-based entry systems** for enhanced security, **dedicated mobile apps** for instant maintenance tracking and meal selection, **digitally signed rental agreements** for legal transparency, and **automated billing systems** that provide clear, real-time breakdowns of electricity and utility consumption.
+
 
 ## FAQ's
 
