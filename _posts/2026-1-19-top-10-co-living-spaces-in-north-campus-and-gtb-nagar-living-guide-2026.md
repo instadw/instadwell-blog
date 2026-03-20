@@ -69,7 +69,7 @@ North Campus isn't just one area; it’s a collection of distinct "micro-cities.
 
 -   Hudson Lane: The "[South Delhi](https://instadwell.com/search?lat=28.4929198&lng=77.1847921&location=South%20Delhi%2C%20New%20Delhi%2C%20Delhi%2C%20India&city=New%20Delhi&country=India)" of North Campus (Cafes, Parties, Expensive).
     
--   Vijay Nagar: The "Budget Student" Hub (Narrow lanes, affordable, walkable).
+-   Vijay Nagar: The "Budget Student" Hub (Narrow lanes, [affordable](/blog/affordable-student-housing-in-india-find-verified-rooms-near-you), walkable).
     
 -   GTB Nagar: The "Connector" (Metro access, busy, coaching centers).
     
@@ -216,11 +216,9 @@ Yes. Single private rooms near North Campus are available primarily through mana
 
 ## Conclusion: Which Zone is For You?
 
--   Choose Hudson Lane if: You have a budget of ₹15k+ and want the premium "South Delhi" vibe.
-    
--   Choose Vijay Nagar if: You need a PG near SRCC or PG near Hansraj College to save money and walk to class. (Check out Stanza Living properties).
-    
--   Choose GTB Nagar if: You need the Metro daily for internships or coaching.
+* Choose Hudson Lane if: You have a budget of ₹15k+ and want the premium "South Delhi" vibe.
+* Choose Vijay Nagar if: You need a PG near [SRCC](https://www.srcc.edu/) or PG near [Hansraj College](https://instadwell.com/search?lat=28.6806755&lng=77.2096174&location=Hansraj%20College%2C%20Delhi%2C%20110007%2C%20India&city=Delhi&country=India) to save money and walk to class. (Check out [Stanza Living Penzance House](https://instadwell.com/properties/2753-penzance-house) for girls or [Ventura House](https://instadwell.com/properties/2762-ventura-house) for boys).
+* Choose GTB Nagar if: You need the Metro daily for internships or coaching. See our [Mukherjee Nagar UPSC Reality Guide](https://instadwell.com/blog/top-10-co-living-spaces-in-mukherjee-nagar-the-upsc-aspirants-reality-guide) if coaching is your primary reason for being in this belt.
     
 
 [Browse North Campus PGs near DU](https://instadwell.com/search?lat=28.6987867&lng=77.2047205&location=GTB%20Nagar%2C%20Delhi%2C%20110033%2C%20India&city=Delhi&country=India) 
