@@ -77,11 +77,11 @@ Newcomers often have unrealistic expectations. Let’s set the benchmark. Here i
 
 | Zone            | Key Areas                            | Starting Rent      | Vibe                                      |
 | --------------- | ------------------------------------ | ------------------ | ----------------------------------------- |
-| North Delhi     | GTB Nagar, Mukherjee Nagar           | 10,000 – 13,000  | Student heavy, academic, walkable.        |
-| South Delhi     | Saket, Satya Niketan, Katwaria Sarai | 12,000 – 15,000+ | Posh, cafes, green, expensive.            |
-| East Delhi      | Laxmi Nagar, Mayur Vihar             | 6,000 – 10,000   | Crowded, affordable, CA/UPSC hub.         |
-| West Delhi      | Patel Nagar, Rajouri Garden          | 8,000 – 12,000   | Residential, family-oriented, great food. |
-| Affordable Hubs | Uttam Nagar, Johri Farm              | 5,000 – 8,000    | Cheapest, but often congested/unsafe.     |
+| North Delhi     | GTB Nagar, Mukherjee Nagar           | 10,000 – 13,000    | Student heavy, academic, walkable.        |
+| South Delhi     | Saket, Satya Niketan, Katwaria Sarai | 12,000 – 15,000+   | Posh, cafes, green, expensive.            |
+| East Delhi      | Laxmi Nagar, Mayur Vihar             | 6,000 – 10,000     | Crowded, affordable, CA/UPSC hub.         |
+| West Delhi      | Patel Nagar, Rajouri Garden          | 8,000 – 12,000     | Residential, family-oriented, great food. |
+| Affordable Hubs | Uttam Nagar, Johri Farm              | 5,000 – 8,000      | Cheapest, but often congested/unsafe.     |
 
 
 
