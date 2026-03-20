@@ -85,7 +85,7 @@ Newcomers often have unrealistic expectations. Let’s set the benchmark. Here i
 
 
 
-Reality Check: If a broker offers you a "Fully Furnished AC PG" in South Delhi for ₹6,000, run. It is a scam.
+**Reality Check**: If a broker offers you a "Fully Furnished AC PG" in South Delhi for ₹6,000, run. It is a scam.
 
 ----------
 
@@ -188,18 +188,18 @@ At InstaDwell, we list properties from top tech-operators like Stanza Living, Zo
 - On a Budget? Explore [Laxmi Nagar](https://instadwell.com/search?lat=28.637189&lng=77.2756522&location=Laxmi%20Nagar%2C%20Delhi%2C%20India&city=Delhi&country=India).
     
 
-Search All Verified PGs in Delhi
+[Search All Verified PGs in Delhi](https://instadwell.com/best-pgs-and-co-living-spaces-in-new-delhi)
 
 ##  Frequently Asked Questions (FAQs)
 
-What is the cost of a single room PG in Delhi?
+* What is the cost of a single room PG in Delhi?
 
-A single room PG in Delhi starts from ₹8,000 in budget areas like Laxmi Nagar but can go up to ₹16,000+ in premium zones like Hudson Lane or Saket.
+- A single room PG in Delhi starts from ₹8,000 in budget areas like Laxmi Nagar but can go up to ₹16,000+ in premium zones like Hudson Lane or Saket.
 
-Where can I find a PG for couples in Delhi?
+* Where can I find a PG for couples in Delhi?
 
-Areas like Saket (Freedom Fighter Enclave), Malviya Nagar, and Gurgaon (Sector 48) are most couple-friendly. Look for managed apartments rather than traditional PGs.
+- Areas like Saket (Freedom Fighter Enclave), Malviya Nagar, and Gurgaon (Sector 48) are most couple-friendly. Look for managed apartments rather than traditional PGs.
 
-Is food usually included in the rent?
+* Is food usually included in the rent?
 
-Yes, most student accommodations are PG with food in Delhi (usually two meals a day). However, PGs for working professionals often operate on a "No Cook" model with a common pantry.
+- Yes, most student accommodations are PG with food in Delhi (usually two meals a day). However, PGs for working professionals often operate on a "No Cook" model with a common pantry.
