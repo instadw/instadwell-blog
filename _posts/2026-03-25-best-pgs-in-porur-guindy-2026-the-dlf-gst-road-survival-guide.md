@@ -34,6 +34,7 @@ faq:
     answer: "Budget shared rooms in Porur start from ₹8,000 per month in residential pockets away from the main Arcot Road. For a managed, zero-brokerage budget option, Agadir House at ₹11,799 offers the best value on the corridor with food and Wi-Fi included."
 ---
 
+
 ## Why Choose Porur or Guindy for PG Living?
 
 Porur and Guindy are among Chennai’s fastest-growing residential hubs due to their proximity to massive IT parks, high-speed metro connectivity, and relative affordability compared to central areas. While Porur attracts professionals working near DLF Cybercity, Guindy remains the ultimate choice for those needing quick access to the Guindy Metro Station, Olympia Tech Park, and the airport. Whether you are an entry-level developer or a senior analyst, these two areas offer the best work-life balance in West Chennai today.
