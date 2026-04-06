@@ -6,7 +6,7 @@ layout: post
 permalink: /:title
 author: Sanchit
 category: Accommodation
-date: 2026-04-05T09:14:00.000+05:30
+date: 2026-04-04T09:14:00.000+05:30
 faq:
   - question: "What are the average T Nagar PG fees?"
     answer: "For a managed sharing room, expect to pay between ₹9,000 and ₹13,000. For a single room PG in T Nagar, premium single-occupancy rooms usually start at ₹18,000 depending on proximity to Pondy Bazaar."
@@ -31,6 +31,7 @@ faq:
   - question: "Is there a women's hostel in T Nagar?"
     answer: "Yes. Toledo House starting from ₹15,199 is a managed option for working women in central Chennai with biometric entry and good transit access. For a premium Anna Nagar address, Murcia House starts from ₹18,499 with full women-only managed security."
 ---
+
 
 This guide focuses on the prestige heart of Chennai. Unlike the IT corridors of OMR or the quiet suburban vibe of Porur, Anna Nagar and T Nagar are where lifestyle meets legacy. For 2026 residents, the struggle is not just finding a bed; it is navigating the "Central Chennai Tax" (high deposits) and the constant buzz of Metro Phase 2 construction.
 
