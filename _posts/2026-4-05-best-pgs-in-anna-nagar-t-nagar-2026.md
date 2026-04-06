@@ -53,7 +53,7 @@ If you are in a rush, here is the immediate breakdown of the two most popular hu
 
 We have curated the top 10 listings in the Anna Nagar and T Nagar vicinity. These properties offer **0-brokerage** and managed amenities.
 
-| Property Name | Verified Price (Starts From) | Suited For |
+| Property Name | Price (Starts From) | Suited For |
 | :--- | :--- | :--- |
 | **[Murcia House](https://instadwell.com/properties/2707-murcia-house)** | ₹18,499 | Premium living in Anna Nagar |
 | **[Osasco House](https://instadwell.com/properties/2676-osasco-house)** | ₹18,499 | Professionals wanting premium Anna Nagar living |
