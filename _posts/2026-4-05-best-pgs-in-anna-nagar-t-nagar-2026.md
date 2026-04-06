@@ -80,9 +80,9 @@ We have curated the top 10 listings in the Anna Nagar and T Nagar vicinity. Thes
 
 | Room Configuration | Anna Nagar (Avg. Rent) | T Nagar (Avg. Rent) |
 | :--- | :--- | :--- |
-| **Single Room** | ₹15,000 – ₹20,000 | ₹16,000 – ₹22,000 |
-| **Double Sharing** | ₹10,000 – ₹16,000 | ₹9,000 – ₹15,000 |
-| **Triple Sharing** | ₹8,000 – ₹12,000 | ₹8,000 – ₹13,000 |
+| **Single Room** | ₹15,000 - ₹20,000 | ₹16,000 - ₹22,000 |
+| **Double Sharing** | ₹10,000 - ₹16,000 | ₹9,000 - ₹15,000 |
+| **Triple Sharing** | ₹8,000 - ₹12,000 | ₹8,000 - ₹13,000 |
 *All ranges are indicative averages for 2026 based on verified managed inventory. Actual prices vary by property, floor, and room configuration. Check individual listings for current rates.*
 
 > **The InstaDwell Insight:** Anna Nagar usually commands a premium for its "quiet" blocks and organized parking, whereas T Nagar prices fluctuate based on how close you are to the shopping districts.
