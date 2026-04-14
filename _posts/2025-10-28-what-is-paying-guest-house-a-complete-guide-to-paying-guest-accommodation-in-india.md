@@ -32,8 +32,6 @@ faq:
     answer: "The concept revolves around providing an all-inclusive, home-like environment for individuals moving to new cities by bundling rent, food, and utilities under one monthly payment."
 ---
 
-# What is a PG in India? Paying Guest Accommodation Explained
-
 A **Paying Guest (PG)** accommodation is a rental setup in India where a resident rents a furnished room or bed in a property. The monthly rent is all-inclusive, covering meals, Wi-Fi, laundry, and utilities, managed by a landlord or commercial operator.
 
 ----------
