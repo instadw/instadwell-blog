@@ -49,7 +49,7 @@ Saravanampatti's PG market is built around the needs of IT professionals working
 
 **WFH-Ready PGs:** If your office is at CHIL SEZ but you work hybrid, stable WiFi isn't optional. Look for properties with dedicated leased lines, not shared broadband. [Stanza Metz House](https://instadwell.com/properties/2730-metz-house) and [Stanza Burbank House](https://instadwell.com/properties/2726-burbank-house) are the only two in this list that explicitly guarantee load-balanced connections.
 
-**All-Inclusive (With Food):** The dominant format here. Most managed operators near the Athipalayam stretch include 3 meals. The quality gap between operators is real - [Zolo Darshan](https://instadwell.com/properties/2439-zolo-darshan) is specifically rated for menu variety, while some budget options rotate only 2-3 dishes.
+**All-Inclusive (With Food):** The dominant format here. Most managed operators near the Athipalayam stretch include 3 meals. The quality gap between operators is real, some are specifically rated for menu variety, while some budget options rotate only 2-3 dishes. Choose wisely.
 
 **Budget Sharing (Under Rs. 5,000):** [Zolo Icon](https://instadwell.com/properties/2436-zolo-icon) and [Zolo Kings](https://instadwell.com/properties/2441-zolo-kings) are your anchors. Expect 3-4 sharing, functional maintenance, but limited privacy. Fine for freshers; tough for anyone doing late-night calls.
 
@@ -88,7 +88,7 @@ Beyond scarcity, water quality in many apartments is described as extremely hard
 
 ### 2. Power Stability and Voltage Fluctuations
 
-Saravanampatti experiences occasional unscheduled outages and severe voltage fluctuations, which can damage expensive electronics. A reliable power backup solution like a generator or high-capacity inverter is mandatory for anyone working in tech.
+Saravanampatti experiences occasional unscheduled outages and severe voltage fluctuations, which can damage expensive electronics. So choose a property with reliable power backup solution like a generator or high-capacity inverter.
 
 ### 3. The Pan-Indian Food Perspective
 
@@ -100,10 +100,10 @@ Most managed operators are pan-Indian entities and are deeply aware of the requi
 
 | Feature | The Question You Must Ask | The Ideal Answer |
 | :--- | :--- | :--- |
-| Hard Water | Do you use regenerative water softeners for the bathrooms? | "Yes, we have a central softener system to prevent hair and skin damage." |
-| Water Scarcity | How do you ensure supply during peak summer months? | "We have dual-source supply and massive storage to avoid reliance on water cans." |
+| Hard Water | Do you use water softeners for the bathrooms? | "Yes, we have a central softener system to prevent hair and skin damage." |
+| Water Scarcity | How do you ensure supply during peak summer months? | "We have dual-source supply and massive storage to avoid reliance on water cans or tankers." |
 | Voltage/Power | Is there a generator that protects appliances from 270V+ fluctuations? | "Our system includes voltage stabilizers and an instantaneous generator backup." |
-| WiFi Speed | Can I attend a Zoom meeting without lag during peak evening hours? | "Every floor has a dedicated high-speed leased line with load-balancing." |
+| WiFi Speed | Can I attend a Zoom meeting without lag during peak evening hours? | "Every floor has dedicated high-speed wi-fi." |
 | Workstation | Is there a dedicated table in the room for my laptop? | "Yes, every resident is provided with a private desk and ergonomic seating." |
 
 ---
