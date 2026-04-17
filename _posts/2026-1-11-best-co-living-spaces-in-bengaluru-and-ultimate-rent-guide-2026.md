@@ -82,7 +82,6 @@ High-end stays in prime startup hubs like HSR & Koramangala.
 
 
 ###  The Quick List: Top 5 Most Affordable Student PGs
-
 | **Property Name**                                                     | **Location**    | **Starting Price** | **Best For**    | **Why Choose It**                        |
 | --------------------------------------------------------------------- | --------------- | ------------------ | --------------- | ---------------------------------------- |
 | [Glencoe House](https://instadwell.com/properties/2667-glencoe-house) | Rajanukunte     | ₹7,799+            | Reva Students   | Close to Reva University & Presidency    |
@@ -90,7 +89,7 @@ High-end stays in prime startup hubs like HSR & Koramangala.
 | [Evora House](https://instadwell.com/properties/2661-evora-house)     | Hesaraghatta Rd | ₹6,799+            | Budget          | Unbeatable value near Acharya Institutes |
 | [Davao House](https://instadwell.com/properties/2647-davao-house)     | Soladevanahalli | ₹6,499+            | Students        | Lowest rents in North Bengaluru zone     |
 | [Nome House](https://instadwell.com/properties/2634-nome-house)       | RR Nagar        | ₹6,199+            | Peaceful Living | Quiet neighborhood, study-friendly       |
-----------
+
 Want to see more options? [Click Here to Search All Bengaluru Listings](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru)
 ----------
 ## Finding a PG in Bengaluru: Real Costs, Top Localities, and Avoiding Scams
