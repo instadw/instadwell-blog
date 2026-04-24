@@ -1,6 +1,6 @@
 ---
-title: "What is a PG in India? Paying Guest Accommodation Explained (2026)"
-description: "What is a PG house in India? Learn how paying guest accommodation works, what's included in rent, typical deposits, and how PG differs from co-living and flats. Find verified no-brokerage PGs in Bangalore, Hyderabad, Pune and Delhi."
+title: "What is a PG in India? Paying Guest Accommodation Guide 2026 | Costs, Rules & Red Flags"
+description: "PG accommodation explained for 2026 - what's included, average rent by city (₹6,000–₹28,000), and how to spot fake listings before you pay a deposit, red flags, and FAQ's."
 image: /assets/images/what-is-paying-guest-house-a-complete-guide-to-paying-guest-accommodation-in-india.webp
 layout: post
 permalink: /what-is-paying-guest-house-a-complete-guide-to-paying-guest-accommodation-in-india
@@ -39,7 +39,7 @@ A **Paying Guest (PG)** accommodation is a rental setup in India where a residen
 ## Quick Guide: PG Living at a Glance
 
 - **Best For**: Students and solo young professionals.
-- **Budget Range**: ₹5,500 – ₹28,000 depending on the city and room type.
+- **Budget Range**: ₹6,000 – ₹28,000 depending on the city and room type.
 - **Key Benefit**: Zero hassle with furniture, utility bills, or meal prep.
 - **Deposit**: Typically 1–2 months for managed co-living; 2–3 months for local landlords.
 - **Notice Period**: Standard 30 days.
