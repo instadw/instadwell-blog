@@ -60,6 +60,7 @@ Coliving in India is a modern, community-driven form of shared living. Residents
 According to 2026 reports from [JLL](https://www.jllhomes.co.in/blogs/shared-spaces-shared-dreams-the-rise-of-co-living-in-india), [EverythingColiving](https://www.everythingcoliving.com/coliving-markets/india), and [Cushman & Wakefield](https://www.cushmanwakefield.com/-/media/cw/apac/india/insights/research/co---living-report.pdf), India’s co-living sector has matured into a **$3.99 billion** industry, growing at **28% annually**. With over 145 active startups managing 50,000+ branded beds, the market has moved from simple "room rentals" to a professionalized hospitality model with occupancy rates stabilized between 85–95%.
 
 Today, many brands are recognized as offering global-standard community living experiences.
+
 ---
 ### Quick Guide - Who Should Choose What
 
@@ -71,6 +72,7 @@ Today, many brands are recognized as offering global-standard community living e
 | **Best premium option** | Housr |
 | **Best for Chennai** | TruLiv |
 | **Best Stanza alternative** | Colive or HelloWorld |
+
 ---
 ## Co-living vs. Renting a Flat: Cost Analysis (2026)
 
