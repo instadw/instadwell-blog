@@ -70,6 +70,19 @@ A **Paying Guest (PG)** accommodation is a rental setup in India where a residen
 | **Lease** | Monthly, 30-day notice | Daily, weekly, or monthly |
 
 ----------
+## What is a Coed PG?
+
+A **coed PG** (also called a mixed PG or unisex PG) is a paying guest  accommodation that houses both male and female residents, typically in separate floors or wings of the same building. Common areas like dining rooms, lounges, and terraces are shared.
+
+Coed PGs are increasingly common in metro cities like [Bengaluru](https://instadwell.com/best-pgs-and-co-living-spaces-in-bengaluru), [Hyderabad](https://instadwell.com/best-pgs-and-co-living-spaces-in-hyderabad), and [Pune](https://instadwell.com/best-pgs-and-co-living-spaces-in-pune), particularly near IT parks where both male and female professionals want the social benefits of a mixed community without compromising safety. Most reputable operators like Stanza Living, Zolo, and Colive run dedicated coed properties with biometric entry and CCTV on common floors.
+
+**Key things to check before choosing a coed PG:**
+- Are male and female floors/wings clearly separated with independent access?
+- Does the property have 24/7 CCTV on common areas?
+- Is there a warden or resident manager on-site?
+- What is the visitor policy for guests of the opposite gender?
+
+----------
 
 ## 2026 PG Rent Comparison by City
 
