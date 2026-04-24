@@ -9,7 +9,7 @@ redirect_from:
 - /top-10-coliving-operators-in-india/
 author: Sanchit
 category: Businesses
-date: 2026-04-24T17:50:00.000+05:30
+date: 2026-04-23T17:50:00.000+05:30
 faq:
   - question: "What are the top coliving operators in India?"
     answer: "Stanza Living, Zolo, Zostel, Colive, HelloWorld, Housr, Settl, The Hosteller, goSTOPS, TruLiv."
