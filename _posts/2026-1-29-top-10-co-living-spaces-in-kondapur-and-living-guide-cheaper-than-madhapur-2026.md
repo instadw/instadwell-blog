@@ -1,5 +1,5 @@
 ---
-title: "Best PG & Co-Living in Kondapur, Hyderabad 2026 | From ₹7,500/mo | Near Mindspace & HITEC City"
+title: "Best PG & Co-Living in Kondapur, Hyderabad 2026 | From ₹8,500/mo | Near Mindspace & HITEC City"
 description: "Find verified PGs and co-living spaces in Kondapur, Hyderabad. Updated 2026 prices from ₹7,500/month, top localities, and 0-brokerage listings near Mindspace, Raheja Mindspace, and HITEC City."
 image: "/assets/images/top-10-co-living-spaces-in-kondapur-and-living-guide-cheaper-than-madhapur-2026.webp"
 layout: post
@@ -28,7 +28,7 @@ faq:
 
 Kondapur is the "Smart Middle Ground" of Hyderabad’s IT corridor. It absorbs the spillover from Madhapur and Hitech City, offering a more residential vibe without the insane rents of the Financial District.
 
- **Average Rent:** ₹10,000 - ₹18,000
+ **Average Rent:** ₹8,500 - ₹18,000
     
 **Best Feature:** The Raghavendra Colony food scene and proximity to Sharath City Mall.
 
