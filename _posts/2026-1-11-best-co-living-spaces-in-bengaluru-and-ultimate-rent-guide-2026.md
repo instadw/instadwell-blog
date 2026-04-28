@@ -241,6 +241,10 @@ Read our full [Electronic City living guide](/blog/top-10-co-living-spaces-in-el
   period, café culture nearby
 - **Budget sweet spot:** ₹14,000 – ₹25,000/month
 - **Operators to check:** HelloWorld (studio options)
+
+
+----------
+
 ## What Working Professionals Actually Care About (That Students Don't)
 
 ----------
