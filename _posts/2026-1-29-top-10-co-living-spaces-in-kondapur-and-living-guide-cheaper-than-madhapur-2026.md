@@ -7,7 +7,7 @@ permalink: /top-10-co-living-spaces-in-kondapur-and-living-guide-cheaper-than-ma
 author: Sanchit
 category: Student
 date: 2026-1-29T09:14:00.000+05:30
-faq_sections:
+faq:
   - question: "Is there a women's PG near Kondapur Hyderabad?"
     answer: "Yes. Kondapur has several managed options suitable for female residents. HelloWorld Sukoon (quiet residential lane, ₹12,500) and HelloWorld Hitex (near HITEC City, ₹12,000) are both verified managed options. For a filtered search by gender and price, use our Kondapur listings map."
   - question: "Is there a PG near Kondapur Hyderabad for men?"
