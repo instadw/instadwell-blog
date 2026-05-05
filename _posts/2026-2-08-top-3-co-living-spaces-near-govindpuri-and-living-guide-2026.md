@@ -4,6 +4,9 @@ description: "Moving to South Delhi on a budget? Compare Top 3 Co-living Spaces 
 image: "/assets/images/top-3-co-living-spaces-near-govindpuri-and-living-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /govindpuri-living-guide-how-to-save-money-without-losing-your-mind-2026
+- /govindpuri-living-guide-how-to-save-money-without-losing-your-mind-2026/
 author: Sanchit
 category: Student
 date: 2026-2-08T09:14:00.000+05:30
