@@ -4,6 +4,9 @@ description: " Top 10 PGs in Satya Niketan for South Campus students. Compare re
 image: "/assets/images/top-10-pgs-in-satya-niketan-and-ultimate-living-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /south-campus-student-hub-the-ultimate-satya-niketan-survival-guide
+- /south-campus-student-hub-the-ultimate-satya-niketan-survival-guide/
 author: Sanchit
 category: Student
 date: 2026-2-05T09:14:00.000+05:30
