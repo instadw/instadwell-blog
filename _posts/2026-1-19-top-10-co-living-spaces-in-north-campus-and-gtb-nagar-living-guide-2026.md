@@ -4,6 +4,9 @@ description: " Secured a seat in DU? Compare the Top 10 Co-living Spaces in Huds
 image: "/assets/images/top-10-co-living-spaces-in-north-campus-and-gtb-nagar-living-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /north-campus-pg-guide-hudson-lane-vs-vijay-nagar-vs-gtb-nagar
+- /north-campus-pg-guide-hudson-lane-vs-vijay-nagar-vs-gtb-nagar/
 author: Sanchit
 category: Student
 date: 2026-1-19T09:14:00.000+05:30
