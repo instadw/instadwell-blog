@@ -148,7 +148,7 @@ You can't eat at Broadway every day. Here is where HSR residents actually eat on
 **Pro Tip**: For daily meals, check out the "Mess" options near the **NIFT Back Gate** in Sector 1. They offer monthly subscriptions for as low as ₹3,000.
 
 ## Price Watch: What is the Real Rent?
-Don't get scammed. Here are the realistic rental benchmarks for HSR Layout in 2025.
+Don't get scammed. Here are the realistic rental benchmarks for HSR Layout in 2026.
 
 | Accommodation Type           | Avg. Monthly Rent     | Deposit Norm |
 | ---------------------------- | --------------------- | ------------ |
