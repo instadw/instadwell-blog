@@ -51,6 +51,12 @@ New to Bengaluru? First read our [Best Co-living Spaces in Bengaluru guide](/blo
 
 For both areas, avoid properties labelled "10 min by auto" during peak ORR traffic, as the auto can cost Rs. 80-120 one way and take 25 minutes.
 
+### Co-living Near Outer Ring Road Bangalore: Pocket-by-Pocket Guide
+
+- **Green Glen Layout** - quieter residential pocket behind Bellandur, 10% cheaper than main road properties, 5-min auto to RMZ Ecospace
+- **Munnekollal** - best value-for-money zone in Marathahalli, Rs. 9,000/mo shared rooms, walkable to a dozen cloud kitchens
+- **Kadubeesanahalli** - mid-point between Bellandur and Marathahalli, works well if your office is on the Outer Ring Road between the two
+
 ----
 
 ### The Quick List: Top 10 Stays in Bellandur (Near RMZ Ecospace)
