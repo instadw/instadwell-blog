@@ -3,7 +3,7 @@ title: "Best PG & Co-Living in Koramangala 2026 | Rs. 11,999–30,000/mo | Near 
 description: "Find verified PGs and co-living spaces in Koramangala and SG Palya, Bangalore. Compare prices from Rs. 11,999/mo, curfew rules, and proximity to Christ University and startup offices."
 image: "/assets/images/top-10-co-living-spaces-in-koramangala-and-sg-palya-living-guide-2026.webp"
 layout: post
-permalink: /:title
+permalink: /top-10-co-living-spaces-in-koramangala-and-sg-palya-living-guide-2026
 redirect_from:  
 - /best-pgs-in-koramangala-hamburg-house-sg-palya-and-startup-stays
 - /best-pgs-in-koramangala-hamburg-house-sg-palya-and-startup-stays/
