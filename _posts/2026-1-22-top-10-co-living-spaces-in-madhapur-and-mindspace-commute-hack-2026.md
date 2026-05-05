@@ -4,6 +4,9 @@ description: " Working at Mindspace? Compare the Top 10 Co-living Spaces in Madh
 image: "/assets/images/top-10-co-living-spaces-in-madhapur-and-mindspace-commute-hack-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /the-hostel-in-madhapur-the-mindspace-commute-hack-to-pgs-and-co-living-near-hitec-city
+- /the-hostel-in-madhapur-the-mindspace-commute-hack-to-pgs-and-co-living-near-hitec-city/
 author: Sanchit
 category: Student
 date: 2026-1-22T09:14:00.000+05:30
