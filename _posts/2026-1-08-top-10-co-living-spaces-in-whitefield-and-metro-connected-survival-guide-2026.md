@@ -53,7 +53,7 @@ New to Bengaluru? Read our [Best Co-living Spaces in Bengaluru guide](/blog/best
 
 Verified properties with the highest ratings in Feb 2026.
 
-| **Property Name**                                                                           | **Best For**   | **Why Choose It**          | **Starting Price** |
+| **Property Name**                                                                           | **Best For**   | **Why Choose It**          | **Starting Price** (Updated May 2026) |
 | ------------------------------------------------------------------------------------------- | -------------- | -------------------------- | ------------------ |
 | [Stanza Living Durham House](https://instadwell.com/properties/2533-durham-house)           | Premium Living | Luxury amenities near ITPL | ₹9,799 |
 | [HelloWorld Brookefield](https://instadwell.com/properties/3181-helloworld-brookefield)     | Freedom        | No lock-in, modern vibe    | ₹11,000 |
