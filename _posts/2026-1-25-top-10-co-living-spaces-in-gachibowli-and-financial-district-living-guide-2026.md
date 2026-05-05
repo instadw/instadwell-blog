@@ -4,6 +4,9 @@ description: "Work in Gachibowli or the Financial District? Compare 10 verified 
 image: "/assets/images/top-10-co-living-spaces-in-gachibowli-and-financial-district-living-guide-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /living-in-gachibowlis-financial-district
+- /living-in-gachibowlis-financial-district/
 author: Sanchit
 category: Student
 date: 2026-1-25T09:14:00.000+05:30
