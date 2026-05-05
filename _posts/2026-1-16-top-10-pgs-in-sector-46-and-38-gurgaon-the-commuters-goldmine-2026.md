@@ -4,6 +4,9 @@ description: "Looking for a PG near Huda City Centre or Sector 46 Gurgaon? Compa
 image: "/assets/images/top-10-pgs-in-sector-46-and-38-gurgaon-the-commuters-goldmine-2026.webp"
 layout: post
 permalink: /:title
+redirect_from:  
+- /sector-46-and-huda-city-centre-the-commuters-goldmine-2026-guide
+- /sector-46-and-huda-city-centre-the-commuters-goldmine-2026-guide/
 author: Sanchit
 category: Student
 date: 2026-1-16T09:14:00.000+05:30
