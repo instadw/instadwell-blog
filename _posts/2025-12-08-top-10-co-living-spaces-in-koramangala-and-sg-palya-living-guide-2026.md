@@ -19,6 +19,8 @@ faq:
     answer: "Yes, most institutional PGs like Stanza (Hamburg House) have a lock-in period (usually 3-6 months). Breaking it often means forfeiting your deposit. Check the terms on InstaDwell before booking."
 ---
 
+Updated: May 2026
+
 Koramangala is Bangalore's original startup hub, while its neighbor SG Palya is the student heartbeat of the city (thanks to Christ University). Whether you are here to build the next unicorn or survive your trimesters, living here means great food, vibrant nightlife, and zero commute.
 
 -   **Average Rent:** ₹11,999 - ₹30,000
