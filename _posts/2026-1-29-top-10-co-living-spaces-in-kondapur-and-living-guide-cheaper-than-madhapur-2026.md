@@ -26,6 +26,8 @@ faq:
     answer: "Women's managed PG options in Kondapur start from ₹8,500 at Zolo Green Valley for shared rooms, and from ₹12,000 at HelloWorld Sukoon for standard private rooms. Premium single rooms go up to ₹18,000. Raghavendra Colony and HITEC City-adjacent pockets are the most recommended zones."
 ---
 
+Updated: May 2026
+
 Kondapur is the "Smart Middle Ground" of Hyderabad’s IT corridor. It absorbs the spillover from Madhapur and Hitech City, offering a more residential vibe without the insane rents of the Financial District.
 
  **Average Rent:** ₹6,191 - ₹25,000
