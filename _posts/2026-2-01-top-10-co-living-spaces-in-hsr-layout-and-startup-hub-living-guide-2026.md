@@ -3,7 +3,7 @@ title: "Best PG & Co-Living in HSR Layout 2026 | Rs. 11,500–35,000/mo | Near S
 description: "Find verified co-living spaces and PGs in HSR Layout, Bangalore. Compare prices from Rs. 11,500/mo, sector-wise options, and commute to ORR tech parks."
 image: "/assets/images/top-10-co-living-spaces-in-hsr-layout-and-startup-hub-living-guide-2026.webp"
 layout: post
-permalink: /:title
+permalink: /top-10-co-living-spaces-in-hsr-layout-and-startup-hub-living-guide-2026
 redirect_from:  
 - /living-in-hsr-layout-studios-private-rooms-and-startup-hubs
 - /living-in-hsr-layout-studios-private-rooms-and-startup-hubs/
