@@ -3,7 +3,7 @@ title: "Best PG & Co-Living in Kondapur, Hyderabad 2026 | From ₹6,191/mo | Nea
 description: "Find verified PGs and co-living spaces in Kondapur, Hyderabad. Updated 2026 prices from ₹6,191/month, top localities, and 0-brokerage listings near Mindspace, Raheja Mindspace, and HITEC City."
 image: "/assets/images/top-10-co-living-spaces-in-kondapur-and-living-guide-cheaper-than-madhapur-2026.webp"
 layout: post
-permalink: /:title
+permalink: /top-10-co-living-spaces-in-kondapur-and-living-guide-cheaper-than-madhapur-2026
 author: Sanchit
 category: Student
 date: 2026-1-29T09:14:00.000+05:30
