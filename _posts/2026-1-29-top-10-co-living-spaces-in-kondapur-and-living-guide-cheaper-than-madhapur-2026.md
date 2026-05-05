@@ -45,7 +45,7 @@ Kondapur sits 10-14 minutes from Mindspace IT Park and 12-18 minutes from HITEC 
 
 ### The Quick List: Recommended Stays in Kondapur
 
-Verified properties with the highest ratings in Feb 2026.
+Verified properties with the highest ratings in May 2026.
 
 | **Property Name**                                                                   | **Best For**     | **Key Highlights**    | **Avg. Rent** |
 | ----------------------------------------------------------------------------------- | ---------------- | --------------------- | ------------- |
