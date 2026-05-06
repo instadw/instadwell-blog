@@ -3,7 +3,7 @@ title: "Best PG in Hinjewadi Phase 1, 2 & 3 Pune: Verified Co-living 2026"
 description: "Find the best PG in Hinjewadi Phase 1, 2 and 3 Pune with verified prices updated April 2026. Compare co-living options for male, female, single room and with food. Zero brokerage."
 image: "/assets/images/best-pg-in-hinjewadi-phase-1-2-3-pune-verified-co-living-2026.webp"
 layout: post
-permalink: /:title
+permalink: /best-pg-in-hinjewadi-phase-1-2-3-pune-verified-co-living-2026
 author: Sanchit
 category: Student
 date: 2026-4-05T09:14:00.000+05:30
