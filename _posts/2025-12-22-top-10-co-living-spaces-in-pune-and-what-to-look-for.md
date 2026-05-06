@@ -9,6 +9,8 @@ redirect_from:
 - /what-to-look-for-in-a-coliving-space-or-pg-in-pune/
 - /best-co-living-spaces-in-pune-for-students-and-professionals-and-area-cost-comparison-guide-2026
 - /best-co-living-spaces-in-pune-for-students-and-professionals-and-area-cost-comparison-guide-2026/
+- /coliving-in-pune-compare-areas-pgs-and-costs
+- /coliving-in-pune-compare-areas-pgs-and-costs/
 author: Sanchit
 category: Student
 date: 2025-12-22T09:14:00.000+05:30
