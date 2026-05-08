@@ -11,6 +11,10 @@ redirect_from:
 - /best-co-living-spaces-in-pune-for-students-and-professionals-and-area-cost-comparison-guide-2026/
 - /coliving-in-pune-compare-areas-pgs-and-costs
 - /coliving-in-pune-compare-areas-pgs-and-costs/
+- /sharing-rooms-in-pune-affordable-student-pgs
+- /sharing-rooms-in-pune-affordable-student-pgs/
+- /top-10-affordable-student-pgs-and-sharing-rooms-in-pune
+- /top-10-affordable-student-pgs-and-sharing-rooms-in-pune/
 author: Sanchit
 category: Student
 date: 2025-12-22T09:14:00.000+05:30
