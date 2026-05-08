@@ -1,7 +1,7 @@
 ---
 title: "Best PGs in Kothrud, Karve Nagar & Dhankawadi Pune (2026) | Verified Male & Female PGs"
 description: "Compare verified PGs in Kothrud, Karve Nagar & Dhankawadi Pune. May 2026 prices updated. Male & female options from ₹7,699. Zero brokerage, biometric security, food included."
-image: "/assets/images/top-10-affordable-student-pgs-and-sharing-rooms-in-pune.webp"
+image: "/assets/images/best-pg-in-kothrud-karve-nagar-dhankawadi-pune-2026-verified-male-female-pgs.webp"
 layout: post
 permalink: /best-pgs-in-kothrud-karve-nagar-dhankawadi-pune-2026-verified-male-female-pgs
 author: Sanchit
