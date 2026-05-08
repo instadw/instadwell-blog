@@ -262,8 +262,8 @@ Yes. Dhankawadi is directly adjacent to the Bharati Vidyapeeth campus. [Shiraz H
 
 ## Final Verdict: Where Should You Stay?
 
-- **The Commuter**: Choose a [pg in kothrud]([https://instadwell.com/properties/2897-gladstone-house](https://instadwell.com/search?lat=18.5073514&lng=73.8076543&location=Kothrud%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India) near the Vanaz Metro Station.
-- **The Budget Hunter**: Seek a [pg in dhankawadi pune]([https://instadwell.com/properties/2874-shiraz-house](https://instadwell.com/search?lat=18.4654546&lng=73.85468209999999&location=Dhankawadi%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India), [Shiraz House](https://instadwell.com/properties/2874-shiraz-house) at ₹7,699 is the lowest verified price in West Pune.
+- **The Commuter**: Choose a [pg in kothrud](https://instadwell.com/search?lat=18.5073514&lng=73.8076543&location=Kothrud%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India) near the Vanaz Metro Station.
+- **The Budget Hunter**: Seek a [pg in dhankawadi pune](https://instadwell.com/search?lat=18.4654546&lng=73.85468209999999&location=Dhankawadi%2C%20Pune%2C%20Maharashtra%2C%20India&city=Pune&country=India), [Shiraz House](https://instadwell.com/properties/2874-shiraz-house) at ₹7,699 is the lowest verified price in West Pune.
 - **The Female Student**: [Upington House](https://instadwell.com/properties/2951-upington-house) in Karve Nagar combines safety, food, and proximity to Cummins in one package.
 - **The Professional**: [Akron House](https://instadwell.com/properties/2904-akron-house) or [Annaba House](https://instadwell.com/properties/2921-annaba-house) in Kothrud for biometric security, fridge, and high-speed Wi-Fi.
 - **The MIT Student**: [Gladstone House](https://instadwell.com/properties/2897-gladstone-house) or [Cairns House](https://instadwell.com/properties/2885-cairns-house) to avoid Paud Road traffic entirely.
