@@ -1,5 +1,6 @@
 ---
 title: "Top 20 Student Visa Interview Questions and Answers for USA"
+noindex: true
 description: "Prepare for your USA student visa interview with the top 20 commonly asked questions and clear, confident answers to help you succeed."
 image: "/assets/images/top-20-student-visa-interview-questions-and-answers-for-usa.webp"
 layout: post
