@@ -15,6 +15,10 @@ redirect_from:
 - /sharing-rooms-in-pune-affordable-student-pgs/
 - /top-10-affordable-student-pgs-and-sharing-rooms-in-pune
 - /top-10-affordable-student-pgs-and-sharing-rooms-in-pune/
+- /affordable-student-accommodation-in-pune
+- /affordable-student-accommodation-in-pune/
+- /top-10-co-living-spaces-in-pune-and-affordable-student-accommodation-guide-2026
+- /top-10-co-living-spaces-in-pune-and-affordable-student-accommodation-guide-2026/
 author: Sanchit
 category: Student
 date: 2025-12-22T09:14:00.000+05:30
