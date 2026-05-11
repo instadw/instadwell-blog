@@ -1,5 +1,6 @@
 ---
 title: " The 2026 Guide 20+ Govt-Funded Scholarships to Study Abroad (Official NITI Aayog List)"
+noindex: true
 description: " Discover 20+ official government-funded scholarships for Indian students to study abroad in 2026 eligibility, funding, destinations and application tips from the NITI Aayog list."
 image: "/assets/images/the-2025-guide-20-govt-funded-scholarships-to-study-abroad-official-niti-aayog-list.webp"
 layout: post
