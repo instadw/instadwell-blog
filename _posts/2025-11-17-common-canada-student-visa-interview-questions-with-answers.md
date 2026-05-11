@@ -1,5 +1,6 @@
 ---
 title: "Common Canada Student Visa Interview Questions with Answers"
+noindex: true
 description: "Explore the most common Canada student visa interview questions with clear, confident answers to help you prepare and succeed in your visa interview."
 image: "/assets/images/common-canada-student-visa-interview-questions-with-answers.webp"
 layout: post
