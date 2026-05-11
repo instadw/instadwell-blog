@@ -1,5 +1,6 @@
 ---
 title: Affordable Housing for Students in Germany & Netherlands
+noindex: true
 description: Find affordable student housing in Germany and the Netherlands with tips on budgeting, top accommodation options, and how to secure safe, low-cost rooms.
 image: /assets/images/affordable-housing-for-students-in-germany-and-netherlands.webp
 layout: post
