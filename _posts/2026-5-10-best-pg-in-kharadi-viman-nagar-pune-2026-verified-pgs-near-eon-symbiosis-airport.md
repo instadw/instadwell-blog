@@ -45,7 +45,7 @@ faq:
     answer: "A hostel typically offers dormitory beds at Rs. 6,000 to Rs. 9,000 with shared facilities. A managed PG or co-living property offers private or double-sharing rooms with housekeeping, meals, and security, starting at Rs. 15,000 in Viman Nagar."
 ---
 
-**Updated May 2026** | Last reviewed in May 2026
+**Updated May 2026** - Last reviewed in May 2026
  
 If you are searching for a PG in Kharadi or Viman Nagar, you are choosing between East Pune's two high-velocity hubs. Kharadi is the glass-tower professional zone dominated by EON IT Park. Viman Nagar is the posh, cafe-filled enclave favoured by Symbiosis students and frequent flyers.
  
