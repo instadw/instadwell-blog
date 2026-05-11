@@ -1,5 +1,6 @@
 ---
 title: "Best Co-Living Spaces for Students in Australia"
+noindex: true
 description: "Discover the top co-living spaces for students in Australia, affordable, community-focused housing options near campuses in Sydney, Melbourne, and more."
 image: "/assets/images/best-co-living-spaces-for-students-in-australia.webp"
 layout: post
