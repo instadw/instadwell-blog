@@ -1,5 +1,6 @@
 ---
 title: How to Find Affordable Student Accommodation in the UK
+noindex: true
 description: Discover practical tips to find affordable student accommodation in the UK, from budgeting and comparing options to securing safe, cost-effective housing.
 image: /assets/images/how-to-find-affordable-student-accommodation-in-the-uk.webp
 layout: post
