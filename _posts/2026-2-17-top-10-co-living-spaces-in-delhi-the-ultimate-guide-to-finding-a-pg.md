@@ -153,7 +153,7 @@ faqs:
       community spaces like gyms, lounges, and terraces.
 
       Premium PGs are concentrated in South Delhi areas such as Vasant Kunj,
-      Saket, etc.
+      Saket.
 
   - question: "What is the cost of a single room PG in Mukherjee Nagar, Delhi?"
     answer: >
@@ -633,7 +633,7 @@ See our [Saket & Malviya Nagar Guide](https://instadwell.com/blog/top-6-co-livin
 
 A premium PG in Delhi is a fully managed, high-amenity accommodation, typically a private AC room in a purpose-built co-living building with attached or semi-attached bathrooms, daily housekeeping, high-speed Wi-Fi, a meal plan, biometric entry, CCTV, and community spaces like gyms, lounges, or terraces.
 
-Premium PGs in Delhi are concentrated in South Delhi, especially Vasant Kunj, Saket, etc.
+Premium PGs in Delhi are concentrated in South Delhi, especially Vasant Kunj, Saket.
 
 HelloWorld is one of the leading premium operators in Delhi, with properties starting from ₹25,000 and going up to ₹40,000/month for ultra-premium suites.
 
