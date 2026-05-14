@@ -383,6 +383,7 @@ Known as the "vibe" capital, offering better lifestyle amenities and proximity t
 - Single room PG in Saket starts from ₹12,000/month for landlord-run properties
 - Managed co-living with meals runs ₹17,500–₹25,000/month
 - Malviya Nagar offers 15–20% lower rents than Saket for comparable quality
+
 ---
 
 ## East & West Delhi: Laxmi Nagar & Karol Bagh
