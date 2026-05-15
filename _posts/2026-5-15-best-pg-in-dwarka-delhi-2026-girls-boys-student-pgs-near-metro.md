@@ -103,17 +103,17 @@ For a broader comparison of rental trends across Delhi's major student and profe
 
 ## Micro-Locations for PG in Dwarka Sector 7, 12, and 21
 
-**Dwarka Mor: The Student Core**
+### **Dwarka Mor: The Student Core**
 
 * **NSUT Belt:** Students searching for **pg near nsit dwarka** prioritize walking distance to campus. This area is the backbone of Dwarka's student economy. Male students looking for a **boys PG in Dwarka Mor** near NSUT should prioritize Metro-facing buildings on the Blue Line to avoid paying for daily e-rickshaws.
 * **The Kakrola Hack:** If Dwarka Mor is too expensive, look at Kakrola (2.5km away). You might find sharing options for Rs. 4k to 5k, but be warned: this is the budget zone with potential hygiene trade-offs.
 
-**Sector 7 and Ramphal Chowk: The Lifestyle Hub**
+### **Sector 7 and Ramphal Chowk: The Lifestyle Hub**
 
 * **Ramphal Chowk:** Often described as "Mini Karol Bagh," this is the shopping and food heart of Dwarka. Professionals searching for a premium **pg in dwarka sector 7 delhi** often shortlist [HelloWorld Neon](https://instadwell.com/properties/3225-helloworld-neon) because it includes lift access and better maintenance standards than older standalone buildings nearby. Students and freshers looking for a **boys PG near Ramphal Chowk** also find Sector 7 attractive for its safety and market access.
 * **Sector 7 Palam Ext:** This area contains some of the highest-rated **girls pg in dwarka sector 7** due to the proximity to safe, well-lit markets. [HelloWorld Float](https://instadwell.com/properties/3232-helloworld-float) and [HelloWorld Wave](https://instadwell.com/properties/3236-helloworld-wave) are two managed options worth shortlisting for professionals looking for a **pg near dwarka sec 7** with modern lifts and 24/7 security.
 
-**Professional and Commuter Belts in Sector 8, 9, 10, and 21**
+### **Professional and Commuter Belts in Sector 8, 9, 10, and 21**
 
 * **Sector 21 and Aerocity:** Perfect for airport staff. [HelloWorld Iris](https://instadwell.com/properties/3229-helloworld-iris) is a managed option in Sector 21 that gives you Magenta Line access to reach South Delhi in 20 minutes. [HelloWorld Aerocity](https://instadwell.com/properties/3233-helloworld-aerocity) is another strong pick if you need a **pg near dwarka sector 21** within walking distance of the Airport Express line.
 * **Sector 9 and 10:** For those wanting a quieter stay, a **pg in dwarka sector 9** or **pg in dwarka sector 10** offers a more residential feel with less traffic noise compared to the Ramphal Chowk hub.
