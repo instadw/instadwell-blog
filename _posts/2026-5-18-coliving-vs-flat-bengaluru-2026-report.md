@@ -23,7 +23,17 @@ But that raw comparison obscures a far more interesting story. Co-living is not 
 
 This report unpacks all of it.
 
-<img width="497" height="167" alt="image" src="https://github.com/user-attachments/assets/90c53679-67e1-4caa-92a5-891325c4dd5a" />
+<div style="text-align:center; margin:30px 0;">
+  <img
+    src="https://github.com/user-attachments/assets/90c53679-67e1-4caa-92a5-891325c4dd5a"
+    alt="City-wide snapshot showing average rents for co-living, 1 BHK, and 2 BHK flats, along with furnished and gated society premiums"
+    loading="lazy"
+    style="max-width:100%; height:auto;"
+  >
+  <p style="font-size:14px; color:#666;">
+    City-wide snapshot of rental averages and property premiums
+  </p>
+</div>
 
 ---
 
@@ -51,7 +61,17 @@ When looking outside of co-living, upgrading your space in Bengaluru comes with 
 
 This aggressive scaling is why splitting larger flats (3 BHKs and above) becomes harder to justify on a per-room basis compared to premium co-living options, keeping the primary flat rental debate heavily focused on the 1 and 2 BHK configurations.
 
-<img width="545" height="277" alt="image" src="https://github.com/user-attachments/assets/cb649ea8-4483-4968-96e8-465e830db560" />
+<div style="text-align:center; margin:30px 0;">
+  <img
+    src="https://github.com/user-attachments/assets/cb649ea8-4483-4968-96e8-465e830db560"
+    alt="Bar chart showing average monthly rent by flat configuration (BHK) in Bengaluru for 2026"
+    loading="lazy"
+    style="max-width:100%; height:auto;"
+  >
+  <p style="font-size:14px; color:#666;">
+    Average Monthly Rent by Flat Configuration (BHK) in Bengaluru (2026)
+  </p>
+</div>
 
 
 ---
@@ -79,7 +99,17 @@ Before looking at prices, you have to look at availability. The market coverage 
 
 **The student/entry-IT corridors:** Areas like Electronic City (12 co-living vs 41 flats) and the Reva University belt (6 co-living vs just 10 flats) show how operators intentionally target zones with massive influxes of students and entry-level IT workers where traditional flat supply simply cannot keep up with demand.
 
-<img width="545" height="277" alt="image" src="https://github.com/user-attachments/assets/d8b160af-23fb-4b44-8ba0-b8090013b3fa" />
+<div style="text-align:center; margin:30px 0;">
+  <img
+    src="https://github.com/user-attachments/assets/d8b160af-23fb-4b44-8ba0-b8090013b3fa"
+    alt="Horizontal bar chart comparing the number of co-living properties versus flat listings by neighborhood in Bengaluru for 2026"
+    loading="lazy"
+    style="max-width:100%; height:auto;"
+  >
+  <p style="font-size:14px; color:#666;">
+    Listing Count by Area: Co-living vs Flat Market in Bengaluru (2026)
+  </p>
+</div>
 
 
 ---
@@ -110,7 +140,17 @@ All figures below use the city-wide co-living average of **Rs 12,900/bed/month**
 
 The one exception: premium co-living at the HelloWorld Cornerhouse tier (Rs 35,000/bed in HSR Layout) is more expensive than renting a 1 BHK flat outright. At that point, you are paying for the brand, the community, and the amenity stack, not for savings.
 
-<img width="545" height="277" alt="image" src="https://github.com/user-attachments/assets/992c6d9d-2883-406a-951f-b36176910d55" />
+<div style="text-align:center; margin:30px 0;">
+  <img
+    src="https://github.com/user-attachments/assets/992c6d9d-2883-406a-951f-b36176910d55"
+    alt="Range chart showing minimum, average, and maximum monthly rents for co-living operators versus 1 BHK and 2 BHK flats in Bengaluru for 2026"
+    loading="lazy"
+    style="max-width:100%; height:auto;"
+  >
+  <p style="font-size:14px; color:#666;">
+    Co-living vs Flat Market: Full Price Spectrum in Bengaluru (2026)
+  </p>
+</div>
 
 ---
 
@@ -176,7 +216,17 @@ When placed side-by-side in Bengaluru's most competitive micro-markets, the bran
 
 Notice how Stanza Living is more expensive than HelloWorld in HSR Layout and significantly more expensive in Bellandur, entirely inverting HelloWorld's broader brand positioning as the premium option. 
 
-<img width="545" height="277" alt="image" src="https://github.com/user-attachments/assets/cf5ae3dd-c115-4d7d-abdd-a51dd082240f" />
+<div style="text-align:center; margin:30px 0;">
+  <img
+    src="https://github.com/user-attachments/assets/cf5ae3dd-c115-4d7d-abdd-a51dd082240f"
+    alt="Range chart showing minimum, average, and maximum monthly rents for co-living operators Stanza Living, HelloWorld, and Zolo in Bengaluru for 2026"
+    loading="lazy"
+    style="max-width:100%; height:auto;"
+  >
+  <p style="font-size:14px; color:#666;">
+    Co-living Operators: Min, Average & Max Rents in Bengaluru (2026)
+  </p>
+</div>
 
 ---
 
@@ -211,7 +261,17 @@ Stanza's Bellandur average (~Rs 17,500) is nearly 55% higher than HelloWorld's B
 
 **Implication for renters:** In Bellandur specifically, HelloWorld is the budget play, not Stanza. This completely inverts the general market heuristic.
 
-<img width="545" height="277" alt="image" src="https://github.com/user-attachments/assets/1f7911de-4961-4317-bb42-a85ee6fc34f9" />
+<div style="text-align:center; margin:30px 0;">
+  <img
+    src="https://github.com/user-attachments/assets/1f7911de-4961-4317-bb42-a85ee6fc34f9"
+    alt="Horizontal bar chart illustrating a market anomaly in Bellandur for 2026, showing Stanza Living pricing higher than HelloWorld, contrasted against 1 BHK flats and Zolo rents"
+    loading="lazy"
+    style="max-width:100%; height:auto;"
+  >
+  <p style="font-size:14px; color:#666;">
+    Market Anomaly: The Bellandur Role Reversal (2026)
+  </p>
+</div>
 
 ### Plot twist 3: The hyper-budget sub-Rs 4,000 tier
 
@@ -276,7 +336,17 @@ The 2 BHK split scenario is the honest competitor to co-living. Two professional
 
 **Sub-Rs 4,000 co-living is a policy story, not just a market story.** The existence of beds at Rs 3,358 in Electronic City tells you that Bengaluru's housing market cannot organically serve entry-level migrant workers through the open flat market. The co-living sector, specifically Zolo's hyper-budget tier, is filling a gap that formal housing policy has not.
 
-<img width="545" height="277" alt="image" src="https://github.com/user-attachments/assets/f97a36d5-a5e0-4654-a3a3-c4af7a89acc1" />
+<div style="text-align:center; margin:30px 0;">
+  <img
+    src="https://github.com/user-attachments/assets/f97a36d5-a5e0-4654-a3a3-c4af7a89acc1"
+    alt="Horizontal bar chart showing listing count by area comparing the number of co-living properties versus flat listings across various neighborhoods in Bengaluru for 2026"
+    loading="lazy"
+    style="max-width:100%; height:auto;"
+  >
+  <p style="font-size:14px; color:#666;">
+    Listing Count by Area: Co-living vs Flat Market (2026)
+  </p>
+</div>
 
 ---
 
