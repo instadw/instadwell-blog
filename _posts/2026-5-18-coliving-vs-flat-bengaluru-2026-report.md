@@ -37,7 +37,7 @@ This report unpacks all of it.
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="/assets/images/city-wide-snapshot-of-rental-averages-and-property-premiums.webp"
+    src="{{ site.url }}/assets/images/city-wide-snapshot-of-rental-averages-and-property-premiums.webp"
     alt="City-wide snapshot showing average rents for co-living, 1 BHK, and 2 BHK flats, along with furnished and gated society premiums"
     loading="lazy"
     style="max-width:100%; height:auto;"
