@@ -9,7 +9,7 @@ category: PG & Hostel & Co-living
 date: 2026-5-18T09:14:00.000+05:30
 ---
 
-> **Data sources:** Flat rental data from [bengaluru.rent](https://bengaluru.rent). Co-living property and pricing data sourced from [Instadwell](https://instadwell.com), [Zolo](https://zolostays.com), [HelloWorld](https://livehelloworld.com), and [Stanza Living](https://stanzaliving.com). Analysis covers 285+ co-living properties and 4,500+ flat listings across Bengaluru as of 2026.
+> **Data sources:** Flat rental data from [bengaluru.rent](https://bengaluru.rent). Co-living property and pricing data sourced from Zolo, Stanza and HelloWorld via [Instadwell](https://instadwell.com). Analysis covers 285+ co-living properties and 4,500+ flat listings across Bengaluru as of 2026.
 
 ---
 
@@ -353,9 +353,9 @@ The 2 BHK split scenario is the honest competitor to co-living. Two professional
 | Source | Coverage | What it covers |
 |---|---|---|
 | [bengaluru.rent](https://bengaluru.rent) | 4,583 pins across Bengaluru | Crowdsourced flat rents: BHK type, gated/not-gated, furnished/unfurnished, area averages |
-| [Stanza Living](https://stanzaliving.com) via [Instadwell](https://instadwell.com) | 130+ Bengaluru properties | Co-living property names, locations, starting rents |
-| [HelloWorld](https://livehelloworld.com) via [Instadwell](https://instadwell.com) | 40+ Bengaluru properties | Co-living property names, locations, starting rents |
-| [Zolo](https://zolostays.com) via [Instadwell](https://instadwell.com) | 160+ Bengaluru properties | Co-living property names, locations, starting rents |
+| Stanza Living via [Instadwell](https://instadwell.com) | 130+ Bengaluru properties | Co-living property names, locations, starting rents |
+| HelloWorld via [Instadwell](https://instadwell.com) | 40+ Bengaluru properties | Co-living property names, locations, starting rents |
+| Zolo via [Instadwell](https://instadwell.com) | 160+ Bengaluru properties | Co-living property names, locations, starting rents |
 
 **Notes:**
 * Co-living rents quoted are starting/minimum rents for a bed in a shared room unless otherwise specified.
