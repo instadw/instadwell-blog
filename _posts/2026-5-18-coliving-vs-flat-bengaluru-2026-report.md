@@ -21,18 +21,6 @@ But that raw comparison obscures a far more interesting story. Co-living is not 
 
 This report unpacks all of it.
 
-<div style="text-align:center; margin:30px 0;">
-  <img
-    src="https://github.com/user-attachments/assets/90c53679-67e1-4caa-92a5-891325c4dd5a"
-    alt="City-wide snapshot showing average rents for co-living, 1 BHK, and 2 BHK flats, along with furnished and gated society premiums"
-    loading="lazy"
-    style="max-width:100%; height:auto;"
-  >
-  <p style="font-size:14px; color:#666;">
-    City-wide snapshot of rental averages and property premiums
-  </p>
-</div>
-
 ---
 
 ## City-wide snapshot
@@ -46,6 +34,18 @@ This report unpacks all of it.
 | Co-living properties tracked | 285+ across 3 operators |
 | Furnished flat premium vs unfurnished | +22% (Rs 21,989 vs Rs 17,982) |
 | Gated society premium vs non-gated | +15% (Rs 20,736 vs Rs 18,042) |
+
+<div style="text-align:center; margin:30px 0;">
+  <img
+    src="https://github.com/user-attachments/assets/90c53679-67e1-4caa-92a5-891325c4dd5a"
+    alt="City-wide snapshot showing average rents for co-living, 1 BHK, and 2 BHK flats, along with furnished and gated society premiums"
+    loading="lazy"
+    style="max-width:100%; height:auto;"
+  >
+  <p style="font-size:14px; color:#666;">
+    City-wide snapshot of rental averages and property premiums
+  </p>
+</div>
 
 ### The flat market curve
 
