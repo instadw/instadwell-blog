@@ -1,6 +1,6 @@
 ---
 title: "How can you secure an executive PG near Sohna Road with power backup?"
-description: "Securing an executive PG near Sohna Road with power backup eliminates transit delays and keeps you connected to major business parks."
+description: "Securing an executive PG near Sohna Road with power backup starts with one question: does the DG set cover your room AC and Wi-Fi, or only corridors?"
 layout: coliving-faq-post
 category: "Gurgaon"
 order: 6
