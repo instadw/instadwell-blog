@@ -1,6 +1,6 @@
 ---
 title: "What infrastructure parameters should you verify at a pg near sohna road gurgaon?"
-description: "Verify essential structural criteria at a pg near sohna road gurgaon, focusing on stilt parking heights and dedicated air conditioning backups."
+description: "Before paying a token at a PG near Sohna Road Gurgaon, verify water treatment, monsoon drainage, DG set capacity, lift access, and internet infrastructure."
 layout: coliving-faq-post
 category: "Gurgaon"
 order: 7
