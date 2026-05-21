@@ -14,10 +14,10 @@ related_faq_label: "Why do tech professionals choose a PG near Sohna Road Sector
 
 Before paying a token at any pg near sohna road gurgaon, run through five infrastructure checks that most tenants skip. 
 
-Water source and treatment - borewells in this area produce hard water, so confirm whether the building has a softening or RO system. 
-Drainage and elevation - low-lying pockets near Subhash Chowk waterlog during heavy monsoon, so check if parking is elevated. 
-Electrical setup - confirm DG set capacity covers your floor including AC, not just corridors. Lift availability matters if you're on the fourth floor or above with luggage. 
-Internet infrastructure - ask whether Wi-Fi runs on a dedicated leased line or a shared residential connection.
+* Water source and treatment - borewells in this area produce hard water, so confirm whether the building has a softening or RO system. 
+* Drainage and elevation - low-lying pockets near Subhash Chowk waterlog during heavy monsoon, so check if parking is elevated. 
+* Electrical setup - confirm DG set capacity covers your floor including AC, not just corridors. Lift availability matters if you're on the fourth floor or above with luggage. 
+* Internet infrastructure - ask whether Wi-Fi runs on a dedicated leased line or a shared residential connection.
 
 Managed coliving properties handle most of these by default. Independent PGs require you to ask each question individually. 
 
