@@ -1,13 +1,19 @@
 title: InstaDwell Blog
 email: gumidellisanchit@gmail.com
 description: "Browse and discover verified, affordable student accommodation and co-living spaces with InstaDwell your trusted platform for PGs, hostels, and shared rentals for students and young professionals."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://instadwell.com/blog"
+baseurl: "/blog" # the subpath of your site served under /blog on GitHub Pages
+url: "https://instadwell.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
 # Build settings
 theme: minima
+
+sass:
+  silence_deprecations:
+    - import
+    - color-functions
+    - global-builtin
 
 plugins:
   - jekyll-feed

@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/png" href="{{ site.url }}/favicon.png" />
+    <link rel="icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/favicon.png" />
     {% if page.noindex %}
     <meta name="robots" content="noindex, nofollow" />
     {% else %}
@@ -33,9 +33,9 @@
       "@type": "BreadcrumbList",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://instadwell.com" },
-        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ site.url }}" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ site.url }}{{ site.baseurl }}" },
         { "@type": "ListItem", "position": 3, "name": "Co-living FAQ", "item": "{{ '/coliving-faq/' | absolute_url }}" },
-        { "@type": "ListItem", "position": 4, "name": "{{ page.title | escape }}", "item": "{{ site.url }}{{ page.url }}" }
+        { "@type": "ListItem", "position": 4, "name": "{{ page.title | escape }}", "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}" }
       ]
     }
     </script>

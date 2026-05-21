@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/png" href="{{ site.url }}/favicon.png" />
+    <link rel="icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/favicon.png" />
     {% if page.noindex %}
     <meta name="robots" content="noindex, nofollow" />
     {% else %}
@@ -21,7 +21,7 @@
       "description": "{{ page.description | default: page.excerpt | strip_html | truncatewords: 50 | escape }}",
       "image": {
         "@type": "ImageObject",
-        "url": "{{ site.url }}{{ page.image | default: '/assets/images/instadwell-default.webp' }}",
+        "url": "{{ site.url }}{{ site.baseurl }}{{ page.image | default: '/assets/images/instadwell-default.webp' }}",
         "width": 1200,
         "height": 630
       },
@@ -44,7 +44,7 @@
       "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "{{ site.url }}{{ page.url }}"
+        "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
       },
       "keywords": "{{ page.tags | join: ', ' }}",
       "articleSection": "{{ page.category | default: 'Student Accommodation' }}"
@@ -68,26 +68,26 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Blog",
-          "item": "{{ site.url }}"
+          "item": "{{ site.url }}{{ site.baseurl }}"
         }{% if page.category %},
         {
           "@type": "ListItem",
           "position": 3,
           "name": "{{ page.category }}",
-          "item": "{{ site.url }}/category/{{ page.category | slugify }}"
+          "item": "{{ site.url }}{{ site.baseurl }}/category/{{ page.category | slugify }}"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "{{ page.title | escape }}",
-          "item": "{{ site.url }}{{ page.url }}"
+          "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
         }
         {% else %},
         {
           "@type": "ListItem",
           "position": 3,
           "name": "{{ page.title | escape }}",
-          "item": "{{ site.url }}{{ page.url }}"
+          "item": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
         }
         {% endif %}
       ]
@@ -173,7 +173,7 @@
       <div class="row">
         <div class="col-lg-8 bg-white p-2 border rounded shadow-sm mt-5 mb-5">
           <img
-            src="{{ site.url }}{{ page.image }}"
+            src="{{ site.url }}{{ site.baseurl }}{{ page.image }}"
             alt="{{ page.title }}"
             class="card-img-top rounded"
             title="{{ page.title }}"
@@ -224,7 +224,7 @@
             post in related_posts %}
             <div class="mb-3">
               <a
-                href="{{ site.url }}{{ post.url }}"
+                href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"
                 class="text-decoration-none text-dark fw-semibold d-block"
                 >{{ post.title }}</a
               >
