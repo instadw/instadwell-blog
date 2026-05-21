@@ -1,6 +1,6 @@
 ---
 title: "Why do tech professionals choose a PG near Sohna Road Sector 48?"
-description: "Tech professionals choose a PG near Sohna Road Sector 48 to minimize daily transit bottlenecks to nearby office and commercial spaces."
+description: "Tech professionals choose a PG near Sohna Road Sector 48 for the commute midpoint it offers, close to Golf Course Extension Road and within Rapid Metro range."
 layout: coliving-faq-post
 category: "Gurgaon"
 order: 8
