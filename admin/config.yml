@@ -31,6 +31,32 @@ collections:
       - { label: "Category", name: "category", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "coliving_faq"
+    label: "Co-living FAQ"
+    folder: "_coliving_faq"
+    create: true
+    slug: "{{slug}}"
+    extension: md
+    format: frontmatter
+    fields:
+      - { label: "Title (H1 question)", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "string", default: "coliving-faq-post" }
+      - {
+          label: "Category",
+          name: "category",
+          widget: "select",
+          options: ["Cost & Pricing"],
+        }
+      - { label: "Order", name: "order", widget: "number", required: false }
+      - { label: "Money page URL", name: "money_page_url", widget: "string" }
+      - { label: "Money page label", name: "money_page_label", widget: "string" }
+      - { label: "Related FAQ slug", name: "related_faq", widget: "string" }
+      - { label: "Related FAQ label", name: "related_faq_label", widget: "string" }
+      - { label: "Author", name: "author", widget: "string", default: "Sanchit" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Noindex", name: "noindex", widget: "boolean", default: false, required: false }
+      - { label: "Body (~120 words)", name: "body", widget: "markdown" }
   # - name: "pages"
   #   label: "Pages"
   #   files:

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/png" href="{{ site.url }}/favicon.png" />
+    {% if page.noindex %}
+    <meta name="robots" content="noindex, nofollow" />
+    {% else %}
+    {% seo %}
+    {% endif %}
+    {% include head_seo.html %}
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "{{ page.title | escape }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ page.description | default: page.excerpt | strip_html | escape }}"
+        }
+      }]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://instadwell.com" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ site.url }}" },
+        { "@type": "ListItem", "position": 3, "name": "Co-living FAQ", "item": "{{ '/coliving-faq/' | absolute_url }}" },
+        { "@type": "ListItem", "position": 4, "name": "{{ page.title | escape }}", "item": "{{ site.url }}{{ page.url }}" }
+      ]
+    }
+    </script>
+
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/coliving-faq.css' | relative_url }}" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body class="faq-post-body">
+    <header class="default-header cm-header">{% include header.html %}</header>
+
+    <!-- Hero header -->
+    <section class="faq-post-hero">
+      <div class="container faq-post-hero-inner">
+        <nav class="faq-post-breadcrumb mb-3" aria-label="breadcrumb">
+          <a href="https://instadwell.com/">Home</a>
+          <span class="mx-1 opacity-50">/</span>
+          <a href="{{ '/' | relative_url }}">Blog</a>
+          <span class="mx-1 opacity-50">/</span>
+          <a href="{{ '/coliving-faq/' | relative_url }}">Co-living FAQ</a>
+          {% if page.category %}
+          <span class="mx-1 opacity-50">/</span>
+          <span class="opacity-75">{{ page.category }}</span>
+          {% endif %}
+        </nav>
+        {% if page.category %}
+        <span class="badge badge-faq-hub mb-3">{{ page.category }}</span>
+        {% endif %}
+        <h1 class="faq-post-hero-title">{{ page.title }}</h1>
+        {% if page.description %}
+        <p class="faq-post-hero-desc">{{ page.description }}</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <!-- Main content -->
+    <div class="container faq-post-container pb-5">
+      <div class="row g-4">
+
+        <!-- Article body -->
+        <div class="col-lg-8">
+          <article class="faq-post-article">
+            <div class="faq-post-body-content">
+              {{ content }}
+            </div>
+
+            {% if page.money_page_url %}
+            <div class="faq-post-cta-box mt-5">
+              <div class="d-flex align-items-start gap-3">
+                <div class="faq-post-cta-icon flex-shrink-0">
+                  <i class="fa-solid fa-arrow-right-to-bracket"></i>
+                </div>
+                <div>
+                  <p class="fw-semibold mb-1" style="color:#1a1a2e;">Ready to find a verified space?</p>
+                  <a href="{{ page.money_page_url }}" class="faq-post-cta-link">
+                    {{ page.money_page_label | default: "Browse verified co-living listings on InstaDwell" }}
+                    <i class="fa-solid fa-arrow-right ms-1 fa-sm"></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            {% endif %}
+
+            {% if page.related_faq %}
+            <p class="faq-post-related-link mt-3 mb-0">
+              <i class="fa-regular fa-circle-question me-1"></i>
+              <strong>Related question:</strong>
+              <a href="{{ page.related_faq | prepend: '/coliving-faq/' | append: '/' | relative_url }}">{{ page.related_faq_label }}</a>
+            </p>
+            {% endif %}
+
+            <div class="faq-post-back mt-4">
+              <a href="{{ '/coliving-faq/' | relative_url }}" class="faq-back-link">
+                <i class="fa-solid fa-arrow-left fa-sm"></i> Back to Co-living FAQ
+              </a>
+            </div>
+          </article>
+        </div>
+
+        <!-- Sidebar -->
+        <div class="col-lg-4">
+          <!-- CTA card -->
+          <div class="faq-sidebar-cta mb-4">
+            <p class="fw-bold mb-1" style="font-size:1rem;">Find verified co-living in India</p>
+            <p class="mb-3" style="font-size:0.88rem;opacity:0.85;">Zero broker fee. Move in within 48 hours.</p>
+            <a href="https://instadwell.com/" target="_blank" class="btn btn-faq-cta w-100">
+              Browse Listings <i class="fa-solid fa-arrow-right ms-1 fa-sm"></i>
+            </a>
+          </div>
+
+          <!-- Related FAQ articles in the same category -->
+          {% assign related_faqs = site.coliving_faq | where: "category", page.category | where_exp: "doc", "doc.url != page.url" | slice: 0, 6 %}
+          {% if related_faqs.size > 0 %}
+          <div class="faq-sidebar-related">
+            <h2 class="faq-sidebar-related-title">More in {{ page.category }}</h2>
+            <ul class="list-unstyled mb-0">
+              {% for doc in related_faqs %}
+              <li class="faq-sidebar-related-item">
+                <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+
+          <!-- All FAQ categories -->
+          <div class="faq-sidebar-categories mt-4">
+            <h2 class="faq-sidebar-related-title">All categories</h2>
+            {% for cat in site.data.coliving_faq_categories %}
+            <a href="{{ '/coliving-faq/' | relative_url }}#{{ cat.slug }}" class="faq-sidebar-cat-link">
+              <i class="fa-solid {{ cat.icon }} fa-sm me-2"></i>{{ cat.title }}
+            </a>
+            {% endfor %}
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    {% include footer.html %}
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/png" href="{{ site.url }}/favicon.png" />
+    {% if page.noindex %}
+    <meta name="robots" content="noindex, nofollow" />
+    {% else %}
+    {% seo %}
+    {% endif %}
+    {% include head_seo.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/coliving-faq.css' | relative_url }}" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body class="faq-hub-page">
+    <header class="default-header cm-header">{% include header.html %}</header>
+
+    <section class="text-white faq-hub-hero">
+      <div class="container faq-hub-hero-content text-center page-bg-header" style="padding-top: 6.5rem; padding-bottom: 2rem;">
+        <h1 class="display-5 fw-bold mb-2">{{ page.hub_h1 | default: page.title }}</h1>
+        <p class="lead mb-4 opacity-90 col-lg-9 mx-auto">
+          {{ page.description }}
+        </p>
+        <input
+          type="search"
+          id="faq-local-filter"
+          class="form-control faq-filter-input mx-auto"
+          placeholder="Filter questions on this page..."
+          aria-label="Filter FAQ questions"
+        />
+      </div>
+    </section>
+
+    <section class="faq-hub-main">
+      <div class="container">
+        {% assign categories = site.data.coliving_faq_categories | sort: "order" %}
+        {% for cat in categories %}
+        {% assign cat_docs = site.coliving_faq | where: "category", cat.title | sort: "order" %}
+        {% if cat_docs.size > 0 %}
+        <section id="category-{{ cat.slug }}" class="mb-5 faq-topic-section" data-category="{{ cat.title | downcase }}">
+          <h2 class="faq-hub-section-title h3 mb-3">{{ cat.title }}</h2>
+          <ul class="list-unstyled bg-white rounded shadow-sm p-4 mb-0 faq-hub-question-list">
+            {% for doc in cat_docs %}
+            <li class="faq-article-row faq-article-item" data-title="{{ doc.title | downcase }}" data-category="{{ doc.category | downcase }}">
+              <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </section>
+        {% endif %}
+        {% endfor %}
+
+        <div class="faq-cta-box p-4 p-md-5 text-center mt-4">
+          <h2 class="h4 fw-bold mb-2">Ready to find your stay?</h2>
+          <p class="mb-4 opacity-90">Browse verified PGs and co-living spaces across India on InstaDwell.</p>
+          <a href="/" class="btn btn-faq-cta btn-lg me-2">Search listings</a>
+          <a href="{{ '/' | relative_url }}" class="btn btn-outline-light btn-lg">Back to blog</a>
+        </div>
+      </div>
+    </section>
+
+    {{ content }}
+
+    {% include footer.html %}
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      (function () {
+        var input = document.getElementById("faq-local-filter");
+        if (!input) return;
+        input.addEventListener("input", function () {
+          var q = input.value.trim().toLowerCase();
+          document.querySelectorAll(".faq-article-item").forEach(function (el) {
+            var title = el.getAttribute("data-title") || "";
+            var category = el.getAttribute("data-category") || "";
+            var match = !q || title.indexOf(q) !== -1 || category.indexOf(q) !== -1;
+            el.classList.toggle("faq-article-hidden", !match);
+          });
+          document.querySelectorAll(".faq-topic-section").forEach(function (section) {
+            var visible = section.querySelectorAll(".faq-article-item:not(.faq-article-hidden)").length > 0;
+            section.classList.toggle("faq-article-hidden", !visible && q.length > 0);
+          });
+        });
+      })();
+    </script>
+  </body>
+</html>
