@@ -2,3 +2,8 @@
   title: Cost & Pricing
   order: 1
   icon: fa-indian-rupee-sign
+
+  - slug: Gurgaon
+  title: Gurgaon
+  order: 2
+  icon: fa-indian-rupee-sign
