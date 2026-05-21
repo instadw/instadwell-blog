@@ -16,6 +16,6 @@ Finding a pg in sohna road gurgaon without brokerage means going directly to man
 
 Double-sharing rooms in organized properties typically run ₹7,000–₹9,000/month; AC singles start around ₹12,000. The trade-off for paying slightly above the unorganized market rate is predictable billing, no maintenance surprises, and a lease you can actually read.
 
-On InstaDwell, every listing shows the operator name, room type, and monthly price before you enquire — no broker in the middle, no surprise fees on move-in day. Browse verified PGs on Sohna Road and shortlist directly.
+On InstaDwell, every listing shows the operator name, room type, and monthly price before you enquire, no broker in the middle, no surprise fees on move-in day. Browse verified PGs on Sohna Road and shortlist directly.
 
 [Read: Best PGs on Sohna Road - rent ranges, operators, and commute tips](https://instadwell.com/blog/pg-sohna-road-gurgaon)
