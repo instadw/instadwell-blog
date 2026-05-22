@@ -2,3 +2,8 @@
   title: Gurgaon
   order: 1
   icon: fa-indian-rupee-sign
+
+- slug: Noida
+  title: Noida
+  order: 2
+  icon: fa-indian-rupee-sign
