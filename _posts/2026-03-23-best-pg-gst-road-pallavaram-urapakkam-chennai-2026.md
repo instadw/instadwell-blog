@@ -137,7 +137,7 @@ Both **ladies PG in Pallavaram** and **mens PG in Pallavaram** have strong opera
 | [Fernley House](https://instadwell.com/properties/2710-fernley-house) | ₹14,699/mo | Near GST Road Main Road |
 | [Harrogate House](https://instadwell.com/properties/2696-harrogate-house) | ₹15,399/mo | Near Tambaram Junction |
 
-[Explore budget PGs in Urapakkam on InstaDwell](https://instadwell.com/search?lat=12.6816&lng=80.0104&location=Urapakkam%2C+Chennai%2C+Tamil+Nadu%2C+India&city=Chennai&country=India)
+[Explore budget PGs in Urapakkam on InstaDwell](https://instadwell.com/search?lat=12.8673697&lng=80.0698575&location=Urapakkam%2C%20Tamil%20Nadu%2C%20India&city=chennai&country=India)
 
 ----------
 
