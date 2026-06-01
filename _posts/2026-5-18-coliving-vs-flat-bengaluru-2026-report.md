@@ -37,7 +37,7 @@ This report unpacks all of it.
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="{{ site.url }}/assets/images/city-wide-snapshot-of-rental-averages-and-property-premiums.webp"
+    src="https://instadwell.com/assets/images/city-wide-snapshot-of-rental-averages-and-property-premiums.webp"
     alt="City-wide snapshot showing average rents for co-living, 1 BHK, and 2 BHK flats, along with furnished and gated society premiums"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -61,7 +61,7 @@ This aggressive scaling is why splitting larger flats (3 BHKs and above) becomes
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="{{ site.url }}/assets/images/average-monthly-rent-by-flat-configuration-bhk-in-bengaluru-2026.webp"
+    src="https://instadwell.com/assets/images/average-monthly-rent-by-flat-configuration-bhk-in-bengaluru-2026.webp"
     alt="Bar chart showing average monthly rent by flat configuration (BHK) in Bengaluru for 2026"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -99,7 +99,7 @@ Before looking at prices, you have to look at availability. The market coverage 
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="{{ site.url }}/assets/images/listing-count-by-area-coliving-vs-flat-market-in-bengaluru-2026.webp"
+    src="https://instadwell.com/assets/images/listing-count-by-area-coliving-vs-flat-market-in-bengaluru-2026.webp"
     alt="Horizontal bar chart comparing the number of co-living properties versus flat listings by neighborhood in Bengaluru for 2026"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -140,7 +140,7 @@ The one exception: premium co-living at the HelloWorld Cornerhouse tier (Rs 35,0
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="{{ site.url }}/assets/images/co-living-vs-flat-market-full-price-spectrum-in-bengaluru-2026.webp"
+    src="https://instadwell.com/assets/images/co-living-vs-flat-market-full-price-spectrum-in-bengaluru-2026.webp"
     alt="Range chart showing minimum, average, and maximum monthly rents for co-living operators versus 1 BHK and 2 BHK flats in Bengaluru for 2026"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -216,7 +216,7 @@ Notice how Stanza Living is more expensive than HelloWorld in HSR Layout and sig
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="{{ site.url }}/assets/images/co-living-operators-min-average-max-rents-in-bengaluru-2026.webp"
+    src="https://instadwell.com/assets/images/co-living-operators-min-average-max-rents-in-bengaluru-2026.webp"
     alt="Range chart showing minimum, average, and maximum monthly rents for co-living operators Stanza Living, HelloWorld, and Zolo in Bengaluru for 2026"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -261,7 +261,7 @@ Stanza's Bellandur average (~Rs 17,500) is nearly 55% higher than HelloWorld's B
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="{{ site.url }}/assets/images/market-anomaly-the-bellandur-role-reversal-2026.webp"
+    src="https://instadwell.com/assets/images/market-anomaly-the-bellandur-role-reversal-2026.webp"
     alt="Horizontal bar chart illustrating a market anomaly in Bellandur for 2026, showing Stanza Living pricing higher than HelloWorld, contrasted against 1 BHK flats and Zolo rents"
     loading="lazy"
     style="max-width:100%; height:auto;"
@@ -336,7 +336,7 @@ The 2 BHK split scenario is the honest competitor to co-living. Two professional
 
 <div style="text-align:center; margin:30px 0;">
   <img
-    src="{{ site.url }}/assets/images/listing-count-by-area-coliving-vs-flat-market-2026.webp"
+    src="https://instadwell.com/assets/images/listing-count-by-area-coliving-vs-flat-market-2026.webp"
     alt="Horizontal bar chart showing listing count by area comparing the number of co-living properties versus flat listings across various neighborhoods in Bengaluru for 2026"
     loading="lazy"
     style="max-width:100%; height:auto;"
