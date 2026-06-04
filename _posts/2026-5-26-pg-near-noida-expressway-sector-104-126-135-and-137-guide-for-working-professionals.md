@@ -39,7 +39,7 @@ The Expressway corridor is Noida's most organised stretch for housing. Commuters
 
 ## Verified Top 9 Expressway Properties Matrix {#inventory-table}
 
-Pricing data updated to reflect February 2026 market baselines.
+Pricing data updated to reflect May 2026 market baselines.
 
 | Property Name | Location | Rent Starting From | Highlights |
 | --- | --- | --- | --- |
