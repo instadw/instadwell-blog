@@ -167,6 +167,8 @@ Peelamedu is one of the safest zones in the city due to high activity. Modern la
 * **Warden Oversight:** Professional captains rather than just security guards.
 * **Well-Lit Corridors:** Ensuring safe movement for those returning from late library sessions or Tidel Park shifts.
 
+---
+
 ## Ladies PG in Peelamedu Coimbatore: Best Options 2026
 
 Peelamedu has the strongest verified supply of ladies PGs in Coimbatore, concentrated around Hopes College junction and the Avinashi Road stretch near CMC. The high footfall and commercial activity in this zone make it one of the safer areas in the city for women returning late from shifts or library sessions.
@@ -179,7 +181,7 @@ For students at PSG Tech or CMC who need a ladies PG within walking distance, bo
 
 ### Rent Range for Ladies PGs in Peelamedu
 
-Shared rooms in verified ladies PGs start from Rs. 9,099/month at Salto House. Premium single occupancy options are priced higher -- check individual listings on InstaDwell for current female-only availability.
+Shared rooms in verified ladies PGs start from Rs. 10,099/month at Salto House. Premium single occupancy options are priced higher - check individual listings on InstaDwell for current female-only availability.
 
 [Browse verified ladies PGs in Peelamedu →](https://instadwell.com/search?lat=11.034576&lng=77.01556029999999&location=Peelamedu%2C+Maheshwari+Nagar%2C+Coimbatore%2C+Tamil+Nadu+641004%2C+India&city=Coimbatore&country=India&page=1)
 
