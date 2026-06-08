@@ -185,6 +185,8 @@ Shared rooms in verified ladies PGs start from Rs. 10,099/month at Salto House. 
 
 [Browse verified ladies PGs in Peelamedu →](https://instadwell.com/search?lat=11.034576&lng=77.01556029999999&location=Peelamedu%2C+Maheshwari+Nagar%2C+Coimbatore%2C+Tamil+Nadu+641004%2C+India&city=Coimbatore&country=India&page=1)
 
+---
+
 ## Mens PG in Peelamedu Coimbatore: Best Options 2026
 
 The mens PG supply in Peelamedu is led by Zolo's three properties, which together cover the budget, mid-range, and student-specialist segments. The cluster sits within 5 to 10 minutes of PSG Tech, CIT, and CMC, making it the default choice for male students arriving for the June to August intake.
