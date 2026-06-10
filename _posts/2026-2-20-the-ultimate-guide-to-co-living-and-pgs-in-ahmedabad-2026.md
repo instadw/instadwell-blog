@@ -44,15 +44,15 @@ Women looking for safe stays can go directly to our [Best PGs in Ahmedabad for F
 
 | Property Name | Best Feature | Price (Starts From) |
 |---|---|---|
-| [Wilmington House – Navrangpura](https://instadwell.com/properties/2979-wilmington-house) | Meals included, high-speed Wi-Fi, housekeeping, 24x7 security | ₹17,499/mo |
-| [Portland House – Gota](https://instadwell.com/properties/2981-portland-house) | Wi-Fi, AC, attached washroom, laundry | ₹13,299/mo |
-| [Annapolis House – Navrangpura](https://instadwell.com/properties/2983-annapolis-house) | Female PG with AC, attached washroom, Wi-Fi, housekeeping | ₹17,299/mo |
-| [Odessa House – Gota](https://instadwell.com/properties/2985-odessa-house) | Female community PG with AC, laundry, refrigerator, 24x7 security | ₹15,299/mo |
-| [Evanston House – Vastrapur & Thaltej](https://instadwell.com/properties/2987-evanston-house) | AC, Wi-Fi, housekeeping, laundry, 24x7 security | ₹14,699/mo |
-| [Elgin House – Bopal & Shilaj](https://instadwell.com/properties/2989-elgin-house) | AC, Wi-Fi, attached balcony, housekeeping, 24x7 security | ₹13,499/mo |
-| [Callao House – Navrangpura](https://instadwell.com/properties/2990-callao-house) | Wi-Fi, AC, meals included, water purifier, laundry | ₹15,499/mo |
-| [HelloWorld Houston – Vastrapur/IIM Road](https://instadwell.com/properties/3214-helloworld-houston) | Fridge, lift, RO water, washing machine, kitchen access | ₹12,000/bed |
-| [HelloWorld Austin – SG Road, Bodakdev Thaltej](https://instadwell.com/properties/3215-helloworld-austin) | Washing machine, RO water, TV, kitchen, water cooler | ₹10,000/bed |
+| [Wilmington House - Navrangpura](https://instadwell.com/properties/2979-wilmington-house) | Meals included, high-speed Wi-Fi, housekeeping, 24x7 security | ₹17,499/mo |
+| [Portland House - Gota](https://instadwell.com/properties/2981-portland-house) | Wi-Fi, AC, attached washroom, laundry | ₹13,299/mo |
+| [Annapolis House - Navrangpura](https://instadwell.com/properties/2983-annapolis-house) | Female PG with AC, attached washroom, Wi-Fi, housekeeping | ₹17,299/mo |
+| [Odessa House - Gota](https://instadwell.com/properties/2985-odessa-house) | Female community PG with AC, laundry, refrigerator, 24x7 security | ₹15,299/mo |
+| [Evanston House - Vastrapur & Thaltej](https://instadwell.com/properties/2987-evanston-house) | AC, Wi-Fi, housekeeping, laundry, 24x7 security | ₹14,699/mo |
+| [Elgin House - Bopal & Shilaj](https://instadwell.com/properties/2989-elgin-house) | AC, Wi-Fi, attached balcony, housekeeping, 24x7 security | ₹13,499/mo |
+| [Callao House - Navrangpura](https://instadwell.com/properties/2990-callao-house) | Wi-Fi, AC, meals included, water purifier, laundry | ₹15,499/mo |
+| [HelloWorld Houston - Vastrapur/IIM Road](https://instadwell.com/properties/3214-helloworld-houston) | Fridge, lift, RO water, washing machine, kitchen access | ₹12,000/bed |
+| [HelloWorld Austin - SG Road, Bodakdev Thaltej](https://instadwell.com/properties/3215-helloworld-austin) | Washing machine, RO water, TV, kitchen, water cooler | ₹10,000/bed |
 
 ---
 
@@ -191,9 +191,9 @@ Ahmedabad remains a conservative food culture. Many individual landlords in Navr
 
 ### The Math: PG Food vs. Eating Out
 
--   Managed PG (Food Included): Total monthly cost: ₹12,000 – ₹18,000. Best for affordable PGs in Ahmedabad where budgeting is key.
+-   Managed PG (Food Included): Total monthly cost: ₹12,000 - ₹18,000. Best for affordable PGs in Ahmedabad where budgeting is key.
     
--   Room Only + Eating Out: Room rent: ₹5,000 – ₹10,000 + Daily food (₹300 avg) = ₹14,000 – ₹23,500. Best for foodies who want to explore the night markets of Law Garden.
+-   Room Only + Eating Out: Room rent: ₹5,000 - ₹10,000 + Daily food (₹300 avg) = ₹14,000 - ₹23,500. Best for foodies who want to explore the night markets of Law Garden.
     
 
 ----------
@@ -206,7 +206,7 @@ Before you sign for any [PG accommodation](/blog/what-is-paying-guest-house-a-co
     
 -   Lock-in Period: Aim for a 3-month lock-in to judge quality first.
     
--   Zero Brokerage: Scams are rising; students report losing ₹16k–₹50k to fake brokers. Use [InstaDwell](https://instadwell.com/) to book directly and save a full month’s rent.
+-   Zero Brokerage: Scams are rising; students report losing ₹16k-₹50k to fake brokers. Use [InstaDwell](https://instadwell.com/) to book directly and save a full month’s rent.
     
 -   Power Backup: Ensure there is a dedicated generator if you are a professional working from home.
     
