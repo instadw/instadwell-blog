@@ -40,7 +40,7 @@ This guide covers the most strategic managed PG and co-living options near Prahl
 
 ### Quick Snapshot: PG in Prahlad Nagar Ahmedabad (2026)
 
--   **PG Rent in Prahlad Nagar, Ahmedabad:** ₹14,000 to ₹18,000 (Shared), ₹25,000+ (Private)
+-   **PG Rent in Prahlad Nagar, Ahmedabad:** ₹10,000 to ₹18,000 (Shared), ₹25,000+ (Private)
 -   **Key Proximity:** Corporate Road, Titanium Heights, Pinnacle Business Park.
 -   **Metro Strategy:** Blue Line (Thaltej-Vastral) provides the closest city-wide link.
 -   **Avoid:** Paying brokerage. In the Prahlad Nagar belt, brokers often charge 1 month's rent.
