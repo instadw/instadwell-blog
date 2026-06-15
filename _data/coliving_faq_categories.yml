@@ -7,3 +7,8 @@
   title: Noida
   order: 2
   icon: fa-indian-rupee-sign
+
+- slug: Dehradun
+  title: Dehradun
+  order: 3
+  icon: fa-indian-rupee-sign
