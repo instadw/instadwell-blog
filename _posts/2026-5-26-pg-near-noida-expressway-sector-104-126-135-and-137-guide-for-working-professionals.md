@@ -107,7 +107,7 @@ Pricing data updated to reflect May 2026 market baselines.
       </a>
 
       <a class="id-card" href="https://instadwell.com/search?lat=28.5403358&lng=77.3741314&location=Sector+104%2C+Noida%2C+Uttar+Pradesh+201304%2C+India&city=Noida&country=India&page=1" target="_blank" rel="noopener noreferrer">
-        <img class="id-card__img" src="/assets/images/properties/zolo-1.webp" alt="Zolo Famous" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <img class="id-card__img" src="https://instadwell.com/blog/assets/images/properties/zolo-1.webp" alt="Zolo Famous" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
         <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
         <div class="id-card__body">
           <div class="id-card__name">Zolo Famous</div>
