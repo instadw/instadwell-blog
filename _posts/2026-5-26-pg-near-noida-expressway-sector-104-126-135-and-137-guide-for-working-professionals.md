@@ -35,7 +35,7 @@ Finding a PG near Noida Expressway can be confusing because rental options are s
 .id-card__price { color: #ef4444; font-size: 12px; font-weight: 600; margin-bottom: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .id-card__amenities { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 13px; align-content: flex-start; }
 .id-chip { background: #f3f4f6; color: #374151; font-size: 10.5px; padding: 3px 8px; border-radius: 4px; white-space: nowrap; border: 1px solid #e5e7eb; flex-shrink: 0; flex-grow: 0; }
-.id-card__btn { display: block; width: 100%; padding: 9px 0; background: #111827; color: #ffffff; font-size: 12px; font-weight: 700; text-align: center; border: none; border-radius: 4px; letter-spacing: 0.06em; text-transform: uppercase; cursor: pointer; }
+.id-card__btn { display: block; width: 100%; padding: 9px 0; background: #111827; color: #ffffff; font-size: 12px; font-weight: 700; text-align: center; border: none; border-radius: 4px; letter-spacing: 0.06em; text-transform: uppercase; cursor: pointer; margin-top: auto; } 
 .id-footer { margin-top: 20px; text-align: left; border-top: 1px solid #e5e7eb; padding-top: 14px; }
 .id-footer a { color: #111827; font-size: 12.5px; font-weight: 700; text-decoration: none; letter-spacing: 0.06em; text-transform: uppercase; }
 .id-footer a:hover { text-decoration: underline; }
