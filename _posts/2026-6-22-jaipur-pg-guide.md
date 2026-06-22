@@ -26,7 +26,8 @@ This guide covers verified managed accommodation currently available through Ins
   @media (max-width: 900px) { .id-grid { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 700px) { .id-grid { grid-template-columns: 1fr; } }
 
-  .id-card { display:flex; flex-direction:column; background:#ffffff; border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; }
+  .id-card { display:flex; flex-direction:column; background:#ffffff; border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; text-decoration:none; color:inherit; cursor:pointer; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+  .id-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); transform: translateY(-2px); }
   .id-card__img { width:100%; height:160px; object-fit:cover; display:block; }
   .id-card__body { display:flex; flex-direction:column; flex:1; padding:12px; }
   .id-card__name { font-size:15px; font-weight:700; color:#111827; margin:0 0 4px; }
@@ -34,8 +35,8 @@ This guide covers verified managed accommodation currently available through Ins
   .id-card__price { font-size:12px; font-weight:700; color:#ef4444; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin:0 0 10px; }
   .id-card__amenities { display:flex; flex-wrap:wrap; gap:5px; align-content:flex-start; margin-bottom:12px; }
   .id-chip { flex-shrink:0; flex-grow:0; white-space:nowrap; background:#f3f4f6; border:1px solid #e5e7eb; color:#374151; font-size:10.5px; padding:3px 8px; border-radius:4px; }
-  .id-card__btn { display:block; margin-top:auto; background:#111827; color:#ffffff; font-size:12px; font-weight:700; text-transform:uppercase; text-align:center; text-decoration:none; padding:10px 12px; border-radius:5px; letter-spacing:0.04em; }
-  .id-card__btn:hover { background:#374151; }
+  .id-card__btn { display:block; margin-top:auto; background:#111827; color:#ffffff; font-size:12px; font-weight:700; text-transform:uppercase; text-align:center; padding:10px 12px; border-radius:5px; letter-spacing:0.04em; }
+  .id-card:hover .id-card__btn { background:#374151; }
 
   .id-pagination { display:flex; align-items:center; justify-content:space-between; margin-top:20px; }
   .id-pagination__info { font-size:12px; color:#6b7280; }
@@ -73,90 +74,18 @@ This guide covers verified managed accommodation currently available through Ins
   var URL = "https://instadwell.com/search?country=india&lat=26.833731&lng=75.804015&location=jaipur&utm_source=blog&utm_medium=widget&utm_campaign=jaipur&utm_content=jaipur-all";
 
   var props = [
-    {
-      name: "helloworld udaan",
-      loc: "Near Terminal-2, Jaipur Airport, Jaipur",
-      price: "Rates starting at Rs. 5,000 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-1.webp",
-      chips: ["Washing machine", "RO drinking water"]
-    },
-    {
-      name: "HelloWorld Imperial",
-      loc: "Durgapura, Jaipur",
-      price: "Rates starting at Rs. 7,999 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-2.webp",
-      chips: ["CCTV", "Washing machine", "RO", "Kitchen", "Fridge", "Sofa"]
-    },
-    {
-      name: "helloworld spark",
-      loc: "Rajasthan 302017, Jaipur",
-      price: "Rates starting at Rs. 16,000 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-3.webp",
-      chips: ["Fridge", "Sofa", "RO", "TV"]
-    },
-    {
-      name: "helloworld xclusive",
-      loc: "Malviya Nagar, Jaipur",
-      price: "Rates starting at Rs. 15,000 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-4.webp",
-      chips: ["TV", "RO", "Fridge", "Kitchen", "Lift", "Washing machine"]
-    },
-    {
-      name: "helloworld polohouse",
-      loc: "Sitabari, Tonk Road, Jaipur",
-      price: "Rates starting at Rs. 8,000 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-1.webp",
-      chips: ["Housekeeping", "RO", "Water cooler", "Carrom board"]
-    },
-    {
-      name: "helloworld joy",
-      loc: "Marge, Sanganer, Jaipur",
-      price: "Rates starting at Rs. 8,500 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-2.webp",
-      chips: ["RO", "Sofa", "Carrom board", "Fridge"]
-    },
-    {
-      name: "helloworld italia",
-      loc: "Siddharth Nagar, Jagatpura, Jaipur",
-      price: "Rates starting at Rs. 14,000 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-3.webp",
-      chips: ["Lift", "Sofa", "Fridge", "Kitchen"]
-    },
-    {
-      name: "helloworld whitelily_2.0",
-      loc: "Malviya Nagar, Jaipur",
-      price: "Rates starting at Rs. 8,000 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-4.webp",
-      chips: ["RO", "Water cooler", "Washing machine", "Dining table & chair"]
-    },
-    {
-      name: "helloworld crystal",
-      loc: "Jagatpura Road, Jaipur",
-      price: "Rates starting at Rs. 7,500 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-1.webp",
-      chips: ["Kitchen", "Washing machine", "RO", "Carrom board"]
-    },
-    {
-      name: "helloworld modeltown",
-      loc: "Model Town, Jagatpura Road, Jaipur",
-      price: "Rates starting at Rs. 8,500 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-2.webp",
-      chips: ["Cupboard", "Dining table & chair", "Sofa", "Washing machine", "Table tennis", "RO"]
-    },
-    {
-      name: "HelloWorld Runway",
-      loc: "Jagatpura, Jaipur",
-      price: "Rates starting at Rs. 15,000 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-3.webp",
-      chips: ["Kitchen", "Washing machine", "RO", "Sofa", "CCTV", "Coffee table"]
-    },
-    {
-      name: "helloworld quill",
-      loc: "Jagatpura, Jaipur",
-      price: "Rates starting at Rs. 16,999 / month",
-      img: "https://instadwell.com/blog/assets/images/helloworld-4.webp",
-      chips: ["Washing machine"]
-    }
+    { name:"helloworld udaan", loc:"Near Terminal-2, Jaipur Airport, Jaipur", price:"Rates starting at Rs. 5,000 / month", img:"https://instadwell.com/blog/assets/images/helloworld-1.webp", chips:["Washing machine","RO drinking water"] },
+    { name:"HelloWorld Imperial", loc:"Durgapura, Jaipur", price:"Rates starting at Rs. 7,999 / month", img:"https://instadwell.com/blog/assets/images/helloworld-2.webp", chips:["CCTV","Washing machine","RO","Kitchen","Fridge","Sofa"] },
+    { name:"helloworld spark", loc:"Rajasthan 302017, Jaipur", price:"Rates starting at Rs. 16,000 / month", img:"https://instadwell.com/blog/assets/images/helloworld-3.webp", chips:["Fridge","Sofa","RO","TV"] },
+    { name:"helloworld xclusive", loc:"Malviya Nagar, Jaipur", price:"Rates starting at Rs. 15,000 / month", img:"https://instadwell.com/blog/assets/images/helloworld-4.webp", chips:["TV","RO","Fridge","Kitchen","Lift","Washing machine"] },
+    { name:"helloworld polohouse", loc:"Sitabari, Tonk Road, Jaipur", price:"Rates starting at Rs. 8,000 / month", img:"https://instadwell.com/blog/assets/images/helloworld-1.webp", chips:["Housekeeping","RO","Water cooler","Carrom board"] },
+    { name:"helloworld joy", loc:"Marge, Sanganer, Jaipur", price:"Rates starting at Rs. 8,500 / month", img:"https://instadwell.com/blog/assets/images/helloworld-2.webp", chips:["RO","Sofa","Carrom board","Fridge"] },
+    { name:"helloworld italia", loc:"Siddharth Nagar, Jagatpura, Jaipur", price:"Rates starting at Rs. 14,000 / month", img:"https://instadwell.com/blog/assets/images/helloworld-3.webp", chips:["Lift","Sofa","Fridge","Kitchen"] },
+    { name:"helloworld whitelily_2.0", loc:"Malviya Nagar, Jaipur", price:"Rates starting at Rs. 8,000 / month", img:"https://instadwell.com/blog/assets/images/helloworld-4.webp", chips:["RO","Water cooler","Washing machine","Dining table & chair"] },
+    { name:"helloworld crystal", loc:"Jagatpura Road, Jaipur", price:"Rates starting at Rs. 7,500 / month", img:"https://instadwell.com/blog/assets/images/helloworld-1.webp", chips:["Kitchen","Washing machine","RO","Carrom board"] },
+    { name:"helloworld modeltown", loc:"Model Town, Jagatpura Road, Jaipur", price:"Rates starting at Rs. 8,500 / month", img:"https://instadwell.com/blog/assets/images/helloworld-2.webp", chips:["Cupboard","Dining table & chair","Sofa","Washing machine","Table tennis","RO"] },
+    { name:"HelloWorld Runway", loc:"Jagatpura, Jaipur", price:"Rates starting at Rs. 15,000 / month", img:"https://instadwell.com/blog/assets/images/helloworld-3.webp", chips:["Kitchen","Washing machine","RO","Sofa","CCTV","Coffee table"] },
+    { name:"helloworld quill", loc:"Jagatpura, Jaipur", price:"Rates starting at Rs. 16,999 / month", img:"https://instadwell.com/blog/assets/images/helloworld-4.webp", chips:["Washing machine"] }
   ];
 
   var PER_PAGE = 6;
@@ -170,15 +99,16 @@ This guide covers verified managed accommodation currently available through Ins
 
     grid.innerHTML = slice.map(function(p) {
       var chips = p.chips.map(function(c){ return '<span class="id-chip">'+c+'</span>'; }).join('');
-      return '<div class="id-card">'
+      return '<a class="id-card" href="'+URL+'" target="_blank" rel="noopener">'
         + '<img class="id-card__img" src="'+p.img+'" alt="'+p.name+'" onerror="this.src=\''+ERR+'\'">'
         + '<div class="id-card__body">'
         + '<div class="id-card__name">'+p.name+'</div>'
         + '<div class="id-card__loc">'+p.loc+'</div>'
         + '<div class="id-card__price">'+p.price+'</div>'
         + '<div class="id-card__amenities">'+chips+'</div>'
-        + '<a class="id-card__btn" href="'+URL+'" target="_blank" rel="noopener">View More</a>'
-        + '</div></div>';
+        + '<div class="id-card__btn">View More</div>'
+        + '</div>'
+        + '</a>';
     }).join('');
 
     document.getElementById('id-page-info').textContent = 'Page ' + (currentPage+1) + ' of ' + totalPages;
