@@ -41,6 +41,187 @@ The Expressway corridor is Noida's most organised stretch for housing. Commuters
 
 Pricing data updated to reflect May 2026 market baselines.
 
+<div class="id-widget-wrap" style="all:initial;display:block;font-size:16px;">
+<style>
+.id-widget-wrap *, .id-widget-wrap *::before, .id-widget-wrap *::after { box-sizing: border-box; margin: 0; padding: 0; }
+.id-widget { background: #ffffff; padding: 28px 0 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 36px 0; border-top: 2px solid #000000; }
+.id-widget__heading { color: #000000; font-weight: 700; font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 16px; }
+.id-tabs { display: flex; gap: 0; margin-bottom: 20px; border-bottom: 2px solid #000000; }
+.id-tab { padding: 8px 18px; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; cursor: pointer; background: #ffffff; color: #888888; border: none; border-bottom: 2px solid transparent; margin-bottom: -2px; transition: color 0.15s ease; }
+.id-tab:hover { color: #000000; }
+.id-tab.id-active { color: #000000; border-bottom: 2px solid #000000; }
+.id-panel { display: none; }
+.id-panel.id-active { display: block; }
+.id-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+@media (max-width: 600px) { .id-grid { grid-template-columns: 1fr; } .id-tab { padding: 8px 12px; font-size: 11px; } }
+.id-card { background: #000000; border-radius: 0; overflow: hidden; cursor: pointer; transition: transform 0.15s ease, box-shadow 0.15s ease; border: 1px solid #000000; display: flex; flex-direction: column; text-decoration: none; }
+.id-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.18); }
+.id-card__img { width: 100%; height: 152px; object-fit: cover; display: block; background: #1a1a1a; filter: grayscale(100%); }
+.id-card__img-ph { width: 100%; height: 152px; background: #1a1a1a; display: none; align-items: center; justify-content: center; }
+.id-card__body { padding: 14px 14px 15px; display: flex; flex-direction: column; flex: 1; }
+.id-card__name { color: #ffffff; font-size: 14px; font-weight: 700; line-height: 1.3; margin-bottom: 5px; }
+.id-card__loc { display: flex; align-items: center; gap: 4px; color: #888888; font-size: 11.5px; margin-bottom: 8px; }
+.id-card__price { color: #ffffff; font-size: 12px; font-weight: 600; margin-bottom: 10px; border-left: 2px solid #ffffff; padding-left: 8px; }
+.id-card__amenities { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 13px; flex: 1; }
+.id-chip { background: #1c1c1c; color: #cccccc; font-size: 10px; padding: 3px 7px; border-radius: 2px; white-space: nowrap; border: 1px solid #2e2e2e; }
+.id-card__btn { display: block; width: 100%; padding: 8px 0; background: #ffffff; color: #000000; font-size: 12px; font-weight: 700; text-align: center; border: none; border-radius: 0; letter-spacing: 0.06em; text-transform: uppercase; }
+.id-footer { margin-top: 20px; text-align: left; border-top: 1px solid #000000; padding-top: 14px; }
+.id-footer a { color: #000000; font-size: 12.5px; font-weight: 700; text-decoration: none; letter-spacing: 0.06em; text-transform: uppercase; }
+.id-footer a:hover { text-decoration: underline; }
+</style>
+
+<div class="id-widget">
+  <div class="id-widget__heading">Top PGs on Noida Expressway - Verified Listings</div>
+
+  <div class="id-tabs">
+    <button class="id-tab id-active" onclick="idTab(this,'id-p104')">Sector 104</button>
+    <button class="id-tab" onclick="idTab(this,'id-p126')">Sector 126</button>
+    <button class="id-tab" onclick="idTab(this,'id-p135')">Sector 135</button>
+  </div>
+
+  <div id="id-p104" class="id-panel id-active">
+    <div class="id-grid">
+
+      <a class="id-card" href="https://instadwell.com/search?lat=28.5403358&lng=77.3741314&location=Sector+104%2C+Noida%2C+Uttar+Pradesh+201304%2C+India&city=Noida&country=India&page=1" target="_blank" rel="noopener noreferrer">
+        <img class="id-card__img" src="https://instadwell.com/instadwell-4.jpeg" alt="HelloWorld Atrium" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
+        <div class="id-card__body">
+          <div class="id-card__name">HelloWorld Atrium</div>
+          <div class="id-card__loc"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg> Sector 104, Noida</div>
+          <div class="id-card__price">Rates starting at Rs. 22,000 / month</div>
+          <div class="id-card__amenities"><span class="id-chip">RO Water</span><span class="id-chip">CCTV</span><span class="id-chip">Water Cooler</span><span class="id-chip">Biometric</span><span class="id-chip">Lift</span><span class="id-chip">Cleaning</span></div>
+          <div class="id-card__btn">View More</div>
+        </div>
+      </a>
+
+      <a class="id-card" href="https://instadwell.com/search?lat=28.5403358&lng=77.3741314&location=Sector+104%2C+Noida%2C+Uttar+Pradesh+201304%2C+India&city=Noida&country=India&page=1" target="_blank" rel="noopener noreferrer">
+        <img class="id-card__img" src="https://instadwell.com/instadwell-3.jpeg" alt="HelloWorld Urban" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
+        <div class="id-card__body">
+          <div class="id-card__name">HelloWorld Urban</div>
+          <div class="id-card__loc"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg> Sector 104, Noida</div>
+          <div class="id-card__price">Rates starting at Rs. 12,000 / month</div>
+          <div class="id-card__amenities"><span class="id-chip">Power Backup</span><span class="id-chip">Internet</span><span class="id-chip">Fridge</span><span class="id-chip">CCTV</span><span class="id-chip">Cleaning</span><span class="id-chip">Water</span></div>
+          <div class="id-card__btn">View More</div>
+        </div>
+      </a>
+
+      <a class="id-card" href="https://instadwell.com/search?lat=28.5403358&lng=77.3741314&location=Sector+104%2C+Noida%2C+Uttar+Pradesh+201304%2C+India&city=Noida&country=India&page=1" target="_blank" rel="noopener noreferrer">
+        <img class="id-card__img" src="/assets/images/properties/zolo-1.webp" alt="Zolo Famous" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
+        <div class="id-card__body">
+          <div class="id-card__name">Zolo Famous</div>
+          <div class="id-card__loc"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg> Sector 104, Noida</div>
+          <div class="id-card__price">Rates starting at Rs. 5,002 / month</div>
+          <div class="id-card__amenities"><span class="id-chip">Gym</span><span class="id-chip">CCTV</span><span class="id-chip">Housekeeping</span><span class="id-chip">TV</span><span class="id-chip">Bathroom</span><span class="id-chip">Washing Machine</span></div>
+          <div class="id-card__btn">View More</div>
+        </div>
+      </a>
+
+      <a class="id-card" href="https://instadwell.com/search?lat=28.5403358&lng=77.3741314&location=Sector+104%2C+Noida%2C+Uttar+Pradesh+201304%2C+India&city=Noida&country=India&page=1" target="_blank" rel="noopener noreferrer">
+        <img class="id-card__img" src="/assets/images/properties/zolo-2.webp" alt="Zolo Legend" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
+        <div class="id-card__body">
+          <div class="id-card__name">Zolo Legend</div>
+          <div class="id-card__loc"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg> Sector 104, Noida</div>
+          <div class="id-card__price">Rates starting at Rs. 5,427 / month</div>
+          <div class="id-card__amenities"><span class="id-chip">Swimming Pool</span><span class="id-chip">Indoor Games</span><span class="id-chip">Housekeeping</span><span class="id-chip">Bedsheet</span><span class="id-chip">Reception</span><span class="id-chip">Washing Machine</span></div>
+          <div class="id-card__btn">View More</div>
+        </div>
+      </a>
+
+      <a class="id-card" href="https://instadwell.com/search?lat=28.5403358&lng=77.3741314&location=Sector+104%2C+Noida%2C+Uttar+Pradesh+201304%2C+India&city=Noida&country=India&page=1" target="_blank" rel="noopener noreferrer">
+        <img class="id-card__img" src="/assets/images/properties/zolo-1.webp" alt="Zolo Frontier" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
+        <div class="id-card__body">
+          <div class="id-card__name">Zolo Frontier</div>
+          <div class="id-card__loc"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg> Sector 104, Noida</div>
+          <div class="id-card__price">Rates starting at Rs. 5,589 / month</div>
+          <div class="id-card__amenities"><span class="id-chip">CCTV</span><span class="id-chip">Bedsheet</span><span class="id-chip">Almirah</span><span class="id-chip">Lunch Box</span><span class="id-chip">Lift</span><span class="id-chip">Parking</span></div>
+          <div class="id-card__btn">View More</div>
+        </div>
+      </a>
+
+      <a class="id-card" href="https://instadwell.com/search?lat=28.5403358&lng=77.3741314&location=Sector+104%2C+Noida%2C+Uttar+Pradesh+201304%2C+India&city=Noida&country=India&page=1" target="_blank" rel="noopener noreferrer">
+        <img class="id-card__img" src="/assets/images/properties/zolo-2.webp" alt="Zolo Villa" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
+        <div class="id-card__body">
+          <div class="id-card__name">Zolo Villa</div>
+          <div class="id-card__loc"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg> Sector 104, Noida</div>
+          <div class="id-card__price">Rates starting at Rs. 6,163 / month</div>
+          <div class="id-card__amenities"><span class="id-chip">Security</span><span class="id-chip">Pillow</span><span class="id-chip">Lift</span><span class="id-chip">TV</span><span class="id-chip">Washing Machine</span><span class="id-chip">Drinking Water</span></div>
+          <div class="id-card__btn">View More</div>
+        </div>
+      </a>
+
+    </div>
+    <div class="id-footer"><a href="https://instadwell.com/search?lat=28.5403358&lng=77.3741314&location=Sector+104%2C+Noida%2C+Uttar+Pradesh+201304%2C+India&city=Noida&country=India&page=1" target="_blank" rel="noopener noreferrer">See all PGs in Sector 104 &rarr;</a></div>
+  </div>
+
+  <div id="id-p126" class="id-panel">
+    <div class="id-grid">
+
+      <a class="id-card" href="https://instadwell.com/search?lat=28.5388659&lng=77.3396212&location=Sector%20126%2C%20Noida%2C%20Uttar%20Pradesh%20201313%2C%20India&city=Noida&country=India" target="_blank" rel="noopener noreferrer">
+        <img class="id-card__img" src="/assets/images/properties/zolo-1.webp" alt="Zolo Astrix" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
+        <div class="id-card__body">
+          <div class="id-card__name">Zolo Astrix</div>
+          <div class="id-card__loc"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg> Sector 126, Noida</div>
+          <div class="id-card__price">Rates starting at Rs. 6,579 / month</div>
+          <div class="id-card__amenities"><span class="id-chip">Bathroom</span><span class="id-chip">Almirah</span><span class="id-chip">Gym</span><span class="id-chip">Parking</span><span class="id-chip">Washing Machine</span><span class="id-chip">Club House</span></div>
+          <div class="id-card__btn">View More</div>
+        </div>
+      </a>
+
+      <a class="id-card" href="https://instadwell.com/search?lat=28.5388659&lng=77.3396212&location=Sector%20126%2C%20Noida%2C%20Uttar%20Pradesh%20201313%2C%20India&city=Noida&country=India" target="_blank" rel="noopener noreferrer">
+        <img class="id-card__img" src="/assets/images/properties/zolo-2.webp" alt="Zolo Newcastle" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
+        <div class="id-card__body">
+          <div class="id-card__name">Zolo Newcastle</div>
+          <div class="id-card__loc"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg> Sector 104, Noida</div>
+          <div class="id-card__price">Rates starting at Rs. 6,519 / month</div>
+          <div class="id-card__amenities"><span class="id-chip">TV</span><span class="id-chip">Washing Machine</span><span class="id-chip">Wifi</span><span class="id-chip">Gym</span><span class="id-chip">CCTV</span><span class="id-chip">Housekeeping</span></div>
+          <div class="id-card__btn">View More</div>
+        </div>
+      </a>
+
+    </div>
+    <div class="id-footer"><a href="https://instadwell.com/search?lat=28.5388659&lng=77.3396212&location=Sector%20126%2C%20Noida%2C%20Uttar%20Pradesh%20201313%2C%20India&city=Noida&country=India" target="_blank" rel="noopener noreferrer">See all PGs in Sector 126 &rarr;</a></div>
+  </div>
+
+  <div id="id-p135" class="id-panel">
+    <div class="id-grid">
+
+      <a class="id-card" href="https://instadwell.com/search?lat=28.4986092&lng=77.3999054&location=Sector%20135%2C%20Noida%2C%20Uttar%20Pradesh%20201304%2C%20India&city=Noida&country=India" target="_blank" rel="noopener noreferrer">
+        <img class="id-card__img" src="/assets/images/properties/zolo-1.webp" alt="Zolo Nived" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+        <div class="id-card__img-ph"><svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.5"><path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><path d="M9 21V12h6v9"/></svg></div>
+        <div class="id-card__body">
+          <div class="id-card__name">Zolo Nived</div>
+          <div class="id-card__loc"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg> Sector 135, Noida</div>
+          <div class="id-card__price">Rates starting at Rs. 6,280 / month</div>
+          <div class="id-card__amenities"><span class="id-chip">Housekeeping</span><span class="id-chip">AC</span><span class="id-chip">Lunch</span><span class="id-chip">Gaming Console</span><span class="id-chip">CCTV</span><span class="id-chip">Security</span></div>
+          <div class="id-card__btn">View More</div>
+        </div>
+      </a>
+
+    </div>
+    <div class="id-footer"><a href="https://instadwell.com/search?lat=28.4986092&lng=77.3999054&location=Sector%20135%2C%20Noida%2C%20Uttar%20Pradesh%20201304%2C%20India&city=Noida&country=India" target="_blank" rel="noopener noreferrer">See all PGs in Sector 135 &rarr;</a></div>
+  </div>
+
+</div>
+
+<script>
+function idTab(btn, panelId) {
+  var widget = btn.closest('.id-widget');
+  widget.querySelectorAll('.id-tab').forEach(function(t) { t.classList.remove('id-active'); });
+  widget.querySelectorAll('.id-panel').forEach(function(p) { p.classList.remove('id-active'); });
+  btn.classList.add('id-active');
+  document.getElementById(panelId).classList.add('id-active');
+}
+</script>
+
+</div>
+
 | Property Name | Location | Rent Starting From | Highlights |
 | --- | --- | --- | --- |
 | [Zolo Famous](https://instadwell.com/properties/2490-zolo-famous) | Sector 104 | ₹5,002 | Gym, CCTV, Housekeeping, TV, Bathroom, Washing machine |
