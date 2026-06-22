@@ -156,7 +156,7 @@ Every property in this guide is operated by HelloWorld, a managed co-living bran
 
 ---
 
-## Price Comparison: All HelloWorld PG Hostels in Jaipur {#price-comparison}
+## Price Comparison: Best PG Hostels in Jaipur {#price-comparison}
 
 | Property | Location | Starting Rent | Key Amenities |
 |---|---|---|---|
@@ -173,9 +173,9 @@ Every property in this guide is operated by HelloWorld, a managed co-living bran
 | [HelloWorld Runway](https://instadwell.com/properties/3313-helloworld-runway) | Jagatpura | ₹15,000/mo | Water, CCTV, Covered parking, Cleaning, Internet, Coffee table |
 | [HelloWorld Quill](https://instadwell.com/properties/3314-helloworld-quill) | Jagatpura | ₹16,999/mo | Washing machine |
 
-**Budget pick:** HelloWorld Udaan at ₹5,000/mo.
-**Best mid-range:** HelloWorld Crystal at ₹7,500/mo or Whitelily 2.0 at ₹8,000/mo.
-**Best premium:** HelloWorld Quill or Spark for fully furnished, larger rooms.
+- **Budget pick:** HelloWorld Udaan at ₹5,000/mo.
+- **Best mid-range:** HelloWorld Crystal at ₹7,500/mo or Whitelily 2.0 at ₹8,000/mo.
+- **Best premium:** HelloWorld Quill or Spark for fully furnished, larger rooms.
 
 ---
 
