@@ -32,9 +32,9 @@ Finding a PG near Noida Expressway can be confusing because rental options are s
 .id-card__body { padding: 14px 14px 15px; display: flex; flex-direction: column; flex: 1; }
 .id-card__name { color: #111827; font-size: 15px; font-weight: 700; line-height: 1.3; margin-bottom: 4px; }
 .id-card__loc { display: flex; align-items: center; gap: 4px; color: #6b7280; font-size: 12px; margin-bottom: 6px; }
-.id-card__price { color: #ef4444; font-size: 13px; font-weight: 600; margin-bottom: 10px; }
-.id-card__amenities { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 13px; flex: 1; }
-.id-chip { background: #f3f4f6; color: #374151; font-size: 10.5px; padding: 3px 8px; border-radius: 4px; white-space: nowrap; border: 1px solid #e5e7eb; }
+.id-card__price { color: #ef4444; font-size: 12px; font-weight: 600; margin-bottom: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.id-card__amenities { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 13px; align-content: flex-start; }
+.id-chip { background: #f3f4f6; color: #374151; font-size: 10.5px; padding: 3px 8px; border-radius: 4px; white-space: nowrap; border: 1px solid #e5e7eb; flex-shrink: 0; flex-grow: 0; }
 .id-card__btn { display: block; width: 100%; padding: 9px 0; background: #111827; color: #ffffff; font-size: 12px; font-weight: 700; text-align: center; border: none; border-radius: 4px; letter-spacing: 0.06em; text-transform: uppercase; cursor: pointer; }
 .id-footer { margin-top: 20px; text-align: left; border-top: 1px solid #e5e7eb; padding-top: 14px; }
 .id-footer a { color: #111827; font-size: 12.5px; font-weight: 700; text-decoration: none; letter-spacing: 0.06em; text-transform: uppercase; }
