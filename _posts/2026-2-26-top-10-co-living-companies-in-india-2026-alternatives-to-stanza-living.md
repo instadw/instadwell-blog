@@ -131,7 +131,7 @@ Today, many brands are recognized as offering global-standard community living e
 
     <div class="idc-header">
       <div class="idc-header__title">Compare PGs Across Popular Destinations</div>
-      <div class="idc-header__sub">Top-rated co-living spaces in India's major cities - browse, compare, and find your perfect PG.</div>
+      <div class="idc-header__sub">Top-rated co-living spaces in India's major cities — browse, compare, and find your perfect PG.</div>
     </div>
 
     <div class="idc-tabs">
@@ -226,7 +226,7 @@ Today, many brands are recognized as offering global-standard community living e
     <div class="idc-panel" id="idc-other">
       <div class="idc-other-cta">
         <p class="idc-other-cta__text">Looking for PGs in Noida, Jaipur, Gurugram, Chandigarh, or other cities?<br>Explore thousands of verified co-living spaces across India on InstaDwell.</p>
-        <a class="idc-other-cta__btn" href="https://instadwell.com/search?country=india&utm_source=blog&utm_medium=widget&utm_campaign=other-cities&utm_content=other-cities-cta" target="_blank" rel="noopener">Explore All Cities</a>
+        <a class="idc-other-cta__btn" href="https://instadwell.com?utm_source=blog&utm_medium=widget&utm_campaign=other-cities&utm_content=other-cities-cta" target="_blank" rel="noopener">Explore All Cities</a>
       </div>
     </div>
 
