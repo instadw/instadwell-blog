@@ -55,6 +55,128 @@ Gurgaon draws tens of thousands of working professionals every year. The city's 
 
 This guide covers everything you need: how much a PG in Gurgaon actually costs, which sectors make sense depending on your office location, what to expect from managed co-living versus independent PGs, and a curated list of verified properties you can shortlist right now.
 
+<style>
+  .idg-widget-wrap { all:initial; display:block; font-size:16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  .idg-widget-wrap *, .idg-widget-wrap *::before, .idg-widget-wrap *::after { box-sizing: border-box; }
+
+  .idg-widget { border-top: 2px solid #000000; padding-top: 20px; }
+
+  .idg-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  @media (max-width: 900px) { .idg-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 700px) { .idg-grid { grid-template-columns: 1fr; } }
+
+  .idg-card { display:flex; flex-direction:column; background:#ffffff; border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; text-decoration:none; color:inherit; cursor:pointer; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+  .idg-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); transform: translateY(-2px); }
+  .idg-card__img { width:100%; height:160px; object-fit:cover; display:block; }
+  .idg-card__body { display:flex; flex-direction:column; flex:1; padding:12px; }
+  .idg-card__name { font-size:15px; font-weight:700; color:#111827; margin:0 0 4px; }
+  .idg-card__loc { font-size:12px; color:#6b7280; margin:0 0 6px; }
+  .idg-card__price { font-size:12px; font-weight:700; color:#ef4444; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin:0 0 10px; }
+  .idg-card__amenities { display:flex; flex-wrap:wrap; gap:5px; align-content:flex-start; margin-bottom:12px; }
+  .idg-chip { flex-shrink:0; flex-grow:0; white-space:nowrap; background:#f3f4f6; border:1px solid #e5e7eb; color:#374151; font-size:10.5px; padding:3px 8px; border-radius:4px; }
+  .idg-card__btn { display:block; margin-top:auto; background:#111827; color:#ffffff; font-size:12px; font-weight:700; text-transform:uppercase; text-align:center; padding:10px 12px; border-radius:5px; letter-spacing:0.04em; }
+  .idg-card:hover .idg-card__btn { background:#374151; }
+
+  .idg-pagination { display:flex; align-items:center; justify-content:space-between; margin-top:20px; }
+  .idg-pagination__info { font-size:12px; color:#6b7280; }
+  .idg-pagination__btns { display:flex; gap:8px; }
+  .idg-page-btn { all:unset; cursor:pointer; padding:7px 16px; font-size:12px; font-weight:700; border:1px solid #e5e7eb; border-radius:5px; color:#111827; background:#ffffff; }
+  .idg-page-btn:hover:not(:disabled) { background:#f3f4f6; }
+  .idg-page-btn:disabled { color:#9ca3af; cursor:default; }
+
+  .idg-footer { margin-top:14px; text-align:right; }
+  .idg-footer a { font-size:12px; font-weight:600; color:#111827; text-decoration:underline; }
+  .idg-footer a:hover { color:#374151; }
+</style>
+
+<div class="idg-widget-wrap">
+  <div class="idg-widget">
+    <div class="idg-grid" id="idg-grid"></div>
+
+    <div class="idg-pagination">
+      <span class="idg-pagination__info" id="idg-page-info"></span>
+      <div class="idg-pagination__btns">
+        <button class="idg-page-btn" id="idg-prev" onclick="idgPage(-1)">← Prev</button>
+        <button class="idg-page-btn" id="idg-next" onclick="idgPage(1)">Next →</button>
+      </div>
+    </div>
+
+    <div class="idg-footer">
+      <a href="https://instadwell.com/search?country=india&lat=28.459497&lng=77.026634&location=gurugram&utm_source=blog&utm_medium=widget&utm_campaign=gurugram&utm_content=gurugram-all" target="_blank" rel="noopener">See all PGs in Gurugram →</a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var ERR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='160' viewBox='0 0 400 160'%3E%3Crect width='400' height='160' fill='%23f3f4f6'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7280' font-size='13'%3EImage unavailable%3C/text%3E%3C/svg%3E";
+  var BASE_URL = "https://instadwell.com/search?country=india&lat=28.459497&lng=77.026634&location=gurugram&utm_source=blog&utm_medium=widget&utm_campaign=gurugram&utm_content=gurugram-all";
+
+  var IMGS = {
+    zolo:   ["https://instadwell.com/blog/assets/images/zolo-1.webp","https://instadwell.com/blog/assets/images/zolo-2.webp","https://instadwell.com/blog/assets/images/zolo-3.webp","https://instadwell.com/blog/assets/images/zolo-4.webp"],
+    hello:  ["https://instadwell.com/blog/assets/images/helloworld-1.webp","https://instadwell.com/blog/assets/images/helloworld-2.webp","https://instadwell.com/blog/assets/images/helloworld-3.webp","https://instadwell.com/blog/assets/images/helloworld-4.webp"],
+    stanza: ["https://instadwell.com/blog/assets/images/stanza-1.webp","https://instadwell.com/blog/assets/images/stanza-2.webp","https://instadwell.com/blog/assets/images/stanza-3.webp","https://instadwell.com/blog/assets/images/stanza-4.webp"]
+  };
+
+  var props = [
+    { name:"Zolo Mansion",        loc:"Sector 17, Gurugram",          price:"Rates starting at Rs. 5,177 / month",  img:IMGS.zolo[0],   chips:["Budget pick","Fridge","Power backup","Swimming pool"] },
+    { name:"Zolo Artemis",        loc:"Sector 52, Gurugram",          price:"Rates starting at Rs. 6,177 / month",  img:IMGS.zolo[1],   chips:["AC","Washing machine","Housekeeping"] },
+    { name:"Zolo La Lagoon",      loc:"Sector 48, Gurugram",          price:"Rates starting at Rs. 6,450 / month",  img:IMGS.zolo[2],   chips:["CCTV","Swimming pool","Indoor games"] },
+    { name:"HelloWorld Ambience", loc:"U Block, DLF Phase 3, Gurugram", price:"Rates starting at Rs. 9,000 / month", img:IMGS.hello[0],  chips:["RO water","AC"] },
+    { name:"HelloWorld Skyward",  loc:"DLF Phase 3, Gurugram",        price:"Rates starting at Rs. 13,000 / month", img:IMGS.hello[1],  chips:["TV","Sofa","Washing machine","Fridge"] },
+    { name:"HelloWorld Sigma",    loc:"Gurugram",                     price:"Rates starting at Rs. 14,000 / month", img:IMGS.hello[2],  chips:["RO","Fridge","Sofa","Kitchen","Washing machine"] },
+    { name:"HelloWorld Glory",    loc:"Gurugram",                     price:"Rates starting at Rs. 19,000 / month", img:IMGS.hello[3],  chips:["Water cooler","Lift","Washing machine"] },
+    { name:"HelloWorld Luxuria",  loc:"DLF Phase 2, Sector 25, Gurugram", price:"Rates starting at Rs. 19,000 / month", img:IMGS.hello[0], chips:["RO water","Premium location"] },
+    { name:"HelloWorld Kaveri",   loc:"Sector 55, Gurugram",          price:"Rates starting at Rs. 17,000 / month", img:IMGS.hello[1],  chips:["Fridge","Sofa","Housekeeping","Table tennis"] },
+    { name:"HelloWorld Milan",    loc:"Near Arjun Marg, Gurugram",    price:"Rates starting at Rs. 17,000 / month", img:IMGS.hello[2],  chips:["Lift","Table tennis","Fridge","Washing machine"] },
+    { name:"HelloWorld Select",   loc:"Sector 57, Gurugram",          price:"Rates starting at Rs. 25,000 / month", img:IMGS.hello[3],  chips:["Luxury co-living","Dining table","Kitchen"] },
+    { name:"Taiping House",       loc:"Medanta, Gurugram",            price:"Rates starting at Rs. 25,099 / month", img:IMGS.stanza[0], chips:["Biometric entry","Power backup","Food","Housekeeping"] },
+    { name:"Pisa House",          loc:"Huda City Centre, Gurugram",   price:"Rates starting at Rs. 26,099 / month", img:IMGS.stanza[1], chips:["Water purifier","Washing machine","Meals"] },
+    { name:"Tortosa House",       loc:"Golf Course Extension, Gurugram", price:"Rates starting at Rs. 32,299 / month", img:IMGS.stanza[2], chips:["Attached balcony","Laundry","Luxury co-living"] }
+  ];
+
+  var PER_PAGE = 6;
+  var currentPage = 0;
+  var totalPages = Math.ceil(props.length / PER_PAGE);
+
+  function render() {
+    var grid = document.getElementById('idg-grid');
+    var start = currentPage * PER_PAGE;
+    var slice = props.slice(start, start + PER_PAGE);
+
+    grid.innerHTML = slice.map(function(p) {
+      var chips = p.chips.map(function(c){ return '<span class="idg-chip">'+c+'</span>'; }).join('');
+      return '<a class="idg-card" href="'+BASE_URL+'" target="_blank" rel="noopener">'
+        + '<img class="idg-card__img" src="'+p.img+'" alt="'+p.name+'" onerror="this.src=\''+ERR+'\'">'
+        + '<div class="idg-card__body">'
+        + '<div class="idg-card__name">'+p.name+'</div>'
+        + '<div class="idg-card__loc">'+p.loc+'</div>'
+        + '<div class="idg-card__price">'+p.price+'</div>'
+        + '<div class="idg-card__amenities">'+chips+'</div>'
+        + '<div class="idg-card__btn">View More</div>'
+        + '</div>'
+        + '</a>';
+    }).join('');
+
+    document.getElementById('idg-page-info').textContent = 'Page ' + (currentPage+1) + ' of ' + totalPages;
+    document.getElementById('idg-prev').disabled = currentPage === 0;
+    document.getElementById('idg-next').disabled = currentPage === totalPages - 1;
+  }
+
+  window.idgPage = function(dir) {
+    currentPage = Math.max(0, Math.min(totalPages - 1, currentPage + dir));
+    render();
+    document.querySelector('.idg-widget').scrollIntoView({behavior:'smooth', block:'start'});
+  };
+
+  render();
+})();
+</script>
+
 ---
 
 ## Quick Summary: All Verified PGs and Co-living Spaces Covered in This Guide
