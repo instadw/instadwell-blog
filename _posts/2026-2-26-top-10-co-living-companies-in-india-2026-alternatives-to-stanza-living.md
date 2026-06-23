@@ -131,7 +131,7 @@ Today, many brands are recognized as offering global-standard community living e
 
     <div class="idc-header">
       <div class="idc-header__title">Compare PGs Across Popular Destinations</div>
-      <div class="idc-header__sub">Top-rated co-living spaces in India's major cities — browse, compare, and find your perfect PG.</div>
+      <div class="idc-header__sub">Top-rated co-living spaces in India's major cities - browse, compare, and find your perfect PG.</div>
     </div>
 
     <div class="idc-tabs">
