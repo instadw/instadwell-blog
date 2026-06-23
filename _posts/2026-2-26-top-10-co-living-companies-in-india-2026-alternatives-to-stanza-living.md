@@ -74,6 +74,299 @@ Today, many brands are recognized as offering global-standard community living e
 | **Best Stanza alternative** | Colive or HelloWorld |
 
 ---
+
+<style>
+  .idc-widget-wrap { all:initial; display:block; font-size:16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  .idc-widget-wrap *, .idc-widget-wrap *::before, .idc-widget-wrap *::after { box-sizing: border-box; }
+
+  .idc-widget { border-top: 2px solid #000000; padding-top: 20px; }
+
+  .idc-header { margin-bottom: 16px; }
+  .idc-header__title { font-size: 17px; font-weight: 700; color: #111827; margin: 0 0 4px; }
+  .idc-header__sub { font-size: 12px; color: #6b7280; margin: 0; }
+
+  .idc-tabs { display: flex; gap: 0; border-bottom: 1px solid #e5e7eb; margin-bottom: 20px; flex-wrap: wrap; }
+  .idc-tab { all: unset; cursor: pointer; padding: 9px 15px; font-size: 12px; font-weight: 600; color: #6b7280; border-bottom: 2px solid transparent; margin-bottom: -1px; white-space: nowrap; }
+  .idc-tab.active { color: #111827; border-bottom: 2px solid #000000; }
+  .idc-tab:hover:not(.active) { color: #374151; }
+
+  .idc-panel { display: none; }
+  .idc-panel.active { display: block; }
+
+  .idc-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  @media (max-width: 900px) { .idc-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 700px) { .idc-grid { grid-template-columns: 1fr; } }
+
+  .idc-card { display:flex; flex-direction:column; background:#ffffff; border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; text-decoration:none; color:inherit; cursor:pointer; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+  .idc-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); transform: translateY(-2px); }
+  .idc-card__img { width:100%; height:160px; object-fit:cover; display:block; }
+  .idc-card__body { display:flex; flex-direction:column; flex:1; padding:12px; }
+  .idc-card__name { font-size:15px; font-weight:700; color:#111827; margin:0 0 4px; }
+  .idc-card__loc { font-size:12px; color:#6b7280; margin:0 0 6px; }
+  .idc-card__price { font-size:12px; font-weight:700; color:#ef4444; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin:0 0 10px; }
+  .idc-card__amenities { display:flex; flex-wrap:wrap; gap:5px; align-content:flex-start; margin-bottom:12px; }
+  .idc-chip { flex-shrink:0; flex-grow:0; white-space:nowrap; background:#f3f4f6; border:1px solid #e5e7eb; color:#374151; font-size:10.5px; padding:3px 8px; border-radius:4px; }
+  .idc-card__btn { display:block; margin-top:auto; background:#111827; color:#ffffff; font-size:12px; font-weight:700; text-transform:uppercase; text-align:center; padding:10px 12px; border-radius:5px; letter-spacing:0.04em; }
+  .idc-card:hover .idc-card__btn { background:#374151; }
+
+  .idc-pagination { display:flex; align-items:center; justify-content:space-between; margin-top:20px; }
+  .idc-pagination__info { font-size:12px; color:#6b7280; }
+  .idc-pagination__btns { display:flex; gap:8px; }
+  .idc-page-btn { all:unset; cursor:pointer; padding:7px 16px; font-size:12px; font-weight:700; border:1px solid #e5e7eb; border-radius:5px; color:#111827; background:#ffffff; }
+  .idc-page-btn:hover:not(:disabled) { background:#f3f4f6; }
+  .idc-page-btn:disabled { color:#9ca3af; cursor:default; }
+
+  .idc-footer { margin-top:14px; text-align:right; }
+  .idc-footer a { font-size:12px; font-weight:600; color:#111827; text-decoration:underline; }
+  .idc-footer a:hover { color:#374151; }
+
+  .idc-other-cta { display:flex; flex-direction:column; align-items:center; justify-content:center; padding: 48px 20px; text-align:center; }
+  .idc-other-cta__text { font-size:15px; color:#374151; margin:0 0 20px; line-height:1.6; }
+  .idc-other-cta__btn { display:inline-block; background:#111827; color:#ffffff; font-size:13px; font-weight:700; text-transform:uppercase; text-decoration:none; padding:13px 28px; border-radius:6px; letter-spacing:0.05em; }
+  .idc-other-cta__btn:hover { background:#374151; }
+</style>
+
+<div class="idc-widget-wrap">
+  <div class="idc-widget">
+
+    <div class="idc-header">
+      <div class="idc-header__title">Compare PGs Across Popular Destinations</div>
+      <div class="idc-header__sub">Top-rated co-living spaces in India's major cities - browse, compare, and find your perfect PG.</div>
+    </div>
+
+    <div class="idc-tabs">
+      <button class="idc-tab active" onclick="idcSwitch(this,'idc-bengaluru')">Bengaluru</button>
+      <button class="idc-tab" onclick="idcSwitch(this,'idc-pune')">Pune</button>
+      <button class="idc-tab" onclick="idcSwitch(this,'idc-mumbai')">Mumbai</button>
+      <button class="idc-tab" onclick="idcSwitch(this,'idc-chennai')">Chennai</button>
+      <button class="idc-tab" onclick="idcSwitch(this,'idc-hyderabad')">Hyderabad</button>
+      <button class="idc-tab" onclick="idcSwitch(this,'idc-delhi')">Delhi</button>
+      <button class="idc-tab" onclick="idcSwitch(this,'idc-other')">Other Cities →</button>
+    </div>
+
+    <!-- BENGALURU -->
+    <div class="idc-panel active" id="idc-bengaluru" data-page="0">
+      <div class="idc-grid" id="idc-bengaluru-grid"></div>
+      <div class="idc-pagination" id="idc-bengaluru-pagination">
+        <span class="idc-pagination__info" id="idc-bengaluru-info"></span>
+        <div class="idc-pagination__btns">
+          <button class="idc-page-btn" id="idc-bengaluru-prev" onclick="idcPage('bengaluru',-1)">← Prev</button>
+          <button class="idc-page-btn" id="idc-bengaluru-next" onclick="idcPage('bengaluru',1)">Next →</button>
+        </div>
+      </div>
+      <div class="idc-footer"><a href="https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru&utm_source=blog&utm_medium=widget&utm_campaign=bengaluru&utm_content=bengaluru-all" target="_blank" rel="noopener">See all PGs in Bengaluru →</a></div>
+    </div>
+
+    <!-- PUNE -->
+    <div class="idc-panel" id="idc-pune" data-page="0">
+      <div class="idc-grid" id="idc-pune-grid"></div>
+      <div class="idc-pagination" id="idc-pune-pagination">
+        <span class="idc-pagination__info" id="idc-pune-info"></span>
+        <div class="idc-pagination__btns">
+          <button class="idc-page-btn" id="idc-pune-prev" onclick="idcPage('pune',-1)">← Prev</button>
+          <button class="idc-page-btn" id="idc-pune-next" onclick="idcPage('pune',1)">Next →</button>
+        </div>
+      </div>
+      <div class="idc-footer"><a href="https://instadwell.com/search?country=india&lat=18.520430&lng=73.856743&location=pune&utm_source=blog&utm_medium=widget&utm_campaign=pune&utm_content=pune-all" target="_blank" rel="noopener">See all PGs in Pune →</a></div>
+    </div>
+
+    <!-- MUMBAI -->
+    <div class="idc-panel" id="idc-mumbai" data-page="0">
+      <div class="idc-grid" id="idc-mumbai-grid"></div>
+      <div class="idc-pagination" id="idc-mumbai-pagination">
+        <span class="idc-pagination__info" id="idc-mumbai-info"></span>
+        <div class="idc-pagination__btns">
+          <button class="idc-page-btn" id="idc-mumbai-prev" onclick="idcPage('mumbai',-1)">← Prev</button>
+          <button class="idc-page-btn" id="idc-mumbai-next" onclick="idcPage('mumbai',1)">Next →</button>
+        </div>
+      </div>
+      <div class="idc-footer"><a href="https://instadwell.com/search?country=india&lat=19.076090&lng=72.877426&location=mumbai&utm_source=blog&utm_medium=widget&utm_campaign=mumbai&utm_content=mumbai-all" target="_blank" rel="noopener">See all PGs in Mumbai →</a></div>
+    </div>
+
+    <!-- CHENNAI -->
+    <div class="idc-panel" id="idc-chennai" data-page="0">
+      <div class="idc-grid" id="idc-chennai-grid"></div>
+      <div class="idc-pagination" id="idc-chennai-pagination">
+        <span class="idc-pagination__info" id="idc-chennai-info"></span>
+        <div class="idc-pagination__btns">
+          <button class="idc-page-btn" id="idc-chennai-prev" onclick="idcPage('chennai',-1)">← Prev</button>
+          <button class="idc-page-btn" id="idc-chennai-next" onclick="idcPage('chennai',1)">Next →</button>
+        </div>
+      </div>
+      <div class="idc-footer"><a href="https://instadwell.com/search?country=india&lat=13.082680&lng=80.270718&location=chennai&utm_source=blog&utm_medium=widget&utm_campaign=chennai&utm_content=chennai-all" target="_blank" rel="noopener">See all PGs in Chennai →</a></div>
+    </div>
+
+    <!-- HYDERABAD -->
+    <div class="idc-panel" id="idc-hyderabad" data-page="0">
+      <div class="idc-grid" id="idc-hyderabad-grid"></div>
+      <div class="idc-pagination" id="idc-hyderabad-pagination">
+        <span class="idc-pagination__info" id="idc-hyderabad-info"></span>
+        <div class="idc-pagination__btns">
+          <button class="idc-page-btn" id="idc-hyderabad-prev" onclick="idcPage('hyderabad',-1)">← Prev</button>
+          <button class="idc-page-btn" id="idc-hyderabad-next" onclick="idcPage('hyderabad',1)">Next →</button>
+        </div>
+      </div>
+      <div class="idc-footer"><a href="https://instadwell.com/search?country=india&lat=17.385044&lng=78.486671&location=hyderabad&utm_source=blog&utm_medium=widget&utm_campaign=hyderabad&utm_content=hyderabad-all" target="_blank" rel="noopener">See all PGs in Hyderabad →</a></div>
+    </div>
+
+    <!-- DELHI -->
+    <div class="idc-panel" id="idc-delhi" data-page="0">
+      <div class="idc-grid" id="idc-delhi-grid"></div>
+      <div class="idc-pagination" id="idc-delhi-pagination">
+        <span class="idc-pagination__info" id="idc-delhi-info"></span>
+        <div class="idc-pagination__btns">
+          <button class="idc-page-btn" id="idc-delhi-prev" onclick="idcPage('delhi',-1)">← Prev</button>
+          <button class="idc-page-btn" id="idc-delhi-next" onclick="idcPage('delhi',1)">Next →</button>
+        </div>
+      </div>
+      <div class="idc-footer"><a href="https://instadwell.com/search?country=india&lat=28.613939&lng=77.209023&location=delhi&utm_source=blog&utm_medium=widget&utm_campaign=delhi&utm_content=delhi-all" target="_blank" rel="noopener">See all PGs in Delhi →</a></div>
+    </div>
+
+    <!-- OTHER CITIES -->
+    <div class="idc-panel" id="idc-other">
+      <div class="idc-other-cta">
+        <p class="idc-other-cta__text">Looking for PGs in Noida, Jaipur, Gurugram, Chandigarh, or other cities?<br>Explore thousands of verified co-living spaces across India on InstaDwell.</p>
+        <a class="idc-other-cta__btn" href="https://instadwell.com/search?country=india&utm_source=blog&utm_medium=widget&utm_campaign=other-cities&utm_content=other-cities-cta" target="_blank" rel="noopener">Explore All Cities</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+(function(){
+  var ERR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='160' viewBox='0 0 400 160'%3E%3Crect width='400' height='160' fill='%23f3f4f6'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7280' font-size='13'%3EImage unavailable%3C/text%3E%3C/svg%3E";
+
+  var HW = [
+    "https://instadwell.com/blog/assets/images/helloworld-1.webp",
+    "https://instadwell.com/blog/assets/images/helloworld-2.webp",
+    "https://instadwell.com/blog/assets/images/helloworld-3.webp",
+    "https://instadwell.com/blog/assets/images/helloworld-4.webp"
+  ];
+  var ZO = [
+    "https://instadwell.com/blog/assets/images/zolo-1.webp",
+    "https://instadwell.com/blog/assets/images/zolo-2.webp",
+    "https://instadwell.com/blog/assets/images/zolo-3.webp",
+    "https://instadwell.com/blog/assets/images/zolo-4.webp"
+  ];
+  var ST = [
+    "https://instadwell.com/blog/assets/images/stanza-1.webp",
+    "https://instadwell.com/blog/assets/images/stanza-2.webp",
+    "https://instadwell.com/blog/assets/images/stanza-3.webp",
+    "https://instadwell.com/blog/assets/images/stanza-4.webp"
+  ];
+
+  var UTM = {
+    bengaluru: "https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru&utm_source=blog&utm_medium=widget&utm_campaign=bengaluru&utm_content=bengaluru-all",
+    pune:      "https://instadwell.com/search?country=india&lat=18.520430&lng=73.856743&location=pune&utm_source=blog&utm_medium=widget&utm_campaign=pune&utm_content=pune-all",
+    mumbai:    "https://instadwell.com/search?country=india&lat=19.076090&lng=72.877426&location=mumbai&utm_source=blog&utm_medium=widget&utm_campaign=mumbai&utm_content=mumbai-all",
+    chennai:   "https://instadwell.com/search?country=india&lat=13.082680&lng=80.270718&location=chennai&utm_source=blog&utm_medium=widget&utm_campaign=chennai&utm_content=chennai-all",
+    hyderabad: "https://instadwell.com/search?country=india&lat=17.385044&lng=78.486671&location=hyderabad&utm_source=blog&utm_medium=widget&utm_campaign=hyderabad&utm_content=hyderabad-all",
+    delhi:     "https://instadwell.com/search?country=india&lat=28.613939&lng=77.209023&location=delhi&utm_source=blog&utm_medium=widget&utm_campaign=delhi&utm_content=delhi-all"
+  };
+
+  var DATA = {
+    bengaluru: [
+      { name:"Frankfurt House",  loc:"Koramangala, Bengaluru", price:"Rates starting at Rs. 16,699 / month", img:ST[0], chips:["High-speed wifi","Hot & delicious meals","Laundry service","Attached washroom","Biometric entry"] },
+      { name:"helloworld nexus", loc:"Ejipura, Bengaluru",     price:"Rates starting at Rs. 30,000 / month", img:HW[0], chips:["RO","Lift"] },
+      { name:"Zolo Valencia",    loc:"Rajajinagar, Bengaluru", price:"Rates starting at Rs. 11,919 / month", img:ZO[0], chips:["Lunch","Drinking water","Parking","CCTV","Swimming pool","Club house"] },
+      { name:"Bratislava House", loc:"Koramangala, Bengaluru", price:"Rates starting at Rs. 12,499 / month", img:ST[1], chips:["High-speed wifi","Spacious cupboard","24x7 security","Biometric entry","Workout zone"] },
+      { name:"Zolo Nile",        loc:"SG Palya, Bengaluru",   price:"Rates starting at Rs. 12,099 / month", img:ZO[1], chips:["AC","Nutritious menu","Biometric access","Lift","Indoor games","Washing machine"] },
+      { name:"Zolo Indus",       loc:"SG Palya, Bengaluru",   price:"Rates starting at Rs. 11,799 / month", img:ZO[2], chips:["Reception","Washing machine","Indoor games","Almirah","Swimming pool"] }
+    ],
+    pune: [
+      { name:"Zolo Venus",    loc:"Karve Nagar, Pune",  price:"Rates starting at Rs. 3,308 / month",  img:ZO[0], chips:["CCTV","Parking","Fully furnished","Nutritious menu","TV","AC"] },
+      { name:"Zolo Diva",     loc:"Dhankawdi, Pune",    price:"Rates starting at Rs. 7,569 / month",  img:ZO[1], chips:["Gaming console","Drinking water","Swimming pool","Bathroom","Lunch","Reception"] },
+      { name:"Pelotas House", loc:"Vadgaon, Pune",      price:"Rates starting at Rs. 9,299 / month",  img:ST[0], chips:["Washing machine","Spacious fridge","Attached washroom","Water purifier","Hot meals","Flat screen TV"] },
+      { name:"Tartus House",  loc:"Vadgaon, Pune",      price:"Rates starting at Rs. 6,699 / month",  img:ST[1], chips:["Attached washroom","Attached balcony","Laundry service","High-speed wifi","Hot meals","Housekeeping"] },
+      { name:"Pinsk House",   loc:"Vadgaon, Pune",      price:"Rates starting at Rs. 6,699 / month",  img:ST[2], chips:["Hot water supply","Attached balcony","Attached washroom","Housekeeping","Spacious fridge","Spacious cupboard"] },
+      { name:"Akron House",   loc:"Kothrud, Pune",      price:"Rates starting at Rs. 18,499 / month", img:ST[3], chips:["Housekeeping","Flat screen TV","Hot meals","High-speed wifi","Washing machine","24x7 security"] }
+    ],
+    mumbai: [
+      { name:"Zolo Logan",              loc:"Wadala, Mumbai",        price:"Rates starting at Rs. 17,487 / month", img:ZO[0], chips:["AC","Gym","Pillow","Bathroom","CCTV","Almirah"] },
+      { name:"Norman House",            loc:"Andheri East, Mumbai",  price:"Rates starting at Rs. 27,499 / month", img:ST[0], chips:["24x7 security","Spacious cupboard","High-speed wifi","Air conditioning","Attached washroom","Hot meals"] },
+      { name:"Zolo Mystique",           loc:"Andheri West, Mumbai",  price:"Rates starting at Rs. 23,142 / month", img:ZO[1], chips:["Pillow","TV","Gym","Housekeeping","Washing machine","Indoor games"] },
+      { name:"Monterrey House",         loc:"Juhu, Mumbai",          price:"Rates starting at Rs. 46,799 / month", img:ST[1], chips:["Air conditioning","High-speed wifi","Laundry service","Hot meals","Spacious cupboard","24x7 security"] },
+      { name:"helloworld nirlon",       loc:"Jogeshwari, Mumbai",    price:"Rates starting at Rs. 22,500 / month", img:HW[0], chips:["Fridge","TV","Kitchen","Washing machine"] },
+      { name:"HelloWorld VardhmanHeights",loc:"Jogeshwari East, Mumbai",price:"Rates starting at Rs. 20,000 / month",img:HW[1], chips:["RO","CCTV","Internet","Water","Washing machine","Cleaning"] }
+    ],
+    chennai: [
+      { name:"Osasco House",   loc:"Nungambakkam, Chennai", price:"Rates starting at Rs. 19,099 / month", img:ST[0], chips:["24x7 security","Water purifier","Hot meals","Housekeeping","Flat screen TV","Spacious fridge"] },
+      { name:"Zolo Shack",     loc:"Vadapalani, Chennai",   price:"Rates starting at Rs. 11,223 / month", img:ZO[0], chips:["Lunch","Fridge","Club house","Almirah","Gym","Bedsheet"] },
+      { name:"Mildura House",  loc:"Vadapalani, Chennai",   price:"Rates starting at Rs. 17,299 / month", img:ST[1], chips:["Laundry service","Washing machine","Spacious fridge","High-speed wifi","Spacious cupboard","Attached washroom"] },
+      { name:"Zolo Forum",     loc:"Arumbakkam, Chennai",   price:"Rates starting at Rs. 9,353 / month",  img:ZO[1], chips:["Lunch","AC","CCTV","Parking","Drinking water","Club house"] },
+      { name:"Murcia House",   loc:"Anna Nagar, Chennai",   price:"Rates starting at Rs. 19,299 / month", img:ST[2], chips:["High-speed wifi","Washing machine","Spacious fridge","Hot meals","Air conditioning","Spacious cupboard"] },
+      { name:"Zolo Hive",      loc:"Vadapalani, Chennai",   price:"Rates starting at Rs. 8,961 / month",  img:ZO[2], chips:["AC","TV","CCTV","Gym","Fridge","Indoor games"] }
+    ],
+    hyderabad: [
+      { name:"Cartagena House",    loc:"Himayatnagar, Hyderabad", price:"Rates starting at Rs. 7,099 / month",  img:ST[0], chips:["Attached washroom","Housekeeping","Hot meals","High-speed wifi","Spacious cupboard"] },
+      { name:"helloworld banjara", loc:"Banjara Hills, Hyderabad",price:"Rates starting at Rs. 12,000 / month", img:HW[0], chips:["Sofa","Fridge","TV","Kitchen"] },
+      { name:"helloworld jumeirah",loc:"Banjara Hills, Hyderabad",price:"Rates starting at Rs. 12,000 / month", img:HW[1], chips:["Washing machine","RO","Lift","Fridge"] },
+      { name:"helloworld lifestyle",loc:"Ameerpet, Hyderabad",    price:"Rates starting at Rs. 11,000 / month", img:HW[2], chips:["Kitchen","Washing machine","RO","TV"] },
+      { name:"Belgrade House",     loc:"Ameerpet, Hyderabad",     price:"Rates starting at Rs. 12,499 / month", img:ST[1], chips:["Flat screen TV","High-speed wifi","Workout zone","Spacious fridge","Spacious cupboard","Attached balcony"] },
+      { name:"Zolo Preston",       loc:"Madhapur, Hyderabad",     price:"Rates starting at Rs. 19,295 / month", img:ZO[0], chips:["Lunch","Housekeeping","Security","Club house","Gaming console","Indoor games"] }
+    ],
+    delhi: [
+      { name:"Zolo Sun N Sand",   loc:"Dwarka, Delhi",      price:"Rates starting at Rs. 6,375 / month",  img:ZO[0], chips:["Pillow","Reception","Gym","TV","Club house","Bathroom"] },
+      { name:"Sheffield House",   loc:"North Campus, Delhi", price:"Rates starting at Rs. 23,599 / month", img:ST[0], chips:["Hot meals","24x7 security","Washing machine","Laundry service","Spacious fridge","Housekeeping"] },
+      { name:"HelloWorld Aero",   loc:"Dwarka, Delhi",      price:"Rates starting at Rs. 12,000 / month", img:HW[0], chips:["Water","Internet","Dining table & chair","Lift","Washing machine","Cleaning"] },
+      { name:"HelloWorld Fusion", loc:"Kishangarh, Delhi",  price:"Rates starting at Rs. 20,000 / month", img:HW[1], chips:["Biometric","Cleaning","Water","Power backup","Washing machine","CCTV"] },
+      { name:"HelloWorld RG",     loc:"Kalkaji, Delhi",     price:"Rates starting at Rs. 40,000 / month", img:HW[2], chips:["Internet","TV","Coffee table","Washing machine","Lift","Sofa"] },
+      { name:"helloworld ace",    loc:"Dwarka, Delhi",      price:"Rates starting at Rs. 9,000 / month",  img:HW[3], chips:["Washing machine","Soft furnishing","Housekeeping","RO"] }
+    ]
+  };
+
+  var pages = { bengaluru:0, pune:0, mumbai:0, chennai:0, hyderabad:0, delhi:0 };
+  var PER = 6;
+
+  function renderCity(city) {
+    var props = DATA[city];
+    var page = pages[city];
+    var total = Math.ceil(props.length / PER);
+    var start = page * PER;
+    var slice = props.slice(start, start + PER);
+    var url = UTM[city];
+
+    document.getElementById('idc-'+city+'-grid').innerHTML = slice.map(function(p){
+      var chips = p.chips.map(function(c){ return '<span class="idc-chip">'+c+'</span>'; }).join('');
+      return '<a class="idc-card" href="'+url+'" target="_blank" rel="noopener">'
+        +'<img class="idc-card__img" src="'+p.img+'" alt="'+p.name+'" onerror="this.src=\''+ERR+'\'">'
+        +'<div class="idc-card__body">'
+        +'<div class="idc-card__name">'+p.name+'</div>'
+        +'<div class="idc-card__loc">'+p.loc+'</div>'
+        +'<div class="idc-card__price">'+p.price+'</div>'
+        +'<div class="idc-card__amenities">'+chips+'</div>'
+        +'<div class="idc-card__btn">View More</div>'
+        +'</div></a>';
+    }).join('');
+
+    document.getElementById('idc-'+city+'-info').textContent = total > 1 ? 'Page '+(page+1)+' of '+total : '';
+    document.getElementById('idc-'+city+'-prev').disabled = page === 0;
+    document.getElementById('idc-'+city+'-next').disabled = page >= total - 1;
+    document.getElementById('idc-'+city+'-pagination').style.display = total > 1 ? 'flex' : 'none';
+  }
+
+  window.idcPage = function(city, dir) {
+    var total = Math.ceil(DATA[city].length / PER);
+    pages[city] = Math.max(0, Math.min(total - 1, pages[city] + dir));
+    renderCity(city);
+    document.getElementById('idc-'+city).scrollIntoView({behavior:'smooth', block:'start'});
+  };
+
+  window.idcSwitch = function(btn, panelId) {
+    var wrap = btn.closest('.idc-widget-wrap');
+    wrap.querySelectorAll('.idc-tab').forEach(function(t){ t.classList.remove('active'); });
+    wrap.querySelectorAll('.idc-panel').forEach(function(p){ p.classList.remove('active'); });
+    btn.classList.add('active');
+    document.getElementById(panelId).classList.add('active');
+  };
+
+  // Init all cities
+  Object.keys(DATA).forEach(function(city){ renderCity(city); });
+})();
+</script>
+
+---
 ## Co-living vs. Renting a Flat: Cost Analysis (2026)
 
 When comparing costs, looking at the monthly rent alone is deceiving. A traditional 1BHK flat comes with "naked" rent, while co-living is an all-inclusive service model. Data from the Cushman & Wakefield report shows that while private co-living rooms can sometimes appear more expensive than a 1BHK, the "Effective Cost" tells a different story.
