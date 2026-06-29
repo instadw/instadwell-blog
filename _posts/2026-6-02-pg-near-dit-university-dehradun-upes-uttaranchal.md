@@ -1,15 +1,15 @@
 ---
-title: "PG near DIT University Dehradun | UPES & Uttaranchal University | Pondha Guide 2026"
-description: "PG near DIT University Dehradun, UPES Bidholi, UPES Kandoli & Uttaranchal University. Compare 11 verified Pondha PGs with meals, Wi-Fi, security and AC. Rooms from Rs. 10,999."
+title: "PG in Pondha Dehradun: Verified Co-living near DIT University, UPES & Uttaranchal University"
+description: "PG in Pondha Dehradun from Rs. 10,999 per month. 11 verified co-living properties near DIT University, UPES Bidholi, UPES Kandoli and Uttaranchal University. Meals, Wi-Fi and security included."
 image: "/assets/images/pg-near-dit-university-dehradun-upes-uttaranchal.webp"
 layout: post
 permalink: /pg-near-dit-university-dehradun-upes-uttaranchal
 author: Sanchit
 category: Student
-date: 2026-6-2T09:14:00.000+05:30
+date: 2026-6-29T09:14:00.000+05:30
 ---
 
-**TL;DR: Pondha is the one locality in Dehradun within commutable distance of DIT University, UPES (Bidholi and Kandoli campuses), and Uttaranchal University. InstaDwell lists 11 verified co-living properties in Pondha with rooms starting at Rs. 10,999/month. No broker fees.**
+**TL;DR: PG in Pondha Dehradun starts at Rs. 10,999 per month and covers commutable distance to DIT University, UPES Bidholi, UPES Kandoli, and Uttaranchal University. InstaDwell lists 11 verified co-living properties in Pondha with meals, Wi-Fi, and security included. No broker fees.**
 
 Jump to:
 - [PG near DIT University Dehradun](#pg-near-dit-university-dehradun)
@@ -20,6 +20,120 @@ Jump to:
 - [PG in Pondha Dehradun](#pg-in-pondha-dehradun)
 - [All properties: prices, amenities, and gender](#property-table)
 - [How to choose by university](#how-to-choose)
+
+---
+
+<style>
+  .idp-widget-wrap { all:initial; display:block; font-size:16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  .idp-widget-wrap *, .idp-widget-wrap *::before, .idp-widget-wrap *::after { box-sizing: border-box; }
+
+  .idp-widget { border-top: 2px solid #000000; padding-top: 20px; }
+
+  .idp-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  @media (max-width: 900px) { .idp-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 700px) { .idp-grid { grid-template-columns: 1fr; } }
+
+  .idp-card { display:flex; flex-direction:column; background:#ffffff; border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; text-decoration:none; color:inherit; cursor:pointer; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+  .idp-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); transform: translateY(-2px); }
+  .idp-card__img { width:100%; height:160px; object-fit:cover; display:block; }
+  .idp-card__body { display:flex; flex-direction:column; flex:1; padding:12px; }
+  .idp-card__name { font-size:15px; font-weight:700; color:#111827; margin:0 0 4px; }
+  .idp-card__loc { font-size:12px; color:#6b7280; margin:0 0 6px; }
+  .idp-card__price { font-size:12px; font-weight:700; color:#ef4444; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin:0 0 10px; }
+  .idp-card__amenities { display:flex; flex-wrap:wrap; gap:5px; align-content:flex-start; margin-bottom:12px; }
+  .idp-chip { flex-shrink:0; flex-grow:0; white-space:nowrap; background:#f3f4f6; border:1px solid #e5e7eb; color:#374151; font-size:10.5px; padding:3px 8px; border-radius:4px; }
+  .idp-card__btn { display:block; margin-top:auto; background:#111827; color:#ffffff; font-size:12px; font-weight:700; text-transform:uppercase; text-align:center; padding:10px 12px; border-radius:5px; letter-spacing:0.04em; }
+  .idp-card:hover .idp-card__btn { background:#374151; }
+
+  .idp-footer { margin-top:14px; text-align:right; }
+  .idp-footer a { font-size:12px; font-weight:600; color:#111827; text-decoration:underline; }
+  .idp-footer a:hover { color:#374151; }
+</style>
+
+<div class="idp-widget-wrap">
+  <div class="idp-widget">
+    <div class="idp-grid" id="idp-grid"></div>
+    <div class="idp-footer">
+      <a href="https://instadwell.com/search?lat=30.3695116&lng=77.97100979999999&location=Pondha%2C%20Uttarakhand%20248007%2C%20India&city=Dehradun&country=India&utm_source=blog&utm_medium=widget&utm_campaign=dehradun&utm_content=pondha" target="_blank" rel="noopener">See all PGs in Pondha →</a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var ERR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='160' viewBox='0 0 400 160'%3E%3Crect width='400' height='160' fill='%23f3f4f6'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7280' font-size='13'%3EImage unavailable%3C/text%3E%3C/svg%3E";
+  var URL = "https://instadwell.com/search?lat=30.3695116&lng=77.97100979999999&location=Pondha%2C%20Uttarakhand%20248007%2C%20India&city=Dehradun&country=India&utm_source=blog&utm_medium=widget&utm_campaign=dehradun&utm_content=pondha";
+
+  var ST = [
+    "https://instadwell.com/blog/assets/images/stanza-1.webp",
+    "https://instadwell.com/blog/assets/images/stanza-2.webp",
+    "https://instadwell.com/blog/assets/images/stanza-3.webp",
+    "https://instadwell.com/blog/assets/images/stanza-4.webp"
+  ];
+
+  var props = [
+    {
+      name:  "Jinan House",
+      loc:   "Pondha, Dehradun",
+      price: "Rates starting at Rs. 16,299 / month",
+      img:   ST[0],
+      chips: ["Laundry service", "Spacious cupboard", "Attached washroom", "Professional housekeeping", "High-speed wifi", "Hot & delicious meals"]
+    },
+    {
+      name:  "Luzon House",
+      loc:   "Pondha, Dehradun",
+      price: "Rates starting at Rs. 15,499 / month",
+      img:   ST[1],
+      chips: ["Attached washroom", "Attached balcony", "Laundry service", "High-speed wifi", "24x7 security", "Hot & delicious meals"]
+    },
+    {
+      name:  "Semarang House",
+      loc:   "Pondha, Dehradun",
+      price: "Rates starting at Rs. 10,999 / month",
+      img:   ST[2],
+      chips: ["Professional housekeeping", "Laundry service", "High-speed wifi", "Hot & delicious meals", "Attached washroom", "Spacious cupboard"]
+    },
+    {
+      name:  "Koh Samui House",
+      loc:   "Pondha, Dehradun",
+      price: "Rates starting at Rs. 12,999 / month",
+      img:   ST[3],
+      chips: ["Laundry service", "Hot & delicious meals", "Hot water supply", "Air conditioning", "Spacious cupboard", "Biometric entry"]
+    },
+    {
+      name:  "Pattaya House",
+      loc:   "Pondha, Dehradun",
+      price: "Rates starting at Rs. 13,499 / month",
+      img:   ST[0],
+      chips: ["Attached washroom", "Spacious cupboard", "Professional housekeeping", "Hot & delicious meals", "Laundry service", "24x7 security"]
+    },
+    {
+      name:  "Manila House",
+      loc:   "Pondha, Dehradun",
+      price: "Rates starting at Rs. 15,999 / month",
+      img:   ST[1],
+      chips: ["Professional housekeeping", "Hot water supply", "Spacious refrigerator", "High-speed wifi", "Biometric entry", "Washing machine"]
+    }
+  ];
+
+  document.getElementById('idp-grid').innerHTML = props.map(function(p){
+    var chips = p.chips.map(function(c){ return '<span class="idp-chip">'+c+'</span>'; }).join('');
+    return '<a class="idp-card" href="'+URL+'" target="_blank" rel="noopener">'
+      +'<img class="idp-card__img" src="'+p.img+'" alt="'+p.name+'" onerror="this.src=\''+ERR+'\'">'
+      +'<div class="idp-card__body">'
+      +'<div class="idp-card__name">'+p.name+'</div>'
+      +'<div class="idp-card__loc">'+p.loc+'</div>'
+      +'<div class="idp-card__price">'+p.price+'</div>'
+      +'<div class="idp-card__amenities">'+chips+'</div>'
+      +'<div class="idp-card__btn">View More</div>'
+      +'</div></a>';
+  }).join('');
+})();
+</script>
 
 ---
 
