@@ -12,3 +12,10 @@
   title: Dehradun
   order: 3
   icon: fa-indian-rupee-sign
+
+- slug: Indore
+  title: Indore
+  order: 4
+  icon: fa-indian-rupee-sign
+
+
