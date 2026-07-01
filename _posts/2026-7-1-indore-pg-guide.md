@@ -20,6 +20,174 @@ PG in Indore covers a wide spread of localities, but almost all verified demand 
 | Girls PG | Geeta Bhawan | Kolding House, Rs. 10799 |
 | Budget with meals | Bhanwar Kua | Pretoria House, Rs. 9599 |
 
+<style>
+  .idi-widget-wrap { all:initial; display:block; font-size:16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  .idi-widget-wrap *, .idi-widget-wrap *::before, .idi-widget-wrap *::after { box-sizing: border-box; }
+
+  .idi-widget { border-top: 2px solid #000000; padding-top: 20px; }
+
+  .idi-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  @media (max-width: 900px) { .idi-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 700px) { .idi-grid { grid-template-columns: 1fr; } }
+
+  .idi-card { display:flex; flex-direction:column; background:#ffffff; border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; text-decoration:none; color:inherit; cursor:pointer; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+  .idi-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); transform: translateY(-2px); }
+  .idi-card__img { width:100%; height:160px; object-fit:cover; display:block; }
+  .idi-card__body { display:flex; flex-direction:column; flex:1; padding:12px; }
+  .idi-card__name { font-size:15px; font-weight:700; color:#111827; margin:0 0 4px; }
+  .idi-card__loc { font-size:12px; color:#6b7280; margin:0 0 6px; }
+  .idi-card__price { font-size:12px; font-weight:700; color:#ef4444; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin:0 0 10px; }
+  .idi-card__amenities { display:flex; flex-wrap:wrap; gap:5px; align-content:flex-start; margin-bottom:12px; }
+  .idi-chip { flex-shrink:0; flex-grow:0; white-space:nowrap; background:#f3f4f6; border:1px solid #e5e7eb; color:#374151; font-size:10.5px; padding:3px 8px; border-radius:4px; }
+  .idi-card__btn { display:block; margin-top:auto; background:#111827; color:#ffffff; font-size:12px; font-weight:700; text-transform:uppercase; text-align:center; padding:10px 12px; border-radius:5px; letter-spacing:0.04em; }
+  .idi-card:hover .idi-card__btn { background:#374151; }
+
+  .idi-pagination { display:flex; align-items:center; justify-content:space-between; margin-top:20px; }
+  .idi-pagination__info { font-size:12px; color:#6b7280; }
+  .idi-pagination__btns { display:flex; gap:8px; }
+  .idi-page-btn { all:unset; cursor:pointer; padding:7px 16px; font-size:12px; font-weight:700; border:1px solid #e5e7eb; border-radius:5px; color:#111827; background:#ffffff; }
+  .idi-page-btn:hover:not(:disabled) { background:#f3f4f6; }
+  .idi-page-btn:disabled { color:#9ca3af; cursor:default; }
+
+  .idi-footer { margin-top:14px; text-align:right; }
+  .idi-footer a { font-size:12px; font-weight:600; color:#111827; text-decoration:underline; }
+  .idi-footer a:hover { color:#374151; }
+</style>
+
+<div class="idi-widget-wrap">
+  <div class="idi-widget">
+    <div class="idi-grid" id="idi-grid"></div>
+    <div class="idi-pagination" id="idi-pagination">
+      <span class="idi-pagination__info" id="idi-info"></span>
+      <div class="idi-pagination__btns">
+        <button class="idi-page-btn" id="idi-prev" onclick="idiPage(-1)">← Prev</button>
+        <button class="idi-page-btn" id="idi-next" onclick="idiPage(1)">Next →</button>
+      </div>
+    </div>
+    <div class="idi-footer">
+      <a href="https://instadwell.com/best-pgs-and-co-living-spaces-in-indore?utm_source=blog&utm_medium=widget&utm_campaign=indore&utm_content=indore-all" target="_blank" rel="noopener">See all PGs in Indore →</a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var ERR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='160' viewBox='0 0 400 160'%3E%3Crect width='400' height='160' fill='%23f3f4f6'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7280' font-size='13'%3EImage unavailable%3C/text%3E%3C/svg%3E";
+  var URL = "https://instadwell.com/best-pgs-and-co-living-spaces-in-indore?utm_source=blog&utm_medium=widget&utm_campaign=indore&utm_content=indore-all";
+
+  var HW = [
+    "https://instadwell.com/blog/assets/images/helloworld-1.webp",
+    "https://instadwell.com/blog/assets/images/helloworld-2.webp",
+    "https://instadwell.com/blog/assets/images/helloworld-3.webp",
+    "https://instadwell.com/blog/assets/images/helloworld-4.webp"
+  ];
+  var ST = [
+    "https://instadwell.com/blog/assets/images/stanza-1.webp",
+    "https://instadwell.com/blog/assets/images/stanza-2.webp",
+    "https://instadwell.com/blog/assets/images/stanza-3.webp",
+    "https://instadwell.com/blog/assets/images/stanza-4.webp"
+  ];
+
+  var props = [
+    {
+      name:  "HelloWorld NubraValley",
+      loc:   "Vijay Nagar, Indore",
+      price: "Rates starting at Rs. 18,000 / month",
+      img:   HW[0],
+      chips: ["Internet", "Cleaning", "Lift", "CCTV", "Biometric", "Parking"]
+    },
+    {
+      name:  "Kolding House",
+      loc:   "Geeta Bhawan, Indore",
+      price: "Rates starting at Rs. 10,799 / month",
+      img:   ST[0],
+      chips: ["Spacious cupboard", "Hot water supply", "Biometric entry", "Hot & delicious meals", "Spacious refrigerator", "Housekeeping"]
+    },
+    {
+      name:  "Pretoria House",
+      loc:   "Bhanwar Kua, Indore",
+      price: "Rates starting at Rs. 9,599 / month",
+      img:   ST[1],
+      chips: ["Air conditioning", "Washing machine", "Hot & delicious meals", "Spacious cupboard", "Laundry service", "Hot water supply"]
+    },
+    {
+      name:  "HelloWorld One",
+      loc:   "Vijay Nagar, Indore",
+      price: "Rates starting at Rs. 8,500 / month",
+      img:   HW[1],
+      chips: ["Fridge", "RO", "Kitchen", "TV"]
+    },
+    {
+      name:  "Lucerne House",
+      loc:   "Vijay Nagar, Indore",
+      price: "Rates starting at Rs. 7,999 / month",
+      img:   ST[2],
+      chips: ["High-speed wifi", "Hot water supply", "Spacious cupboard", "Air conditioning", "Laundry service", "Washing machine"]
+    },
+    {
+      name:  "HelloWorld Sparrow",
+      loc:   "Vijay Nagar, Indore",
+      price: "Rates starting at Rs. 5,500 / month",
+      img:   HW[2],
+      chips: ["Washing machine", "Fridge", "RO", "Housekeeping", "Internet"]
+    },
+    {
+      name:  "HelloWorld Finch",
+      loc:   "Ma Ambika Nagar, Indore",
+      price: "Rates starting at Rs. 5,000 / month",
+      img:   HW[3],
+      chips: ["Washing machine", "Soft furnishing", "RO", "Housekeeping"]
+    },
+    {
+      name:  "HelloWorld Kite",
+      loc:   "Mahalaxmi Nagar, Indore",
+      price: "Rates starting at Rs. 7,000 / month",
+      img:   HW[0],
+      chips: ["Soft furnishing", "RO", "Housekeeping", "Fridge"]
+    }
+  ];
+
+  var PER_PAGE = 6;
+  var currentPage = 0;
+  var totalPages = Math.ceil(props.length / PER_PAGE);
+
+  function render() {
+    var start = currentPage * PER_PAGE;
+    var slice = props.slice(start, start + PER_PAGE);
+
+    document.getElementById('idi-grid').innerHTML = slice.map(function(p){
+      var chips = p.chips.map(function(c){ return '<span class="idi-chip">'+c+'</span>'; }).join('');
+      return '<a class="idi-card" href="'+URL+'" target="_blank" rel="noopener">'
+        +'<img class="idi-card__img" src="'+p.img+'" alt="'+p.name+'" onerror="this.src=\''+ERR+'\'">'
+        +'<div class="idi-card__body">'
+        +'<div class="idi-card__name">'+p.name+'</div>'
+        +'<div class="idi-card__loc">'+p.loc+'</div>'
+        +'<div class="idi-card__price">'+p.price+'</div>'
+        +'<div class="idi-card__amenities">'+chips+'</div>'
+        +'<div class="idi-card__btn">View More</div>'
+        +'</div></a>';
+    }).join('');
+
+    document.getElementById('idi-info').textContent = 'Page ' + (currentPage+1) + ' of ' + totalPages;
+    document.getElementById('idi-prev').disabled = currentPage === 0;
+    document.getElementById('idi-next').disabled = currentPage >= totalPages - 1;
+    document.getElementById('idi-pagination').style.display = totalPages > 1 ? 'flex' : 'none';
+  }
+
+  window.idiPage = function(dir) {
+    currentPage = Math.max(0, Math.min(totalPages - 1, currentPage + dir));
+    render();
+    document.querySelector('.idi-widget').scrollIntoView({behavior:'smooth', block:'start'});
+  };
+
+  render();
+})();
+</script>
+
 Jump Ahead
 - [Best PG in Indore right now](#best-pg-in-indore-right-now)
 - [Indore PG rent, full cost breakdown](#indore-pg-rent-full-cost-breakdown)
