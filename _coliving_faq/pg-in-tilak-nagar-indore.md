@@ -1,3 +1,4 @@
+---
 title: "PG in Tilak Nagar Indore"
 description: "PG in Tilak Nagar Indore has no direct verified listings yet, the nearest comparable options sit in Bhawarkua and Geeta Bhawan starting at Rs. 9599 and Rs. 10799 respectively."
 layout: coliving-faq-post
