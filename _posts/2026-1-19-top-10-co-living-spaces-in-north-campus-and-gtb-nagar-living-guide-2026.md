@@ -70,6 +70,118 @@ Choosing the wrong PG near Delhi University can easily cost you Rs. 40,000 extra
 - [Every Stanza Living PG in North Campus](#stanza-living-pg-north-campus-full-list)
 - [FAQs](#faqs)
 
+<style>
+  .idi-widget-wrap { all:initial; display:block; font-size:16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  .idi-widget-wrap *, .idi-widget-wrap *::before, .idi-widget-wrap *::after { box-sizing: border-box; }
+
+  .idi-widget { border-top: 2px solid #000000; padding-top: 20px; }
+
+  .idi-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+  @media (max-width: 900px) { .idi-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 700px) { .idi-grid { grid-template-columns: 1fr; } }
+
+  .idi-card { display:flex; flex-direction:column; background:#ffffff; border:1px solid #e5e7eb; border-radius:8px; overflow:hidden; text-decoration:none; color:inherit; cursor:pointer; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+  .idi-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); transform: translateY(-2px); }
+  .idi-card__img { width:100%; height:160px; object-fit:cover; display:block; }
+  .idi-card__body { display:flex; flex-direction:column; flex:1; padding:12px; }
+  .idi-card__name { font-size:15px; font-weight:700; color:#111827; margin:0 0 4px; }
+  .idi-card__loc { font-size:12px; color:#6b7280; margin:0 0 6px; }
+  .idi-card__price { font-size:12px; font-weight:700; color:#ef4444; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin:0 0 10px; }
+  .idi-card__amenities { display:flex; flex-wrap:wrap; gap:5px; align-content:flex-start; margin-bottom:12px; }
+  .idi-chip { flex-shrink:0; flex-grow:0; white-space:nowrap; background:#f3f4f6; border:1px solid #e5e7eb; color:#374151; font-size:10.5px; padding:3px 8px; border-radius:4px; }
+  .idi-card__btn { display:block; margin-top:auto; background:#111827; color:#ffffff; font-size:12px; font-weight:700; text-transform:uppercase; text-align:center; padding:10px 12px; border-radius:5px; letter-spacing:0.04em; }
+  .idi-card:hover .idi-card__btn { background:#374151; }
+
+  .idi-footer { margin-top:14px; text-align:right; }
+  .idi-footer a { font-size:12px; font-weight:600; color:#111827; text-decoration:underline; }
+  .idi-footer a:hover { color:#374151; }
+</style>
+
+<div class="idi-widget-wrap">
+  <div class="idi-widget">
+    <div class="idi-grid" id="idi-grid"></div>
+    <div class="idi-footer">
+      <a href="https://instadwell.com/search?lat=28.687193&lng=77.210336&location=University%20Enclave%2C%20Delhi%2C%20110007%2C%20India&city=Delhi&country=India" target="_blank" rel="noopener">See all PGs near North Campus →</a>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var ERR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='160' viewBox='0 0 400 160'%3E%3Crect width='400' height='160' fill='%23f3f4f6'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%236b7280' font-size='13'%3EImage unavailable%3C/text%3E%3C/svg%3E";
+  var URL = "https://instadwell.com/search?lat=28.687193&lng=77.210336&location=University%20Enclave%2C%20Delhi%2C%20110007%2C%20India&city=Delhi&country=India";
+
+  var ST = [
+    "https://instadwell.com/blog/assets/images/stanza-1.webp",
+    "https://instadwell.com/blog/assets/images/stanza-2.webp",
+    "https://instadwell.com/blog/assets/images/stanza-3.webp",
+    "https://instadwell.com/blog/assets/images/stanza-4.webp"
+  ];
+
+  var props = [
+    {
+      name:  "Romford House",
+      loc:   "North Campus, Delhi",
+      price: "Rates starting at Rs. 19,399 / month",
+      img:   ST[0],
+      chips: ["High-speed wifi", "Hot water supply", "Attached washroom", "Professional housekeeping", "Spacious cupboard", "Air conditioning"]
+    },
+    {
+      name:  "Sheffield House",
+      loc:   "North Campus, Delhi",
+      price: "Rates starting at Rs. 23,599 / month",
+      img:   ST[1],
+      chips: ["Laundry service", "Attached washroom", "Air conditioning", "Professional housekeeping", "Spacious refrigerator", "Hot and delicious meals"]
+    },
+    {
+      name:  "Montreal House",
+      loc:   "North Campus, Delhi",
+      price: "Rates starting at Rs. 19,599 / month",
+      img:   ST[2],
+      chips: ["Workout zone", "Attached balcony", "24x7 security surveillance", "Spacious refrigerator", "Spacious cupboard", "Hot and delicious meals"]
+    },
+    {
+      name:  "Toronto House",
+      loc:   "North Campus, Delhi",
+      price: "Rates starting at Rs. 17,299 / month",
+      img:   ST[3],
+      chips: ["Air conditioning", "Laundry service", "Hot and delicious meals", "Attached balcony", "24x7 security surveillance", "Spacious refrigerator"]
+    },
+    {
+      name:  "Derby House",
+      loc:   "North Campus, Delhi",
+      price: "Rates starting at Rs. 21,299 / month",
+      img:   ST[0],
+      chips: ["Air conditioning", "Laundry service", "Attached washroom", "Washing machine", "Hot water supply", "Spacious cupboard"]
+    },
+    {
+      name:  "Stockton House",
+      loc:   "North Campus, Delhi",
+      price: "Rates starting at Rs. 22,499 / month",
+      img:   ST[1],
+      chips: ["Attached balcony", "Air conditioning", "Attached washroom", "High-speed wifi", "Hot water supply", "Laundry service"]
+    }
+  ];
+
+  document.getElementById('idi-grid').innerHTML = props.map(function(p){
+    var chips = p.chips.map(function(c){ return '<span class="idi-chip">'+c+'</span>'; }).join('');
+    return '<a class="idi-card" href="'+URL+'" target="_blank" rel="noopener">'
+      +'<img class="idi-card__img" src="'+p.img+'" alt="'+p.name+'" onerror="this.src=\''+ERR+'\'">'
+      +'<div class="idi-card__body">'
+      +'<div class="idi-card__name">'+p.name+'</div>'
+      +'<div class="idi-card__loc">'+p.loc+'</div>'
+      +'<div class="idi-card__price">'+p.price+'</div>'
+      +'<div class="idi-card__amenities">'+chips+'</div>'
+      +'<div class="idi-card__btn">View More</div>'
+      +'</div></a>';
+  }).join('');
+})();
+</script>
+
 **North Campus PG at a glance**
 
 | | |
