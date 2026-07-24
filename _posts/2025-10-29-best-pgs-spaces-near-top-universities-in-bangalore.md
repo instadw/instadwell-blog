@@ -255,7 +255,7 @@ This guide covers PG near Christ University Bangalore Central Campus (Koramangal
 | Kengeri Campus | Kengeri | No, separate search needed |
 | Yeshwanthpur Campus | Yeshwanthpur | No, separate search needed |
 
-You can search properties cloder to your campus [here](https://instadwell.com/) 
+You can search properties closer to your campus [here](https://instadwell.com/) 
 
 ---
 
