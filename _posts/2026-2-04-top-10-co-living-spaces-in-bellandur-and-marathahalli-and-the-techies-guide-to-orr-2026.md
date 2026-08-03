@@ -7,6 +7,7 @@ redirect_from:
 - /the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli/
 - /top-10-co-living-spaces-in-bellandur-and-marathahalli-and-the-techies-guide-to-orr-2026
 - /top-10-co-living-spaces-in-bellandur-and-marathahalli-and-the-techies-guide-to-orr-2026/
+image: "/assets/images/top-10-co-living-spaces-in-bellandur-and-marathahalli-and-the-techies-guide-to-orr-2026.webp"
 author: Sanchit
 category: Accommodation
 date: 2026-2-04T09:14:00.000+05:30
