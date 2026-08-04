@@ -17,5 +17,10 @@
   title: Indore
   order: 4
   icon: fa-indian-rupee-sign
+  
+- slug: Mumbai
+  title: Mumbai
+  order: 5
+  icon: fa-indian-rupee-sign
 
 
