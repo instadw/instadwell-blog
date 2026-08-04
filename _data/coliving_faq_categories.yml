@@ -23,4 +23,14 @@
   order: 5
   icon: fa-indian-rupee-sign
 
+- slug: Bangalore
+  title: Bangalore
+  order: 6
+  icon: fa-indian-rupee-sign
+
+- slug: Delhi
+  title: Delhi
+  order: 7
+  icon: fa-indian-rupee-sign
+
 
