@@ -225,6 +225,8 @@ If budget is the priority, a standard PG hostel in Hyderabad remains cheaper. If
 * **Bonus:** Great nightlife, cafes, and proximity to offices.
 * **Gender specific options:** Women's PGs near Hitec City and men's PGs near Hitec City are available from around Rs. 10,000, with women's options concentrated in better lit main road buildings.
 
+See our detailed [Hitec City Guide here](https://instadwell.com/blog/pg-in-hitech-city)
+
 ### [PG in Madhapur](https://instadwell.com/search?lat=17.4485835&lng=78.39080349999999&location=Madhapur,%20Hyderabad,%20Telangana,%20India&city=Hyderabad&country=India)
 
 * Buzzing with startups and co-working hubs.
