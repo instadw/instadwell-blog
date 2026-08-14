@@ -6,7 +6,7 @@ layout: post
 permalink: /pg-in-kukatpally-kphb
 author: Sanchit
 category: Student Accommodation
-date: 2026-8-11T09:14:00.000+05:30
+date: 2026-08-11T09:14:00.000+05:30
 ---
 
 **PG in Kukatpally and KPHB starts at ₹6,123/month for shared rooms, with 12 listed properties from Zolo, HelloWorld, and Stanza Living across both areas. The selection includes a gents only option alongside mixed co-living properties, with amenities such as AC, CCTV, security, housekeeping, and biometric entry depending on the property.**
