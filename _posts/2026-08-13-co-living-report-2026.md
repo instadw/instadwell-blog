@@ -1,7 +1,7 @@
 ---
 title: "India Co-living Report 2026: Rising Rents, GCC Growth, and the Race Into Tier 2 and Tier 3 Cities"
 description: "India Co-living Report 2026: how rising rents, GCC growth, and Rs 2,000 crore in institutional capital are pulling organized operators into 12 Tier 2 and Tier 3 cities, even as 95 percent of the market stays untapped."
-image: "/assets/images/india-coliving-report-2026.webp"
+image: "/assets/images/coliving-report-india-2026.webp"
 layout: post
 permalink: /india-coliving-report-2026
 author: Sanchit
