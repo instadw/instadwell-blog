@@ -203,7 +203,7 @@ Four of those cities already appear in this report's Tier 2/3 tracker, each with
 
 Every person interviewed, 61 out of 61, refused to commit financially without a physical visit first, regardless of how polished the booking app was. 58 out of 61 said they do not trust listing photos. 52 out of 61 distrust or are skeptical of Google reviews, describing landlords who withhold deposits until a departing tenant posts a five star review. 37 out of 61 bypass platforms entirely for Reddit threads, WhatsApp groups, or a friend already in the city.
 
-If trust has not been solved where the industry is most mature, there is no structural reason it arrives automatically in Jammu or Nagpur simply because a branded operator opens there.
+If trust has not been solved where the industry is most mature, there is no structural reason it arrives automatically in Jammu or Raipur simply because a branded operator opens there.
 
 <div style="text-align:center; margin:30px 0;">
   <img
