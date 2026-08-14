@@ -6,7 +6,7 @@ layout: post
 permalink: /india-coliving-report-2026
 author: Sanchit
 category: Industry Report
-date: 2026-08-14T09:14:00.000+05:30
+date: 2026-08-13T09:14:00.000+05:30
 ---
 
 **TL;DR: This India Co-living Report 2026 tracks how rising rents, GCC growth, and fresh institutional capital are pulling organized co-living operators into 12 Tier 2 and Tier 3 Indian cities, even as the sector's own numbers show 95 percent of the market remains untapped.**
