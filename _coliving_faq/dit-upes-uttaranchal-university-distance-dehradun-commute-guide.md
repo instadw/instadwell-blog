@@ -23,6 +23,7 @@ Jump to:
 - [UPES Bidholi to UPES Kandoli distance](#bidholi-to-kandoli)
 - [Full distance table](#distance-table)
 - [Where to stay: PG recommendations by university](#pg-recommendations)
+
 ---
  
 ## DIT to UPES distance
