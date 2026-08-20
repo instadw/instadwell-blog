@@ -132,4 +132,4 @@ Entry level pricing across all three areas is close. Q City's lowest starting pr
 
 As more towers come up around the Financial District and ORR, expect more branded operators, and a wider spread of pricing, to open up in Q City over the next few years.
 
-**How this guide was researched.** Property prices, operators, amenities and inventory in this guide were checked against InstaDwell listings on August 19, 2026. Driving estimates were also checked on August 19, 2026, and will vary with traffic, route and time of day. Confirm the final room rate, deposit, lock in period and gender allocation directly with the operator before booking.
+**How this guide was researched.** Property prices, operators, amenities and inventory in this guide were checked against InstaDwell listings on August 16, 2026. Driving estimates were also checked on August 16, 2026, and will vary with traffic, route and time of day. Confirm the final room rate, deposit, lock in period and gender allocation directly with the operator before booking.
