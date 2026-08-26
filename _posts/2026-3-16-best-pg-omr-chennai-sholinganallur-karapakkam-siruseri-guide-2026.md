@@ -1,7 +1,7 @@
 ---
 title: "PG in OMR Chennai 2026 | Best Ladies & Men's PG | From ₹5,916"
 description: "Find the best PG in OMR Chennai in 2026. Compare ladies PG in OMR and mens PG in OMR Chennai across ELCOT, TECCI Park and SIPCOT, zero brokerage, rent from ₹5,916/mo."
-image: /assets/images/best-pg-omr-chennai-sholinganallur-karapakkam-siruseri
+image: /assets/images/best-pg-omr-chennai-sholinganallur-karapakkam-siruseri-guide-2026.webp
 layout: post
 permalink: /pg-in-omr-chennai
 redirect_from:
