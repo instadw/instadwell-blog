@@ -25,17 +25,17 @@ date: 2026-07-20T09:14:00.000+05:30
 
 ## Jump Ahead
 
-- [PG in Satya Niketan: 6 Verified Properties](#best-pgs-in-satya-niketan)
-- [PG in South Campus Delhi](#south-campus-delhi)
-- [PG Near Other DU Colleges](#other-colleges)
-- [Satya Niketan vs Anand Niketan](#satya-niketan-vs-anand-niketan)
-- [Where Should You Live](#lane-logic)
-- [Single Room PG Pricing](#single-room-pg)
-- [Commute to Venky, ARSD, Motilal Nehru](#commute)
-- [Food Guide](#food-guide)
-- [Safety](#safety)
-- [Who Should Choose Satya Niketan](#who-should-choose)
-- [FAQs](#faqs)
+* [PG in Satya Niketan: 6 Verified Properties](#best)
+* [PG in South Campus Delhi](#south)
+* [PG Near Other DU Colleges](#colleges)
+* [Satya Niketan vs Anand Niketan](#comparison)
+* [Where Should You Actually Live](#lanes)
+* [Single Room PG Pricing](#single)
+* [Commute to Venky, ARSD, Motilal Nehru](#commute)
+* [Food Beyond the Cafes](#food)
+* [Safety](#safety)
+* [Who Should Choose Satya Niketan](#who)
+* [FAQs](#faqs)
 
 ----------
 
@@ -48,7 +48,7 @@ New to Delhi? First read our [Delhi Ultimate PG Guide](https://instadwell.com/bl
 
 ----------
 
-## PG in Satya Niketan: 6 Verified Properties Actually Located Here {: #best-pgs-in-satya-niketan}
+## PG in Satya Niketan: 6 Verified Properties Actually Located Here {#best}
 
 The following properties are physically located in Satya Niketan based on their current InstaDwell property pages. Prices and availability can change, so confirm the current rate before booking.
 
@@ -97,7 +97,7 @@ Browse [Verified South Campus PGs](https://instadwell.com/search?lat=28.5875609&
 
 ----------
 
-## PG in South Campus Delhi: Satya Niketan and the Rest of the Belt {: #south-campus-delhi}
+## PG in South Campus Delhi: Satya Niketan and the Rest of the Belt {#south}
 
 PG in South Campus Delhi and PG near DU South Campus both lead back to the same practical zone as Satya Niketan. For most students, searches for PG near South Campus Delhi University or PG near Delhi University South Campus point to the area around Satya Niketan and the Durgabai Deshmukh South Campus metro station. If you're specifically searching for PG in Durgabai Deshmukh South Campus, this is the same belt, with the highest concentration of student accommodation near Venky, ARSD, and Motilal Nehru.
 
@@ -107,7 +107,7 @@ Browse Verified [PG near South Campus Delhi](https://instadwell.com/search?lat=2
 
 ----------
 
-## PG Near Other DU Colleges: Travel Time from Satya Niketan {: #other-colleges}
+## PG Near Other DU Colleges: Travel Time from Satya Niketan {#colleges}
 
 Satya Niketan properties also work for students at colleges beyond the immediate South Campus belt, though travel time varies a lot by zone.
 
@@ -122,7 +122,7 @@ Travel times are approximate and depend on the exact Google Maps pin, college ga
 
 ----------
 
-## PG in Satya Niketan vs. Anand Niketan: The Rent Reality {: #satya-niketan-vs-anand-niketan}
+## PG in Satya Niketan vs. Anand Niketan: The Rent Reality {#comparison}
 
 PG in Anand Niketan and PG in Satya Niketan sit on a weird economic border, despite being a five minute walk apart. South Campus sits right at that divide. On one side of the road, you have the student-dense Satya Niketan. Cross the footover bridge, and you are in the diplomatic enclaves of Anand/Shanti Niketan.
 
@@ -138,7 +138,7 @@ PG in Anand Niketan and PG in Satya Niketan sit on a weird economic border, desp
 
 ----------
 
-## The "Lane" Logic: Where Should You Actually Live? {: #lane-logic}
+## The "Lane" Logic: Where Should You Actually Live? {#lanes}
 
 Lanes 1-5, around the Gurudwara and park, are generally a better choice if you prioritise ventilation, accessibility, and a quieter residential feel. The deeper lanes are cheaper but more congested, with poorer ventilation.
 
@@ -146,7 +146,7 @@ Need more space? Look for DDA Flats in [Nanak Pura](https://instadwell.com/searc
 
 ----------
 
-## Single Room PG in Satya Niketan {: #single-room-pg}
+## Single Room PG in Satya Niketan {#single}
 
 Single room PG in Satya Niketan comes in two very different tiers. Local, non-AC single rooms deep inside the lanes start around Rs. 6,000 to Rs. 7,000, unfurnished or minimally furnished, with shared washrooms and no standardized security.
 
@@ -156,7 +156,7 @@ If you're choosing between the two tiers, the deciding factor usually isn't pric
 
 ----------
 
-## The Commute: Getting to Venky, ARSD, and Motilal Nehru {: #commute}
+## The Commute: Getting to Venky, ARSD, and Motilal Nehru {#commute}
 
 Walking distance can be misleading in Delhi's summer heat. A route that feels easy in winter can be uncomfortable during peak summer.
 
@@ -170,13 +170,13 @@ If your internship or office is in Gurgaon, also consider our [Saket & Malviya N
 
 ----------
 
-## Survival Guide: Food Beyond the Cafes {: #food-guide}
+## Survival Guide: Food Beyond the Cafes {#food}
 
 You can't eat at QD's or Big Yellow Door (BYD) every day. Chowringhee Lane Roll Shop is the local landmark and meeting point. For daily meals, Happy Grub Tiffin is highly rated for reliable, home-style food, and the small South Indian messes tucked inside the lanes serve cheap, unlimited thalis.
 
 ----------
 
-## Safety & The "Tech-First" Solution {: #safety}
+## Safety & The "Tech-First" Solution {#safety}
 
 Girls PG in Satya Niketan and boys PG in Satya Niketan both come with the same underlying safety trade-off, the area is famous for two things, narrow lanes and "nosy" landlords.
 
@@ -199,7 +199,7 @@ Girls PG in Satya Niketan and boys PG in Satya Niketan both come with the same u
 
 ----------
 
-## Who Should Choose Satya Niketan? {: #who-should-choose}
+## Who Should Choose Satya Niketan? {#who}
 
 **Choose Satya Niketan if:**
 
@@ -222,7 +222,7 @@ Browse Verified [South Campus](https://instadwell.com/search?lat=28.5829644&lng=
 
 ----------
 
-## Frequently Asked Questions (FAQs) {: #faqs}
+## Frequently Asked Questions (FAQs) {#faqs}
 
 **Q: Is Satya Niketan safe for girls?**
 Satya Niketan is a busy student neighbourhood, but safety varies by lane and property. Internal lanes can be narrow and quieter at night, so prioritise a PG with controlled entry, CCTV, good lighting, and easy access to the main road.
