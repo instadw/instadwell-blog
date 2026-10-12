@@ -6,7 +6,7 @@ category: "Hyderabad"
 order: 4
 author: Sanchit
 date: 2026-08-05T09:15:00.000+05:30
-money_page_url: "https://instadwell.com/best-pgs-and-co-living-spaces-in-hyderabad"
+money_page_url: "https://instadwell.com/pg-near-hitec-city-hyderabad"
 money_page_label: "Browse PG Accommodation Near Hitech City Hyderabad"
 related_faq: "ac-pg-in-hitech-city-hyderabad"
 related_faq_label: "AC PG in Hitech City Hyderabad"
