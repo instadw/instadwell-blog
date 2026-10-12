@@ -6,7 +6,7 @@ category: "Bangalore"
 order: 1
 author: Sanchit
 date: 2026-08-04T09:15:00.000+05:30
-money_page_url: "https://instadwell.com/best-pgs-and-co-living-spaces-in-bengaluru"
+money_page_url: "https://instadwell.com/pg-in-bangalore"
 money_page_label: "Browse verified PGs in Bangalore"
 ---
 

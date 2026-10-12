@@ -311,7 +311,7 @@ InstaDwell focuses on verified listings and transparency, helping students find 
 * Global coverage in top cities
 * 24/7 student support team
 
-Whether you’re studying in **[Hyderabad](https://instadwell.com/search?country=india&lat=17.4065&lng=78.4772&location=hyderabad), [Berlin](https://instadwell.com/search?lat=52.52000659999999&lng=13.404954&location=Berlin,%20Germany&city=Berlin&country=Germany), [Toronto](https://instadwell.com/search?lat=43.653226&lng=-79.3831843&location=Toronto,%20ON,%20Canada&city=Toronto&country=Canada), or [London](https://instadwell.com/search?lat=51.5072178&lng=-0.1275862&location=London,%20UK&city=London&country=United%20Kingdom)**, InstaDwell helps you book your perfect stay confidently.
+Whether you’re studying in **[Hyderabad](https://instadwell.com/pg-in-hyderabad), [Berlin](https://instadwell.com/search?lat=52.52000659999999&lng=13.404954&location=Berlin,%20Germany&city=Berlin&country=Germany), [Toronto](https://instadwell.com/search?lat=43.653226&lng=-79.3831843&location=Toronto,%20ON,%20Canada&city=Toronto&country=Canada), or [London](https://instadwell.com/search?lat=51.5072178&lng=-0.1275862&location=London,%20UK&city=London&country=United%20Kingdom)**, InstaDwell helps you book your perfect stay confidently.
 
 - - -
 
@@ -331,7 +331,7 @@ Every little saving counts when you’re managing life as a student.
 
 Finding student accommodation online doesn’t have to be stressful or uncertain. With the right information and trusted platforms like **[InstaDwell](https://instadwell.com/)**, you can book your ideal stay confidently, knowing it’s verified, affordable, and comfortable.
 
-Whether you’re looking for a budget PG in Hyderabad, a co-living space in Bangalore, or the [Best Student PGs & Co-Living in Bengaluru](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru), always remember:
+Whether you’re looking for a budget PG in Hyderabad, a co-living space in Bangalore, or the [Best Student PGs & Co-Living in Bengaluru](https://instadwell.com/pg-in-bangalore), always remember:
 
 > *The best home is one where you feel safe, supported, and inspired to grow.*
 

@@ -65,7 +65,7 @@ The correlation is clear. States like Andhra Pradesh, Tamil Nadu, and Maharashtr
 -   The Pull Factor: Global demand for specialized skills in AI, Data Science, and Computer Engineering.
     
 
-Unlike the generic migration of the past, this wave is laser-focused on [career ROI](https://blog.instadwell.com/global-education-roi-calculator-2025). Students from [Hyderabad](https://instadwell.com/search?country=india&lat=17.4065&lng=78.4772&location=hyderabad), [Pune](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune), and [Chennai](https://instadwell.com/search?country=india&lat=13.0843&lng=80.2705&location=chennai) are moving directly into the STEM pipelines of the USA and Germany.
+Unlike the generic migration of the past, this wave is laser-focused on [career ROI](https://blog.instadwell.com/global-education-roi-calculator-2025). Students from [Hyderabad](https://instadwell.com/pg-in-hyderabad), [Pune](https://instadwell.com/search?country=india&lat=18.5204&lng=73.8567&location=pune), and [Chennai](https://instadwell.com/search?country=india&lat=13.0843&lng=80.2705&location=chennai) are moving directly into the STEM pipelines of the USA and Germany.
 
 ### Conclusion: A Workforce, Not Just a Crowd
 

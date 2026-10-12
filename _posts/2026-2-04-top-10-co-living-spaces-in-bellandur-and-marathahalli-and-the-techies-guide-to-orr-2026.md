@@ -290,3 +290,6 @@ Yes. [Zolo Cinnamon](https://instadwell.com/properties/4272-zolo-cinnamon) start
 The ORR corridor is the engine of Bengaluru's tech economy. Don't let the commute burn you out. As a [trusted platform for student housing and co-living](https://instadwell.com/about), we help you choose between the savings of Marathahalli and the premium vibe of Bellandur, because the right home is the first step to work-life balance.
 
 Search Verified PGs in [Bellandur](https://instadwell.com/search?lat=12.9304278&lng=77.678404&location=Bellandur,%20Bengaluru,%20Karnataka,%20India&city=Bengaluru&country=India) & [Marathahalli](https://instadwell.com/search?lat=12.956924&lng=77.701127&location=Marathahalli,%20Bengaluru,%20Karnataka%20560037,%20India&city=Bengaluru&country=India)
+
+
+Want to be closer to Silk Board and the startup belt? Compare [PG in HSR Layout](https://instadwell.com/pg-in-hsr-layout), or browse all [PG in Bangalore](https://instadwell.com/pg-in-bangalore).

@@ -154,7 +154,7 @@ Today, many brands are recognized as offering global-standard community living e
           <button class="idc-page-btn" id="idc-bengaluru-next" onclick="idcPage('bengaluru',1)">Next →</button>
         </div>
       </div>
-      <div class="idc-footer"><a href="https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru&utm_source=blog&utm_medium=widget&utm_campaign=bengaluru&utm_content=bengaluru-all" target="_blank" rel="noopener">See all PGs in Bengaluru →</a></div>
+      <div class="idc-footer"><a href="https://instadwell.com/pg-in-bangalore" target="_blank" rel="noopener">See all PGs in Bengaluru →</a></div>
     </div>
 
     <!-- PUNE -->
@@ -206,7 +206,7 @@ Today, many brands are recognized as offering global-standard community living e
           <button class="idc-page-btn" id="idc-hyderabad-next" onclick="idcPage('hyderabad',1)">Next →</button>
         </div>
       </div>
-      <div class="idc-footer"><a href="https://instadwell.com/search?country=india&lat=17.385044&lng=78.486671&location=hyderabad&utm_source=blog&utm_medium=widget&utm_campaign=hyderabad&utm_content=hyderabad-all" target="_blank" rel="noopener">See all PGs in Hyderabad →</a></div>
+      <div class="idc-footer"><a href="https://instadwell.com/pg-in-hyderabad" target="_blank" rel="noopener">See all PGs in Hyderabad →</a></div>
     </div>
 
     <!-- DELHI -->
@@ -257,11 +257,11 @@ Today, many brands are recognized as offering global-standard community living e
   ];
 
   var UTM = {
-    bengaluru: "https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru&utm_source=blog&utm_medium=widget&utm_campaign=bengaluru&utm_content=bengaluru-all",
+    bengaluru: "https://instadwell.com/pg-in-bangalore",
     pune:      "https://instadwell.com/search?country=india&lat=18.520430&lng=73.856743&location=pune&utm_source=blog&utm_medium=widget&utm_campaign=pune&utm_content=pune-all",
     mumbai:    "https://instadwell.com/search?country=india&lat=19.076090&lng=72.877426&location=mumbai&utm_source=blog&utm_medium=widget&utm_campaign=mumbai&utm_content=mumbai-all",
     chennai:   "https://instadwell.com/search?country=india&lat=13.082680&lng=80.270718&location=chennai&utm_source=blog&utm_medium=widget&utm_campaign=chennai&utm_content=chennai-all",
-    hyderabad: "https://instadwell.com/search?country=india&lat=17.385044&lng=78.486671&location=hyderabad&utm_source=blog&utm_medium=widget&utm_campaign=hyderabad&utm_content=hyderabad-all",
+    hyderabad: "https://instadwell.com/pg-in-hyderabad",
     delhi:     "https://instadwell.com/search?country=india&lat=28.613939&lng=77.209023&location=delhi&utm_source=blog&utm_medium=widget&utm_campaign=delhi&utm_content=delhi-all"
   };
 
@@ -476,7 +476,7 @@ By analyzing hundreds of 2026 resident reports from platforms like Reddit and pu
 
 ### Stanza Living
 
-* **Largest presence:** [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru),  (102+ properties)
+* **Largest presence:** [Bangalore](https://instadwell.com/pg-in-bangalore),  (102+ properties)
 * 450+ properties across 15+ cities
 * Fully-furnished residences for students and young professionals
 * Meals, housekeeping, high-speed internet, and app-based community support included
@@ -486,7 +486,7 @@ By analyzing hundreds of 2026 resident reports from platforms like Reddit and pu
 
 ### Zolo
 
-* **Largest presence:** [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru), 
+* **Largest presence:** [Bangalore](https://instadwell.com/pg-in-bangalore), 
 * 450+ properties across multiple cities in India
 * Flexible stays, zero brokerage, app-based booking
 * Managed coliving spaces with meals, housekeeping, and community events
@@ -504,7 +504,7 @@ By analyzing hundreds of 2026 resident reports from platforms like Reddit and pu
 
 ### Colive
 
-* **Largest presence:** [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru), 
+* **Largest presence:** [Bangalore](https://instadwell.com/pg-in-bangalore), 
 * 150 fully-furnished homes across multiple cities
 * Flexible contracts, tech-enabled safety, housekeeping, amenities like cinema and fitness rooms
 * Strong social and community focus
@@ -513,7 +513,7 @@ By analyzing hundreds of 2026 resident reports from platforms like Reddit and pu
 
 ### HelloWorld
 
-* **Largest presence:** [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru), 
+* **Largest presence:** [Bangalore](https://instadwell.com/pg-in-bangalore), 
 * 150+ properties across 17+ cities
 * All-inclusive student hostels with meals, housekeeping, safety, and medical support
 * Community spaces, weekly events, thriving online community
@@ -523,7 +523,7 @@ By analyzing hundreds of 2026 resident reports from platforms like Reddit and pu
 
 ### The Hosteller
 
-* **Largest presence:** [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru), 
+* **Largest presence:** [Bangalore](https://instadwell.com/pg-in-bangalore), 
 * 76 hostels across India
 * Affordable accommodations with creative activities and social spaces
 * Curated trips and remote work-friendly environments
@@ -540,7 +540,7 @@ By analyzing hundreds of 2026 resident reports from platforms like Reddit and pu
 
 ### Housr
 
-* **Largest presence:** [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru), 
+* **Largest presence:** [Bangalore](https://instadwell.com/pg-in-bangalore), 
 * 56 luxury coliving properties
 * Premium amenities, breakout zones (theatre, gaming, rooftop, fitness)
 * Gourmet food, professional housekeeping, high-speed Wi-Fi
@@ -568,7 +568,7 @@ By analyzing hundreds of 2026 resident reports from platforms like Reddit and pu
 
 ### Settl
 
-* **Largest presence:** [Bangalore](https://instadwell.com/search?country=india&lat=12.971599&lng=77.594566&location=bengaluru), 
+* **Largest presence:** [Bangalore](https://instadwell.com/pg-in-bangalore), 
 * 23 fully-furnished apartments
 * 24/7 power backup, high-speed internet, laundry, cleaning, app-based management
 * Community initiatives to foster connections
@@ -697,8 +697,8 @@ Use the operator profiles, comparison tables, and city guides above to find the 
 Looking for a specific city? We have detailed guides with verified, 
 0-brokerage listings for each major hub:
 
-- [Best PGs and Co-living in Bangalore](https://instadwell.com/best-pgs-and-co-living-spaces-in-bengaluru)
-- [Best PGs and Co-living in Hyderabad](https://instadwell.com/best-pgs-and-co-living-spaces-in-hyderabad)
+- [Best PGs and Co-living in Bangalore](https://instadwell.com/pg-in-bangalore)
+- [Best PGs and Co-living in Hyderabad](https://instadwell.com/pg-in-hyderabad)
 - [Best PGs and Co-living in Pune](https://instadwell.com/best-pgs-and-co-living-spaces-in-pune)
 - [Best PGs and Co-living in Chennai](https://instadwell.com/best-pgs-and-co-living-spaces-in-chennai)
 - [Best PGs and Co-living in Delhi](https://instadwell.com/best-pgs-and-co-living-spaces-in-delhi)

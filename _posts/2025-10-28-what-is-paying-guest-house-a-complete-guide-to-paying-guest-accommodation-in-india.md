@@ -99,7 +99,7 @@ A private room with stable power backup, functioning AC, and individual electric
 
 A **coed PG** (also called a mixed PG or unisex PG) is a paying guest  accommodation that houses both male and female residents, typically in separate floors or wings of the same building. Common areas like dining rooms, lounges, and terraces are shared.
 
-Coed PGs are increasingly common in metro cities like [Bengaluru](https://instadwell.com/best-pgs-and-co-living-spaces-in-bengaluru), [Hyderabad](https://instadwell.com/best-pgs-and-co-living-spaces-in-hyderabad), and [Pune](https://instadwell.com/best-pgs-and-co-living-spaces-in-pune), particularly near IT parks where both male and female professionals want the social benefits of a mixed community without compromising safety. Most reputable operators like Stanza Living, Zolo, and Colive run dedicated coed properties with biometric entry and CCTV on common floors.
+Coed PGs are increasingly common in metro cities like [Bengaluru](https://instadwell.com/pg-in-bangalore), [Hyderabad](https://instadwell.com/pg-in-hyderabad), and [Pune](https://instadwell.com/best-pgs-and-co-living-spaces-in-pune), particularly near IT parks where both male and female professionals want the social benefits of a mixed community without compromising safety. Most reputable operators like Stanza Living, Zolo, and Colive run dedicated coed properties with biometric entry and CCTV on common floors.
 
 **Key things to check before choosing a coed PG:**
 - Are male and female floors/wings clearly separated with independent access?
@@ -115,8 +115,8 @@ Rent prices vary based on proximity to IT parks and educational institutions.
 
 | City | Shared Room (Triple/Double) | Single Occupancy | Popular Professional/Student Areas |
 | :--- | :--- | :--- | :--- |
-| [Bengaluru](https://instadwell.com/best-pgs-and-co-living-spaces-in-bengaluru) | ₹8,000 – ₹16,000 | ₹14,000 – ₹25,000 | Koramangala, HSR Layout, Whitefield |
-| [Hyderabad](https://instadwell.com/best-pgs-and-co-living-spaces-in-hyderabad) | ₹6,000 – ₹13,000 | ₹11,000 – ₹20,000 | Gachibowli, Madhapur, Kondapur |
+| [Bengaluru](https://instadwell.com/pg-in-bangalore) | ₹8,000 – ₹16,000 | ₹14,000 – ₹25,000 | Koramangala, HSR Layout, Whitefield |
+| [Hyderabad](https://instadwell.com/pg-in-hyderabad) | ₹6,000 – ₹13,000 | ₹11,000 – ₹20,000 | Gachibowli, Madhapur, Kondapur |
 | [Pune](https://instadwell.com/best-pgs-and-co-living-spaces-in-pune) | ₹7,500 – ₹15,000 | ₹13,000 – ₹24,000 | Hinjewadi, Viman Nagar, Baner |
 | [Delhi NCR](https://instadwell.com/best-pgs-and-co-living-spaces-in-new-delhi) | ₹8,000 – ₹18,000 | ₹15,000 – ₹28,000 | North Campus, Gurugram Phase 3, Noida |
 | [Chennai](https://instadwell.com/best-pgs-and-co-living-spaces-in-chennai) | ₹7,000 – ₹14,000 | ₹12,000 – ₹22,000 | OMR, Adyar, Velachery |
@@ -231,7 +231,7 @@ Based on what tenants across India: including many in Hyderabad's Gachibowli, Ma
 
 The platform you use matters as much as the PG itself. Here's an honest breakdown:
 
-* [**InstaDwell:**](https://instadwell.com/) Aggregates verified listings from top managed operators across India with zero brokerage. This is the best starting point for Hyderabad's [Gachibowli](https://instadwell.com/search?lat=17.4400802&lng=78.3489168&location=Gachibowli%2C%20Hyderabad%2C%20Telangana%2C%20India&city=Hyderabad&country=India), [Madhapur](https://instadwell.com/search?lat=17.4485835&lng=78.39080349999999&location=Madhapur%2C%20Hyderabad%2C%20Telangana%2C%20India&city=Hyderabad&country=India), and [Kondapur](https://instadwell.com/search?lat=17.4700319&lng=78.3534174&location=Kondapur%2C%20Hyderabad%2C%20Telangana%2C%20India&city=Hyderabad&country=India) corridors where managed co-living is concentrated.
+* [**InstaDwell:**](https://instadwell.com/) Aggregates verified listings from top managed operators across India with zero brokerage. This is the best starting point for Hyderabad's [Gachibowli](https://instadwell.com/pg-in-gachibowli), [Madhapur](https://instadwell.com/pg-in-madhapur), and [Kondapur](https://instadwell.com/pg-in-kondapur) corridors where managed co-living is concentrated.
 * **Stanza Living / Zolo / Colive:** Professionally managed properties with biometric entry and no curfews. The trade-off: hidden fees, inconsistent service quality, and deposit disputes are widely reported. Read recent Google reviews specifically, not just their own website testimonials.
 * **NoBroker:** Good for finding direct landlord listings without a middleman. Verification levels are lower here, so the due diligence is entirely on you.
 * **MagicBricks / 99acres:** Classifieds-style platforms. Listings can be outdated or misleading. Use these only to identify general areas and price ranges, then verify the property independently.

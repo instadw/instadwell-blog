@@ -29,14 +29,14 @@ Established in 1974, HCU is a premier research university known for its programs
 Notable Courses: MSc, MA, MBA, MTech, PhD\
 Placements Summary: HCU students have access to internships and job placements in top MNCs and startups, with an average CTC of ₹6–10 LPA and placement rates around 80–85%.  
 
-[Explore nearby stays around University of Hyderabad](https://instadwell.com/search?lat=17.4567369&lng=78.32638759999999&location=UNIVERSITY%20OF%20HYDERABAD,%20Hyderabad,%20Telangana%20500046,%20India&city=Hyderabad&country=India)
+[Explore PG in Gachibowli near University of Hyderabad](https://instadwell.com/pg-in-gachibowli)
 
 ### Indian School of Business (ISB), Gachibowli
 
 ISB is one of India’s top business schools offering world-class MBA programs with strong industry connections. Known for its one-year PGP and executive programs, ISB attracts professionals nationwide.\
 Notable Courses: PGP, Executive MBA\
 Placements Summary: Average CTC for graduating students is ₹25–30 LPA, with placement rates close to 100% across sectors like consulting, finance, and technology.\
-Find accommodations near ISB
+Find accommodations near ISB: [PG in Gachibowli](https://instadwell.com/pg-in-gachibowli) and [PG in Q City](https://instadwell.com/pg-in-q-city)
 
 ### NALSAR University of Law, Shamirpet
 
@@ -68,7 +68,7 @@ Find student housing near IIIT Hyderabad
 
 ### BITS Pilani – Hyderabad Campus
 
-BITS [Hyderabad](https://instadwell.com/search?country=india&lat=17.4065&lng=78.4772&location=hyderabad), is a branch of the prestigious BITS Pilani offering strong undergraduate and postgraduate programs in engineering and management.\
+BITS [Hyderabad](https://instadwell.com/pg-in-hyderabad), is a branch of the prestigious BITS Pilani offering strong undergraduate and postgraduate programs in engineering and management.\
 Notable Courses: BTech, MTech, MBA, PhD\
 Placements Summary: Average CTC is ₹15–20 LPA, with recruiters like Amazon, Deloitte, and Goldman Sachs. Placement rates exceed 90%.\
 Explore nearby stays BITS Pilani Hyderabad Campus
@@ -151,4 +151,4 @@ Professionally managed accommodations within 5 km of campuses offer:
 
 ## Conclusion
 
-[Hyderabad](https://instadwell.com/search?country=india&lat=17.4065&lng=78.4772&location=hyderabad), combines academic excellence, a thriving corporate ecosystem, and vibrant student life. From top universities like HCU, ISB, and IIT Hyderabad to professionally managed off-campus accommodations, the city offers unmatched opportunities for outstation and international students. With robust placement support, modern facilities, and a welcoming environment, Hyderabad is truly a top destination for higher education in India.
+[Hyderabad](https://instadwell.com/pg-in-hyderabad), combines academic excellence, a thriving corporate ecosystem, and vibrant student life. From top universities like HCU, ISB, and IIT Hyderabad to professionally managed off-campus accommodations, the city offers unmatched opportunities for outstation and international students. With robust placement support, modern facilities, and a welcoming environment, Hyderabad is truly a top destination for higher education in India.

@@ -121,6 +121,8 @@ If your office is inside the massive ITPL campus, you have a specific decision t
 
 -   Verdict: Choose AECS Layout if you care about your weekends. Choose Kadugodi if you hate commuting.
 
+If you work inside ITPL, our [PG near ITPL](https://instadwell.com/pg-near-itpl-bangalore) page lists the 8 verified stays within walking distance of the gates.
+
 If your office is on the ORR rather than ITPL, [Bellandur & Marathahalli](/blog/top-10-co-living-spaces-in-bellandur-and-marathahalli-and-the-techies-guide-to-orr-2026) offer a better base. Read our ORR Techie Guide for that corridor.
     
 
