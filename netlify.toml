@@ -6,3 +6,224 @@
   # The directory that contains your built site.
   publish = "_site"
 
+
+# Permanent (301) redirects for Hyderabad blog URL changes, October 2026.
+# Each old URL is listed with and without the /blog prefix and trailing slash,
+# so the rule works whether Netlify serves the blog at its root or under /blog.
+# The redirect_from entries in each post remain as a fallback.
+
+[[redirects]]
+  from = "/pg-in-madhapur-hyderabad"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-madhapur-hyderabad/"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-madhapur-hyderabad"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-madhapur-hyderabad/"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-madhapur-and-mindspace-commute-hack-2026"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-madhapur-and-mindspace-commute-hack-2026/"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-madhapur-and-mindspace-commute-hack-2026"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-madhapur-and-mindspace-commute-hack-2026/"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/the-hostel-in-madhapur-the-mindspace-commute-hack-to-pgs-and-co-living-near-hitec-city"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/the-hostel-in-madhapur-the-mindspace-commute-hack-to-pgs-and-co-living-near-hitec-city/"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/the-hostel-in-madhapur-the-mindspace-commute-hack-to-pgs-and-co-living-near-hitec-city"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/the-hostel-in-madhapur-the-mindspace-commute-hack-to-pgs-and-co-living-near-hitec-city/"
+  to = "https://instadwell.com/blog/living-in-madhapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-q-city"
+  to = "https://instadwell.com/blog/living-near-q-city-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-q-city/"
+  to = "https://instadwell.com/blog/living-near-q-city-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-q-city"
+  to = "https://instadwell.com/blog/living-near-q-city-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-q-city/"
+  to = "https://instadwell.com/blog/living-near-q-city-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-kondapur-and-living-guide-cheaper-than-madhapur-2026"
+  to = "https://instadwell.com/blog/living-in-kondapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-kondapur-and-living-guide-cheaper-than-madhapur-2026/"
+  to = "https://instadwell.com/blog/living-in-kondapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-kondapur-and-living-guide-cheaper-than-madhapur-2026"
+  to = "https://instadwell.com/blog/living-in-kondapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-kondapur-and-living-guide-cheaper-than-madhapur-2026/"
+  to = "https://instadwell.com/blog/living-in-kondapur-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-gachibowli-and-financial-district-living-guide-2026"
+  to = "https://instadwell.com/blog/living-in-gachibowli-financial-district"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-gachibowli-and-financial-district-living-guide-2026/"
+  to = "https://instadwell.com/blog/living-in-gachibowli-financial-district"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-gachibowli-and-financial-district-living-guide-2026"
+  to = "https://instadwell.com/blog/living-in-gachibowli-financial-district"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-gachibowli-and-financial-district-living-guide-2026/"
+  to = "https://instadwell.com/blog/living-in-gachibowli-financial-district"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/living-in-gachibowlis-financial-district"
+  to = "https://instadwell.com/blog/living-in-gachibowli-financial-district"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/living-in-gachibowlis-financial-district/"
+  to = "https://instadwell.com/blog/living-in-gachibowli-financial-district"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/living-in-gachibowlis-financial-district"
+  to = "https://instadwell.com/blog/living-in-gachibowli-financial-district"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/living-in-gachibowlis-financial-district/"
+  to = "https://instadwell.com/blog/living-in-gachibowli-financial-district"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-kukatpally-kphb"
+  to = "https://instadwell.com/blog/kukatpally-vs-kphb-vs-miyapur-living-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-kukatpally-kphb/"
+  to = "https://instadwell.com/blog/kukatpally-vs-kphb-vs-miyapur-living-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-kukatpally-kphb"
+  to = "https://instadwell.com/blog/kukatpally-vs-kphb-vs-miyapur-living-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-kukatpally-kphb/"
+  to = "https://instadwell.com/blog/kukatpally-vs-kphb-vs-miyapur-living-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-hitech-city"
+  to = "https://instadwell.com/blog/where-to-live-near-hitech-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-hitech-city/"
+  to = "https://instadwell.com/blog/where-to-live-near-hitech-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-hitech-city"
+  to = "https://instadwell.com/blog/where-to-live-near-hitech-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-hitech-city/"
+  to = "https://instadwell.com/blog/where-to-live-near-hitech-city"
+  status = 301
+  force = true

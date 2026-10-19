@@ -1,0 +1,115 @@
+# Single source of truth for Hyderabad rent figures used across the blog cluster.
+# Update this file first, then the posts that quote it.
+#
+# Snapshot date: 2026-10-19
+# Scope: every branded PG and co-living listing (Stanza Living, Zolo, HelloWorld) shown on
+#   https://instadwell.com/pg-in-hyderabad pages 1 to 14 on the snapshot date. 82 properties.
+# Rent basis: "starting rent" = the lowest listed monthly rate for a property, usually a
+#   2, 3 or 4 sharing bed, not a private room. Medians are the middle value of those
+#   starting rents (average of the two middle values when the count is even).
+# Area assignment: by the locality shown on the listing card. Card text that names two
+#   areas is assigned to the more specific one (for example "Hafeezpet Village ... KPHB" -> KPHB).
+# Rounding in posts: medians to the nearest Rs. 100 with "about"; lows and highs exact.
+# Independent (unbranded) PGs are not included.
+
+snapshot_date: 2026-10-19
+total_listings: 82
+citywide:
+  lowest: 5508
+  median: 9849
+  lower_quartile: 7975
+  upper_quartile: 11743
+  highest_pg: 19295     # Zolo Preston, Madhapur
+  highest_any: 25000    # HelloWorld Armaan, a 1BHK-style unit, excluded from "PG" claims
+  bands:
+    under_7000: 7
+    7000_to_8999: 25
+    9000_to_10999: 25
+    11000_to_12999: 18
+    13000_plus: 7
+
+operators:
+  zolo:        { listings: 24, median: 7742,  lowest: 5508, highest: 19295 }
+  stanza:      { listings: 36, median: 10199, lowest: 7099, highest: 15199 }
+  helloworld:  { listings: 22, median: 10500, lowest: 7500, highest: 25000 }
+
+areas:
+  madhapur_hitec_city:
+    label: Madhapur and HITEC City
+    listings: 10
+    lowest: 6281        # Zolo Lotus
+    median: 10829       # quote as "about Rs. 10,800"
+    highest: 19295      # Zolo Preston
+    properties: [Zolo Preston 19295, Winnipeg House 11999, HelloWorld Khushnuma 10000, HelloWorld Kohinoor 9500, Zolo Lotus 6281, HelloWorld Wazeer 12000, Zolo Berry 11658, Zolo Sterling 7280, Zolo Quest 6520, HelloWorld Hitex 12000]
+  gachibowli_financial_district:
+    label: Gachibowli, Financial District and Nanakramguda
+    note: Excludes the Q City belt (Q City, Gowlidoddi, Gopanpally, Journalist Colony), which is its own area.
+    listings: 15
+    lowest: 6913        # Zolo Cyberwiz
+    median: 11499       # quote as "about Rs. 11,500"
+    highest: 15199      # Vigo House
+    properties: [Mendoza House 14999, Zolo Atticus 7742, HelloWorld Inayat 8000, Zolo Bourbon 7742, Vigo House 15199, Munich House 10499, Conroe House 14499, Kassel House 14499, Marianna House 12099, Limoges House 10499, Bremen House 11999, Sunderland House 12199, Rabat House 11499, Zolo Cyberwiz 6913, HelloWorld Techview 10000]
+  q_city_belt:
+    label: Q City, Gowlidoddi, Gopanpally and Journalist Colony
+    listings: 7
+    lowest: 7499        # Memphis House
+    median: 9799
+    highest: 10742      # Zolo Galway
+    properties: [Zolo Rurban 8137 (Journalist Colony), HelloWorld Pacific 10000 (Gowlidoddi), HelloWorld Guzarish 10000 (Gopanpally), Zolo Lakeview 7742 (Gowlidoddi), Memphis House 7499 (Q City), Amarillo House 9799 (Q City), Zolo Galway 10742 (Gopanpally)]
+  kondapur:
+    label: Kondapur
+    listings: 8
+    lowest: 8058        # Zolo Green Valley
+    median: 11500
+    highest: 12500      # HelloWorld Sukoon
+    properties: [Zolo Green Valley 8058, Burnley House 12099, Maribor House 9899, HelloWorld Inarah 11000, HelloWorld Sukoon 12500, HelloWorld Zain 12000, HelloWorld Taj 12000, Zolo Goodvibes 8137]
+  kukatpally_belt:
+    label: Kukatpally, KPHB, Hafeezpet, Nizampet and Miyapur
+    listings: 13
+    lowest: 6123        # Zolo Sierra
+    median: 8000
+    highest: 17000      # HelloWorld Justajoo (Hafeezpet)
+    sub_areas:
+      kphb: { listings: 6, median: 7827 }        # "about Rs. 7,800"
+      kukatpally: { listings: 4, median: 8400 }  # 8399.5, "about Rs. 8,400"
+      nizampet: { listings: 1, rent: 8000 }
+      miyapur: { listings: 1, rent: 6600 }
+      hafeezpet: { listings: 1, rent: 17000 }
+  manikonda:
+    label: Manikonda
+    listings: 4
+    lowest: 5508        # Zolo Park Heights
+    median: 7938        # "about Rs. 7,900"
+    highest: 9080
+  narsingi_kokapet:
+    label: Narsingi and Kokapet
+    listings: 6
+    lowest: 7899
+    median: 9599        # "about Rs. 9,600"
+    highest: 10499
+  aziznagar:
+    label: Aziznagar
+    listings: 5
+    lowest: 8699
+    median: 9899
+    highest: 10299
+  gandi_maisamma:
+    label: Gandi Maisamma
+    listings: 7
+    lowest: 7599
+    median: 9699
+    highest: 10399
+  central:
+    label: Ameerpet, Banjara Hills and Himayatnagar
+    listings: 5
+    lowest: 7099
+    median: 12000
+    highest: 12499
+  unassigned: [HelloWorld Armaan 25000, HelloWorld Marigoldvilla 9000]
+
+room_type_premium:
+  source: Zolo Manikonda listings, September 2026
+  zolo_park_heights: { three: 5508, twin: 7209, private: 15471 }
+  zolo_fort_view:    { three: 7740, twin: 8256, private: 16426 }
+  zolo_aastha:       { twin: 8137, private: 19948 }
+  zolo_autumn:       { twin: 9080, private: 18160 }
