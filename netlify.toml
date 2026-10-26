@@ -227,3 +227,443 @@
   to = "https://instadwell.com/blog/where-to-live-near-hitech-city"
   status = 301
   force = true
+
+
+
+# Permanent (301) redirects for Bangalore blog repositioning, October 2026.
+# Koramangala, Whitefield, Electronic City and Indiranagar: old blog URLs point to the matching transactional page.
+# HSR Layout and Bellandur/Marathahalli: old blog URLs point to the renamed living guides.
+# Bangalore guide: old URLs point to the renamed rent guide.
+# Decided from page-level Search Console data, 26 Oct 2026. Deploy together with the renamed posts.
+
+[[redirects]]
+  from = "/best-pgs-in-koramangala-hamburg-house-sg-palya-and-startup-stays"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/best-pgs-in-koramangala-hamburg-house-sg-palya-and-startup-stays/"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-pgs-in-koramangala-hamburg-house-sg-palya-and-startup-stays"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-pgs-in-koramangala-hamburg-house-sg-palya-and-startup-stays/"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-koramangala-bangalore"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-koramangala-bangalore/"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-koramangala-bangalore"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-koramangala-bangalore/"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-koramangala-and-sg-palya-living-guide-2026"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-koramangala-and-sg-palya-living-guide-2026/"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-koramangala-and-sg-palya-living-guide-2026"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-koramangala-and-sg-palya-living-guide-2026/"
+  to = "https://instadwell.com/pg-in-koramangala"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/living-in-whitefield-the-metro-connected-survival-guide"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/living-in-whitefield-the-metro-connected-survival-guide/"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/living-in-whitefield-the-metro-connected-survival-guide"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/living-in-whitefield-the-metro-connected-survival-guide/"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-whitefield-bangalore"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-whitefield-bangalore/"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-whitefield-bangalore"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-whitefield-bangalore/"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-whitefield-and-metro-connected-survival-guide-2026"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-whitefield-and-metro-connected-survival-guide-2026/"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-whitefield-and-metro-connected-survival-guide-2026"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-whitefield-and-metro-connected-survival-guide-2026/"
+  to = "https://instadwell.com/pg-in-whitefield"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/best-pg-in-electronic-city"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/best-pg-in-electronic-city/"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-pg-in-electronic-city"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-pg-in-electronic-city/"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/living-in-electronic-city-the-ultimate-guide-to-pgs-and-coliving"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/living-in-electronic-city-the-ultimate-guide-to-pgs-and-coliving/"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/living-in-electronic-city-the-ultimate-guide-to-pgs-and-coliving"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/living-in-electronic-city-the-ultimate-guide-to-pgs-and-coliving/"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-electronic-city-and-ultimate-living-guide-2026"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-electronic-city-and-ultimate-living-guide-2026/"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-electronic-city-and-ultimate-living-guide-2026"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-electronic-city-and-ultimate-living-guide-2026/"
+  to = "https://instadwell.com/pg-in-electronic-city"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/living-in-hsr-layout-studios-private-rooms-and-startup-hubs"
+  to = "https://instadwell.com/blog/living-in-hsr-layout-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/living-in-hsr-layout-studios-private-rooms-and-startup-hubs/"
+  to = "https://instadwell.com/blog/living-in-hsr-layout-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/living-in-hsr-layout-studios-private-rooms-and-startup-hubs"
+  to = "https://instadwell.com/blog/living-in-hsr-layout-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/living-in-hsr-layout-studios-private-rooms-and-startup-hubs/"
+  to = "https://instadwell.com/blog/living-in-hsr-layout-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-hsr-layout-and-startup-hub-living-guide-2026"
+  to = "https://instadwell.com/blog/living-in-hsr-layout-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-hsr-layout-and-startup-hub-living-guide-2026/"
+  to = "https://instadwell.com/blog/living-in-hsr-layout-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-hsr-layout-and-startup-hub-living-guide-2026"
+  to = "https://instadwell.com/blog/living-in-hsr-layout-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-hsr-layout-and-startup-hub-living-guide-2026/"
+  to = "https://instadwell.com/blog/living-in-hsr-layout-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-bellandur-and-marathahalli-co-living-guide-orr"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-bellandur-and-marathahalli-co-living-guide-orr/"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-bellandur-and-marathahalli-co-living-guide-orr"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-bellandur-and-marathahalli-co-living-guide-orr/"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli/"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/the-techies-guide-to-orr-affordable-pgs-in-bellandur-and-marathahalli/"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-bellandur-and-marathahalli-and-the-techies-guide-to-orr-2026"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-10-co-living-spaces-in-bellandur-and-marathahalli-and-the-techies-guide-to-orr-2026/"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-bellandur-and-marathahalli-and-the-techies-guide-to-orr-2026"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-10-co-living-spaces-in-bellandur-and-marathahalli-and-the-techies-guide-to-orr-2026/"
+  to = "https://instadwell.com/blog/living-in-bellandur-marathahalli-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-indiranagar"
+  to = "https://instadwell.com/pg-in-indiranagar"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-indiranagar/"
+  to = "https://instadwell.com/pg-in-indiranagar"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-indiranagar"
+  to = "https://instadwell.com/pg-in-indiranagar"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-indiranagar/"
+  to = "https://instadwell.com/pg-in-indiranagar"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/best-co-living-spaces-in-bengaluru-and-ultimate-rent-guide-2026"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/best-co-living-spaces-in-bengaluru-and-ultimate-rent-guide-2026/"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-co-living-spaces-in-bengaluru-and-ultimate-rent-guide-2026"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-co-living-spaces-in-bengaluru-and-ultimate-rent-guide-2026/"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-bangalore-guide"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-bangalore-guide/"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-bangalore-guide"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-bangalore-guide/"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-bengaluru-the-ultimate-guide-to-rent-scams-and-best-areas-2025"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-in-bengaluru-the-ultimate-guide-to-rent-scams-and-best-areas-2025/"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-bengaluru-the-ultimate-guide-to-rent-scams-and-best-areas-2025"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-in-bengaluru-the-ultimate-guide-to-rent-scams-and-best-areas-2025/"
+  to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
+  status = 301
+  force = true

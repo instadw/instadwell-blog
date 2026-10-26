@@ -221,6 +221,6 @@ It's a weaker fit if:
 - A women-only property is non-negotiable for you, since that option doesn't currently exist in this cluster.
 - You specifically need a walk-in commute, since several properties that look close on the map are a 30 to 75 minute walk once you account for the actual road layout.
 
-Related reading: [PG in Koramangala Bangalore](https://instadwell.com/blog/pg-in-koramangala-bangalore), [PG in Whitefield Bangalore](https://instadwell.com/blog/pg-in-whitefield-bangalore), [PG in Electronic City Bangalore](https://instadwell.com/blog/best-pg-in-electronic-city)
+Related reading: [Living in Koramangala](https://instadwell.com/blog/living-in-koramangala-guide), [Living in Whitefield](https://instadwell.com/blog/living-in-whitefield-guide), [Living in Electronic City](https://instadwell.com/blog/living-in-electronic-city-guide)
 
 Browse verified [PG in Bangalore](https://instadwell.com/pg-in-bangalore) across every area, with zero brokerage.
