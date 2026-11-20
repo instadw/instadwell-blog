@@ -138,7 +138,7 @@ Rent prices vary based on proximity to IT parks and educational institutions.
 | [Bengaluru](https://instadwell.com/pg-in-bangalore) | ₹8,000 – ₹16,000 | ₹14,000 – ₹25,000 | Koramangala, HSR Layout, Whitefield |
 | [Hyderabad](https://instadwell.com/pg-in-hyderabad) | ₹6,000 – ₹13,000 | ₹11,000 – ₹20,000 | Gachibowli, Madhapur, Kondapur |
 | [Pune](https://instadwell.com/best-pgs-and-co-living-spaces-in-pune) | ₹7,500 – ₹15,000 | ₹13,000 – ₹24,000 | Hinjewadi, Viman Nagar, Baner |
-| [Delhi NCR](https://instadwell.com/best-pgs-and-co-living-spaces-in-new-delhi) | ₹8,000 – ₹18,000 | ₹15,000 – ₹28,000 | North Campus, Gurugram Phase 3, Noida |
+| [Delhi NCR](https://instadwell.com/best-pgs-and-co-living-spaces-in-delhi) | ₹8,000 – ₹18,000 | ₹15,000 – ₹28,000 | North Campus, Gurugram Phase 3, Noida |
 | [Chennai](https://instadwell.com/best-pgs-and-co-living-spaces-in-chennai) | ₹7,000 – ₹14,000 | ₹12,000 – ₹22,000 | OMR, Adyar, Velachery |
 
 ----------
