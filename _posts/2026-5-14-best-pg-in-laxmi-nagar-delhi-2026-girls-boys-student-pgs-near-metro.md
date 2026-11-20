@@ -385,4 +385,4 @@ Your Laxmi Nagar experience will be defined by your commute and your study sched
 
 Start your search today with [Instadwell](https://instadwell.com/)
 
-[View all Delhi Properties here](https://instadwell.com/best-pgs-and-co-living-spaces-in-new-delhi)
+[View all Delhi Properties here](https://instadwell.com/best-pgs-and-co-living-spaces-in-delhi)
