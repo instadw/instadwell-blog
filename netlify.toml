@@ -717,3 +717,149 @@
   to = "https://instadwell.com/pg-in-ameerpet"
   status = 301
   force = true
+
+# Nov 2026: Christ/Jain/PES and Kochi blogs separated from transactional pages; HITEC City FAQs folded into the HITEC City page.
+
+[[redirects]]
+  from = "/pg-near-christ-university-pes-university-jain-university-bangalore"
+  to = "https://instadwell.com/pg-near-christ-university"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-near-christ-university-pes-university-jain-university-bangalore/"
+  to = "https://instadwell.com/pg-near-christ-university"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-near-christ-university-pes-university-jain-university-bangalore"
+  to = "https://instadwell.com/pg-near-christ-university"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-near-christ-university-pes-university-jain-university-bangalore/"
+  to = "https://instadwell.com/pg-near-christ-university"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kochi-pg-guide-areas-cost-and-what-to-check"
+  to = "https://instadwell.com/pg-in-kochi"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kochi-pg-guide-areas-cost-and-what-to-check/"
+  to = "https://instadwell.com/pg-in-kochi"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/kochi-pg-guide-areas-cost-and-what-to-check"
+  to = "https://instadwell.com/pg-in-kochi"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/kochi-pg-guide-areas-cost-and-what-to-check/"
+  to = "https://instadwell.com/pg-in-kochi"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/ac-pg-in-hitech-city-hyderabad"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/ac-pg-in-hitech-city-hyderabad/"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/ac-pg-in-hitech-city-hyderabad"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/ac-pg-in-hitech-city-hyderabad/"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-accommodation-near-hitech-city-hyderabad"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-accommodation-near-hitech-city-hyderabad/"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-accommodation-near-hitech-city-hyderabad"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-accommodation-near-hitech-city-hyderabad/"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-hostels-in-hitech-city"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-hostels-in-hitech-city/"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-hostels-in-hitech-city"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-hostels-in-hitech-city/"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-near-hitech-city-madhapur-hyderabad"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-near-hitech-city-madhapur-hyderabad/"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-near-hitech-city-madhapur-hyderabad"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-near-hitech-city-madhapur-hyderabad/"
+  to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
+  status = 301
+  force = true
