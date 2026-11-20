@@ -237,7 +237,7 @@ Whether you are searching for a **girls PG in Hinjewadi**, **PG in Hinjewadi for
 
 **Top verified options for women in Hinjewadi:** [HelloWorld Elite](https://instadwell.com/properties/3362-helloworld-elite), [HelloWorld VistaStudios](https://instadwell.com/properties/3363-helloworld-vistastudios), [HelloWorld Elements](https://instadwell.com/properties/3358-helloworld-elements), [HelloWorld Hillside](https://instadwell.com/properties/3360-helloworld-hillside).
 
-For a full safety framework applicable to any women's PG, see our [PG vs Hostel vs Co-Living guide](https://instadwell.com/blog/pg-vs-hostel-vs-co-living-which-option-fits-you-best) and the [Pune co-living hub](https://instadwell.com/blog/top-10-co-living-spaces-in-pune-and-what-to-look-for) for Pune-specific context.
+For a full safety framework applicable to any women's PG, see our [PG vs Hostel vs Co-Living guide](https://instadwell.com/blog/pg-vs-hostel-vs-co-living-which-option-fits-you-best) and the [Pune co-living hub](https://instadwell.com/blog/pg-in-pune-and-coliving-spaces-in-pune-2026-guide) for Pune-specific context.
 
 ---
 
@@ -269,7 +269,7 @@ Trial runs for the **Hinjewadi to Ramnagar stretch (Line 3)** are anticipated ar
 
 When operational, this changes the PG calculus meaningfully. Residents near the proposed Phase 1 metro corridor will be able to reach Shivajinagar and FC Road in under 30 minutes without touching Hinjewadi's internal road traffic. If you are signing a lease now for 11 months or longer, check whether a property is within 10 minutes walk of the nearest proposed station.
 
-For broader Pune transit and neighbourhood context, see our [Pune co-living and what to look for guide](https://instadwell.com/blog/top-10-co-living-spaces-in-pune-and-what-to-look-for).
+For broader Pune transit and neighbourhood context, see our [Pune co-living and what to look for guide](https://instadwell.com/blog/pg-in-pune-and-coliving-spaces-in-pune-2026-guide).
 
 ---
 
