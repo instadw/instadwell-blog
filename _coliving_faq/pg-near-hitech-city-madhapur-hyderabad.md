@@ -2,6 +2,8 @@
 title: "PG Near Hitech City Madhapur Hyderabad"
 description: "PG near Hitech City Madhapur Hyderabad includes Stanza Living Winnipeg House from Rs. 11999 and HelloWorld Wazeer from Rs. 12000, both a short ride from HITEC City itself."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-near-hitec-city-hyderabad
+sitemap: false
 category: "Hyderabad"
 order: 3
 author: Sanchit
