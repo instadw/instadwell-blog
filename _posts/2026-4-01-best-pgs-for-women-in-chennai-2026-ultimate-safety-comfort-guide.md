@@ -48,7 +48,7 @@ faq:
 
 Moving to a new city often feels like trying to solve a Rubik's Cube while someone is asking you for directions in a language you only half-understand. It is overwhelming, especially when your top priority is safety. In 2026, Chennai is consistently regarded as one of India's safest metros for women, but "safe" shouldn't just be a general city vibe: it should be a feature of your front door. The rental market has shifted away from the dusty "mansion" hostels of the past toward tech-first co-living spaces where safety is managed via biometrics and app-based security protocols rather than just a simple padlock.
 
-If you are also weighing a flat rental against a managed PG, our [PG vs Flat Chennai guide](/blog/pg-vs-flat-in-chennai-rent-and-best-areas-guide-2025) covers the 10-month advance rule and area-wise cost breakdown before you commit.
+If you are also weighing a flat rental against a managed PG, our [PG vs Flat Chennai guide](/blog/pg-in-chennai-rent-and-best-areas-guide) covers the 10-month advance rule and area-wise cost breakdown before you commit.
 
 ---
 
@@ -121,7 +121,7 @@ For women working in Sholinganallur, the ongoing Metro Phase 2 work is a mixed b
 * **The Construction Impact:** Currently, work on the IT Expressway means dust and traffic bottlenecks. Commuters should prepare for slightly longer travel times during peak hours.
 * **The Future Win:** Long-term, this is a connectivity blessing. Once the dense network opens, reaching OMR from safe residential pockets like Medavakkam or Perumbakkam will be significantly faster and more predictable.
 
-For a full breakdown of verified PG options across the IT Expressway, see our [OMR Chennai PG guide](/blog/best-pg-omr-chennai-sholinganallur-karapakkam-siruseri-guide-2026).
+For a full breakdown of verified PG options across the IT Expressway, see our [OMR Chennai PG guide](/blog/pg-in-omr-chennai).
 
 ---
 
