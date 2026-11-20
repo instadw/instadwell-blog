@@ -111,7 +111,7 @@ Many traditional PGs around Christ set an early curfew, so confirm the exact tim
 
 One rule seniors pass down: prioritise walking distance over amenities. Saving 20 minutes each way adds up to more than two hours a week across a trimester.
 
-For a full campus-by-campus breakdown, read [PG near Christ, PES and Jain University](https://instadwell.com/blog/pg-near-christ-university-pes-university-jain-university-bangalore). To compare rooms, see [PG near Christ University](https://instadwell.com/pg-near-christ-university).
+For a full campus-by-campus breakdown, read [PG near Jain and PES University](https://instadwell.com/blog/pg-near-jain-and-pes-university-bangalore). To compare rooms, see [PG near Christ University](https://instadwell.com/pg-near-christ-university).
 
 ---
 
