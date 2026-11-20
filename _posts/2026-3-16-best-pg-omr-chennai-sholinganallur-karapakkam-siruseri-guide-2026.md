@@ -20,7 +20,7 @@ date: 2026-03-16T08:30:00.000+05:30
 * **Brokerage**: Save a full month's rent by booking via InstaDwell.
 * **Commute Tip**: Choose your PG based on distance to your specific SEZ, not just the locality name.
 
-New to the city? [Read our Chennai City guide here](https://instadwell.com/blog/pg-vs-flat-in-chennai-rent-and-best-areas-guide-2025)
+New to the city? [Read our Chennai City guide here](https://instadwell.com/blog/pg-in-chennai-rent-and-best-areas-guide)
 
 ## Jump Ahead {#jump-ahead}
 
