@@ -210,7 +210,7 @@ The third concern, and one that comparison tables never capture, is community co
 ### "I just got admission to a college in Bengaluru and my parents are paying"
 ** Verified managed PG near campus.** Not unmanaged, not OLX. A managed PG gives you the meal safety net while you figure out the city. Budget: ₹7,500–₹12,000/month shared.
 
-See: [Best PGs near Top Universities in Bangalore ](https://instadwell.com/blog/pg-near-christ-university-pes-university-jain-university-bangalore)
+See: [Best PGs near Top Universities in Bangalore ](https://instadwell.com/blog/pg-near-jain-and-pes-university-bangalore)
 
 ### "I'm a fresher joining an IT company on ORR or Whitefield"
 ** Co-living in Bellandur, Whitefield, or Electronic City.** You'll work long hours. You need reliable Wi-Fi, no curfew, and food you don't have to think about. The ₹4,000–5,000 premium over a PG is worth it when your productivity depends on your sleep and internet connection.
