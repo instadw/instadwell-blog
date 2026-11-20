@@ -166,7 +166,7 @@ Walking distance can be misleading in Delhi's summer heat. A route that feels ea
 
 **The Metro Advantage:** You are serviced by the Durgabai Deshmukh South Campus (Pink Line) station. If you live deep inside Satya, the walk to the metro can take 15 mins. Factor this in if you have internships in [Gurgaon](https://instadwell.com/search?lat=28.4594965&lng=77.0266383&location=Gurugram,%20Haryana,%20India&city=Gurugram&country=India) or [South Delhi](https://instadwell.com/search?lat=28.4929198&lng=77.1847921&location=South%20Delhi,%20New%20Delhi,%20Delhi,%20India&city=New%20Delhi&country=India).
 
-If your internship or office is in Gurgaon, also consider our [Saket & Malviya Nagar guide](https://instadwell.com/blog/top-6-co-living-spaces-in-saket-and-malviya-nagar-posh-living-vs-budget-reality), which is closer to the Cyber City Yellow Line commute.
+If your internship or office is in Gurgaon, also consider our [Saket & Malviya Nagar guide](https://instadwell.com/blog/pg-in-saket-and-malviya-nagar-delhi), which is closer to the Cyber City Yellow Line commute.
 
 ----------
 
