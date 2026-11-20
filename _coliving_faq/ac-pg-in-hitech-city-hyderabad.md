@@ -2,6 +2,8 @@
 title: "AC PG in Hitech City Hyderabad"
 description: "AC PG in Hitech City Hyderabad is confirmed at Zolo Sterling from Rs. 7280 and Stanza Living Winnipeg House from Rs. 11999, both listing air conditioning directly."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-near-hitec-city-hyderabad
+sitemap: false
 category: "Hyderabad"
 order: 1
 author: Sanchit
