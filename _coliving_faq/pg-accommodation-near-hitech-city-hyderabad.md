@@ -2,6 +2,8 @@
 title: "PG Accommodation Near Hitech City Hyderabad"
 description: "PG accommodation near Hitech City Hyderabad ranges from Rs. 6520 at Zolo Quest to Rs. 15199 at Stanza Living Vigo House, spanning Gachibowli, Madhapur and Serilingampally."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-near-hitec-city-hyderabad
+sitemap: false
 category: "Hyderabad"
 order: 4
 author: Sanchit
