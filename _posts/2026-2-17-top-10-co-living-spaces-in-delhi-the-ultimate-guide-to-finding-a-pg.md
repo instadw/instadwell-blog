@@ -60,7 +60,7 @@ If you are looking for a PG in Delhi, the challenge isn't finding a room, it’s
 
 This guide is your master map. We break down the city by Rent, Safety, and Metro Lines so you can decide exactly where to build your new life.
 
-[Browse Verified PGs in Delhi - Zero Brokerage](https://instadwell.com/best-pgs-and-co-living-spaces-in-new-delhi)
+[Browse Verified PGs in Delhi - Zero Brokerage](https://instadwell.com/best-pgs-and-co-living-spaces-in-delhi)
 
 ----------
 
@@ -302,7 +302,7 @@ Most properties here are landlord-run, expect basic furnishing, shared bathrooms
 | Ber Sarai | JNU / IIT | ₹6,000 - ₹12,000 | Yellow Line (Hauz Khas) |
 | Batla House | Jamia Students | ₹5,000 - ₹8,000 | Violet Line (Okhla Vihar) |
 
-> **Ready to shortlist?** Every neighbourhood above has verified, zero-brokerage listings on InstaDwell. Filter by area, budget, and meal plan in under 2 minutes. [Search All PGs in Delhi ](https://instadwell.com/best-pgs-and-co-living-spaces-in-new-delhi)
+> **Ready to shortlist?** Every neighbourhood above has verified, zero-brokerage listings on InstaDwell. Filter by area, budget, and meal plan in under 2 minutes. [Search All PGs in Delhi ](https://instadwell.com/best-pgs-and-co-living-spaces-in-delhi)
 
 ----------
 
@@ -321,7 +321,7 @@ Finding a PG or co-living space in Delhi doesn't have to mean dealing with broke
 - Professional? Look at [Saket](/blog/pg-in-saket-and-malviya-nagar-delhi).
 - On a Budget? Explore [Laxmi Nagar](https://instadwell.com/search?lat=28.637189&lng=77.2756522&location=Laxmi%20Nagar%2C%20Delhi%2C%20India&city=Delhi&country=India).
 
-[Search All Verified PGs in Delhi ](https://instadwell.com/best-pgs-and-co-living-spaces-in-new-delhi)
+[Search All Verified PGs in Delhi ](https://instadwell.com/best-pgs-and-co-living-spaces-in-delhi)
 
 ##  Frequently Asked Questions (FAQs)
 
