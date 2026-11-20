@@ -667,3 +667,53 @@
   to = "https://instadwell.com/blog/bangalore-pg-rent-guide"
   status = 301
   force = true
+
+# Nov 2026: Manyata and Ameerpet blogs repositioned as living guides; old URLs go to transactional pages.
+
+[[redirects]]
+  from = "/pg-near-manyata-tech-park-bangalore"
+  to = "https://instadwell.com/pg-near-manyata-tech-park"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pg-near-manyata-tech-park-bangalore/"
+  to = "https://instadwell.com/pg-near-manyata-tech-park"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-near-manyata-tech-park-bangalore"
+  to = "https://instadwell.com/pg-near-manyata-tech-park"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/pg-near-manyata-tech-park-bangalore/"
+  to = "https://instadwell.com/pg-near-manyata-tech-park"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-4-co-living-spaces-in-ameerpet-and-pg-vs-flat-reality-check-2026"
+  to = "https://instadwell.com/pg-in-ameerpet"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-4-co-living-spaces-in-ameerpet-and-pg-vs-flat-reality-check-2026/"
+  to = "https://instadwell.com/pg-in-ameerpet"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-4-co-living-spaces-in-ameerpet-and-pg-vs-flat-reality-check-2026"
+  to = "https://instadwell.com/pg-in-ameerpet"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/top-4-co-living-spaces-in-ameerpet-and-pg-vs-flat-reality-check-2026/"
+  to = "https://instadwell.com/pg-in-ameerpet"
+  status = 301
+  force = true
