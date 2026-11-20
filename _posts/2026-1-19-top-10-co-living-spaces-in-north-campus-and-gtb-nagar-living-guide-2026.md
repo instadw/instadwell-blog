@@ -384,7 +384,7 @@ This is the most common question we get from parents, especially for female stud
 - The broker trap: local brokers in Vijay Nagar are notorious for the 15 day brokerage fee, charging half a month's rent just to show you a room.
 - The fix: [InstaDwell](https://instadwell.com/) is 100 percent brokerage free. You connect directly with managed properties.
 
-For a more central and safer South Delhi alternative with good Yellow Line Metro access, see our [Satya Niketan Living Guide](/blog/top-10-pgs-in-satya-niketan-and-ultimate-living-guide-2026), which is popular with female South Campus students.
+For a more central and safer South Delhi alternative with good Yellow Line Metro access, see our [Satya Niketan Living Guide](/blog/pg-in-satya-niketan-delhi), which is popular with female South Campus students.
 
 ----------
 
