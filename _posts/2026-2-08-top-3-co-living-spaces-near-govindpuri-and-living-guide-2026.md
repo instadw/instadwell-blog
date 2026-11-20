@@ -174,7 +174,7 @@ We list managed properties from top operators right here in Govindpuri and the s
 
 -   **Why:** They are strategically positioned for professionals working in the Okhla Industrial Estate who want a "No-Hassle" commute.
 
-If your budget allows for the premium South Delhi belt, see our [Saket & Malviya Nagar guide](/blog/top-6-co-living-spaces-in-saket-and-malviya-nagar-posh-living-vs-budget-reality) for the posh vs. budget reality comparison in that area.
+If your budget allows for the premium South Delhi belt, see our [Saket & Malviya Nagar guide](/blog/pg-in-saket-and-malviya-nagar-delhi) for the posh vs. budget reality comparison in that area.
     
 ## FAQs
 
