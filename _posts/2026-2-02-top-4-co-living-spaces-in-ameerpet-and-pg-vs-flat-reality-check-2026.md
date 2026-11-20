@@ -46,7 +46,7 @@ Ameerpet is the Coaching Capital of Hyderabad. Whether you are here for Java, Py
 - Average Rent: Rs. 8,000 to Rs. 15,000
 - Best Feature: Unbeatable metro connectivity and Rs. 50 meals.
 
-New to Hyderabad? First read our [Hyderabad Ultimate PG Guide](/blog/hyderabad-pg-co-living-and-student-accommodation-the-ultimate-guide) for a full zone overview before choosing Ameerpet.
+New to Hyderabad? First read our [Hyderabad PG rent guide](/blog/hyderabad-pg-co-living-and-student-accommodation-the-ultimate-guide) for a full zone overview before choosing Ameerpet.
 
 ---
 
@@ -261,7 +261,7 @@ If you live in nearby areas like [SR Nagar](https://instadwell.com/search?lat=17
 
 ### The Big Advantage: Metro Connectivity
 
-Ameerpet is one of the most important metro junctions in [Hyderabad](https://instadwell.com/blog/how-to-find-safe-pgs-spaces-in-hyderabad), connecting two metro lines.
+Ameerpet is one of the most important metro junctions in [Hyderabad](https://instadwell.com/pg-in-hyderabad), connecting two metro lines.
 
 This allows many people to:
 
