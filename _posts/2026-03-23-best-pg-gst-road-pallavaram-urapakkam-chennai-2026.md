@@ -41,9 +41,9 @@ For those seeking a **mens PG near GST Road** or a **ladies PG in Pallavaram**, 
 
 > **Note:** While GST Road is the gateway to industrial hubs like Oragadam, there is currently no inventory directly in Oragadam. The nearest high-quality managed options are located in Urapakkam.
 
-New to Chennai? [Read our city guide here](https://instadwell.com/blog/pg-vs-flat-in-chennai-rent-and-best-areas-guide-2025)
+New to Chennai? [Read our city guide here](https://instadwell.com/blog/pg-in-chennai-rent-and-best-areas-guide)
 
-Working on OMR instead? See our [OMR Chennai PG guide](/blog/best-pg-omr-chennai-sholinganallur-karapakkam-siruseri-guide-2026) for Sholinganallur, Karapakkam, and Siruseri options. Not sure whether a PG or a flat makes more financial sense on GST Road? Our [PG vs Flat Chennai guide](/blog/pg-vs-flat-in-chennai-rent-and-best-areas-guide-2025) covers the full cost breakdown.
+Working on OMR instead? See our [OMR Chennai PG guide](/blog/pg-in-omr-chennai) for Sholinganallur, Karapakkam, and Siruseri options. Not sure whether a PG or a flat makes more financial sense on GST Road? Our [PG vs Flat Chennai guide](/blog/pg-in-chennai-rent-and-best-areas-guide) covers the full cost breakdown.
 
 ---
 
@@ -170,7 +170,7 @@ If you are deciding between Pallavaram and the OMR corridor, here is what actual
 * Higher restaurant and social infrastructure density
 * Better suited for professionals whose office is south of Perungudi
 
-If your office is on OMR, see our [OMR Chennai PG guide](/blog/best-pg-omr-chennai-sholinganallur-karapakkam-siruseri-guide-2026) for Sholinganallur, Karapakkam, and Siruseri options. Not sure whether a PG or a flat makes more financial sense on GST Road? Our [PG vs Flat Chennai guide](/blog/pg-vs-flat-in-chennai-rent-and-best-areas-guide-2025) covers the full cost breakdown.
+If your office is on OMR, see our [OMR Chennai PG guide](/blog/pg-in-omr-chennai) for Sholinganallur, Karapakkam, and Siruseri options. Not sure whether a PG or a flat makes more financial sense on GST Road? Our [PG vs Flat Chennai guide](/blog/pg-in-chennai-rent-and-best-areas-guide) covers the full cost breakdown.
 
 ----------
 
