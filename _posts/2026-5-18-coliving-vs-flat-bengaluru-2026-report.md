@@ -156,15 +156,17 @@ The one exception: premium co-living at the HelloWorld Cornerhouse tier (Rs 35,0
 
 | Area | Flat avg 1 BHK | Co-living range | Cheapest co-living | vs flat |
 |---|---|---|---|---|
-| Koramangala | Rs 24,074 | Rs 11,000 to Rs 30,000 | Rs 11,000 (HelloWorld forum) | -54% |
-| HSR Layout | Rs 24,268 | Rs 10,000 to Rs 35,000 | Rs 10,000 (HelloWorld tranquil) | -59% |
-| Indiranagar | Rs 24,971 | Rs 11,379 to Rs 15,451 | Rs 11,379 (Zolo Aikin) | -54% |
-| Whitefield | Rs 26,976 | Rs 9,299 to Rs 13,799 | Rs 9,299 (Stanza Sao Paulo) | -66% |
-| Electronic City | Rs 23,667 | Rs 3,358 to Rs 16,299 | Rs 3,358 (Zolo Euphoria) | -86% |
-| Manyata / Thanisandra | ~Rs 22,000 | Rs 4,968 to Rs 10,599 | Rs 4,968 (Zolo Marydale) | -77% |
-| Bellandur | ~Rs 22,000 | Rs 9,594 to Rs 19,899 | Rs 9,594 (Zolo Zeppelin) | -56% |
+| [Koramangala](https://instadwell.com/pg-in-koramangala) | Rs 24,074 | Rs 11,000 to Rs 30,000 | Rs 11,000 (HelloWorld forum) | -54% |
+| [HSR Layout](https://instadwell.com/pg-in-hsr-layout) | Rs 24,268 | Rs 10,000 to Rs 35,000 | Rs 10,000 (HelloWorld tranquil) | -59% |
+| [Indiranagar](https://instadwell.com/pg-in-indiranagar) | Rs 24,971 | Rs 11,379 to Rs 15,451 | Rs 11,379 (Zolo Aikin) | -54% |
+| [Whitefield](https://instadwell.com/pg-in-whitefield) | Rs 26,976 | Rs 9,299 to Rs 13,799 | Rs 9,299 (Stanza Sao Paulo) | -66% |
+| [Electronic City](https://instadwell.com/pg-in-electronic-city) | Rs 23,667 | Rs 3,358 to Rs 16,299 | Rs 3,358 (Zolo Euphoria) | -86% |
+| [Manyata / Thanisandra](https://instadwell.com/pg-near-manyata-tech-park) | ~Rs 22,000 | Rs 4,968 to Rs 10,599 | Rs 4,968 (Zolo Marydale) | -77% |
+| [Bellandur](https://instadwell.com/pg-in-bellandur) | ~Rs 22,000 | Rs 9,594 to Rs 19,899 | Rs 9,594 (Zolo Zeppelin) | -56% |
 
 *Co-living prices are per bed. Flat prices are per unit. Solo occupancy assumed.*
+
+See live per-bed prices for every area on our [PG in Bangalore](https://instadwell.com/pg-in-bangalore) page.
 
 ---
 
