@@ -2,6 +2,8 @@
 title: "PG Hostels in Hitech City"
 description: "PG hostels in Hitech City start from Rs. 6520 at Zolo Quest, with managed options from Stanza Living and HelloWorld across Gachibowli, Madhapur and Serilingampally."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-near-hitec-city-hyderabad
+sitemap: false
 category: "Hyderabad"
 order: 2
 author: Sanchit
