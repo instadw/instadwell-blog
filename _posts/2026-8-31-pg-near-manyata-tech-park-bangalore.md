@@ -36,6 +36,7 @@ A few things to know before you scan the table:
 - All prices below are starting rates for the base sharing type. Rooms with more space or fewer roommates cost more.
 - All 22 properties currently list a single occupancy room type, though the exact price isn't published yet, so ask InstaDwell or the property directly for a quote.
 - Drive time and walk time don't always move together here, so check both columns, not just distance.
+- For live prices and direct booking, see the full list of [PG near Manyata Tech Park](https://instadwell.com/pg-near-manyata-tech-park) on InstaDwell.
 
 | Property | Type | Starting Price | Drive Time | Walk Time |
 |---|---|---|---|---|
@@ -223,4 +224,4 @@ It's a weaker fit if:
 
 Related reading: [Living in Koramangala](https://instadwell.com/blog/living-in-koramangala-guide), [Living in Whitefield](https://instadwell.com/blog/living-in-whitefield-guide), [Living in Electronic City](https://instadwell.com/blog/living-in-electronic-city-guide)
 
-Browse verified [PG in Bangalore](https://instadwell.com/pg-in-bangalore) across every area, with zero brokerage.
+Browse every verified [PG near Manyata Tech Park](https://instadwell.com/pg-near-manyata-tech-park) with live prices, or explore [PG in Bangalore](https://instadwell.com/pg-in-bangalore) across every area, with zero brokerage.
