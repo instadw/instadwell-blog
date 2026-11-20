@@ -52,7 +52,7 @@ This guide focuses on the prestige heart of Chennai. Unlike the IT corridors of 
 
 At **InstaDwell**, we have indexed the top managed stays to help you skip the broker and find a home that fits your 2026 lifestyle.
 
-For the full Chennai picture, also see our spoke guides covering the [OMR IT corridor](/blog/best-pg-omr-chennai-sholinganallur-karapakkam-siruseri-guide-2026), the [GST Road and Pallavaram belt](/blog/best-pg-gst-road-pallavaram-urapakkam-chennai-2026), and [Porur and Guindy](/blog/best-pgs-in-porur-guindy-2026-the-dlf-gst-road-survival-guide).
+For the full Chennai picture, also see our spoke guides covering the [OMR IT corridor](/blog/pg-in-omr-chennai), the [GST Road and Pallavaram belt](/blog/best-pg-gst-road-pallavaram-urapakkam-chennai-2026), and [Porur and Guindy](/blog/best-pgs-in-porur-guindy-2026-the-dlf-gst-road-survival-guide).
 
 ## The "Snap Shot": Central Chennai in 10 Seconds
 
