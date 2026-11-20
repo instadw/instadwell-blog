@@ -347,7 +347,7 @@ Living guides (what each area is like, commute, costs):
 - [Living in Bellandur and Marathahalli](https://instadwell.com/blog/living-in-bellandur-marathahalli-guide)
 - [Living in Whitefield](https://instadwell.com/blog/living-in-whitefield-guide)
 - [Living in Electronic City](https://instadwell.com/blog/living-in-electronic-city-guide)
-- [PG near Manyata Tech Park](https://instadwell.com/blog/pg-near-manyata-tech-park-bangalore)
+- [PG near Manyata Tech Park](https://instadwell.com/pg-near-manyata-tech-park)
 - [PG near Christ, PES and Jain University](https://instadwell.com/blog/pg-near-christ-university-pes-university-jain-university-bangalore)
 
 Verified listings by area: [PG in Bangalore](https://instadwell.com/pg-in-bangalore), [PG in Koramangala](https://instadwell.com/pg-in-koramangala), [PG in HSR Layout](https://instadwell.com/pg-in-hsr-layout), [PG in Indiranagar](https://instadwell.com/pg-in-indiranagar), [PG in Bellandur](https://instadwell.com/pg-in-bellandur), [PG in Marathahalli](https://instadwell.com/pg-in-marathahalli), [PG in Whitefield](https://instadwell.com/pg-in-whitefield), [PG near ITPL](https://instadwell.com/pg-near-itpl-bangalore), [PG in Electronic City](https://instadwell.com/pg-in-electronic-city), [PG near Christ University](https://instadwell.com/pg-near-christ-university)
