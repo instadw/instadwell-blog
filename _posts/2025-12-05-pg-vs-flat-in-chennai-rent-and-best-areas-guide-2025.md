@@ -126,7 +126,7 @@ The primary IT corridor for TCS, Wipro, Cognizant, Infosys, and a cluster of mid
 
 One practical warning most listings won't mention: water supply is a persistent problem along OMR. Most buildings rely on tanker water, not metro water. This applies to PGs and flats equally. Ask specifically whether the property has metro water connection or runs on tankers before committing.
 
-For a full list of verified PGs in this corridor, see our [OMR and Sholinganallur PG guide](https://instadwell.com/blog/best-pg-omr-chennai-sholinganallur-karapakkam-siruseri-guide-2026).
+For a full list of verified PGs in this corridor, see our [OMR and Sholinganallur PG guide](https://instadwell.com/blog/pg-in-omr-chennai).
 
 ### Velachery
 
@@ -134,7 +134,7 @@ PG for ladies in Velachery Chennai is in high demand because the locality offers
 
 The area draws IT professionals working in Perungudi and Taramani, students at nearby colleges, and working women specifically because of MRTS connectivity combined with walkable shopping centres, hospitals, and restaurants. Ladies PGs in Velachery are consistently in demand for exactly this reason: good transport plus commercial infrastructure in one locality.
 
-Those working further south toward Siruseri can also compare options in the [OMR and Sholinganallur PG guide](https://instadwell.com/blog/best-pg-omr-chennai-sholinganallur-karapakkam-siruseri-guide-2026).
+Those working further south toward Siruseri can also compare options in the [OMR and Sholinganallur PG guide](https://instadwell.com/blog/pg-in-omr-chennai).
 
 ### Taramani
 
@@ -411,6 +411,6 @@ No brokers. No advance booking fees. Verified operators across OMR, Velachery, A
 ## More Chennai PG Guides on InstaDwell
 
 - [Best PGs for Women in Chennai 2026](https://instadwell.com/blog/best-pgs-for-women-in-chennai-2026-ultimate-safety-comfort-guide)
-- [Best PGs on OMR, Sholinganallur, Karapakkam and Siruseri](https://instadwell.com/blog/best-pg-omr-chennai-sholinganallur-karapakkam-siruseri-guide-2026)
+- [Best PGs on OMR, Sholinganallur, Karapakkam and Siruseri](https://instadwell.com/blog/pg-in-omr-chennai)
 - [Best PGs on GST Road, Pallavaram and Urapakkam](https://instadwell.com/blog/best-pg-gst-road-pallavaram-urapakkam-chennai-2026)
 
