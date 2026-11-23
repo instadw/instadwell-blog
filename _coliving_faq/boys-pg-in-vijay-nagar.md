@@ -2,6 +2,8 @@
 title: "Boys PG in Vijay Nagar"
 description: "Boys PG in Vijay Nagar starts at Rs. 5000 at HelloWorld Fairy and HelloWorld Finch, with Easton House at Rs. 13299 offering the most complete amenity set for those wanting more than a basic room."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-in-vijay-nagar-indore
+sitemap: false
 category: "Indore"
 order: 15
 author: Sanchit
