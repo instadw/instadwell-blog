@@ -863,3 +863,173 @@
   to = "https://instadwell.com/pg-near-hitec-city-hyderabad"
   status = 301
   force = true
+
+# Nov 2026: Vijay Nagar Indore blog repositioned as a living guide (/living-in-vijay-nagar-indore-guide); old blog URL and Vijay Nagar FAQ pages go to the transactional page.
+
+[[redirects]]
+  from = "/best-pg-in-vijay-nagar-indore"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/best-pg-in-vijay-nagar-indore/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-pg-in-vijay-nagar-indore"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/best-pg-in-vijay-nagar-indore/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/best-pg-in-indore-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/best-pg-in-indore-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/best-pg-in-indore-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/best-pg-in-indore-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/indore-pg-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/indore-pg-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/indore-pg-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/indore-pg-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-and-hostel-in-vijay-nagar-indore"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-and-hostel-in-vijay-nagar-indore/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-and-hostel-in-vijay-nagar-indore"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-and-hostel-in-vijay-nagar-indore/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-in-indore-near-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/pg-in-indore-near-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-in-indore-near-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/pg-in-indore-near-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/boys-pg-in-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/boys-pg-in-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/boys-pg-in-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/boys-pg-in-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/girls-pg-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/coliving-faq/girls-pg-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/girls-pg-vijay-nagar"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/coliving-faq/girls-pg-vijay-nagar/"
+  to = "https://instadwell.com/pg-in-vijay-nagar-indore"
+  status = 301
+  force = true
