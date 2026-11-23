@@ -2,6 +2,8 @@
 title: "PG and Hostel in Vijay Nagar Indore"
 description: "PG and hostel in Vijay Nagar Indore starts at Rs. 5000 at HelloWorld Fairy and HelloWorld Finch, with hostel style shared rooms and managed PG formats both available in the same cluster."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-in-vijay-nagar-indore
+sitemap: false
 category: "Indore"
 order: 11
 author: Sanchit
