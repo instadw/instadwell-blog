@@ -2,6 +2,8 @@
 title: "Best PG in Indore Vijay Nagar"
 description: "Best PG in Indore Vijay Nagar for privacy is HelloWorld NubraValley at Rs. 18000, for budget it is HelloWorld Fairy at Rs. 5000. Compare verified single and shared options."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-in-vijay-nagar-indore
+sitemap: false
 category: "Indore"
 order: 3
 author: Sanchit
