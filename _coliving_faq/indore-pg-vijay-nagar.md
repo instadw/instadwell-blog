@@ -2,6 +2,8 @@
 title: "Indore PG Vijay Nagar"
 description: "Indore PG Vijay Nagar and Vijay Nagar Indore PG both refer to the same verified inventory, starting at Rs. 5000 at HelloWorld Fairy and going up to Rs. 18000 at HelloWorld Macao."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-in-vijay-nagar-indore
+sitemap: false
 category: "Indore"
 order: 12
 author: Sanchit
