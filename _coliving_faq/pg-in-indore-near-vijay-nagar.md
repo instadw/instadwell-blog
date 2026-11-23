@@ -2,6 +2,8 @@
 title: "PG in Indore near Vijay Nagar"
 description: "PG in Indore near Vijay Nagar includes options just outside the core sector, HelloWorld Victor in Mahalaxmi Nagar at Rs. 13000 and HelloWorld Macao in Vasant Vihar at Rs. 18000."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-in-vijay-nagar-indore
+sitemap: false
 category: "Indore"
 order: 13
 author: Sanchit
