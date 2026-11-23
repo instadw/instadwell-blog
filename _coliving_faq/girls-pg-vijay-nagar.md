@@ -2,6 +2,8 @@
 title: "Girls PG Vijay Nagar"
 description: "Girls PG Vijay Nagar options start at Rs. 5000 at HelloWorld Fairy, with HelloWorld Macao offering biometric entry and CCTV at Rs. 18000 for those prioritising security over budget."
 layout: coliving-faq-post
+redirect_to: https://instadwell.com/pg-in-vijay-nagar-indore
+sitemap: false
 category: "Indore"
 order: 14
 author: Sanchit
